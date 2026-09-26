@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "generated_at": "2026-09-26T05:38:03.883Z",
+  "etfs": [
+    {
+      "id": 1,
+      "ticker": "VCN",
+      "name": "Vanguard FTSE Canada All Cap Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/9561/vanguard-ftse-canada-all-cap-index-etf",
+          "created_at": "2026-09-26T05:34:03.099Z",
+          "partial": false,
+          "content_hash": "9aa56fc553dc4b2081ed7b2f1494bcb6078a53ff693c472763e5bc6c8837cb54",
+          "holdings_count": 213,
+          "file": "etfs/VCN/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "ticker": "XEQT",
+      "name": "iShares XEQT",
+      "issuer": "iShares",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-24",
+          "source": "url",
+          "source_url": "https://www.blackrock.com/ca/investors/en/products/309480/fund/1464253357814.ajax?fileType=csv&fileName=XEQT_holdings&dataType=fund",
+          "created_at": "2026-09-26T05:34:03.099Z",
+          "partial": true,
+          "content_hash": "aa3d0a3d31dfa77d46de44795c3702345005bf1f0545cb8ca505819fe0917ccc",
+          "holdings_count": 1835,
+          "file": "etfs/XEQT/2026-09-24.json"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "ticker": "ZCN",
+      "name": "BMO ZCN",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-24",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCN_20260924.xlsx",
+          "created_at": "2026-09-26T05:34:03.099Z",
+          "partial": false,
+          "content_hash": "cd58c034ad261e10099f9640651dc93b2f4fd2880066e5e47fcb8422cda8c75e",
+          "holdings_count": 216,
+          "file": "etfs/ZCN/2026-09-24.json"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "vanguard-vcn",
+      "label": "Vanguard Canada — VCN",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9561/vanguard-ftse-canada-all-cap-index-etf",
+      "last_checked_at": "2026-09-26T05:38:03.883Z",
+      "last_success_at": "2026-09-26T05:38:03.883Z",
+      "imported": 0,
+      "unchanged": 1,
+      "errors": []
+    },
+    {
+      "id": "bmo-zcn",
+      "label": "BMO — ZCN",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCN_20260924.xlsx",
+      "last_checked_at": "2026-09-26T05:38:03.883Z",
+      "last_success_at": "2026-09-26T05:38:03.883Z",
+      "imported": 0,
+      "unchanged": 1,
+      "errors": []
+    },
+    {
+      "id": "ishares-xeqt",
+      "label": "iShares — XEQT",
+      "url": "https://www.blackrock.com/ca/investors/en/products/309480/fund/1464253357814.ajax?fileType=csv&fileName=XEQT_holdings&dataType=fund",
+      "last_checked_at": "2026-09-26T05:38:03.883Z",
+      "last_success_at": "2026-09-26T05:38:03.883Z",
+      "imported": 0,
+      "unchanged": 1,
+      "errors": []
+    }
+  ]
+}

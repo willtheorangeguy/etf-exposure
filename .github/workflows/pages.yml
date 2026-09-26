@@ -1,0 +1,71 @@
+name: Refresh holdings and deploy Pages
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: '17 4 1 * *'
+  workflow_dispatch:
+
+concurrency:
+  group: pages-${{ github.event_name == 'pull_request' && github.ref || 'production' }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: read
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: Refresh issuer holdings
+        if: github.event_name != 'pull_request'
+        run: npm run refresh
+      - run: npm run lint
+      - run: npm run typecheck
+      - run: npm test
+      - name: Configure Pages
+        id: pages
+        if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
+      - run: npm run build
+        env:
+          NEXT_PUBLIC_BASE_PATH: ${{ github.event_name == 'pull_request' && '/etf-exposure' || steps.pages.outputs.base_path }}
+      - run: npm run e2e
+        env:
+          NEXT_PUBLIC_BASE_PATH: ${{ github.event_name == 'pull_request' && '/etf-exposure' || steps.pages.outputs.base_path }}
+      - name: Save validated holdings history
+        if: github.event_name != 'pull_request'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data
+          if ! git diff --cached --quiet; then
+            git commit -m "data: refresh issuer holdings"
+            git push
+          fi
+      - uses: actions/upload-pages-artifact@v4
+        if: github.event_name != 'pull_request'
+        with:
+          path: out
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

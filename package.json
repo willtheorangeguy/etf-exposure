@@ -4,22 +4,21 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && node scripts/build-worker.mjs",
-    "worker": "tsx scripts/source-worker.ts",
-    "start": "next start",
+    "build": "next build",
+    "refresh": "tsx scripts/refresh-catalog.ts",
+    "start": "node scripts/serve-static.mjs",
     "lint": "eslint",
     "test": "vitest run",
-    "migrate": "node scripts/migrate.mjs",
-    "e2e": "node scripts/e2e.mjs"
+    "typecheck": "tsc --noEmit",
+    "e2e": "tsx scripts/verify-static.mts"
   },
   "dependencies": {
     "cheerio": "^1.2.0",
     "next": "16.3.5",
     "papaparse": "^5.7.0",
-    "postgres": "^3.4.9",
     "react": "19.2.8",
     "react-dom": "19.2.8",
-    "xlsx": "^0.18.5",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz",
     "zod": "^4.6.5"
   },
   "devDependencies": {
@@ -28,7 +27,6 @@
     "@types/papaparse": "^5.5.2",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "esbuild": "^0.28.2",
     "eslint": "^9",
     "eslint-config-next": "16.3.5",
     "tailwindcss": "^4",

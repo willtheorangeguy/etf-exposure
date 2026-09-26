@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "ETF Exposure Tracker",
   description:
-    "Crowd-sourced ETF holdings converted into per-stock dollar exposure for your portfolio.",
+    "Issuer ETF holdings converted into per-stock dollar exposure for your portfolio. Personal amounts stay in your browser.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

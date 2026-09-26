@@ -35,7 +35,7 @@ export default function CalculatorPage() {
       for (const r of rows) {
         const amount = Number(r.amount);
         if (!Number.isFinite(amount) || amount <= 0) throw new Error(`Enter a positive amount for ${r.etf.ticker}.`);
-        if (!r.etf.latest_as_of) throw new Error(`${r.etf.ticker} has no snapshots yet — import one first`);
+        if (!r.etf.latest_as_of) throw new Error(`${r.etf.ticker} has no holdings snapshots yet`);
         const full = await apiGet<SnapFull>(`/api/etfs/${r.etf.id}/snapshots?latest=1`);
         holdings[r.etf.id] = full.holdings;
         positions.push({
@@ -185,7 +185,7 @@ function EtfAdder({ onPick }: { onPick: (etf: EtfLite, amount: string) => void }
         <input
           value={q}
           aria-label="Search ETFs"
-          placeholder="Search ETFs in the shared DB… (visit /import to add new ones)"
+          placeholder="Search the ETF catalog…"
           onChange={(e) => {
             setQ(e.target.value);
             if (e.target.value.trim()) doSearch(e.target.value);
@@ -205,7 +205,7 @@ function EtfAdder({ onPick }: { onPick: (etf: EtfLite, amount: string) => void }
             ))}
           </ul>
         )}
-        {open && q.trim() && !searching && results.length === 0 && !err && <p className="mt-2 text-sm">No ETFs found. <Link href="/import" className="underline">Upload holdings to add one.</Link></p>}
+        {open && q.trim() && !searching && results.length === 0 && !err && <p className="mt-2 text-sm">No ETFs found. <Link href="/sources" className="underline">View configured issuer sources.</Link></p>}
       </div>
       <input
         type="number"

@@ -40,7 +40,7 @@ export function computeExposure(
     if (!Array.isArray(holdings)) {
       throw new Error(
         `Snapshot for ETF #${etfId} is stored in an invalid format (expected a holdings array). ` +
-        `Re-import/refresh that ETF's holdings on the import page, then try again.`
+        `Refresh the holdings catalog in GitHub Actions, then try again.`
       );
     }
   }

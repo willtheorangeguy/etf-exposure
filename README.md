@@ -1,144 +1,63 @@
-# ETF Holding-Exposure Tracker
+# ETF Exposure
 
-Self-hosted, crowd-sourced database of ETF holdings. Convert "I put $X into these ETFs"
-into equivalent $ exposure in each underlying stock.
+Static ETF look-through calculator hosted on GitHub Pages. GitHub Actions downloads issuer holdings monthly; no PostgreSQL, application server, or paid worker is needed. Investment amounts remain in the browser and default to CAD. All amounts must use the same currency; no currency conversion is performed.
 
-- Any user can add/update an ETF by pasting the issuer's holding-sheet **URL** (server fetches + parses)
-  or **uploading** the sheet (CSV / XLSX).
-- Every import becomes a **dated snapshot**; history accumulates in the shared Postgres DB.
-- Calculator: `exposure(stock) = Σ over ETFs of (amount × weight%)` — $ and % per underlying stock.
-- Personal amounts never leave the browser. No auth in MVP.
+## Local development
 
-## Run (Docker)
+Use Node.js 22 or newer.
 
-```bash
-docker compose up -d --build
-# → migrate runs, web on http://localhost:3000
-```
-
-Stop + wipe data: `docker compose down -v`
-
-## Run (local dev)
-
-```bash
-npm install
-# postgres must be reachable; e.g. `docker compose up -d db`
-export DATABASE_URL=postgres://etf:etf@localhost:5432/etf   # see .env.example
-npm run migrate
+```sh
+npm ci
 npm run dev
 ```
 
-## Scripts
+Committed holdings allow development and builds without issuer network access. To update them, run `npm run refresh`.
 
-| Command | What |
-|---|---|
-| `npm run dev` | Next dev server |
-| `npm run build` | `next build` (standalone output) |
-| `npm run lint` | eslint |
-| `npx tsc --noEmit` | typecheck |
-| `npm test` | vitest unit tests |
-| `npm run migrate` | apply `db/migrations/*.sql` |
-| `npm run e2e` | end-to-end against a running web server (see below) |
+Production preview:
 
-### E2E
-
-```bash
-docker compose up -d --build     # terminal A: wait until http://localhost:3000 responds
-npm run e2e                      # terminal B
+```sh
+npm run lint
+npm run typecheck
+npm test
+npm run build
+npm run e2e
+npm start
 ```
 
-The e2e script serves `test/fixtures/vanguard-zag.top10.xlsx` on `:9000`, imports it via URL,
-saves a snapshot, verifies dedup (200 `{duplicate:true}` on re-POST), fetches full holdings,
-and checks the exposure math. Env overrides: `WEB`, `FIXTURE_URL`.
+The static preview listens at http://localhost:4173. For a project subdirectory, set `NEXT_PUBLIC_BASE_PATH=/etf-exposure` for both build, e2e, and preview. Next.js links and JSON fetches honor that prefix.
 
-### CI-equivalent local gate
+## Publishing and refresh
 
-```bash
-npm run lint && npx tsc --noEmit && npm test
+Enable GitHub Pages with **GitHub Actions** as the source. The workflow in `.github/workflows/pages.yml` runs on main pushes, manually from Actions, and monthly on the first day at 04:17 UTC (scheduled runs can be delayed). It refreshes issuer data, tests and exports the site, commits validated JSON history, and deploys the static artifact. Pull requests build and test without refreshing, committing, or deploying.
+
+The workflow requires repository contents write permission for its data commit, plus Pages write and ID-token write for deployment. If branch protection blocks bot pushes, permit these data commits or adapt the workflow to submit a pull request. GitHub Pages and Actions eligibility/allowances depend on your account and repository plan; a private repository does not automatically make the published site private.
+
+The current configured site is https://williamvdg.me/etf-exposure/. The workflow obtains its base path from Pages configuration.
+
+## Add issuer sources
+
+Edit `config/sources.json` and push or manually run the workflow:
+
+```json
+{
+  "id": "issuer-fund",
+  "label": "Issuer — ETF",
+  "issuer": "Issuer",
+  "ticker": "ETF",
+  "url": "https://issuer.example/holdings.csv"
+}
 ```
 
-## Backup
+Use a unique stable id. Ticker is optional when reliably identified from issuer metadata or the download URL. Supported sources include Vanguard Canada product pages, BMO dated holdings XLSX downloads, iShares holdings CSV downloads, and pages linking to CSV/XLSX files. Same-origin fund-page discovery is bounded to two levels; it is not a universal all-issuer crawler. Broader directories can discover new funds automatically, but the three initial sources seed only VCN, ZCN, and XEQT. Add more issuer/fund links to expand coverage.
 
-```bash
-docker compose exec db pg_dump -U etf etf > backup-$(date +%F).sql
-# restore:
-gunzip -c backup.sql | docker compose exec -T db psql -U etf etf
-```
+BMO's dated filename is resolved to the newest available file in a 14-day window. Vanguard uses its published holdings endpoint. iShares multi-table files use the underlying/look-through holdings table. No PDF parsing is provided; the supplied BMO URL is XLSX.
 
-## Adding a new issuer adapter
+## Data and failure handling
 
-1. Drop a sample sheet/URL in a note (don't commit real customer data).
-2. If it's a new content type or layout, add extraction under `src/lib/parse/` and register
-   it in `src/lib/parse/index.ts` (routing by URL pattern or MIME).
-3. Add a fixture in `test/fixtures/` and a case in `test/parse.test.ts`.
-4. Run the gate: lint + typecheck + test.
+`public/data/catalog.json` lists ETFs, snapshot summaries, and refresh status. Dated holdings live in `public/data/etfs/TICKER/YYYY-MM-DD.json`. Data is committed to the repository and included in the public site. No portfolio amounts are committed or uploaded.
 
-## Notes for self-hosters
+Downloads are bounded in size and time and reject private-network destinations. Imports require a real holdings date, positive validated weights, and a plausible total. Identical snapshots are deduplicated; same-date issuer corrections replace that date's file. Older dates remain selectable. ISINs unify matching stocks across issuers where possible.
 
-- No rate limiting in MVP. Put a reverse proxy (Caddy/Traefik/nginx) in front if exposed publicly,
-  and add throttling on `/api/etfs/import`.
-- `xlsx` (SheetJS) is pinned to the npm-published `0.18.5`; newer builds live on the CDN.
-  Upgrade deliberately and re-run tests.
-- Ticker uniqueness is assumed (true for listed ETFs).
-- `partial:true` snapshots (e.g. top-10 sheets) make totals not sum to 100% — UI warns.
+A failed issuer download retains its last good snapshots, appears on the Data updates page and Actions summary, and does not prevent publication of other good data. If there is no usable catalog at all, refresh fails and no empty site is deployed. Partial holdings are labeled and never scaled to 100%, so reported exposure may be less than the invested amount. Snapshot dates, not the workflow date, indicate holdings freshness.
 
-## Using the calculator
-
-The catalog can now be populated and maintained from issuer links at `/sources`.
-End users search those ETFs; they do not need to upload sheets or supply ticker metadata.
-
-## Automatic issuer sources
-
-Open `/sources`, enter an issuer listing/product page or direct CSV/XLSX URL,
-and choose a refresh interval (default: 30 days). The Docker `worker` service
-checks the database every minute and runs due imports, including after restarts.
-It discovers linked downloads and same-origin fund pages (up to two levels,
-100 pages and 1,000 URLs per run). Tickers come from issuer metadata or
-recognizable download filenames. For an ambiguous single-fund source, set its
-ticker once. Re-submit a URL to update its settings. Pause/resume and Refresh now
-are available; last attempt, next due date, and per-file failures are visible.
-
-Supported issuer adapters:
-
-- Vanguard Canada ETF product pages use the same public holdings API as their
-  workbook Download button, including pagination and stock ISINs.
-- BMO `Holdings_Extract_..._TICKER_YYYYMMDD.xlsx` links automatically try the
-  newest date over the preceding 14 days. Holdings retain ISINs when the sheet
-  lacks stock tickers; published ISIN/ticker aliases in the catalog fill these in.
-- iShares CSV URLs identify the ETF from `fileName`. When the CSV includes both
-  parent ETFs and a look-through table, only the last stock-level table is used.
-
-New snapshots retain their issuer dates. Undated or invalid files are rejected,
-unchanged files are deduplicated, and failed refreshes retain the last good data
-and retry after one day. Incomplete or rounded weight totals remain flagged.
-Sources are not an exhaustive worldwide ETF feed: add the issuer directories or
-fund links you want covered. JavaScript-only listing pages without a supported
-adapter need issuer-specific integration; refresh issues explain what failed.
-
-Run everything: `docker compose up -d --build`.
-Local development additionally needs `npm run worker` in a separate terminal
-with the same `DATABASE_URL`, after `npm run migrate`.
-Register the three supplied issuer examples: `node scripts/seed-sources.mjs`.
-Verify live issuer parsing: `npx tsx scripts/verify-issuers.ts`.
-Public URLs are required by default; `TRUSTED_SOURCE_HOSTS` is an optional,
-explicit comma-separated hostname allowlist for private mirrors/test fixtures.
-Source registration follows the MVP's existing no-auth shared database model.
-
-## Manual uploads
-
-1. Open `/import`, choose the issuer's CSV/XLSX file, and preview it.
-2. Enter the ETF's actual ticker, confirm its name and holdings date, then save.
-   The download date can differ from the holdings date. A file name alone does not establish its ticker.
-3. Open `/`, search for the saved ETF, select it, and enter your investment amount.
-4. Select CAD or USD, enter every position in that currency, and calculate.
-   Every underlying holding is displayed; filter by stock ticker or name to find one.
-   Overlapping stocks are summed across ETFs, with contributions shown in the results.
-
-Currency selection labels the entered amounts; it does not convert currencies or fetch exchange rates.
-Personal amounts are used only in the browser and are cleared when you reload.
-Partial sheets use their reported weights without scaling them up to 100%.
-
-To verify the supplied full-size Vanguard workbook against a running app:
-`npx tsx scripts/verify-upload.mjs`. Override `HOLDINGS_FILE`, `ETF_TICKER`, or `WEB`
-for a different file or server. This imports VCN into the local database.
-The URL E2E test uses ticker `E2E` so it cannot overwrite a real ETF's snapshot.
+The former shared upload/API/database architecture has been removed. Existing local database volumes are not deleted by this migration. Historical data not already present in the JSON catalog must be explicitly exported before retiring an old database.
