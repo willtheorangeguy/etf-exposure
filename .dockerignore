@@ -1,0 +1,17 @@
+node_modules
+.next
+.git
+.gitignore
+coverage
+*.tsbuildinfo
+.env
+.env.*
+PLAN.md
+README.md
+test
+docker-compose.yml
+Dockerfile
+AGENTS.md
+CLAUDE.md
+vitest.config.ts
+tslint*
