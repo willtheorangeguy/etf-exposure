@@ -1,0 +1,3472 @@
+{
+  "id": 1,
+  "as_of_date": "2026-08-31",
+  "source": "url",
+  "source_url": "https://www.vanguard.ca/en/product/etf/fixed-income/9565/vanguard-canadian-short-term-corporate-bond-index-etf",
+  "created_at": "2026-09-26T13:21:27.636Z",
+  "partial": false,
+  "content_hash": "9be822def105853c07f8846e702380906f50866a45543cb56866b09f392e0ae4",
+  "holdings": [
+    {
+      "t": "ACAFP",
+      "n": "Credit Agricole SA",
+      "weight": 0.29072,
+      "isin": "CA225313AV75",
+      "sector": "Financials",
+      "region": "FR"
+    },
+    {
+      "t": "ACAFP",
+      "n": "Credit Agricole SA",
+      "weight": 0.23455,
+      "isin": "CA225313AU92",
+      "sector": "Financials",
+      "region": "FR"
+    },
+    {
+      "t": "ACICN",
+      "n": "TriSummit Utilities Inc",
+      "weight": 0.07157,
+      "isin": "CA02091ZAA62",
+      "sector": "Utilities",
+      "region": "CA"
+    },
+    {
+      "t": "AIREIN",
+      "n": "AIMCo Realty Investors LP",
+      "weight": 0.15268,
+      "isin": "CA00889YAD37",
+      "region": "CA"
+    },
+    {
+      "t": "AIREIN",
+      "n": "AIMCo Realty Investors LP",
+      "weight": 0.13246,
+      "isin": "CA00889YAB70",
+      "region": "CA"
+    },
+    {
+      "t": "AIREIN",
+      "n": "AIMCo Realty Investors LP",
+      "weight": 0.11239,
+      "isin": "CA00889YAF84",
+      "region": "CA"
+    },
+    {
+      "t": "ALACN",
+      "n": "AltaGas Ltd",
+      "weight": 0.1684,
+      "isin": "CA02138ZAW38",
+      "sector": "Utilities",
+      "region": "CA"
+    },
+    {
+      "t": "ALACN",
+      "n": "AltaGas Ltd",
+      "weight": 0.13881,
+      "isin": "CA02138ZBH51",
+      "sector": "Utilities",
+      "region": "CA"
+    },
+    {
+      "t": "ALACN",
+      "n": "AltaGas Ltd",
+      "weight": 0.13847,
+      "isin": "CA02138ZBM47",
+      "sector": "Utilities",
+      "region": "CA"
+    },
+    {
+      "t": "ALCTRA",
+      "n": "Alectra Inc",
+      "weight": 0.06817,
+      "isin": "CA014443AL94",
+      "region": "CA"
+    },
+    {
+      "t": "AMZN",
+      "n": "Amazon.com Inc",
+      "weight": 0.75719,
+      "isin": "CA023135DV51",
+      "sector": "Consumer Discretionary",
+      "region": "US"
+    },
+    {
+      "t": "AMZN",
+      "n": "Amazon.com Inc",
+      "weight": 0.36253,
+      "isin": "CA023135DU78",
+      "sector": "Consumer Discretionary",
+      "region": "US"
+    },
+    {
+      "t": "APUCN",
+      "n": "Allied Properties Real Estate Investment Trust",
+      "weight": 0.16811,
+      "isin": "CA019456AF95",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "APUCN",
+      "n": "Allied Properties Real Estate Investment Trust",
+      "weight": 0.14913,
+      "isin": "CA019456AG78",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "APUCN",
+      "n": "Allied Properties Real Estate Investment Trust",
+      "weight": 0.13392,
+      "isin": "CA019456AL63",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "APUCN",
+      "n": "Allied Properties Real Estate Investment Trust",
+      "weight": 0.02802,
+      "isin": "CA019456AD48",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "ARXCN",
+      "n": "ARC Resources Ltd",
+      "weight": 0.24461,
+      "isin": "CA00208DAB79",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "ARXCN",
+      "n": "ARC Resources Ltd",
+      "weight": 0.16644,
+      "isin": "CA00208DAC52",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "ARXCN",
+      "n": "ARC Resources Ltd",
+      "weight": 0.11535,
+      "isin": "CA00208DAE19",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "ATDBCN",
+      "n": "Alimentation Couche-Tard Inc",
+      "weight": 0.26352,
+      "isin": "CA01626PAS52",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "ATDBCN",
+      "n": "Alimentation Couche-Tard Inc",
+      "weight": 0.14413,
+      "isin": "CA01626PAT36",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "ATH",
+      "n": "Athene Global Funding",
+      "weight": 0.34145,
+      "isin": "CA04686PAE75",
+      "region": "US"
+    },
+    {
+      "t": "ATH",
+      "n": "Athene Global Funding",
+      "weight": 0.18326,
+      "isin": "CAC04575AE32",
+      "region": "US"
+    },
+    {
+      "t": "ATH",
+      "n": "Athene Global Funding",
+      "weight": 0.15503,
+      "isin": "CA04686PAD92",
+      "region": "US"
+    },
+    {
+      "t": "ATRLCN",
+      "n": "AtkinsRealis Group Inc",
+      "weight": 0.1197,
+      "isin": "CA04764TAA21",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "AVELIV",
+      "n": "Avenue Living 2014 LP",
+      "weight": 0.11349,
+      "isin": "CA05358VAC24",
+      "region": "CA"
+    },
+    {
+      "t": "AVELIV",
+      "n": "Avenue Living 2014 LP",
+      "weight": 0.08171,
+      "isin": "CA05358VAB41",
+      "region": "CA"
+    },
+    {
+      "t": "AVLN",
+      "n": "Aviva PLC",
+      "weight": 0.0877,
+      "isin": "CAG06871AA82",
+      "sector": "Financials",
+      "region": "GB"
+    },
+    {
+      "t": "BAC",
+      "n": "Bank of America Corp",
+      "weight": 0.13484,
+      "isin": "CA060505FU39",
+      "sector": "Financials",
+      "region": "US"
+    },
+    {
+      "t": "BAMREP",
+      "n": "Brookfield Renewable Partners ULC",
+      "weight": 0.15764,
+      "isin": "CA11282ZAM01",
+      "region": "CA"
+    },
+    {
+      "t": "BAMREP",
+      "n": "Brookfield Renewable Partners ULC",
+      "weight": 0.14359,
+      "isin": "CA11282ZAN83",
+      "region": "CA"
+    },
+    {
+      "t": "BAMREP",
+      "n": "Brookfield Renewable Partners ULC",
+      "weight": 0.0747,
+      "isin": "CA11282ZAY49",
+      "region": "CA"
+    },
+    {
+      "t": "BCECN",
+      "n": "Bell Telephone Co of Canada or Bell Canada",
+      "weight": 0.36572,
+      "isin": "CA07813ZCG78",
+      "region": "CA"
+    },
+    {
+      "t": "BCECN",
+      "n": "Bell Telephone Co of Canada or Bell Canada",
+      "weight": 0.33444,
+      "isin": "CA07813ZCL63",
+      "region": "CA"
+    },
+    {
+      "t": "BCECN",
+      "n": "Bell Telephone Co of Canada or Bell Canada",
+      "weight": 0.30479,
+      "isin": "CA07813ZCE21",
+      "region": "CA"
+    },
+    {
+      "t": "BCECN",
+      "n": "Bell Telephone Co of Canada or Bell Canada",
+      "weight": 0.27582,
+      "isin": "CA07813ZCA09",
+      "region": "CA"
+    },
+    {
+      "t": "BCECN",
+      "n": "Bell Telephone Co of Canada or Bell Canada",
+      "weight": 0.20718,
+      "isin": "CA07813ZCQ50",
+      "region": "CA"
+    },
+    {
+      "t": "BCECN",
+      "n": "Bell Telephone Co of Canada or Bell Canada",
+      "weight": 0.18785,
+      "isin": "CA07813ZCJ18",
+      "region": "CA"
+    },
+    {
+      "t": "BCECN",
+      "n": "Bell Telephone Co of Canada or Bell Canada",
+      "weight": 0.16918,
+      "isin": "CA07813ZCC64",
+      "region": "CA"
+    },
+    {
+      "t": "BCECN",
+      "n": "Bell Telephone Co of Canada or Bell Canada",
+      "weight": 0.1584,
+      "isin": "CA07813ZCN20",
+      "region": "CA"
+    },
+    {
+      "t": "BCECN",
+      "n": "Bell Telephone Co of Canada or Bell Canada",
+      "weight": 0.14213,
+      "isin": "CA07813ZCS17",
+      "region": "CA"
+    },
+    {
+      "t": "BCIMCR 07337EAA6",
+      "n": "BCI QuadReal Realty / BCI Quadreal Realty Trust",
+      "weight": 0.0918,
+      "isin": "CA07337EAA60",
+      "region": "CA"
+    },
+    {
+      "t": "BCIMCR 07337EAD0",
+      "n": "BCI QuadReal Realty / BCI Quadreal Realty Trust",
+      "weight": 0.06206,
+      "isin": "CA07337EAD00",
+      "region": "CA"
+    },
+    {
+      "t": "BIP",
+      "n": "Brookfield Infrastructure Finance ULC",
+      "weight": 0.22974,
+      "isin": "CA11291ZAF41",
+      "region": "CA"
+    },
+    {
+      "t": "BIP",
+      "n": "Brookfield Infrastructure Finance ULC",
+      "weight": 0.20225,
+      "isin": "CA11291ZAE75",
+      "region": "CA"
+    },
+    {
+      "t": "BIP",
+      "n": "Brookfield Infrastructure Finance ULC",
+      "weight": 0.14581,
+      "isin": "CA11291ZAP23",
+      "region": "CA"
+    },
+    {
+      "t": "BIP",
+      "n": "Brookfield Infrastructure Finance ULC",
+      "weight": 0.14458,
+      "isin": "CA11291ZAM91",
+      "region": "CA"
+    },
+    {
+      "t": "BIP",
+      "n": "Brookfield Infrastructure Finance ULC",
+      "weight": 0.07349,
+      "isin": "CA11291ZAK36",
+      "region": "CA"
+    },
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 0.81866,
+      "isin": "CA06368LEY89",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 0.73609,
+      "isin": "CA06368MJ219",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 0.66185,
+      "isin": "CA06368BTX69",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 0.57537,
+      "isin": "CA06368MRF37",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 0.56968,
+      "isin": "CA06368L5G77",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 0.52175,
+      "isin": "CA06368LNK84",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 0.46383,
+      "isin": "CA06368LB887",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 0.37961,
+      "isin": "CA06369ZCL63",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 0.3305,
+      "isin": "CA06369ZCJ18",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 0.31901,
+      "isin": "CA06368MS392",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 0.28601,
+      "isin": "CA06369ZCH51",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 0.24011,
+      "isin": "CA06369ZCK80",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BMW",
+      "n": "BMW Canada Inc",
+      "weight": 0.10357,
+      "isin": "CA05590HBK29",
+      "region": "CA"
+    },
+    {
+      "t": "BMW",
+      "n": "BMW Canada Inc",
+      "weight": 0.09859,
+      "isin": "CA05590HBN67",
+      "region": "CA"
+    },
+    {
+      "t": "BNP",
+      "n": "BNP Paribas SA",
+      "weight": 0.20162,
+      "isin": "CA05573CAA77",
+      "sector": "Financials",
+      "region": "FR"
+    },
+    {
+      "t": "BNP",
+      "n": "BNP Paribas SA",
+      "weight": 0.17018,
+      "isin": "CAF1067PAA44",
+      "sector": "Financials",
+      "region": "FR"
+    },
+    {
+      "t": "BNS",
+      "n": "The Bank of Nova Scotia",
+      "weight": 0.88767,
+      "isin": "CA06418YXB96",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BNS",
+      "n": "The Bank of Nova Scotia",
+      "weight": 0.87677,
+      "isin": "CA06418Y4L93",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BNS",
+      "n": "The Bank of Nova Scotia",
+      "weight": 0.5918,
+      "isin": "CA06418MX742",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BNS",
+      "n": "The Bank of Nova Scotia",
+      "weight": 0.59,
+      "isin": "CA064164QM14",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BNS",
+      "n": "The Bank of Nova Scotia",
+      "weight": 0.48241,
+      "isin": "CA06419FSD10",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BNS",
+      "n": "The Bank of Nova Scotia",
+      "weight": 0.48116,
+      "isin": "CA06418MM430",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BNS",
+      "n": "The Bank of Nova Scotia",
+      "weight": 0.46962,
+      "isin": "CA064151S959",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BNS",
+      "n": "The Bank of Nova Scotia",
+      "weight": 0.37061,
+      "isin": "CA06415E4E25",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BNS",
+      "n": "The Bank of Nova Scotia",
+      "weight": 0.3586,
+      "isin": "CA06418MQT40",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BNS",
+      "n": "The Bank of Nova Scotia",
+      "weight": 0.27951,
+      "isin": "CA06415GM982",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BNS",
+      "n": "The Bank of Nova Scotia",
+      "weight": 0.24654,
+      "isin": "CA06419FXA16",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BPCEGP",
+      "n": "BPCE SA",
+      "weight": 0.18281,
+      "isin": "CA056121AC04",
+      "region": "FR"
+    },
+    {
+      "t": "BPCGEN",
+      "n": "BPC Generation Infrastructure Trust",
+      "weight": 0.17789,
+      "isin": "CA05617NAA15",
+      "region": "CA"
+    },
+    {
+      "t": "BRUPOW",
+      "n": "Bruce Power LP",
+      "weight": 0.18589,
+      "isin": "CA116705AN49",
+      "region": "CA"
+    },
+    {
+      "t": "BRUPOW",
+      "n": "Bruce Power LP",
+      "weight": 0.1858,
+      "isin": "CA116705AJ37",
+      "region": "CA"
+    },
+    {
+      "t": "BRUPOW",
+      "n": "Bruce Power LP",
+      "weight": 0.1728,
+      "isin": "CA116705AK00",
+      "region": "CA"
+    },
+    {
+      "t": "BRUPOW",
+      "n": "Bruce Power LP",
+      "weight": 0.11362,
+      "isin": "CA116705AL82",
+      "region": "CA"
+    },
+    {
+      "t": "BRUPOW",
+      "n": "Bruce Power LP",
+      "weight": 0.10129,
+      "isin": "CA116705AE40",
+      "region": "CA"
+    },
+    {
+      "t": "C",
+      "n": "Citigroup Inc",
+      "weight": 0.39843,
+      "isin": "CA172967QC81",
+      "sector": "Financials",
+      "region": "US"
+    },
+    {
+      "t": "CAD",
+      "n": "Canadian Dollar",
+      "weight": 0.06969,
+      "region": "CA"
+    },
+    {
+      "t": "CAECN",
+      "n": "CAE Inc",
+      "weight": 0.08349,
+      "isin": "CA124765AC27",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "CB",
+      "n": "Chubb INA Holdings LLC",
+      "weight": 0.11008,
+      "isin": "CA171239AP13",
+      "region": "US"
+    },
+    {
+      "t": "CCDJ",
+      "n": "Federation des Caisses Desjardins du Quebec",
+      "weight": 0.43097,
+      "isin": "CA31430XMW97",
+      "region": "CA"
+    },
+    {
+      "t": "CCDJ",
+      "n": "Federation des Caisses Desjardins du Quebec",
+      "weight": 0.41466,
+      "isin": "CA31430WF908",
+      "region": "CA"
+    },
+    {
+      "t": "CCDJ",
+      "n": "Federation des Caisses Desjardins du Quebec",
+      "weight": 0.35897,
+      "isin": "CA31430W7J76",
+      "region": "CA"
+    },
+    {
+      "t": "CCDJ",
+      "n": "Federation des Caisses Desjardins du Quebec",
+      "weight": 0.33196,
+      "isin": "CA31430WZM95",
+      "region": "CA"
+    },
+    {
+      "t": "CCDJ",
+      "n": "Federation des Caisses Desjardins du Quebec",
+      "weight": 0.30912,
+      "isin": "CA31430W3J13",
+      "region": "CA"
+    },
+    {
+      "t": "CCDJ",
+      "n": "Federation des Caisses Desjardins du Quebec",
+      "weight": 0.26438,
+      "isin": "CA31430WU444",
+      "region": "CA"
+    },
+    {
+      "t": "CCDJ",
+      "n": "Federation des Caisses Desjardins du Quebec",
+      "weight": 0.24649,
+      "isin": "CA31430XNZ10",
+      "region": "CA"
+    },
+    {
+      "t": "CCLBCN",
+      "n": "CCL Industries Inc",
+      "weight": 0.06393,
+      "isin": "CA124900AC56",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "CCOCN",
+      "n": "Cameco Corp",
+      "weight": 0.14676,
+      "isin": "CA13321LAM06",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "CCOCN",
+      "n": "Cameco Corp",
+      "weight": 0.11743,
+      "isin": "CA13321LAL23",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "CHPUCN",
+      "n": "Choice Properties Real Estate Investment Trust",
+      "weight": 0.26225,
+      "isin": "CA17039AAP18",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "CHPUCN",
+      "n": "Choice Properties Real Estate Investment Trust",
+      "weight": 0.25502,
+      "isin": "CA17039AAN69",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "CHPUCN",
+      "n": "Choice Properties Real Estate Investment Trust",
+      "weight": 0.14587,
+      "isin": "CA17039AAZ99",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "CHPUCN",
+      "n": "Choice Properties Real Estate Investment Trust",
+      "weight": 0.12212,
+      "isin": "CA17039ABA30",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "CHPUCN",
+      "n": "Choice Properties Real Estate Investment Trust",
+      "weight": 0.10433,
+      "isin": "CA17039AAS56",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank of Commerce",
+      "weight": 0.86611,
+      "isin": "CA13607QQT27",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank of Commerce",
+      "weight": 0.5482,
+      "isin": "CA13607H5C22",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank of Commerce",
+      "weight": 0.51473,
+      "isin": "CA13607Q4G46",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank of Commerce",
+      "weight": 0.50357,
+      "isin": "CA13607P5X87",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank of Commerce",
+      "weight": 0.49953,
+      "isin": "CA13607LF997",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank of Commerce",
+      "weight": 0.45535,
+      "isin": "CA13607QH885",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank of Commerce",
+      "weight": 0.38573,
+      "isin": "CA13607LKJ12",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank of Commerce",
+      "weight": 0.38539,
+      "isin": "CA13607L4C41",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank of Commerce",
+      "weight": 0.37253,
+      "isin": "CA13607LGL14",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank of Commerce",
+      "weight": 0.32836,
+      "isin": "CA13607PBA18",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank of Commerce",
+      "weight": 0.31866,
+      "isin": "CA13607PG574",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank of Commerce",
+      "weight": 0.31288,
+      "isin": "CA13607LPY34",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank of Commerce",
+      "weight": 0.28046,
+      "isin": "CA13607LYA56",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "CNHI",
+      "n": "CNH Industrial Capital Canada Ltd",
+      "weight": 0.1246,
+      "isin": "CA12658MAE18",
+      "region": "CA"
+    },
+    {
+      "t": "CNHI",
+      "n": "CNH Industrial Capital Canada Ltd",
+      "weight": 0.11957,
+      "isin": "CA12658MAD35",
+      "region": "CA"
+    },
+    {
+      "t": "CNHI",
+      "n": "CNH Industrial Capital Canada Ltd",
+      "weight": 0.11463,
+      "isin": "CA12658MAF82",
+      "region": "CA"
+    },
+    {
+      "t": "CNQCN",
+      "n": "Canadian Natural Resources Ltd",
+      "weight": 0.15643,
+      "isin": "CA13638ZET80",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "CNQCN",
+      "n": "Canadian Natural Resources Ltd",
+      "weight": 0.14544,
+      "isin": "CA13638ZES08",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "CNQCN",
+      "n": "Canadian Natural Resources Ltd",
+      "weight": 0.10618,
+      "isin": "CA13638ZDX02",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "CNRCN",
+      "n": "Canadian National Railway Co",
+      "weight": 0.25971,
+      "isin": "CA136375CR16",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "CNRCN",
+      "n": "Canadian National Railway Co",
+      "weight": 0.2199,
+      "isin": "CA136375DF68",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "CNRCN",
+      "n": "Canadian National Railway Co",
+      "weight": 0.18725,
+      "isin": "CA136375DL37",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "CNRCN",
+      "n": "Canadian National Railway Co",
+      "weight": 0.14695,
+      "isin": "CA136375DS89",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "COAGAS",
+      "n": "Coastal Gaslink Pipeline LP",
+      "weight": 0.1756,
+      "isin": "CA19046FAM47",
+      "region": "CA"
+    },
+    {
+      "t": "COAGAS",
+      "n": "Coastal Gaslink Pipeline LP",
+      "weight": 0.17425,
+      "isin": "CA19046FAN20",
+      "region": "CA"
+    },
+    {
+      "t": "COOPFS",
+      "n": "Co-operators Financial Services Ltd",
+      "weight": 0.06495,
+      "isin": "CA18976JAC41",
+      "region": "CA"
+    },
+    {
+      "t": "CP",
+      "n": "Canadian Pacific Railway Co",
+      "weight": 0.41927,
+      "isin": "CA13645RBC75",
+      "region": "CA"
+    },
+    {
+      "t": "CP",
+      "n": "Canadian Pacific Railway Co",
+      "weight": 0.05188,
+      "isin": "CA13645RAZ79",
+      "region": "CA"
+    },
+    {
+      "t": "CPXCN",
+      "n": "Capital Power Corp",
+      "weight": 0.13656,
+      "isin": "CA14046ZAP41",
+      "sector": "Utilities",
+      "region": "CA"
+    },
+    {
+      "t": "CRBG",
+      "n": "Corebridge Global Funding",
+      "weight": 0.21954,
+      "isin": "CA21874FAB19",
+      "region": "US"
+    },
+    {
+      "t": "CRBG",
+      "n": "Corebridge Global Funding",
+      "weight": 0.13641,
+      "isin": "CA21874FAA36",
+      "region": "US"
+    },
+    {
+      "t": "CTCACN",
+      "n": "Canadian Tire Corp Ltd",
+      "weight": 0.12997,
+      "isin": "CA136681AG85",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "CTLONE",
+      "n": "Central 1 Credit Union",
+      "weight": 0.06995,
+      "isin": "CA154728AT62",
+      "region": "CA"
+    },
+    {
+      "t": "CVECN",
+      "n": "Cenovus Energy Inc",
+      "weight": 0.31456,
+      "isin": "CA15135UAT66",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "DE",
+      "n": "John Deere Financial Inc",
+      "weight": 0.2288,
+      "isin": "CA47788ZAS08",
+      "region": "CA"
+    },
+    {
+      "t": "DE",
+      "n": "John Deere Financial Inc",
+      "weight": 0.20965,
+      "isin": "CA47788ZAT80",
+      "region": "CA"
+    },
+    {
+      "t": "DE",
+      "n": "John Deere Financial Inc",
+      "weight": 0.19158,
+      "isin": "CA47788ZAR25",
+      "region": "CA"
+    },
+    {
+      "t": "DE",
+      "n": "John Deere Financial Inc",
+      "weight": 0.14848,
+      "isin": "CA47788ZAP68",
+      "region": "CA"
+    },
+    {
+      "t": "DE",
+      "n": "John Deere Financial Inc",
+      "weight": 0.04665,
+      "isin": "CA47788ZAH43",
+      "region": "CA"
+    },
+    {
+      "t": "DFYCN",
+      "n": "Definity Financial Corp",
+      "weight": 0.17536,
+      "isin": "CA24477TAA84",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "DIRUCN",
+      "n": "Dream Industrial Real Estate Investment Trust",
+      "weight": 0.10958,
+      "isin": "CA26153WAJ86",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "DOLCN",
+      "n": "Dollarama Inc",
+      "weight": 0.23775,
+      "isin": "CA25675TAP27",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "DOLCN",
+      "n": "Dollarama Inc",
+      "weight": 0.18967,
+      "isin": "CA25675TAR82",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "DOLCN",
+      "n": "Dollarama Inc",
+      "weight": 0.18193,
+      "isin": "CA25675TAQ00",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "DOLCN",
+      "n": "Dollarama Inc",
+      "weight": 0.08311,
+      "isin": "CA25675TAL13",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "DOLCN",
+      "n": "Dollarama Inc",
+      "weight": 0.06172,
+      "isin": "CA25675TAT49",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "DOLCN",
+      "n": "Dollarama Inc",
+      "weight": 0.03664,
+      "isin": "CA25675TAK30",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "DRSILL",
+      "n": "Dream Summit Industrial LP",
+      "weight": 0.12354,
+      "isin": "CA26154EAJ79",
+      "region": "CA"
+    },
+    {
+      "t": "DTRGR",
+      "n": "Daimler Truck Finance Canada Inc",
+      "weight": 0.09475,
+      "isin": "CA233852AH58",
+      "region": "CA"
+    },
+    {
+      "t": "EIFCN",
+      "n": "Exchange Income Corp",
+      "weight": 0.14605,
+      "isin": "CA301283AQ02",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "EMACN",
+      "n": "Emera Inc",
+      "weight": 0.13521,
+      "isin": "CA290876AE12",
+      "sector": "Utilities",
+      "region": "CA"
+    },
+    {
+      "t": "EMPACN",
+      "n": "Sobeys Inc",
+      "weight": 0.06998,
+      "isin": "CA833577AH26",
+      "region": "CA"
+    },
+    {
+      "t": "ENBCN",
+      "n": "Enbridge Inc",
+      "weight": 0.33561,
+      "isin": "CA29251ZCK18",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "ENBCN",
+      "n": "Enbridge Inc",
+      "weight": 0.28471,
+      "isin": "CA29251ZCG06",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "ENBCN",
+      "n": "Enbridge Inc",
+      "weight": 0.28388,
+      "isin": "CA29250NCL79",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "ENBCN",
+      "n": "Enbridge Inc",
+      "weight": 0.26195,
+      "isin": "CA29251ZBS52",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "ENBCN",
+      "n": "Enbridge Inc",
+      "weight": 0.22001,
+      "isin": "CA29251ZBY21",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "ENBCN",
+      "n": "Enbridge Inc",
+      "weight": 0.1707,
+      "isin": "CA29251ZCC91",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "ENBCN",
+      "n": "Enbridge Inc",
+      "weight": 0.15625,
+      "isin": "CA29251ZCA36",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "ENBCN",
+      "n": "Enbridge Inc",
+      "weight": 0.09529,
+      "isin": "CA29251ZCF23",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "ENBGAS",
+      "n": "Enbridge Gas Inc",
+      "weight": 0.23111,
+      "isin": "CA29260ZAC01",
+      "region": "CA"
+    },
+    {
+      "t": "ENBGAS",
+      "n": "Enbridge Gas Inc",
+      "weight": 0.11559,
+      "isin": "CA29260ZAA45",
+      "region": "CA"
+    },
+    {
+      "t": "ENBPIP",
+      "n": "Enbridge Pipelines Inc",
+      "weight": 0.19771,
+      "isin": "CA29250ZAX65",
+      "region": "CA"
+    },
+    {
+      "t": "ENBPIP",
+      "n": "Enbridge Pipelines Inc",
+      "weight": 0.02675,
+      "isin": "CA29250ZAZ14",
+      "region": "CA"
+    },
+    {
+      "t": "EQBCN",
+      "n": "Equitable Bank",
+      "weight": 0.13951,
+      "isin": "CA29446NAV25",
+      "region": "CA"
+    },
+    {
+      "t": "EQBCN",
+      "n": "Equitable Bank",
+      "weight": 0.13755,
+      "isin": "CA29446NAQ30",
+      "region": "CA"
+    },
+    {
+      "t": "EQBCN",
+      "n": "Equitable Bank",
+      "weight": 0.12292,
+      "isin": "CA29446NAR13",
+      "region": "CA"
+    },
+    {
+      "t": "EQBCN",
+      "n": "Equitable Bank",
+      "weight": 0.11166,
+      "isin": "CA29446NAP56",
+      "region": "CA"
+    },
+    {
+      "t": "EQIX",
+      "n": "Equinix Canada Financing Ltd",
+      "weight": 0.17829,
+      "isin": "CA29447JAB40",
+      "region": "CA"
+    },
+    {
+      "t": "EXECN",
+      "n": "Extendicare Inc",
+      "weight": 0.1271,
+      "isin": "CA30224TAF09",
+      "sector": "Health Care",
+      "region": "CA"
+    },
+    {
+      "t": "F",
+      "n": "Ford Credit Canada Co Cie Credit Ford Du Canada",
+      "weight": 0.2169,
+      "isin": "CA34527ADD96",
+      "region": "CA"
+    },
+    {
+      "t": "F",
+      "n": "Ford Credit Canada Co Cie Credit Ford Du Canada",
+      "weight": 0.2157,
+      "isin": "CA34527ADB31",
+      "region": "CA"
+    },
+    {
+      "t": "F",
+      "n": "Ford Credit Canada Co Cie Credit Ford Du Canada",
+      "weight": 0.20603,
+      "isin": "CA34527ACZ18",
+      "region": "CA"
+    },
+    {
+      "t": "F",
+      "n": "Ford Credit Canada Co Cie Credit Ford Du Canada",
+      "weight": 0.194,
+      "isin": "CA34527ADG28",
+      "region": "CA"
+    },
+    {
+      "t": "F",
+      "n": "Ford Credit Canada Co Cie Credit Ford Du Canada",
+      "weight": 0.19082,
+      "isin": "CA34527ADF45",
+      "region": "CA"
+    },
+    {
+      "t": "F",
+      "n": "Ford Credit Canada Co Cie Credit Ford Du Canada",
+      "weight": 0.17978,
+      "isin": "CA34527ACY43",
+      "region": "CA"
+    },
+    {
+      "t": "F",
+      "n": "Ford Credit Canada Co Cie Credit Ford Du Canada",
+      "weight": 0.14619,
+      "isin": "CA34527ACX69",
+      "region": "CA"
+    },
+    {
+      "t": "F",
+      "n": "Ford Credit Canada Co Cie Credit Ford Du Canada",
+      "weight": 0.13945,
+      "isin": "CA34527ADE79",
+      "region": "CA"
+    },
+    {
+      "t": "F",
+      "n": "Ford Credit Canada Co Cie Credit Ford Du Canada",
+      "weight": 0.13434,
+      "isin": "CA34527ADA57",
+      "region": "CA"
+    },
+    {
+      "t": "F",
+      "n": "Ford Credit Canada Co Cie Credit Ford Du Canada",
+      "weight": 0.12776,
+      "isin": "CA34527ACT57",
+      "region": "CA"
+    },
+    {
+      "t": "F",
+      "n": "Ford Credit Canada Co Cie Credit Ford Du Canada",
+      "weight": 0.10783,
+      "isin": "CA34527ACS74",
+      "region": "CA"
+    },
+    {
+      "t": "F",
+      "n": "Ford Credit Canada Co Cie Credit Ford Du Canada",
+      "weight": 0.09393,
+      "isin": "CA34527ACP36",
+      "region": "CA"
+    },
+    {
+      "t": "FBOCAN",
+      "n": "Fairstone Bank of Canada",
+      "weight": 0.11592,
+      "isin": "CA305939AB65",
+      "region": "CA"
+    },
+    {
+      "t": "FCRCN",
+      "n": "First Capital Real Estate Investment Trust",
+      "weight": 0.03601,
+      "isin": "CA31890BAB95",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "FFFCAP",
+      "n": "F3 Fibre Capital Inc",
+      "weight": 0.01241,
+      "isin": "CA30348BAA13",
+      "region": "CA"
+    },
+    {
+      "t": "FFHCN",
+      "n": "Fairfax Financial Holdings Ltd",
+      "weight": 0.24974,
+      "isin": "CA303901BG68",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "FFHCN",
+      "n": "Fairfax Financial Holdings Ltd",
+      "weight": 0.2497,
+      "isin": "CA303901AZ58",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "FFHCN",
+      "n": "Fairfax Financial Holdings Ltd",
+      "weight": 0.15067,
+      "isin": "CA303901BD38",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "FNCN",
+      "n": "First National Financial Corp",
+      "weight": 0.08136,
+      "isin": "CA33564PAH60",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "FTSCN",
+      "n": "Fortis Inc/Canada",
+      "weight": 0.2634,
+      "isin": "CA349553AP21",
+      "sector": "Utilities",
+      "region": "CA"
+    },
+    {
+      "t": "FTSCN",
+      "n": "Fortis Inc/Canada",
+      "weight": 0.2135,
+      "isin": "CA349553AU16",
+      "sector": "Utilities",
+      "region": "CA"
+    },
+    {
+      "t": "FTSCN",
+      "n": "Fortis Inc/Canada",
+      "weight": 0.07584,
+      "isin": "CA349553AQ04",
+      "sector": "Utilities",
+      "region": "CA"
+    },
+    {
+      "t": "FTTCN",
+      "n": "Finning International Inc",
+      "weight": 0.13438,
+      "isin": "CA318071AJ68",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "FTTCN",
+      "n": "Finning International Inc",
+      "weight": 0.09516,
+      "isin": "CA318071AK32",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "FTTCN",
+      "n": "Finning International Inc",
+      "weight": 0.07875,
+      "isin": "CA318071AG20",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "GEICN",
+      "n": "Gibson Energy Inc",
+      "weight": 0.16941,
+      "isin": "CA37482ZAA99",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "GIBACN",
+      "n": "CGI Inc",
+      "weight": 0.19083,
+      "isin": "CA12532HAG98",
+      "sector": "Information Technology",
+      "region": "CA"
+    },
+    {
+      "t": "GIBACN",
+      "n": "CGI Inc",
+      "weight": 0.14722,
+      "isin": "CA12532HAH71",
+      "sector": "Information Technology",
+      "region": "CA"
+    },
+    {
+      "t": "GIBACN",
+      "n": "CGI Inc",
+      "weight": 0.13925,
+      "isin": "CA12532HAJ38",
+      "sector": "Information Technology",
+      "region": "CA"
+    },
+    {
+      "t": "GILCN",
+      "n": "Gildan Activewear Inc",
+      "weight": 0.1409,
+      "isin": "CA375916AA17",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "GILCN",
+      "n": "Gildan Activewear Inc",
+      "weight": 0.06973,
+      "isin": "CA375916AE39",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "GLENLN",
+      "n": "Glencore Funding LLC",
+      "weight": 0.18787,
+      "isin": "CA378272CG11",
+      "region": "US"
+    },
+    {
+      "t": "GM",
+      "n": "General Motors Financial of Canada Ltd",
+      "weight": 0.21783,
+      "isin": "CA37045YAM62",
+      "region": "CA"
+    },
+    {
+      "t": "GM",
+      "n": "General Motors Financial of Canada Ltd",
+      "weight": 0.20689,
+      "isin": "CA37045YAN46",
+      "region": "CA"
+    },
+    {
+      "t": "GM",
+      "n": "General Motors Financial of Canada Ltd",
+      "weight": 0.18145,
+      "isin": "CA37045YAP93",
+      "region": "CA"
+    },
+    {
+      "t": "GM",
+      "n": "General Motors Financial of Canada Ltd",
+      "weight": 0.14421,
+      "isin": "CA37045YAQ76",
+      "region": "CA"
+    },
+    {
+      "t": "GM",
+      "n": "General Motors Financial of Canada Ltd",
+      "weight": 0.14325,
+      "isin": "CA37045YAK07",
+      "region": "CA"
+    },
+    {
+      "t": "GM",
+      "n": "General Motors Financial of Canada Ltd",
+      "weight": 0.13166,
+      "isin": "CA37045YAL89",
+      "region": "CA"
+    },
+    {
+      "t": "GOOGL",
+      "n": "Alphabet Inc",
+      "weight": 0.48349,
+      "isin": "CA02079WAG65",
+      "sector": "Communication Services",
+      "region": "US"
+    },
+    {
+      "t": "GORESS",
+      "n": "GO Residential Operating LLC",
+      "weight": 0.08375,
+      "isin": "CA38019JAA57",
+      "region": "US"
+    },
+    {
+      "t": "GRTCN",
+      "n": "Granite REIT Holdings LP",
+      "weight": 0.22508,
+      "isin": "CA387427AL11",
+      "region": "CA"
+    },
+    {
+      "t": "GRTCN",
+      "n": "Granite REIT Holdings LP",
+      "weight": 0.10883,
+      "isin": "CA387427AP25",
+      "region": "CA"
+    },
+    {
+      "t": "GRTCN",
+      "n": "Granite REIT Holdings LP",
+      "weight": 0.05227,
+      "isin": "CA387427AK38",
+      "region": "CA"
+    },
+    {
+      "t": "GRTCN",
+      "n": "Granite REIT Holdings LP",
+      "weight": 0.03963,
+      "isin": "CA387427AM93",
+      "region": "CA"
+    },
+    {
+      "t": "GS",
+      "n": "The Goldman Sachs Group Inc",
+      "weight": 0.46572,
+      "isin": "CA38141GYW81",
+      "sector": "Financials",
+      "region": "US"
+    },
+    {
+      "t": "GS",
+      "n": "The Goldman Sachs Group Inc",
+      "weight": 0.34422,
+      "isin": "CA38141GXT61",
+      "sector": "Financials",
+      "region": "US"
+    },
+    {
+      "t": "GTAAIR",
+      "n": "Greater Toronto Airports Authority",
+      "weight": 0.18129,
+      "isin": "CA39191ZBC29",
+      "region": "CA"
+    },
+    {
+      "t": "GTAAIR",
+      "n": "Greater Toronto Airports Authority",
+      "weight": 0.12107,
+      "isin": "CA39191ZAA71",
+      "region": "CA"
+    },
+    {
+      "t": "GTAAIR",
+      "n": "Greater Toronto Airports Authority",
+      "weight": 0.11732,
+      "isin": "CA391906AH76",
+      "region": "CA"
+    },
+    {
+      "t": "GWOCN",
+      "n": "Great-West Lifeco Inc",
+      "weight": 0.16342,
+      "isin": "CA39138CAH93",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "GWOCN",
+      "n": "Great-West Lifeco Inc",
+      "weight": 0.0998,
+      "isin": "CA39138CAK23",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "HNDA",
+      "n": "Honda Canada Finance Inc",
+      "weight": 0.19888,
+      "isin": "CA438121BD69",
+      "region": "CA"
+    },
+    {
+      "t": "HNDA",
+      "n": "Honda Canada Finance Inc",
+      "weight": 0.16036,
+      "isin": "CA438121BE43",
+      "region": "CA"
+    },
+    {
+      "t": "HNDA",
+      "n": "Honda Canada Finance Inc",
+      "weight": 0.15912,
+      "isin": "CA438121BH73",
+      "region": "CA"
+    },
+    {
+      "t": "HNDA",
+      "n": "Honda Canada Finance Inc",
+      "weight": 0.15684,
+      "isin": "CA438121BL85",
+      "region": "CA"
+    },
+    {
+      "t": "HNDA",
+      "n": "Honda Canada Finance Inc",
+      "weight": 0.14959,
+      "isin": "CA438121BM68",
+      "region": "CA"
+    },
+    {
+      "t": "HNDA",
+      "n": "Honda Canada Finance Inc",
+      "weight": 0.13779,
+      "isin": "CA438121BN42",
+      "region": "CA"
+    },
+    {
+      "t": "HNDA",
+      "n": "Honda Canada Finance Inc",
+      "weight": 0.13214,
+      "isin": "CA438121AZ80",
+      "region": "CA"
+    },
+    {
+      "t": "HNDA",
+      "n": "Honda Canada Finance Inc",
+      "weight": 0.13101,
+      "isin": "CA438121BK03",
+      "region": "CA"
+    },
+    {
+      "t": "HTHROW",
+      "n": "Heathrow Funding Ltd",
+      "weight": 0.23407,
+      "isin": "CA42246QAF50",
+      "region": "JE"
+    },
+    {
+      "t": "HTHROW",
+      "n": "Heathrow Funding Ltd",
+      "weight": 0.19991,
+      "isin": "CA42246QAH17",
+      "region": "JE"
+    },
+    {
+      "t": "HTHROW",
+      "n": "Heathrow Funding Ltd",
+      "weight": 0.12376,
+      "isin": "CA42246QAC20",
+      "region": "JE"
+    },
+    {
+      "t": "HTHROW",
+      "n": "Heathrow Funding Ltd",
+      "weight": 0.10141,
+      "isin": "CA42246QAD03",
+      "region": "JE"
+    },
+    {
+      "t": "HUSMID",
+      "n": "Husky Midstream LP",
+      "weight": 0.1233,
+      "isin": "CA448059AA35",
+      "region": "CA"
+    },
+    {
+      "t": "HYDONE",
+      "n": "Hydro One Inc",
+      "weight": 0.33084,
+      "isin": "CA44810ZCK45",
+      "region": "CA"
+    },
+    {
+      "t": "HYDONE",
+      "n": "Hydro One Inc",
+      "weight": 0.24759,
+      "isin": "CA44810ZCJ71",
+      "region": "CA"
+    },
+    {
+      "t": "HYDONE",
+      "n": "Hydro One Inc",
+      "weight": 0.17299,
+      "isin": "CA44810ZCC29",
+      "region": "CA"
+    },
+    {
+      "t": "HYDONE",
+      "n": "Hydro One Inc",
+      "weight": 0.09635,
+      "isin": "CA448810AC58",
+      "region": "CA"
+    },
+    {
+      "t": "HYDONE",
+      "n": "Hydro One Ltd",
+      "weight": 0.07424,
+      "isin": "CA448811AC32",
+      "sector": "Utilities",
+      "region": "CA"
+    },
+    {
+      "t": "HYDONE",
+      "n": "Hydro One Inc",
+      "weight": 0.03353,
+      "isin": "CA44810ZBZ23",
+      "region": "CA"
+    },
+    {
+      "t": "HYNMTR",
+      "n": "Hyundai Capital Canada Inc",
+      "weight": 0.1837,
+      "isin": "CA44932WAJ95",
+      "region": "CA"
+    },
+    {
+      "t": "HYNMTR",
+      "n": "Hyundai Capital Canada Inc",
+      "weight": 0.15043,
+      "isin": "CA44932WAL42",
+      "region": "CA"
+    },
+    {
+      "t": "HYNMTR",
+      "n": "Hyundai Capital Canada Inc",
+      "weight": 0.13638,
+      "isin": "CA44932WAK68",
+      "region": "CA"
+    },
+    {
+      "t": "HYNMTR",
+      "n": "Hyundai Capital Canada Inc",
+      "weight": 0.13451,
+      "isin": "CA44932WAQ39",
+      "region": "CA"
+    },
+    {
+      "t": "HYNMTR",
+      "n": "Hyundai Capital Canada Inc",
+      "weight": 0.10321,
+      "isin": "CA44932WAH30",
+      "region": "CA"
+    },
+    {
+      "t": "HYNMTR",
+      "n": "Hyundai Capital Canada Inc",
+      "weight": 0.10064,
+      "isin": "CA44932WAD26",
+      "region": "CA"
+    },
+    {
+      "t": "HYNMTR",
+      "n": "Hyundai Capital Canada Inc",
+      "weight": 0.09545,
+      "isin": "CA44932WAP55",
+      "region": "CA"
+    },
+    {
+      "t": "HYNMTR",
+      "n": "Hyundai Capital Canada Inc",
+      "weight": 0.0847,
+      "isin": "CA44932WAF73",
+      "region": "CA"
+    },
+    {
+      "t": "IAGCN",
+      "n": "iA Financial Corp Inc",
+      "weight": 0.16349,
+      "isin": "CA45075EAJ34",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "IAGCN",
+      "n": "iA Financial Corp Inc",
+      "weight": 0.14634,
+      "isin": "CA45075EAG94",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "IAGCN",
+      "n": "iA Financial Corp Inc",
+      "weight": 0.10544,
+      "isin": "CA45075EAE47",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "IBM",
+      "n": "International Business Machines Corp",
+      "weight": 0.49831,
+      "isin": "CA459200MA69",
+      "sector": "Information Technology",
+      "region": "US"
+    },
+    {
+      "t": "IFCCN",
+      "n": "Intact Financial Corp",
+      "weight": 0.16228,
+      "isin": "CA45823TAP18",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "IFCCN",
+      "n": "Intact Financial Corp",
+      "weight": 0.11962,
+      "isin": "CA45823TAF36",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "IFCCN",
+      "n": "Intact Financial Corp",
+      "weight": 0.02629,
+      "isin": "CA45823TAB22",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "IPLCN",
+      "n": "Inter Pipeline Ltd/AB",
+      "weight": 0.22598,
+      "isin": "CA45833VAF63",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "IPLCN",
+      "n": "Inter Pipeline Ltd/AB",
+      "weight": 0.22375,
+      "isin": "CA45833VAH20",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "IVANCA",
+      "n": "Ivanhoe Cambridge II Inc",
+      "weight": 0.06591,
+      "isin": "CA46578WAC88",
+      "region": "CA"
+    },
+    {
+      "t": "KEYCN",
+      "n": "Keyera Corp",
+      "weight": 0.15149,
+      "isin": "CA493271AE05",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "KEYCN",
+      "n": "Keyera Corp",
+      "weight": 0.12485,
+      "isin": "CA493271AM21",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "KEYCN",
+      "n": "Keyera Corp",
+      "weight": 0.12361,
+      "isin": "CA49327ZAA36",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "KEYCN",
+      "n": "Keyera Corp",
+      "weight": 0.09108,
+      "isin": "CA49327ZAB19",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "LBCN",
+      "n": "Laurentian Bank of Canada",
+      "weight": 0.11169,
+      "isin": "CA51925DCF11",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "LCN",
+      "n": "Loblaw Cos Ltd",
+      "weight": 0.14244,
+      "isin": "CA539481AN18",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "LCN",
+      "n": "Loblaw Cos Ltd",
+      "weight": 0.11351,
+      "isin": "CA539481AM35",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "LCN",
+      "n": "Loblaw Cos Ltd",
+      "weight": 0.07352,
+      "isin": "CA539481AT87",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "LECARR",
+      "n": "Le Carrefour Laval Rec Inc",
+      "weight": 0.12474,
+      "isin": "CA52110NAA50",
+      "region": "CA"
+    },
+    {
+      "t": "MBGGR",
+      "n": "Mercedes-Benz Finance Canada Inc",
+      "weight": 0.1109,
+      "isin": "CA58769CAF91",
+      "region": "CA"
+    },
+    {
+      "t": "MCAPCO",
+      "n": "MCAP Commercial LP",
+      "weight": 0.15445,
+      "isin": "CA55279QAG51",
+      "region": "CA"
+    },
+    {
+      "t": "MCAPCO",
+      "n": "MCAP Commercial LP",
+      "weight": 0.08137,
+      "isin": "CA55279QAF78",
+      "region": "CA"
+    },
+    {
+      "t": "MCD",
+      "n": "McDonald's Corp",
+      "weight": 0.28482,
+      "isin": "CA580135CF69",
+      "sector": "Consumer Discretionary",
+      "region": "US"
+    },
+    {
+      "t": "MDLZ",
+      "n": "Mondelez International Inc",
+      "weight": 0.18751,
+      "isin": "CA609207BD62",
+      "sector": "Consumer Staples",
+      "region": "US"
+    },
+    {
+      "t": "MET",
+      "n": "Metropolitan Life Global Funding I",
+      "weight": 0.31183,
+      "isin": "CA592179KA25",
+      "region": "US"
+    },
+    {
+      "t": "MET",
+      "n": "Metropolitan Life Global Funding I",
+      "weight": 0.16449,
+      "isin": "CA592179JZ94",
+      "region": "US"
+    },
+    {
+      "t": "MET",
+      "n": "Metropolitan Life Global Funding I",
+      "weight": 0.11091,
+      "isin": "CA592179KB08",
+      "region": "US"
+    },
+    {
+      "t": "MFCCN",
+      "n": "Manulife Financial Corp",
+      "weight": 0.33386,
+      "isin": "CA56501RAJ55",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "MFCCN",
+      "n": "Manulife Financial Corp",
+      "weight": 0.26949,
+      "isin": "CA56501RAQ98",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "MFCCN",
+      "n": "Manulife Financial Corp",
+      "weight": 0.26943,
+      "isin": "CA56501RAS54",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "MFCCN",
+      "n": "Manulife Financial Corp",
+      "weight": 0.26348,
+      "isin": "CA56501RAT38",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "MFCCN",
+      "n": "Manulife Bank of Canada",
+      "weight": 0.22616,
+      "isin": "CA565018DS41",
+      "region": "CA"
+    },
+    {
+      "t": "MFCCN",
+      "n": "Manulife Bank of Canada",
+      "weight": 0.1983,
+      "isin": "CA565018DT24",
+      "region": "CA"
+    },
+    {
+      "t": "MFCCN",
+      "n": "Manulife Financial Corp",
+      "weight": 0.1967,
+      "isin": "CA56501RAU01",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "MFCCN",
+      "n": "Manulife Bank of Canada",
+      "weight": 0.18816,
+      "isin": "CA565018DK15",
+      "region": "CA"
+    },
+    {
+      "t": "MFCCN",
+      "n": "Manulife Bank of Canada",
+      "weight": 0.1423,
+      "isin": "CA565018DN53",
+      "region": "CA"
+    },
+    {
+      "t": "MFCCN",
+      "n": "Manulife Bank of Canada",
+      "weight": 0.11202,
+      "isin": "CA565018DQ84",
+      "region": "CA"
+    },
+    {
+      "t": "MFCCN",
+      "n": "Manulife Bank of Canada",
+      "weight": 0.08812,
+      "isin": "CA565018DJ42",
+      "region": "CA"
+    },
+    {
+      "t": "MGCN",
+      "n": "Magna International Inc",
+      "weight": 0.13077,
+      "isin": "CA559222BB96",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "MGCN",
+      "n": "Magna International Inc",
+      "weight": 0.07747,
+      "isin": "CA559222AW43",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "MIFFC",
+      "n": "Montreal International Fuel Facilities Corp",
+      "weight": 0.20629,
+      "isin": "CA614868AB32",
+      "region": "CA"
+    },
+    {
+      "t": "MMSPTS",
+      "n": "Mini Mall Storage Properties Trust",
+      "weight": 0.11288,
+      "isin": "CA60359AAA66",
+      "region": "CA"
+    },
+    {
+      "t": "MMSPTS",
+      "n": "Mini Mall Storage Properties Trust",
+      "weight": 0.10896,
+      "isin": "CA60359AAB40",
+      "region": "CA"
+    },
+    {
+      "t": "MMSPTS",
+      "n": "Mini Mall Storage Properties Trust",
+      "weight": 0.09922,
+      "isin": "CA60359AAD06",
+      "region": "CA"
+    },
+    {
+      "t": "MMSPTS",
+      "n": "Mini Mall Storage Properties Trust",
+      "weight": 0.09212,
+      "isin": "CA60359AAE88",
+      "region": "CA"
+    },
+    {
+      "t": "MQGAU",
+      "n": "Macquarie Group Ltd",
+      "weight": 0.08744,
+      "isin": "CAQ57085HQ08",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "MRUCN",
+      "n": "Metro Inc/CN",
+      "weight": 0.15473,
+      "isin": "CA59162NAM17",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "MRUCN",
+      "n": "Metro Inc/CN",
+      "weight": 0.14022,
+      "isin": "CA59162NAF65",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "MRUCN",
+      "n": "Metro Inc/CN",
+      "weight": 0.12207,
+      "isin": "CA59162NAN99",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "NACN",
+      "n": "National Bank of Canada",
+      "weight": 0.75397,
+      "isin": "CA63306AHP45",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "NACN",
+      "n": "National Bank of Canada",
+      "weight": 0.42873,
+      "isin": "CA63306AHT66",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "NACN",
+      "n": "National Bank of Canada",
+      "weight": 0.38344,
+      "isin": "CA63306AJH01",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "NACN",
+      "n": "National Bank of Canada",
+      "weight": 0.35093,
+      "isin": "CA63306AJW77",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "NACN",
+      "n": "National Bank of Canada",
+      "weight": 0.29206,
+      "isin": "CA63306AJG28",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "NACN",
+      "n": "National Bank of Canada",
+      "weight": 0.28364,
+      "isin": "CA63309ZNN47",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "NACN",
+      "n": "National Bank of Canada",
+      "weight": 0.25576,
+      "isin": "CA63306AJV94",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "NACN",
+      "n": "National Bank of Canada",
+      "weight": 0.24341,
+      "isin": "CA63306AJF45",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "NACN",
+      "n": "National Bank of Canada",
+      "weight": 0.20248,
+      "isin": "CA136765BY99",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "NACN",
+      "n": "National Bank of Canada",
+      "weight": 0.19602,
+      "isin": "CA63309ZNP94",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "NACN",
+      "n": "National Bank of Canada",
+      "weight": 0.13527,
+      "isin": "CA136765BU77",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "NACN",
+      "n": "National Bank of Canada",
+      "weight": 0.09513,
+      "isin": "CA63309ZNM63",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "NAVCAN",
+      "n": "NAV Canada",
+      "weight": 0.05909,
+      "isin": "CA628957AG70",
+      "region": "CA"
+    },
+    {
+      "t": "NEE",
+      "n": "NextEra Energy Capital Holdings Inc",
+      "weight": 0.30217,
+      "isin": "CA65339KDA57",
+      "region": "US"
+    },
+    {
+      "t": "NEE",
+      "n": "NextEra Energy Capital Holdings Inc",
+      "weight": 0.21283,
+      "isin": "CA65339KDR82",
+      "region": "US"
+    },
+    {
+      "t": "NESNVX",
+      "n": "Nestle Holdings Inc",
+      "weight": 0.47592,
+      "isin": "CAU74078CQ41",
+      "region": "US"
+    },
+    {
+      "t": "NGGLN",
+      "n": "National Grid Electricity Transmission PLC",
+      "weight": 0.19717,
+      "isin": "CA636273AC82",
+      "region": "GB"
+    },
+    {
+      "t": "NSIUCN",
+      "n": "Nova Scotia Power Inc",
+      "weight": 0.08004,
+      "isin": "CA669816AH33",
+      "region": "CA"
+    },
+    {
+      "t": "NWRWPT",
+      "n": "North West Redwater Partnership / NWR Financing Co Ltd",
+      "weight": 0.31045,
+      "isin": "CA663307AQ98",
+      "region": "CA"
+    },
+    {
+      "t": "NWRWPT",
+      "n": "North West Redwater Partnership / NWR Financing Co Ltd",
+      "weight": 0.09917,
+      "isin": "CA663307AF34",
+      "region": "CA"
+    },
+    {
+      "t": "NXRCN",
+      "n": "Nexus Industrial REIT",
+      "weight": 0.08553,
+      "isin": "CA65344UAA93",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "NYLIFE",
+      "n": "New York Life Global Funding",
+      "weight": 0.302,
+      "isin": "CA64953BAU22",
+      "region": "US"
+    },
+    {
+      "t": "OMERS",
+      "n": "OMERS Realty Corp",
+      "weight": 0.17412,
+      "isin": "CA68214WAU23",
+      "region": "CA"
+    },
+    {
+      "t": "OMERS",
+      "n": "OMERS Realty Corp",
+      "weight": 0.12438,
+      "isin": "CA68214WAW88",
+      "region": "CA"
+    },
+    {
+      "t": "OMERS",
+      "n": "OMERS Realty Corp",
+      "weight": 0.10558,
+      "isin": "CA68214WAV06",
+      "region": "CA"
+    },
+    {
+      "t": "OMERS",
+      "n": "OMERS Realty Corp",
+      "weight": 0.0891,
+      "isin": "CA68214WAQ11",
+      "region": "CA"
+    },
+    {
+      "t": "OMERS",
+      "n": "OMERS Realty Corp",
+      "weight": 0.0886,
+      "isin": "CA68214WAS76",
+      "region": "CA"
+    },
+    {
+      "t": "OXPROP",
+      "n": "Oxford Properties Group Trust",
+      "weight": 0.2018,
+      "isin": "CA691915AC65",
+      "region": "CA"
+    },
+    {
+      "t": "OXPROP",
+      "n": "Oxford Properties Group Trust",
+      "weight": 0.16487,
+      "isin": "CA691915AD49",
+      "region": "CA"
+    },
+    {
+      "t": "OXPROP",
+      "n": "Oxford Properties Group Trust",
+      "weight": 0.03699,
+      "isin": "CA691915AA00",
+      "region": "CA"
+    },
+    {
+      "t": "PLD",
+      "n": "Prologis LP",
+      "weight": 0.19315,
+      "isin": "CA74340XCD18",
+      "region": "US"
+    },
+    {
+      "t": "PLD",
+      "n": "Prologis LP",
+      "weight": 0.1287,
+      "isin": "CA74340XCL34",
+      "region": "US"
+    },
+    {
+      "t": "PMZUCN",
+      "n": "Primaris Real Estate Investment Trust",
+      "weight": 0.10768,
+      "isin": "CA74167KAF62",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "PMZUCN",
+      "n": "Primaris Real Estate Investment Trust",
+      "weight": 0.07195,
+      "isin": "CA74167KAD15",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "PPLCN",
+      "n": "Pembina Pipeline Corp",
+      "weight": 0.2055,
+      "isin": "CA70632ZAK71",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "PPLCN",
+      "n": "Pembina Pipeline Corp",
+      "weight": 0.19151,
+      "isin": "CA70632ZAM38",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "PPLCN",
+      "n": "Pembina Pipeline Corp",
+      "weight": 0.16023,
+      "isin": "CA70632ZAQ42",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "QBRCN",
+      "n": "Videotron Ltd",
+      "weight": 0.22755,
+      "isin": "CA92660FAR51",
+      "region": "CA"
+    },
+    {
+      "t": "QBRCN",
+      "n": "Videotron Ltd",
+      "weight": 0.1767,
+      "isin": "CA92660FAQ78",
+      "region": "CA"
+    },
+    {
+      "t": "QBRCN",
+      "n": "Videotron Ltd",
+      "weight": 0.1692,
+      "isin": "CA92660FAL81",
+      "region": "CA"
+    },
+    {
+      "t": "QBRCN",
+      "n": "Videotron Ltd",
+      "weight": 0.15919,
+      "isin": "CA92660FAM64",
+      "region": "CA"
+    },
+    {
+      "t": "RCICN",
+      "n": "Rogers Communications Inc",
+      "weight": 0.32597,
+      "isin": "CA775109CV18",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "RCICN",
+      "n": "Rogers Communications Inc",
+      "weight": 0.27554,
+      "isin": "CA775109BT70",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "RCICN",
+      "n": "Rogers Communications Inc",
+      "weight": 0.21505,
+      "isin": "CA775109CW90",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "RCICN",
+      "n": "Rogers Communications Inc",
+      "weight": 0.19504,
+      "isin": "CA775109CP40",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "RCICN",
+      "n": "Rogers Communications Inc",
+      "weight": 0.18908,
+      "isin": "CA775109BJ98",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "REIUCN",
+      "n": "RioCan Real Estate Investment Trust",
+      "weight": 0.19205,
+      "isin": "CA766910BN25",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "REIUCN",
+      "n": "RioCan Real Estate Investment Trust",
+      "weight": 0.1364,
+      "isin": "CA766910BH56",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "REIUCN",
+      "n": "RioCan Real Estate Investment Trust",
+      "weight": 0.13012,
+      "isin": "CA766910BL68",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "REIUCN",
+      "n": "RioCan Real Estate Investment Trust",
+      "weight": 0.06326,
+      "isin": "CA766910BQ55",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "REMSQC",
+      "n": "Projet Rem SEC",
+      "weight": 0.14701,
+      "isin": "CA74350VAA04",
+      "region": "CA"
+    },
+    {
+      "t": "RLNCE",
+      "n": "Reliance LP",
+      "weight": 0.14098,
+      "isin": "CA759480AN62",
+      "region": "CA"
+    },
+    {
+      "t": "RLNCE",
+      "n": "Reliance LP",
+      "weight": 0.13495,
+      "isin": "CA759480AL07",
+      "region": "CA"
+    },
+    {
+      "t": "RLNCE",
+      "n": "Reliance LP",
+      "weight": 0.11304,
+      "isin": "CA759480AM89",
+      "region": "CA"
+    },
+    {
+      "t": "RUSCN",
+      "n": "Russel Metals Inc",
+      "weight": 0.06397,
+      "isin": "CA781903AP48",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 1.10071,
+      "isin": "CA779926WF74",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 0.87445,
+      "isin": "CA780086XL38",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 0.76633,
+      "isin": "CA779926QX54",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 0.65702,
+      "isin": "CA7800867G38",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 0.64273,
+      "isin": "CA780086WG51",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 0.64067,
+      "isin": "CA779926WD27",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 0.60575,
+      "isin": "CA779926FY56",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 0.51943,
+      "isin": "CA779926HR87",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 0.49341,
+      "isin": "CA779926DJ08",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 0.48839,
+      "isin": "CA779926QY38",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 0.48249,
+      "isin": "CA780086WK63",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 0.45134,
+      "isin": "CA7800863G73",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 0.39152,
+      "isin": "CA780086ZH08",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 0.33199,
+      "isin": "CA779926NA88",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 0.27741,
+      "isin": "CA779926VM35",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 0.15487,
+      "isin": "CA780086SY14",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 0.04761,
+      "isin": "CA780086TY05",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "SAPCN",
+      "n": "Saputo Inc",
+      "weight": 0.20385,
+      "isin": "CA802912AA30",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "SAPCN",
+      "n": "Saputo Inc",
+      "weight": 0.14166,
+      "isin": "CA80310ZAM10",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "SAPCN",
+      "n": "Saputo Inc",
+      "weight": 0.11127,
+      "isin": "CA80310ZAJ80",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "SAPCN",
+      "n": "Saputo Inc",
+      "weight": 0.05827,
+      "isin": "CA80310ZAK53",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "SLFCN",
+      "n": "Sun Life Financial Inc",
+      "weight": 0.31569,
+      "isin": "CA86682ZAT36",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "SLFCN",
+      "n": "Sun Life Financial Inc",
+      "weight": 0.29818,
+      "isin": "CA86682ZAU09",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "SLFCN",
+      "n": "Sun Life Financial Inc",
+      "weight": 0.22506,
+      "isin": "CA86682ZAQ96",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "SLFCN",
+      "n": "Sun Life Financial Inc",
+      "weight": 0.21949,
+      "isin": "CA86682ZAS52",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "SMA",
+      "n": "SmartStop OP LP",
+      "weight": 0.11721,
+      "isin": "CAU8302FAA96",
+      "region": "US"
+    },
+    {
+      "t": "SOBOCN",
+      "n": "South Bow Canadian Infrastructure Holdings Ltd",
+      "weight": 0.14224,
+      "isin": "CA836720AA06",
+      "region": "CA"
+    },
+    {
+      "t": "SRUUCN",
+      "n": "SmartCentres Real Estate Investment Trust",
+      "weight": 0.17519,
+      "isin": "CA83179XAK42",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "SRUUCN",
+      "n": "SmartCentres Real Estate Investment Trust",
+      "weight": 0.10215,
+      "isin": "CA83179XAM08",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "SRUUCN",
+      "n": "SmartCentres Real Estate Investment Trust",
+      "weight": 0.10008,
+      "isin": "CA83179XAQ12",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "SRUUCN",
+      "n": "SmartCentres Real Estate Investment Trust",
+      "weight": 0.09823,
+      "isin": "CA83179XAR94",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "SRUUCN",
+      "n": "SmartCentres Real Estate Investment Trust",
+      "weight": 0.08791,
+      "isin": "CA83179XAS77",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "SRUUCN",
+      "n": "SmartCentres Real Estate Investment Trust",
+      "weight": 0.07634,
+      "isin": "CA83179XAP39",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "STNCN",
+      "n": "Stantec Inc",
+      "weight": 0.05552,
+      "isin": "CA85472NAC35",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "SUCN",
+      "n": "Suncor Energy Inc",
+      "weight": 0.16506,
+      "isin": "CA86721ZAY57",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "SUCN",
+      "n": "Suncor Energy Inc",
+      "weight": 0.15646,
+      "isin": "CA86721ZAZ23",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "SUMIAL",
+      "n": "Sumisho Air Lease Corp",
+      "weight": 0.2762,
+      "isin": "CA00912XBP83",
+      "sector": "Industrials",
+      "region": "US"
+    },
+    {
+      "t": "TCLAU",
+      "n": "Transurban Finance Co Pty Ltd",
+      "weight": 0.07055,
+      "isin": "CA89400PAJ27",
+      "region": "AU"
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS Corp",
+      "weight": 0.25419,
+      "isin": "CA87971MCB78",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS Corp",
+      "weight": 0.24575,
+      "isin": "CA87971MBQ56",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS Corp",
+      "weight": 0.23423,
+      "isin": "CA87971MBJ14",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS Corp",
+      "weight": 0.22832,
+      "isin": "CA87971MBG74",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS Corp",
+      "weight": 0.21217,
+      "isin": "CA87971MCF82",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS Corp",
+      "weight": 0.1961,
+      "isin": "CA87971MCE18",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS Corp",
+      "weight": 0.15816,
+      "isin": "CA87971MCH49",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS Corp",
+      "weight": 0.12544,
+      "isin": "CA87971MBN26",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS Corp",
+      "weight": 0.11464,
+      "isin": "CA87971MBZ55",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 0.87924,
+      "isin": "CA89116C7J09",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 0.79805,
+      "isin": "CA89116CQ341",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 0.7801,
+      "isin": "CA89117GTQ06",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 0.74797,
+      "isin": "CA89116C3S44",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 0.67979,
+      "isin": "CA89117GRJ80",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 0.62393,
+      "isin": "CA89117GX510",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 0.55125,
+      "isin": "CA89117F7H69",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 0.47524,
+      "isin": "CA89116CST58",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 0.47127,
+      "isin": "CA89116CFF91",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 0.44142,
+      "isin": "CA89116WDV24",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 0.42879,
+      "isin": "CA89117FA338",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 0.42322,
+      "isin": "CA89116WEY53",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 0.27773,
+      "isin": "CA89116WDF73",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 0.26368,
+      "isin": "CA89116CMX25",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 0.17894,
+      "isin": "CA89117FJ347",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "TERANE",
+      "n": "Teranet Holdings LP",
+      "weight": 0.11647,
+      "isin": "CA880789AS10",
+      "region": "CA"
+    },
+    {
+      "t": "TIHCN",
+      "n": "Toromont Industries Ltd",
+      "weight": 0.09643,
+      "isin": "CA891102AE54",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "TIHCN",
+      "n": "Toromont Industries Ltd",
+      "weight": 0.06141,
+      "isin": "CA891102AF20",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "TOYOTA",
+      "n": "Toyota Credit Canada Inc",
+      "weight": 0.20515,
+      "isin": "CA892329CB76",
+      "region": "CA"
+    },
+    {
+      "t": "TOYOTA",
+      "n": "Toyota Credit Canada Inc",
+      "weight": 0.18914,
+      "isin": "CA892329CD33",
+      "region": "CA"
+    },
+    {
+      "t": "TOYOTA",
+      "n": "Toyota Credit Canada Inc",
+      "weight": 0.18224,
+      "isin": "CA892329CL58",
+      "region": "CA"
+    },
+    {
+      "t": "TOYOTA",
+      "n": "Toyota Credit Canada Inc",
+      "weight": 0.12378,
+      "isin": "CA892329CJ03",
+      "region": "CA"
+    },
+    {
+      "t": "TOYOTA",
+      "n": "Toyota Credit Canada Inc",
+      "weight": 0.12083,
+      "isin": "CA892329BX06",
+      "region": "CA"
+    },
+    {
+      "t": "TOYOTA",
+      "n": "Toyota Credit Canada Inc",
+      "weight": 0.1186,
+      "isin": "CA892329BT93",
+      "region": "CA"
+    },
+    {
+      "t": "TOYOTA",
+      "n": "Toyota Credit Canada Inc",
+      "weight": 0.1094,
+      "isin": "CA892329CC59",
+      "region": "CA"
+    },
+    {
+      "t": "TOYOTA",
+      "n": "Toyota Credit Canada Inc",
+      "weight": 0.10907,
+      "isin": "CA892329BV40",
+      "region": "CA"
+    },
+    {
+      "t": "TOYOTA",
+      "n": "Toyota Credit Canada Inc",
+      "weight": 0.10904,
+      "isin": "CA892329CA93",
+      "region": "CA"
+    },
+    {
+      "t": "TOYOTA",
+      "n": "Toyota Credit Canada Inc",
+      "weight": 0.08466,
+      "isin": "CA892329CE16",
+      "region": "CA"
+    },
+    {
+      "t": "TOYOTA",
+      "n": "Toyota Credit Canada Inc",
+      "weight": 0.07665,
+      "isin": "CA892329CH47",
+      "region": "CA"
+    },
+    {
+      "t": "TOYOTA",
+      "n": "Toyota Credit Canada Inc",
+      "weight": 0.05161,
+      "isin": "CA892329CF80",
+      "region": "CA"
+    },
+    {
+      "t": "TOYOTA",
+      "n": "Toyota Credit Canada Inc",
+      "weight": 0.05083,
+      "isin": "CA892329BZ53",
+      "region": "CA"
+    },
+    {
+      "t": "TOYOTA",
+      "n": "Toyota Credit Canada Inc",
+      "weight": 0.04606,
+      "isin": "CA892329CK75",
+      "region": "CA"
+    },
+    {
+      "t": "TRPCN",
+      "n": "TransCanada PipeLines Ltd",
+      "weight": 0.40912,
+      "isin": "CA89353ZCN65",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "TRPCN",
+      "n": "TransCanada PipeLines Ltd",
+      "weight": 0.30134,
+      "isin": "CA89353ZCE66",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "TRPCN",
+      "n": "TransCanada PipeLines Ltd",
+      "weight": 0.25592,
+      "isin": "CA893526A940",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "TRPCN",
+      "n": "TransCanada PipeLines Ltd",
+      "weight": 0.13406,
+      "isin": "CA89353ZCH97",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "TRPCN",
+      "n": "TransCanada PipeLines Ltd",
+      "weight": 0.11641,
+      "isin": "CA893526DN05",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "TRPCN",
+      "n": "TransCanada PipeLines Ltd",
+      "weight": 0.07075,
+      "isin": "CA89353ZCA45",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "VITLUC",
+      "n": "Vital Infrastructure Property Trust",
+      "weight": 0.06033,
+      "isin": "CA92848PAD92",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "VTR",
+      "n": "Ventas Canada Finance Ltd",
+      "weight": 0.17528,
+      "isin": "CA92277LAK22",
+      "region": "CA"
+    },
+    {
+      "t": "VTR",
+      "n": "Ventas Canada Finance Ltd",
+      "weight": 0.16282,
+      "isin": "CA92277LAJ58",
+      "region": "CA"
+    },
+    {
+      "t": "VW",
+      "n": "VW Credit Canada Inc",
+      "weight": 0.12111,
+      "isin": "CA918423BQ60",
+      "region": "CA"
+    },
+    {
+      "t": "VW",
+      "n": "VW Credit Canada Inc",
+      "weight": 0.11237,
+      "isin": "CA918423BG88",
+      "region": "CA"
+    },
+    {
+      "t": "VW",
+      "n": "VW Credit Canada Inc",
+      "weight": 0.11085,
+      "isin": "CA918423BL73",
+      "region": "CA"
+    },
+    {
+      "t": "VW",
+      "n": "VW Credit Canada Inc",
+      "weight": 0.09776,
+      "isin": "CA918423BN30",
+      "region": "CA"
+    },
+    {
+      "t": "VW",
+      "n": "VW Credit Canada Inc",
+      "weight": 0.08355,
+      "isin": "CA918423BE31",
+      "region": "CA"
+    },
+    {
+      "t": "VW",
+      "n": "VW Credit Canada Inc",
+      "weight": 0.08073,
+      "isin": "CA918423BP87",
+      "region": "CA"
+    },
+    {
+      "t": "VZ",
+      "n": "Verizon Communications Inc",
+      "weight": 0.28765,
+      "isin": "CA92343VFY52",
+      "sector": "Communication Services",
+      "region": "US"
+    },
+    {
+      "t": "VZ",
+      "n": "Verizon Communications Inc",
+      "weight": 0.2841,
+      "isin": "CA92343VFG47",
+      "sector": "Communication Services",
+      "region": "US"
+    },
+    {
+      "t": "WCNCN",
+      "n": "Waste Connections Inc",
+      "weight": 0.15314,
+      "isin": "CA94106BAH48",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "WCPCN",
+      "n": "Whitecap Resources Inc",
+      "weight": 0.14174,
+      "isin": "CA92340VAA58",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "WCPCN",
+      "n": "Whitecap Resources Inc",
+      "weight": 0.09989,
+      "isin": "CA96467AAA93",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "WCPCN",
+      "n": "Whitecap Resources Inc",
+      "weight": 0.09896,
+      "isin": "CA96467AAB76",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "WEMALL",
+      "n": "Original Wempi Inc",
+      "weight": 0.24149,
+      "isin": "CA952637AE66",
+      "region": "CA"
+    },
+    {
+      "t": "WSPCN",
+      "n": "WSP Global Inc",
+      "weight": 0.19077,
+      "isin": "CA92938WAC79",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "WSPCN",
+      "n": "WSP Global Inc",
+      "weight": 0.16588,
+      "isin": "CA92938WAA14",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "WSPCN",
+      "n": "WSP Global Inc",
+      "weight": 0.15369,
+      "isin": "CA92938WAB96",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "XCN",
+      "n": "TMX Group Ltd",
+      "weight": 0.13383,
+      "isin": "CA87262KAG00",
+      "sector": "Financials",
+      "region": "CA"
+    }
+  ]
+}

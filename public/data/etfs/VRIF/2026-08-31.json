@@ -1,0 +1,79 @@
+{
+  "id": 1,
+  "as_of_date": "2026-08-31",
+  "source": "url",
+  "source_url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9870/vanguard-retirement-income-etf-portfolio",
+  "created_at": "2026-09-26T13:21:27.636Z",
+  "partial": false,
+  "content_hash": "4f1b7d6207071a772538a226ef7f6d3650aaab32757ddd0c105cd5f446b06302",
+  "holdings": [
+    {
+      "t": "CAD",
+      "n": "Canadian Dollar",
+      "weight": 0.01224,
+      "region": "CA"
+    },
+    {
+      "t": "USD",
+      "n": "US Dollar",
+      "weight": 0.00006,
+      "region": "US"
+    },
+    {
+      "t": "VAB",
+      "n": "Vanguard Canadian Aggregate Bond Index ETF",
+      "weight": 24.15681,
+      "isin": "CA92203E1016",
+      "region": "CA"
+    },
+    {
+      "t": "VBG",
+      "n": "Vanguard Global ex-U.S. Aggregate Bond Index ETF CAD- hedged",
+      "weight": 6.30163,
+      "isin": "CA92206H1010",
+      "region": "CA"
+    },
+    {
+      "t": "VBU",
+      "n": "Vanguard US Aggregate Bond Index ETF Cad Hedged",
+      "weight": 4.198,
+      "isin": "CA92206G1037",
+      "region": "CA"
+    },
+    {
+      "t": "VCB",
+      "n": "Vanguard Canadian Corporate Bond Index ETF",
+      "weight": 34.65761,
+      "isin": "CA92210P1071",
+      "region": "CA"
+    },
+    {
+      "t": "VCN",
+      "n": "Vanguard FTSE Canada All Cap Index ETF",
+      "weight": 9.25356,
+      "isin": "CA92205P1045",
+      "region": "CA"
+    },
+    {
+      "t": "VEE",
+      "n": "Vanguard FTSE Emerging Markets All Cap Index ETF",
+      "weight": 0.08247,
+      "isin": "CA92205X1078",
+      "region": "CA"
+    },
+    {
+      "t": "VIU",
+      "n": "Vanguard FTSE Developed All Cap ex-North America Index ETF",
+      "weight": 13.74419,
+      "isin": "CA92204G1054",
+      "region": "CA"
+    },
+    {
+      "t": "VUN",
+      "n": "Vanguard Morningstar US Total Market Index ETF",
+      "weight": 7.59342,
+      "isin": "CA92206D1006",
+      "region": "CA"
+    }
+  ]
+}

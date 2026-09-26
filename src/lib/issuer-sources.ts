@@ -32,7 +32,7 @@ export async function fetchIssuerSource(url: string): Promise<FetchResult> {
     const ticker = /^([A-Z0-9.]+)_holdings$/i.exec(parsed.searchParams.get("fileName") ?? "")?.[1];
     if (ticker) return { ...result, source: { kind: "csv", text: `iShares ${ticker}\n${result.source.text}` } };
   }
-  const match = parsed.hostname === "www.vanguard.ca" && /\/product\/etf\/[^/]+\/(\d+)\//.exec(parsed.pathname);
+  const match = parsed.hostname === "www.vanguard.ca" && /\/product\/etf\/[^/]+\/([A-Z0-9]+)\//.exec(parsed.pathname);
   if (!match || result.source.kind !== "html") return result;
   const $ = cheerio.load(result.source.text);
   const heading = $("h1").first().text().trim();

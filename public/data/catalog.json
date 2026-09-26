@@ -1,7 +1,121 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T06:04:11.757Z",
+  "generated_at": "2026-09-26T13:21:27.636Z",
   "etfs": [
+    {
+      "id": 7,
+      "ticker": "VA",
+      "name": "Vanguard FTSE Developed Asia Pacific All Cap Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/9550/vanguard-ftse-developed-asia-pacific-all-cap-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "47936e82b672a35296c7bc9a7908a5940ed3ceda9ad2d18426d1ddb8fc132970",
+          "holdings_count": 2355,
+          "file": "etfs/VA/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "ticker": "VAB",
+      "name": "Vanguard Canadian Aggregate Bond Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/fixed-income/9552/vanguard-canadian-aggregate-bond-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "47058cf10cdcf0a69ed1462b975eb8217018f49e81b7cfc26f9c82869dbb6161",
+          "holdings_count": 1317,
+          "file": "etfs/VAB/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "ticker": "VBAL",
+      "name": "Vanguard Balanced ETF Portfolio",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9578/vanguard-balanced-etf-portfolio",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "eed00d4e64dc5a55ecc3597809bd33c452e18697e6c44b3e9526bed5d3480197",
+          "holdings_count": 9,
+          "file": "etfs/VBAL/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "ticker": "VCB",
+      "name": "Vanguard Canadian Corporate Bond Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/fixed-income/1936/vanguard-canadian-corporate-bond-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "cf8e43f4779c6ba617a9c518928510e043df6976e448ddb34345ee65203c49e9",
+          "holdings_count": 870,
+          "file": "etfs/VCB/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "ticker": "VCE",
+      "name": "Vanguard FTSE Canada Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/9554/vanguard-ftse-canada-index-etf",
+          "created_at": "2026-09-26T08:13:12.185Z",
+          "partial": false,
+          "content_hash": "932d2e2ccacf9326fb5b88cfae09eba0f53cf40212dde9bba68b0010b435e9f7",
+          "holdings_count": 88,
+          "file": "etfs/VCE/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "ticker": "VCIP",
+      "name": "Vanguard Conservative Income ETF Portfolio",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9691/vanguard-conservative-income-etf-portfolio",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "a8d415331e6e2db9683325a6c4ed4ac008e611ea737c329d739b8fb113b5255f",
+          "holdings_count": 9,
+          "file": "etfs/VCIP/2026-08-31.json"
+        }
+      ]
+    },
     {
       "id": 1,
       "ticker": "VCN",
@@ -18,6 +132,500 @@
           "content_hash": "9aa56fc553dc4b2081ed7b2f1494bcb6078a53ff693c472763e5bc6c8837cb54",
           "holdings_count": 213,
           "file": "etfs/VCN/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "ticker": "VCNS",
+      "name": "Vanguard Conservative ETF Portfolio",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9577/vanguard-conservative-etf-portfolio",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "1b3d5dacf8215926fdfb2188a2eeb497cbdd51de83332ea4399dfad8ddeced16",
+          "holdings_count": 9,
+          "file": "etfs/VCNS/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "ticker": "VCOR",
+      "name": "Vanguard Global Core-Plus Bond ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/fixed-income/D021/vanguard-global-core-plus-bond-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "662c60a02d5c60390ba5a5be000ea14c88c939aa932c2149a57f98a03b301ef9",
+          "holdings_count": 1,
+          "file": "etfs/VCOR/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "ticker": "VDU",
+      "name": "Vanguard FTSE Developed All Cap ex U.S. Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/9558/vanguard-ftse-developed-all-cap-ex-us-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "647ef2695f48fbc8b8ececf9adef35983e5ccf65959884f5123eaea9d4e2f4db",
+          "holdings_count": 3,
+          "file": "etfs/VDU/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "ticker": "VDY",
+      "name": "Vanguard FTSE Canadian High Dividend Yield Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/9560/vanguard-ftse-canadian-high-dividend-yield-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "3278ec549e94a996a8bbca1f8e596c13bda8a742a684f26b1a8b30cc7fbde32e",
+          "holdings_count": 63,
+          "file": "etfs/VDY/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "ticker": "VE",
+      "name": "Vanguard FTSE Developed Europe All Cap Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/9549/vanguard-ftse-developed-europe-all-cap-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "382488acaa1b6a4958afff3876f38d2b47760c2a68aa0305f58e7ac009f8893d",
+          "holdings_count": 1258,
+          "file": "etfs/VE/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "ticker": "VEE",
+      "name": "Vanguard FTSE Emerging Markets All Cap Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/9556/vanguard-ftse-emerging-markets-all-cap-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "0dad013204168eb979a18ef327cd1363ecbe864ea1bd92b289ed8ac0927ede3f",
+          "holdings_count": 4,
+          "file": "etfs/VEE/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "ticker": "VEQT",
+      "name": "Vanguard All-Equity ETF Portfolio",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9692/vanguard-all-equity-etf-portfolio",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "7768aefa5c06a5051725bdc6ab5229f8d8c2aa85a816cceea4dfe81739715ffe",
+          "holdings_count": 7,
+          "file": "etfs/VEQT/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "ticker": "VFV",
+      "name": "Vanguard S&P 500 Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/9563/vanguard-sp-500-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "cbc3ede64106fa18ed7940c9ade6ddc52d5e887f34f1d89307503a8ebb27e4cd",
+          "holdings_count": 6,
+          "file": "etfs/VFV/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "ticker": "VGAB",
+      "name": "Vanguard Global Aggregate Bond Index ETF (CAD-hedged)",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/fixed-income/9841/vanguard-global-aggregate-bond-index-etf-cad-hedged",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "9fcacd8ae029152bbd1590c7d8a05ed9394aa4be6f4ccd3abfba2107bc422b17",
+          "holdings_count": 3,
+          "file": "etfs/VGAB/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "ticker": "VGG",
+      "name": "Vanguard U.S. Dividend Appreciation Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/9566/vanguard-us-dividend-appreciation-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "3f63944e7bbb953bfef54d53b043377230f770712f06470598c03ffd5910ba1f",
+          "holdings_count": 3,
+          "file": "etfs/VGG/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "ticker": "VGRO",
+      "name": "Vanguard Growth ETF Portfolio",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9579/vanguard-growth-etf-portfolio",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "ab6dcd0a521decb1ee1ff5cd4aef91cca82b1d556062bb313e040a41f2babd9d",
+          "holdings_count": 9,
+          "file": "etfs/VGRO/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "ticker": "VGV",
+      "name": "Vanguard Canadian Government Bond Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/fixed-income/1817/vanguard-canadian-government-bond-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "987fe365ff0033c2b3b0636acabca76c6b3617942889b2d14875b1fad20759e9",
+          "holdings_count": 499,
+          "file": "etfs/VGV/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "ticker": "VIDY",
+      "name": "Vanguard FTSE Developed ex North America High Dividend Yield Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/9742/vanguard-ftse-developed-ex-north-america-high-dividend-yield-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "38d82a70f1a795019565e2b186f62f866e3d4a45ef5799e147fe59be5c3353b0",
+          "holdings_count": 702,
+          "file": "etfs/VIDY/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "ticker": "VIGG",
+      "name": "Vanguard Developed ex-North America Dividend Appreciation ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/D020/vanguard-developed-ex-north-america-dividend-appreciation-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "76320a4e08d79f5b406b8587a410ef1525a224549198f625ab000fb8f5237a61",
+          "holdings_count": 238,
+          "file": "etfs/VIGG/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "ticker": "VIU",
+      "name": "Vanguard FTSE Developed All Cap ex North America Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/9569/vanguard-ftse-developed-all-cap-ex-north-america-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "0b4e0626bfe2bfff27ae0fcfcd47770ed3a6c679b0f77057e3c5c2560a26faa1",
+          "holdings_count": 3701,
+          "file": "etfs/VIU/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "ticker": "VLB",
+      "name": "Vanguard Canadian Long-Term Bond Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/fixed-income/1811/vanguard-canadian-long-term-bond-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "82cc79f3a4f804d4eb3a39456fd06c625fe94f9c211486312fd1d6e8cc6e2b8d",
+          "holdings_count": 419,
+          "file": "etfs/VLB/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "ticker": "VMO",
+      "name": "Vanguard Global Momentum Factor ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-06-30",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/9835/vanguard-global-momentum-factor-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "bf54ed785d7b85432572001ab4ae61aba5204eb1c4b8ab058a49c6a11b59b09f",
+          "holdings_count": 861,
+          "file": "etfs/VMO/2026-06-30.json"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "ticker": "VRE",
+      "name": "Vanguard FTSE Canadian Capped REIT Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/9559/vanguard-ftse-canadian-capped-reit-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "f14d999375ebdb06696eaa4380115fc761cadddf627ecbfd351264d6d1150f7b",
+          "holdings_count": 21,
+          "file": "etfs/VRE/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "ticker": "VRIF",
+      "name": "Vanguard Retirement Income ETF Portfolio",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9870/vanguard-retirement-income-etf-portfolio",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "4f1b7d6207071a772538a226ef7f6d3650aaab32757ddd0c105cd5f446b06302",
+          "holdings_count": 10,
+          "file": "etfs/VRIF/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "ticker": "VSB",
+      "name": "Vanguard Canadian Short-Term Bond Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/fixed-income/9553/vanguard-canadian-short-term-bond-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "4755771f1487993edbb12d89bac7337bbbbddde13e53b96042e1f08d7073f084",
+          "holdings_count": 585,
+          "file": "etfs/VSB/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "ticker": "VSC",
+      "name": "Vanguard Canadian Short-Term Corporate Bond Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/fixed-income/9565/vanguard-canadian-short-term-corporate-bond-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "9be822def105853c07f8846e702380906f50866a45543cb56866b09f392e0ae4",
+          "holdings_count": 458,
+          "file": "etfs/VSC/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "ticker": "VUDV",
+      "name": "Vanguard U.S. High Dividend Yield ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/D018/vanguard-us-high-dividend-yield-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "f9aebc002ae3d98eb36ff2a424a14809d4878767b14ae00949cbc33f5970a891",
+          "holdings_count": 605,
+          "file": "etfs/VUDV/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "ticker": "VUN",
+      "name": "Vanguard Morningstar U.S. Total Market Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/9557/vanguard-morningstar-us-total-market-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "5a53c4216353a32046fcfb78f7a6e93d774f548f271fc259612ef6ae7a9cf6fe",
+          "holdings_count": 8,
+          "file": "etfs/VUN/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "ticker": "VVL",
+      "name": "Vanguard Global Value Factor ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-06-30",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/9795/vanguard-global-value-factor-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "0aefd1442feafd7d2fa483defc55c60208f984ff1ab9c1ffbdfd848f27cebc2c",
+          "holdings_count": 867,
+          "file": "etfs/VVL/2026-06-30.json"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "ticker": "VVSG",
+      "name": "Vanguard Canadian Ultra-Short Government Bond Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/fixed-income/D003/vanguard-canadian-ultra-short-government-bond-index-etf",
+          "created_at": "2026-09-26T13:21:27.636Z",
+          "partial": false,
+          "content_hash": "70a573b3873cfa9868e77ada201a1c7e887e0c8b9de91882004f2bdf683ed826",
+          "holdings_count": 25,
+          "file": "etfs/VVSG/2026-08-31.json"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "ticker": "VXE",
+      "name": "Vanguard FTSE Global All Cap ex Canada Index ETF",
+      "issuer": "Vanguard",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-08-31",
+          "source": "url",
+          "source_url": "https://www.vanguard.ca/en/product/etf/equity/9548/vanguard-ftse-global-all-cap-ex-canada-index-etf",
+          "created_at": "2026-09-26T07:44:38.776Z",
+          "partial": false,
+          "content_hash": "b3f8e399e9a88db021b3c239b6bd497681e984e0d8514b59447abea3aa3138f8",
+          "holdings_count": 12,
+          "file": "etfs/VXE/2026-08-31.json"
         }
       ]
     },
@@ -47,6 +655,17 @@
       "issuer": "BMO",
       "snapshots": [
         {
+          "id": 2,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCN_20260925.xlsx",
+          "created_at": "2026-09-26T07:44:38.776Z",
+          "partial": false,
+          "content_hash": "1d1ceebab420362e1ca772e2f107ea80148c0900df0e3ba3c5573265d0fab84d",
+          "holdings_count": 216,
+          "file": "etfs/ZCN/2026-09-25.json"
+        },
+        {
           "id": 1,
           "as_of_date": "2026-09-24",
           "source": "url",
@@ -65,8 +684,8 @@
       "id": "vanguard-vcn",
       "label": "Vanguard Canada — VCN",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9561/vanguard-ftse-canada-all-cap-index-etf",
-      "last_checked_at": "2026-09-26T06:04:11.757Z",
-      "last_success_at": "2026-09-26T06:04:11.757Z",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -75,8 +694,8 @@
       "id": "bmo-zcn",
       "label": "BMO — ZCN",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCN_20260924.xlsx",
-      "last_checked_at": "2026-09-26T06:04:11.757Z",
-      "last_success_at": "2026-09-26T06:04:11.757Z",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -85,10 +704,465 @@
       "id": "ishares-xeqt",
       "label": "iShares — XEQT",
       "url": "https://www.blackrock.com/ca/investors/en/products/309480/fund/1464253357814.ajax?fileType=csv&fileName=XEQT_holdings&dataType=fund",
-      "last_checked_at": "2026-09-26T06:04:11.757Z",
-      "last_success_at": "2026-09-26T06:04:11.757Z",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
       "imported": 0,
       "unchanged": 1,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vxe",
+      "label": "Vanguard Canada — VXE",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9548/vanguard-ftse-global-all-cap-ex-canada-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 0,
+      "unchanged": 1,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vce",
+      "label": "Vanguard Canada — VCE",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9554/vanguard-ftse-canada-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 0,
+      "unchanged": 1,
+      "errors": []
+    },
+    {
+      "id": "vanguard-ve",
+      "label": "Vanguard Canada — VE",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9549/vanguard-ftse-developed-europe-all-cap-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-va",
+      "label": "Vanguard Canada — VA",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9550/vanguard-ftse-developed-asia-pacific-all-cap-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vus",
+      "label": "Vanguard Canada — VUS",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9551/vanguard-morningstar-us-total-market-index-etf-cad-hedged",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://www.vanguard.ca/en/product/etf/equity/9551/vanguard-morningstar-us-total-market-index-etf-cad-hedged",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "vanguard-vee",
+      "label": "Vanguard Canada — VEE",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9556/vanguard-ftse-emerging-markets-all-cap-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vun",
+      "label": "Vanguard Canada — VUN",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9557/vanguard-morningstar-us-total-market-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vdu",
+      "label": "Vanguard Canada — VDU",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9558/vanguard-ftse-developed-all-cap-ex-us-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vef",
+      "label": "Vanguard Canada — VEF",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9555/vanguard-ftse-developed-all-cap-ex-us-index-etf-cad-hedged",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://www.vanguard.ca/en/product/etf/equity/9555/vanguard-ftse-developed-all-cap-ex-us-index-etf-cad-hedged",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "vanguard-vre",
+      "label": "Vanguard Canada — VRE",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9559/vanguard-ftse-canadian-capped-reit-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vdy",
+      "label": "Vanguard Canada — VDY",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9560/vanguard-ftse-canadian-high-dividend-yield-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vfv",
+      "label": "Vanguard Canada — VFV",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9563/vanguard-sp-500-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vsp",
+      "label": "Vanguard Canada — VSP",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9562/vanguard-sp-500-index-etf-cad-hedged",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://www.vanguard.ca/en/product/etf/equity/9562/vanguard-sp-500-index-etf-cad-hedged",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "vanguard-vgg",
+      "label": "Vanguard Canada — VGG",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9566/vanguard-us-dividend-appreciation-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vgh",
+      "label": "Vanguard Canada — VGH",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9564/vanguard-us-dividend-appreciation-index-etf-cad-hedged",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://www.vanguard.ca/en/product/etf/equity/9564/vanguard-us-dividend-appreciation-index-etf-cad-hedged",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "vanguard-viu",
+      "label": "Vanguard Canada — VIU",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9569/vanguard-ftse-developed-all-cap-ex-north-america-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vi",
+      "label": "Vanguard Canada — VI",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9570/vanguard-ftse-developed-all-cap-ex-north-america-index-etf-cad-hedged",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://www.vanguard.ca/en/product/etf/equity/9570/vanguard-ftse-developed-all-cap-ex-north-america-index-etf-cad-hedged",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "vanguard-vidy",
+      "label": "Vanguard Canada — VIDY",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9742/vanguard-ftse-developed-ex-north-america-high-dividend-yield-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vvl",
+      "label": "Vanguard Canada — VVL",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9795/vanguard-global-value-factor-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vvo",
+      "label": "Vanguard Canada — VVO",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9828/vanguard-global-minimum-volatility-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://www.vanguard.ca/en/product/etf/equity/9828/vanguard-global-minimum-volatility-etf",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "vanguard-vmo",
+      "label": "Vanguard Canada — VMO",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/9835/vanguard-global-momentum-factor-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vab",
+      "label": "Vanguard Canada — VAB",
+      "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9552/vanguard-canadian-aggregate-bond-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vsb",
+      "label": "Vanguard Canada — VSB",
+      "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9553/vanguard-canadian-short-term-bond-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vsc",
+      "label": "Vanguard Canada — VSC",
+      "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9565/vanguard-canadian-short-term-corporate-bond-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vbu",
+      "label": "Vanguard Canada — VBU",
+      "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9567/vanguard-us-aggregate-bond-index-etf-cad-hedged",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9567/vanguard-us-aggregate-bond-index-etf-cad-hedged",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "vanguard-vbg",
+      "label": "Vanguard Canada — VBG",
+      "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9568/vanguard-global-ex-us-aggregate-bond-index-etf-cad-hedged",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9568/vanguard-global-ex-us-aggregate-bond-index-etf-cad-hedged",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "vanguard-vgab",
+      "label": "Vanguard Canada — VGAB",
+      "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9841/vanguard-global-aggregate-bond-index-etf-cad-hedged",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vlb",
+      "label": "Vanguard Canada — VLB",
+      "url": "https://www.vanguard.ca/en/product/etf/fixed-income/1811/vanguard-canadian-long-term-bond-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vgv",
+      "label": "Vanguard Canada — VGV",
+      "url": "https://www.vanguard.ca/en/product/etf/fixed-income/1817/vanguard-canadian-government-bond-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vcb",
+      "label": "Vanguard Canada — VCB",
+      "url": "https://www.vanguard.ca/en/product/etf/fixed-income/1936/vanguard-canadian-corporate-bond-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vcns",
+      "label": "Vanguard Canada — VCNS",
+      "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9577/vanguard-conservative-etf-portfolio",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vbal",
+      "label": "Vanguard Canada — VBAL",
+      "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9578/vanguard-balanced-etf-portfolio",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vgro",
+      "label": "Vanguard Canada — VGRO",
+      "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9579/vanguard-growth-etf-portfolio",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vcip",
+      "label": "Vanguard Canada — VCIP",
+      "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9691/vanguard-conservative-income-etf-portfolio",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-veqt",
+      "label": "Vanguard Canada — VEQT",
+      "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9692/vanguard-all-equity-etf-portfolio",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vrif",
+      "label": "Vanguard Canada — VRIF",
+      "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9870/vanguard-retirement-income-etf-portfolio",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vvsg",
+      "label": "Vanguard Canada — VVSG",
+      "url": "https://www.vanguard.ca/en/product/etf/fixed-income/D003/vanguard-canadian-ultra-short-government-bond-index-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vudv",
+      "label": "Vanguard Canada — VUDV",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/D018/vanguard-us-high-dividend-yield-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vudh",
+      "label": "Vanguard Canada — VUDH",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/D019/vanguard-us-high-dividend-yield-hedged-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://www.vanguard.ca/en/product/etf/equity/D019/vanguard-us-high-dividend-yield-hedged-etf",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "vanguard-vigg",
+      "label": "Vanguard Canada — VIGG",
+      "url": "https://www.vanguard.ca/en/product/etf/equity/D020/vanguard-developed-ex-north-america-dividend-appreciation-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "vanguard-vcor",
+      "label": "Vanguard Canada — VCOR",
+      "url": "https://www.vanguard.ca/en/product/etf/fixed-income/D021/vanguard-global-core-plus-bond-etf",
+      "last_checked_at": "2026-09-26T13:21:27.636Z",
+      "last_success_at": "2026-09-26T13:21:27.636Z",
+      "imported": 1,
+      "unchanged": 0,
       "errors": []
     }
   ]

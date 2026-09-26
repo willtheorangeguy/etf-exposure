@@ -1,0 +1,81 @@
+{
+  "id": 1,
+  "as_of_date": "2026-08-31",
+  "source": "url",
+  "source_url": "https://www.vanguard.ca/en/product/etf/equity/9548/vanguard-ftse-global-all-cap-ex-canada-index-etf",
+  "created_at": "2026-09-26T07:44:38.776Z",
+  "partial": false,
+  "content_hash": "b3f8e399e9a88db021b3c239b6bd497681e984e0d8514b59447abea3aa3138f8",
+  "holdings": [
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": 0.32163
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260901",
+      "weight": 0.0173
+    },
+    {
+      "t": "CAD",
+      "n": "Canadian Dollar",
+      "weight": 0.01034,
+      "region": "CA"
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20260916",
+      "weight": 0.16896
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20260916",
+      "weight": 0.14708
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20260901",
+      "weight": 0.0173
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20260916",
+      "weight": 0.01042
+    },
+    {
+      "t": "USD",
+      "n": "US Dollar",
+      "weight": 0.00314,
+      "region": "US"
+    },
+    {
+      "t": "VB",
+      "n": "Vanguard Morningstar Small-Cap ETF",
+      "weight": 6.68239,
+      "isin": "US9229087518",
+      "region": "US"
+    },
+    {
+      "t": "VIU",
+      "n": "Vanguard FTSE Developed All Cap ex-North America Index ETF",
+      "weight": 25.84533,
+      "isin": "CA92204G1054",
+      "region": "CA"
+    },
+    {
+      "t": "VV",
+      "n": "Vanguard Morningstar Large-Cap ETF",
+      "weight": 56.89444,
+      "isin": "US9229086379",
+      "region": "US"
+    },
+    {
+      "t": "VWO",
+      "n": "Vanguard FTSE Emerging Markets ETF",
+      "weight": 10.56451,
+      "isin": "US9220428588",
+      "region": "US"
+    }
+  ]
+}

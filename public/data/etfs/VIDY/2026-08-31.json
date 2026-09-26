@@ -1,0 +1,5428 @@
+{
+  "id": 1,
+  "as_of_date": "2026-08-31",
+  "source": "url",
+  "source_url": "https://www.vanguard.ca/en/product/etf/equity/9742/vanguard-ftse-developed-ex-north-america-high-dividend-yield-index-etf",
+  "created_at": "2026-09-26T13:21:27.636Z",
+  "partial": false,
+  "content_hash": "38d82a70f1a795019565e2b186f62f866e3d4a45ef5799e147fe59be5c3353b0",
+  "holdings": [
+    {
+      "t": "000270",
+      "n": "Kia Corp",
+      "weight": 0.17194,
+      "isin": "KR7000270009",
+      "sector": "Consumer Discretionary",
+      "region": "KR"
+    },
+    {
+      "t": "000810",
+      "n": "Samsung Fire & Marine Insurance Co Ltd",
+      "weight": 0.10962,
+      "isin": "KR7000810002",
+      "sector": "Financials",
+      "region": "KR"
+    },
+    {
+      "t": "000815",
+      "n": "Samsung Fire & Marine Insurance Co Ltd",
+      "weight": 0.00761,
+      "isin": "KR7000811000",
+      "sector": "Financials",
+      "region": "KR"
+    },
+    {
+      "t": "003490",
+      "n": "Korean Air Lines Co Ltd",
+      "weight": 0.02865,
+      "isin": "KR7003490000",
+      "sector": "Industrials",
+      "region": "KR"
+    },
+    {
+      "t": "003550",
+      "n": "LG Corp",
+      "weight": 0.05683,
+      "isin": "KR7003550001",
+      "sector": "Industrials",
+      "region": "KR"
+    },
+    {
+      "t": "004990",
+      "n": "Lotte Corp",
+      "weight": 0.00401,
+      "isin": "KR7004990008",
+      "sector": "Industrials",
+      "region": "KR"
+    },
+    {
+      "t": "005385",
+      "n": "Hyundai Motor Co",
+      "weight": 0.02409,
+      "isin": "KR7005381009",
+      "sector": "Consumer Discretionary",
+      "region": "KR"
+    },
+    {
+      "t": "005387",
+      "n": "Hyundai Motor Co",
+      "weight": 0.03649,
+      "isin": "KR7005382007",
+      "sector": "Consumer Discretionary",
+      "region": "KR"
+    },
+    {
+      "t": "005490",
+      "n": "POSCO Holdings Inc",
+      "weight": 0.13738,
+      "isin": "KR7005490008",
+      "sector": "Materials",
+      "region": "KR"
+    },
+    {
+      "t": "005830",
+      "n": "DB Insurance Co Ltd",
+      "weight": 0.03899,
+      "isin": "KR7005830005",
+      "sector": "Financials",
+      "region": "KR"
+    },
+    {
+      "t": "005940",
+      "n": "NH Investment & Securities Co Ltd",
+      "weight": 0.01974,
+      "isin": "KR7005940002",
+      "sector": "Financials",
+      "region": "KR"
+    },
+    {
+      "t": "006360",
+      "n": "GS Engineering & Construction Corp",
+      "weight": 0.01316,
+      "isin": "KR7006360002",
+      "sector": "Industrials",
+      "region": "KR"
+    },
+    {
+      "t": "007070",
+      "n": "GS Retail Co Ltd",
+      "weight": 0.00498,
+      "isin": "KR7007070006",
+      "sector": "Consumer Staples",
+      "region": "KR"
+    },
+    {
+      "t": "009540",
+      "n": "HD Korea Shipbuilding & Offshore Engineering Co Ltd",
+      "weight": 0.08713,
+      "isin": "KR7009540006",
+      "sector": "Industrials",
+      "region": "KR"
+    },
+    {
+      "t": "012750",
+      "n": "S-1 Corp",
+      "weight": 0.00895,
+      "isin": "KR7012750006",
+      "sector": "Industrials",
+      "region": "KR"
+    },
+    {
+      "t": "015760",
+      "n": "Korea Electric Power Corp",
+      "weight": 0.04559,
+      "isin": "KR7015760002",
+      "sector": "Utilities",
+      "region": "KR"
+    },
+    {
+      "t": "016360",
+      "n": "Samsung Securities Co Ltd",
+      "weight": 0.03069,
+      "isin": "KR7016360000",
+      "sector": "Financials",
+      "region": "KR"
+    },
+    {
+      "t": "017670",
+      "n": "SK Telecom Co Ltd",
+      "weight": 0.0169,
+      "isin": "KR7017670001",
+      "sector": "Communication Services",
+      "region": "KR"
+    },
+    {
+      "t": "021240",
+      "n": "Coway Co Ltd",
+      "weight": 0.02795,
+      "isin": "KR7021240007",
+      "sector": "Consumer Discretionary",
+      "region": "KR"
+    },
+    {
+      "t": "023530",
+      "n": "Lotte Shopping Co Ltd",
+      "weight": 0.00666,
+      "isin": "KR7023530009",
+      "sector": "Consumer Discretionary",
+      "region": "KR"
+    },
+    {
+      "t": "024110",
+      "n": "Industrial Bank of Korea",
+      "weight": 0.02945,
+      "isin": "KR7024110009",
+      "sector": "Financials",
+      "region": "KR"
+    },
+    {
+      "t": "026960",
+      "n": "Dongsuh Cos Inc",
+      "weight": 0.00423,
+      "isin": "KR7026960005",
+      "sector": "Consumer Staples",
+      "region": "KR"
+    },
+    {
+      "t": "028050",
+      "n": "Samsung E&A Co Ltd",
+      "weight": 0.04113,
+      "isin": "KR7028050003",
+      "sector": "Industrials",
+      "region": "KR"
+    },
+    {
+      "t": "029780",
+      "n": "Samsung Card Co Ltd",
+      "weight": 0.00665,
+      "isin": "KR7029780004",
+      "sector": "Financials",
+      "region": "KR"
+    },
+    {
+      "t": "030000",
+      "n": "Cheil Worldwide Inc",
+      "weight": 0.00748,
+      "isin": "KR7030000004",
+      "sector": "Communication Services",
+      "region": "KR"
+    },
+    {
+      "t": "032640",
+      "n": "LG Uplus Corp",
+      "weight": 0.01747,
+      "isin": "KR7032640005",
+      "sector": "Communication Services",
+      "region": "KR"
+    },
+    {
+      "t": "032830",
+      "n": "Samsung Life Insurance Co Ltd",
+      "weight": 0.13625,
+      "isin": "KR7032830002",
+      "sector": "Financials",
+      "region": "KR"
+    },
+    {
+      "t": "033780",
+      "n": "KT&G Corp",
+      "weight": 0.09801,
+      "isin": "KR7033780008",
+      "sector": "Consumer Staples",
+      "region": "KR"
+    },
+    {
+      "t": "035250",
+      "n": "Kangwon Land Inc",
+      "weight": 0.01016,
+      "isin": "KR7035250000",
+      "sector": "Consumer Discretionary",
+      "region": "KR"
+    },
+    {
+      "t": "036460",
+      "n": "Korea Gas Corp",
+      "weight": 0.00532,
+      "isin": "KR7036460004",
+      "sector": "Utilities",
+      "region": "KR"
+    },
+    {
+      "t": "047050",
+      "n": "Posco International Corp",
+      "weight": 0.01349,
+      "isin": "KR7047050000",
+      "sector": "Industrials",
+      "region": "KR"
+    },
+    {
+      "t": "051600",
+      "n": "KEPCO Plant Service & Engineering Co Ltd",
+      "weight": 0.00533,
+      "isin": "KR7051600005",
+      "sector": "Industrials",
+      "region": "KR"
+    },
+    {
+      "t": "055550",
+      "n": "Shinhan Financial Group Co Ltd",
+      "weight": 0.25672,
+      "isin": "KR7055550008",
+      "sector": "Financials",
+      "region": "KR"
+    },
+    {
+      "t": "064400",
+      "n": "LG CNS Co Ltd",
+      "weight": 0.02131,
+      "isin": "KR7064400005",
+      "sector": "Information Technology",
+      "region": "KR"
+    },
+    {
+      "t": "071050",
+      "n": "Korea Investment Holdings Co Ltd",
+      "weight": 0.04251,
+      "isin": "KR7071050009",
+      "sector": "Financials",
+      "region": "KR"
+    },
+    {
+      "t": "071055",
+      "n": "Korea Investment Holdings Co Ltd",
+      "weight": 0.00655,
+      "isin": "KR7071051007",
+      "sector": "Financials",
+      "region": "KR"
+    },
+    {
+      "t": "078930",
+      "n": "GS Holdings Corp",
+      "weight": 0.03045,
+      "isin": "KR7078930005",
+      "sector": "Industrials",
+      "region": "KR"
+    },
+    {
+      "t": "081660",
+      "n": "Fila Holdings Corp",
+      "weight": 0.0071,
+      "isin": "KR7081660003",
+      "sector": "Consumer Discretionary",
+      "region": "KR"
+    },
+    {
+      "t": "086280",
+      "n": "Hyundai Glovis Co Ltd",
+      "weight": 0.04316,
+      "isin": "KR7086280005",
+      "sector": "Industrials",
+      "region": "KR"
+    },
+    {
+      "t": "086790",
+      "n": "Hana Financial Group Inc",
+      "weight": 0.19978,
+      "isin": "KR7086790003",
+      "sector": "Financials",
+      "region": "KR"
+    },
+    {
+      "t": "097950",
+      "n": "CJ CheilJedang Corp",
+      "weight": 0.00938,
+      "isin": "KR7097950000",
+      "sector": "Consumer Staples",
+      "region": "KR"
+    },
+    {
+      "t": "097955",
+      "n": "CJ CheilJedang Corp",
+      "weight": 0.00042,
+      "isin": "KR7097951008",
+      "sector": "Consumer Staples",
+      "region": "KR"
+    },
+    {
+      "t": "1",
+      "n": "CK Hutchison Holdings Ltd",
+      "weight": 0.18314,
+      "isin": "KYG217651051",
+      "sector": "Industrials",
+      "region": "HK"
+    },
+    {
+      "t": "10",
+      "n": "Hang Lung Group Ltd",
+      "weight": 0.00983,
+      "isin": "HK0010000088",
+      "sector": "Real Estate",
+      "region": "HK"
+    },
+    {
+      "t": "101",
+      "n": "Hang Lung Properties Ltd",
+      "weight": 0.01157,
+      "isin": "HK0101000591",
+      "sector": "Real Estate",
+      "region": "HK"
+    },
+    {
+      "t": "1038",
+      "n": "CK Infrastructure Holdings Ltd",
+      "weight": 0.03904,
+      "isin": "BMG2178K1009",
+      "sector": "Utilities",
+      "region": "HK"
+    },
+    {
+      "t": "105560",
+      "n": "KB Financial Group Inc",
+      "weight": 0.3297,
+      "isin": "KR7105560007",
+      "sector": "Financials",
+      "region": "KR"
+    },
+    {
+      "t": "1113",
+      "n": "CK Asset Holdings Ltd",
+      "weight": 0.07895,
+      "isin": "KYG2177B1014",
+      "sector": "Real Estate",
+      "region": "HK"
+    },
+    {
+      "t": "1128",
+      "n": "Wynn Macau Ltd",
+      "weight": 0.00854,
+      "isin": "KYG981491007",
+      "sector": "Consumer Discretionary",
+      "region": "HK"
+    },
+    {
+      "t": "12",
+      "n": "Henderson Land Development Co Ltd",
+      "weight": 0.0346,
+      "isin": "HK0012000102",
+      "sector": "Real Estate",
+      "region": "HK"
+    },
+    {
+      "t": "1308",
+      "n": "SITC International Holdings Co Ltd",
+      "weight": 0.06109,
+      "isin": "KYG8187G1055",
+      "sector": "Industrials",
+      "region": "HK"
+    },
+    {
+      "t": "138930",
+      "n": "BNK Financial Group Inc",
+      "weight": 0.02068,
+      "isin": "KR7138930003",
+      "sector": "Financials",
+      "region": "KR"
+    },
+    {
+      "t": "139130",
+      "n": "DGB Financial Group Inc",
+      "weight": 0.01458,
+      "isin": "KR7139130009",
+      "sector": "Financials",
+      "region": "KR"
+    },
+    {
+      "t": "14",
+      "n": "Hysan Development Co Ltd",
+      "weight": 0.00925,
+      "isin": "HK0014000126",
+      "sector": "Real Estate",
+      "region": "HK"
+    },
+    {
+      "t": "1414",
+      "n": "SHO-BOND Holdings Co Ltd",
+      "weight": 0.00999,
+      "isin": "JP3360250009",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "142",
+      "n": "First Pacific Co Ltd",
+      "weight": 0.01095,
+      "isin": "BMG348041077",
+      "sector": "Consumer Staples",
+      "region": "HK"
+    },
+    {
+      "t": "16",
+      "n": "Sun Hung Kai Properties Ltd",
+      "weight": 0.14392,
+      "isin": "HK0016000132",
+      "sector": "Real Estate",
+      "region": "HK"
+    },
+    {
+      "t": "1605",
+      "n": "Inpex Corp",
+      "weight": 0.16153,
+      "isin": "JP3294460005",
+      "sector": "Energy",
+      "region": "JP"
+    },
+    {
+      "t": "161390",
+      "n": "Hankook Tire & Technology Co Ltd",
+      "weight": 0.02563,
+      "isin": "KR7161390000",
+      "sector": "Consumer Discretionary",
+      "region": "KR"
+    },
+    {
+      "t": "1808",
+      "n": "Haseko Corp",
+      "weight": 0.03296,
+      "isin": "JP3768600003",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "1860",
+      "n": "Toda Corp",
+      "weight": 0.01484,
+      "isin": "JP3627000007",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "1876",
+      "n": "Budweiser Brewing Co APAC Ltd",
+      "weight": 0.01003,
+      "isin": "KYG1674K1013",
+      "sector": "Consumer Staples",
+      "region": "HK"
+    },
+    {
+      "t": "1878",
+      "n": "Daito Trust Construction Co Ltd",
+      "weight": 0.04573,
+      "isin": "JP3486800000",
+      "sector": "Real Estate",
+      "region": "JP"
+    },
+    {
+      "t": "19",
+      "n": "Swire Pacific Ltd",
+      "weight": 0.03242,
+      "isin": "HK0019000162",
+      "sector": "Industrials",
+      "region": "HK"
+    },
+    {
+      "t": "1910",
+      "n": "Samsonite International SA",
+      "weight": 0.01578,
+      "isin": "LU0633102719",
+      "sector": "Consumer Discretionary",
+      "region": "HK"
+    },
+    {
+      "t": "1911",
+      "n": "Sumitomo Forestry Co Ltd",
+      "weight": 0.03168,
+      "isin": "JP3409800004",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "1913",
+      "n": "PRADA SpA",
+      "weight": 0.0203,
+      "isin": "IT0003874101",
+      "sector": "Consumer Discretionary",
+      "region": "HK"
+    },
+    {
+      "t": "1925",
+      "n": "Daiwa House Industry Co Ltd",
+      "weight": 0.13088,
+      "isin": "JP3505000004",
+      "sector": "Real Estate",
+      "region": "JP"
+    },
+    {
+      "t": "1928",
+      "n": "Sekisui House Ltd",
+      "weight": 0.09883,
+      "isin": "JP3420600003",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "1928",
+      "n": "Sands China Ltd",
+      "weight": 0.02807,
+      "isin": "KYG7800X1079",
+      "sector": "Consumer Discretionary",
+      "region": "HK"
+    },
+    {
+      "t": "1929",
+      "n": "Chow Tai Fook Jewellery Group Ltd",
+      "weight": 0.02005,
+      "isin": "KYG211461085",
+      "sector": "Consumer Discretionary",
+      "region": "HK"
+    },
+    {
+      "t": "1972",
+      "n": "Swire Properties Ltd",
+      "weight": 0.02223,
+      "isin": "HK0000063609",
+      "sector": "Real Estate",
+      "region": "HK"
+    },
+    {
+      "t": "1997",
+      "n": "Wharf Real Estate Investment Co Ltd",
+      "weight": 0.04645,
+      "isin": "KYG9593A1040",
+      "sector": "Real Estate",
+      "region": "HK"
+    },
+    {
+      "t": "1999",
+      "n": "Man Wah Holdings Ltd",
+      "weight": 0.00455,
+      "isin": "BMG5800U1071",
+      "sector": "Consumer Discretionary",
+      "region": "HK"
+    },
+    {
+      "t": "2",
+      "n": "CLP Holdings Ltd",
+      "weight": 0.12198,
+      "isin": "HK0002007356",
+      "sector": "Utilities",
+      "region": "HK"
+    },
+    {
+      "t": "2002",
+      "n": "Nisshin Seifun Group Inc",
+      "weight": 0.02297,
+      "isin": "JP3676800000",
+      "sector": "Consumer Staples",
+      "region": "JP"
+    },
+    {
+      "t": "2181",
+      "n": "Persol Holdings Co Ltd",
+      "weight": 0.02492,
+      "isin": "JP3547670004",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "2282",
+      "n": "MGM China Holdings Ltd",
+      "weight": 0.00793,
+      "isin": "KYG607441022",
+      "sector": "Consumer Discretionary",
+      "region": "HK"
+    },
+    {
+      "t": "23",
+      "n": "The Bank of East Asia Ltd",
+      "weight": 0.01674,
+      "isin": "HK0023000190",
+      "sector": "Financials",
+      "region": "HK"
+    },
+    {
+      "t": "2313",
+      "n": "Shenzhou International Group Holdings Ltd",
+      "weight": 0.02724,
+      "isin": "KYG8087W1015",
+      "sector": "Consumer Discretionary",
+      "region": "HK"
+    },
+    {
+      "t": "2356",
+      "n": "Dah Sing Banking Group Ltd",
+      "weight": 0.00486,
+      "isin": "HK2356013600",
+      "sector": "Financials",
+      "region": "HK"
+    },
+    {
+      "t": "2371",
+      "n": "Kakaku.com Inc",
+      "weight": 0.02135,
+      "isin": "JP3206000006",
+      "sector": "Communication Services",
+      "region": "JP"
+    },
+    {
+      "t": "2388",
+      "n": "BOC Hong Kong Holdings Ltd",
+      "weight": 0.18439,
+      "isin": "HK2388011192",
+      "sector": "Financials",
+      "region": "HK"
+    },
+    {
+      "t": "241560",
+      "n": "Doosan Bobcat Inc",
+      "weight": 0.01702,
+      "isin": "KR7241560002",
+      "sector": "Industrials",
+      "region": "KR"
+    },
+    {
+      "t": "2502",
+      "n": "Asahi Group Holdings Ltd",
+      "weight": 0.11496,
+      "isin": "JP3116000005",
+      "sector": "Consumer Staples",
+      "region": "JP"
+    },
+    {
+      "t": "2503",
+      "n": "Kirin Holdings Co Ltd",
+      "weight": 0.11616,
+      "isin": "JP3258000003",
+      "sector": "Consumer Staples",
+      "region": "JP"
+    },
+    {
+      "t": "2588",
+      "n": "BOC Aviation Ltd",
+      "weight": 0.01521,
+      "isin": "SG9999015267",
+      "sector": "Industrials",
+      "region": "HK"
+    },
+    {
+      "t": "27",
+      "n": "Galaxy Entertainment Group Ltd",
+      "weight": 0.07167,
+      "isin": "HK0027032686",
+      "sector": "Consumer Discretionary",
+      "region": "HK"
+    },
+    {
+      "t": "2768",
+      "n": "Sojitz Corp",
+      "weight": 0.05391,
+      "isin": "JP3663900003",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "2784",
+      "n": "Alfresa Holdings Corp",
+      "weight": 0.01874,
+      "isin": "JP3126340003",
+      "sector": "Health Care",
+      "region": "JP"
+    },
+    {
+      "t": "282330",
+      "n": "BGF retail Co Ltd",
+      "weight": 0.007,
+      "isin": "KR7282330000",
+      "sector": "Consumer Staples",
+      "region": "KR"
+    },
+    {
+      "t": "288",
+      "n": "WH Group Ltd",
+      "weight": 0.05658,
+      "isin": "KYG960071028",
+      "sector": "Consumer Staples",
+      "region": "HK"
+    },
+    {
+      "t": "2914",
+      "n": "Japan Tobacco Inc",
+      "weight": 0.36313,
+      "isin": "JP3726800000",
+      "sector": "Consumer Staples",
+      "region": "JP"
+    },
+    {
+      "t": "293",
+      "n": "Cathay Pacific Airways Ltd",
+      "weight": 0.02126,
+      "isin": "HK0293001514",
+      "sector": "Industrials",
+      "region": "HK"
+    },
+    {
+      "t": "3",
+      "n": "Hong Kong & China Gas Co Ltd",
+      "weight": 0.07603,
+      "isin": "HK0003000038",
+      "sector": "Utilities",
+      "region": "HK"
+    },
+    {
+      "t": "3003",
+      "n": "Hulic Co Ltd",
+      "weight": 0.04041,
+      "isin": "JP3360800001",
+      "sector": "Real Estate",
+      "region": "JP"
+    },
+    {
+      "t": "303",
+      "n": "VTech Holdings Ltd",
+      "weight": 0.00774,
+      "isin": "BMG9400S1329",
+      "sector": "Information Technology",
+      "region": "HK"
+    },
+    {
+      "t": "3092",
+      "n": "ZOZO Inc",
+      "weight": 0.02269,
+      "isin": "JP3399310006",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "3116",
+      "n": "Toyota Boshoku Corp",
+      "weight": 0.00888,
+      "isin": "JP3635400009",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "3132",
+      "n": "Macnica Holdings Inc",
+      "weight": 0.02389,
+      "isin": "JP3862960006",
+      "sector": "Information Technology",
+      "region": "JP"
+    },
+    {
+      "t": "316",
+      "n": "Orient Overseas International Ltd",
+      "weight": 0.02044,
+      "isin": "BMG677491539",
+      "sector": "Industrials",
+      "region": "HK"
+    },
+    {
+      "t": "316140",
+      "n": "Woori Financial Group Inc",
+      "weight": 0.12926,
+      "isin": "KR7316140003",
+      "sector": "Financials",
+      "region": "KR"
+    },
+    {
+      "t": "3231",
+      "n": "Nomura Real Estate Holdings Inc",
+      "weight": 0.02288,
+      "isin": "JP3762900003",
+      "sector": "Real Estate",
+      "region": "JP"
+    },
+    {
+      "t": "3289",
+      "n": "Tokyu Fudosan Holdings Corp",
+      "weight": 0.03668,
+      "isin": "JP3569200003",
+      "sector": "Real Estate",
+      "region": "JP"
+    },
+    {
+      "t": "3291",
+      "n": "Iida Group Holdings Co Ltd",
+      "weight": 0.01709,
+      "isin": "JP3131090007",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "3401",
+      "n": "Teijin Ltd",
+      "weight": 0.01566,
+      "isin": "JP3544000007",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "3405",
+      "n": "Kuraray Co Ltd",
+      "weight": 0.02507,
+      "isin": "JP3269600007",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "3861",
+      "n": "Oji Holdings Corp",
+      "weight": 0.0317,
+      "isin": "JP3174410005",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "388",
+      "n": "Hong Kong Exchanges & Clearing Ltd",
+      "weight": 0.49339,
+      "isin": "HK0388045442",
+      "sector": "Financials",
+      "region": "HK"
+    },
+    {
+      "t": "3918",
+      "n": "NagaCorp Ltd",
+      "weight": 0.00342,
+      "isin": "KYG6382M1096",
+      "sector": "Consumer Discretionary",
+      "region": "HK"
+    },
+    {
+      "t": "4005",
+      "n": "Sumitomo Chemical Co Ltd",
+      "weight": 0.0415,
+      "isin": "JP3401400001",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "4021",
+      "n": "Nissan Chemical Corp",
+      "weight": 0.0488,
+      "isin": "JP3670800006",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "4042",
+      "n": "Tosoh Corp",
+      "weight": 0.03494,
+      "isin": "JP3595200001",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "4088",
+      "n": "Air Water Inc",
+      "weight": 0.0233,
+      "isin": "JP3160670000",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "4114",
+      "n": "Nippon Shokubai Co Ltd",
+      "weight": 0.01505,
+      "isin": "JP3715200006",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "4118",
+      "n": "Kaneka Corp",
+      "weight": 0.01462,
+      "isin": "JP3215800008",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "4183",
+      "n": "Mitsui Chemicals Inc",
+      "weight": 0.03452,
+      "isin": "JP3888300005",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "4188",
+      "n": "Mitsubishi Chemical Group Corp",
+      "weight": 0.07821,
+      "isin": "JP3897700005",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "4202",
+      "n": "Daicel Corp",
+      "weight": 0.01597,
+      "isin": "JP3485800001",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "4204",
+      "n": "Sekisui Chemical Co Ltd",
+      "weight": 0.04758,
+      "isin": "JP3419400001",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "4205",
+      "n": "Zeon Corp",
+      "weight": 0.01736,
+      "isin": "JP3725400000",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "4208",
+      "n": "UBE Corp",
+      "weight": 0.01624,
+      "isin": "JP3158800007",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "4272",
+      "n": "Nippon Kayaku Co Ltd",
+      "weight": 0.01396,
+      "isin": "JP3694400007",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "443060",
+      "n": "HD Hyundai Marine Solution Co Ltd",
+      "weight": 0.01964,
+      "isin": "KR7443060009",
+      "sector": "Industrials",
+      "region": "KR"
+    },
+    {
+      "t": "4502",
+      "n": "Takeda Pharmaceutical Co Ltd",
+      "weight": 0.43612,
+      "isin": "JP3463000004",
+      "sector": "Health Care",
+      "region": "JP"
+    },
+    {
+      "t": "4503",
+      "n": "Astellas Pharma Inc",
+      "weight": 0.20324,
+      "isin": "JP3942400007",
+      "sector": "Health Care",
+      "region": "JP"
+    },
+    {
+      "t": "4523",
+      "n": "Eisai Co Ltd",
+      "weight": 0.05987,
+      "isin": "JP3160400002",
+      "sector": "Health Care",
+      "region": "JP"
+    },
+    {
+      "t": "4528",
+      "n": "Ono Pharmaceutical Co Ltd",
+      "weight": 0.04639,
+      "isin": "JP3197600004",
+      "sector": "Health Care",
+      "region": "JP"
+    },
+    {
+      "t": "4540",
+      "n": "Tsumura & Co",
+      "weight": 0.0121,
+      "isin": "JP3535800001",
+      "sector": "Health Care",
+      "region": "JP"
+    },
+    {
+      "t": "4568",
+      "n": "Daiichi Sankyo Co Ltd",
+      "weight": 0.24344,
+      "isin": "JP3475350009",
+      "sector": "Health Care",
+      "region": "JP"
+    },
+    {
+      "t": "4613",
+      "n": "Kansai Paint Co Ltd",
+      "weight": 0.02189,
+      "isin": "JP3229400001",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "4626",
+      "n": "Taiyo Holdings Co Ltd",
+      "weight": 0.01678,
+      "isin": "JP3449100001",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "4631",
+      "n": "DIC Corp",
+      "weight": 0.01951,
+      "isin": "JP3493400000",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "4666",
+      "n": "Park24 Co Ltd",
+      "weight": 0.01285,
+      "isin": "JP3780100008",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "467",
+      "n": "United Energy Group Ltd",
+      "weight": 0.00578,
+      "isin": "BMG9231L1081",
+      "sector": "Energy",
+      "region": "HK"
+    },
+    {
+      "t": "4704",
+      "n": "Trend Micro Inc/Japan",
+      "weight": 0.03491,
+      "isin": "JP3637300009",
+      "sector": "Information Technology",
+      "region": "JP"
+    },
+    {
+      "t": "4732",
+      "n": "USS Co Ltd",
+      "weight": 0.03597,
+      "isin": "JP3944130008",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "4768",
+      "n": "Otsuka Corp",
+      "weight": 0.03884,
+      "isin": "JP3188200004",
+      "sector": "Information Technology",
+      "region": "JP"
+    },
+    {
+      "t": "4927",
+      "n": "Pola Orbis Holdings Inc",
+      "weight": 0.00594,
+      "isin": "JP3855900001",
+      "sector": "Consumer Staples",
+      "region": "JP"
+    },
+    {
+      "t": "5019",
+      "n": "Idemitsu Kosan Co Ltd",
+      "weight": 0.05114,
+      "isin": "JP3142500002",
+      "sector": "Energy",
+      "region": "JP"
+    },
+    {
+      "t": "5020",
+      "n": "ENEOS Holdings Inc",
+      "weight": 0.16624,
+      "isin": "JP3386450005",
+      "sector": "Energy",
+      "region": "JP"
+    },
+    {
+      "t": "5021",
+      "n": "Cosmo Energy Holdings Co Ltd",
+      "weight": 0.02227,
+      "isin": "JP3298000005",
+      "sector": "Energy",
+      "region": "JP"
+    },
+    {
+      "t": "5076",
+      "n": "INFRONEER Holdings Inc",
+      "weight": 0.02576,
+      "isin": "JP3153850007",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "5101",
+      "n": "The Yokohama Rubber Co Ltd",
+      "weight": 0.04497,
+      "isin": "JP3955800002",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "5105",
+      "n": "Toyo Tire Corp",
+      "weight": 0.02179,
+      "isin": "JP3610600003",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "5108",
+      "n": "Bridgestone Corp",
+      "weight": 0.21308,
+      "isin": "JP3830800003",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "5110",
+      "n": "Sumitomo Rubber Industries Ltd",
+      "weight": 0.0196,
+      "isin": "JP3404200002",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "5201",
+      "n": "AGC Inc",
+      "weight": 0.05383,
+      "isin": "JP3112000009",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "5334",
+      "n": "Niterra Co Ltd",
+      "weight": 0.07605,
+      "isin": "JP3738600000",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "5401",
+      "n": "Nippon Steel Corp",
+      "weight": 0.15983,
+      "isin": "JP3381000003",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "5406",
+      "n": "Kobe Steel Ltd",
+      "weight": 0.03442,
+      "isin": "JP3289800009",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "5411",
+      "n": "JFE Holdings Inc",
+      "weight": 0.05223,
+      "isin": "JP3386030005",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "5444",
+      "n": "Yamato Kogyo Co Ltd",
+      "weight": 0.01976,
+      "isin": "JP3940400009",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "5463",
+      "n": "Maruichi Steel Tube Ltd",
+      "weight": 0.01393,
+      "isin": "JP3871200006",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "551",
+      "n": "Yue Yuen Industrial Holdings Ltd",
+      "weight": 0.01029,
+      "isin": "BMG988031446",
+      "sector": "Consumer Discretionary",
+      "region": "HK"
+    },
+    {
+      "t": "5831",
+      "n": "Shizuoka Financial Group Inc",
+      "weight": 0.07977,
+      "isin": "JP3351500008",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "5832",
+      "n": "Chugin Financial Group Inc",
+      "weight": 0.02577,
+      "isin": "JP3520700000",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "5901",
+      "n": "Toyo Seikan Group Holdings Ltd",
+      "weight": 0.02377,
+      "isin": "JP3613400005",
+      "sector": "Materials",
+      "region": "JP"
+    },
+    {
+      "t": "5929",
+      "n": "Sanwa Holdings Corp",
+      "weight": 0.03323,
+      "isin": "JP3344400001",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "5938",
+      "n": "Lixil Corp",
+      "weight": 0.02369,
+      "isin": "JP3626800001",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "6",
+      "n": "Power Assets Holdings Ltd",
+      "weight": 0.08025,
+      "isin": "HK0006000050",
+      "sector": "Utilities",
+      "region": "HK"
+    },
+    {
+      "t": "6113",
+      "n": "Amada Co Ltd",
+      "weight": 0.03631,
+      "isin": "JP3122800000",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "6141",
+      "n": "DMG Mori Co Ltd",
+      "weight": 0.02096,
+      "isin": "JP3924800000",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "6178",
+      "n": "Japan Post Holdings Co Ltd",
+      "weight": 0.19583,
+      "isin": "JP3752900005",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "6301",
+      "n": "Komatsu Ltd",
+      "weight": 0.31644,
+      "isin": "JP3304200003",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "6305",
+      "n": "Hitachi Construction Machinery Co Ltd",
+      "weight": 0.03892,
+      "isin": "JP3787000003",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "636",
+      "n": "KLN Logistics Group Ltd",
+      "weight": 0.00128,
+      "isin": "BMG524181036",
+      "sector": "Industrials",
+      "region": "HK"
+    },
+    {
+      "t": "6417",
+      "n": "Sankyo Co Ltd",
+      "weight": 0.01688,
+      "isin": "JP3326410002",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "6436",
+      "n": "Amano Corp",
+      "weight": 0.01184,
+      "isin": "JP3124400007",
+      "sector": "Information Technology",
+      "region": "JP"
+    },
+    {
+      "t": "6448",
+      "n": "Brother Industries Ltd",
+      "weight": 0.05372,
+      "isin": "JP3830000000",
+      "sector": "Information Technology",
+      "region": "JP"
+    },
+    {
+      "t": "6471",
+      "n": "NSK Ltd",
+      "weight": 0.02391,
+      "isin": "JP3720800006",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "6473",
+      "n": "JTEKT Corp",
+      "weight": 0.02322,
+      "isin": "JP3292200007",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "6481",
+      "n": "THK Co Ltd",
+      "weight": 0.03362,
+      "isin": "JP3539250005",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "659",
+      "n": "CTF Services Ltd",
+      "weight": 0.00929,
+      "isin": "BMG668971101",
+      "sector": "Industrials",
+      "region": "HK"
+    },
+    {
+      "t": "6592",
+      "n": "Mabuchi Motor Co Ltd",
+      "weight": 0.01517,
+      "isin": "JP3870000001",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "66",
+      "n": "MTR Corp Ltd",
+      "weight": 0.05029,
+      "isin": "HK0066009694",
+      "sector": "Industrials",
+      "region": "HK"
+    },
+    {
+      "t": "6724",
+      "n": "Seiko Epson Corp",
+      "weight": 0.04407,
+      "isin": "JP3414750004",
+      "sector": "Information Technology",
+      "region": "JP"
+    },
+    {
+      "t": "6770",
+      "n": "Alps Alpine Co Ltd",
+      "weight": 0.01897,
+      "isin": "JP3126400005",
+      "sector": "Information Technology",
+      "region": "JP"
+    },
+    {
+      "t": "683",
+      "n": "Kerry Properties Ltd",
+      "weight": 0.01029,
+      "isin": "BMG524401079",
+      "sector": "Real Estate",
+      "region": "HK"
+    },
+    {
+      "t": "69",
+      "n": "Shangri-La Asia Ltd",
+      "weight": 0.00508,
+      "isin": "BMG8063F1068",
+      "sector": "Consumer Discretionary",
+      "region": "HK"
+    },
+    {
+      "t": "6902",
+      "n": "Denso Corp",
+      "weight": 0.15904,
+      "isin": "JP3551500006",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "6923",
+      "n": "Stanley Electric Co Ltd",
+      "weight": 0.01472,
+      "isin": "JP3399400005",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "6952",
+      "n": "Casio Computer Co Ltd",
+      "weight": 0.0247,
+      "isin": "JP3209000003",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "7164",
+      "n": "Zenkoku Hosho Co Ltd",
+      "weight": 0.02017,
+      "isin": "JP3429250008",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "7167",
+      "n": "Mebuki Financial Group Inc",
+      "weight": 0.07294,
+      "isin": "JP3117700009",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "7181",
+      "n": "Japan Post Insurance Co Ltd",
+      "weight": 0.04198,
+      "isin": "JP3233250004",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "7182",
+      "n": "Japan Post Bank Co Ltd",
+      "weight": 0.29,
+      "isin": "JP3946750001",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "7186",
+      "n": "Yokohama Financial Group Inc",
+      "weight": 0.09596,
+      "isin": "JP3305990008",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "7202",
+      "n": "Isuzu Motors Ltd",
+      "weight": 0.05628,
+      "isin": "JP3137200006",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "7203",
+      "n": "Toyota Motor Corp",
+      "weight": 1.61422,
+      "isin": "JP3633400001",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "7211",
+      "n": "Mitsubishi Motors Corp",
+      "weight": 0.01192,
+      "isin": "JP3899800001",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "7240",
+      "n": "NOK Corp",
+      "weight": 0.01094,
+      "isin": "JP3164800009",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "7259",
+      "n": "Aisin Corp",
+      "weight": 0.05192,
+      "isin": "JP3102000001",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "7261",
+      "n": "Mazda Motor Corp",
+      "weight": 0.03495,
+      "isin": "JP3868400007",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "7267",
+      "n": "Honda Motor Co Ltd",
+      "weight": 0.30391,
+      "isin": "JP3854600008",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "7270",
+      "n": "Subaru Corp",
+      "weight": 0.07156,
+      "isin": "JP3814800003",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "7272",
+      "n": "Yamaha Motor Co Ltd",
+      "weight": 0.08143,
+      "isin": "JP3942800008",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "7282",
+      "n": "Toyoda Gosei Co Ltd",
+      "weight": 0.02309,
+      "isin": "JP3634200004",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "7337",
+      "n": "Hirogin Holdings Inc",
+      "weight": 0.02979,
+      "isin": "JP3796150005",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "7751",
+      "n": "Canon Inc",
+      "weight": 0.18585,
+      "isin": "JP3242800005",
+      "sector": "Information Technology",
+      "region": "JP"
+    },
+    {
+      "t": "7752",
+      "n": "Ricoh Co Ltd",
+      "weight": 0.04464,
+      "isin": "JP3973400009",
+      "sector": "Information Technology",
+      "region": "JP"
+    },
+    {
+      "t": "7984",
+      "n": "Kokuyo Co Ltd",
+      "weight": 0.01461,
+      "isin": "JP3297000006",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "8",
+      "n": "PCCW Ltd",
+      "weight": 0.02008,
+      "isin": "HK0008011667",
+      "sector": "Communication Services",
+      "region": "HK"
+    },
+    {
+      "t": "8252",
+      "n": "Marui Group Co Ltd",
+      "weight": 0.02284,
+      "isin": "JP3870400003",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8253",
+      "n": "Credit Saison Co Ltd",
+      "weight": 0.02601,
+      "isin": "JP3271400008",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8282",
+      "n": "K's Holdings Corp",
+      "weight": 0.01186,
+      "isin": "JP3277150003",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "83",
+      "n": "Sino Land Co Ltd",
+      "weight": 0.03883,
+      "isin": "HK0083000502",
+      "sector": "Real Estate",
+      "region": "HK"
+    },
+    {
+      "t": "8304",
+      "n": "Aozora Bank Ltd",
+      "weight": 0.01616,
+      "isin": "JP3711200000",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8306",
+      "n": "Mitsubishi UFJ Financial Group Inc",
+      "weight": 1.91527,
+      "isin": "JP3902900004",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8309",
+      "n": "Sumitomo Mitsui Trust Group Inc",
+      "weight": 0.21444,
+      "isin": "JP3892100003",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8316",
+      "n": "Sumitomo Mitsui Financial Group Inc",
+      "weight": 1.20722,
+      "isin": "JP3890350006",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8331",
+      "n": "The Chiba Bank Ltd",
+      "weight": 0.08709,
+      "isin": "JP3511800009",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8334",
+      "n": "The Gunma Bank Ltd",
+      "weight": 0.04636,
+      "isin": "JP3276400003",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8341",
+      "n": "The 77 Bank Ltd",
+      "weight": 0.03987,
+      "isin": "JP3352000008",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8354",
+      "n": "Fukuoka Financial Group Inc",
+      "weight": 0.06713,
+      "isin": "JP3805010000",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8359",
+      "n": "Hachijuni Nagano Bank Ltd",
+      "weight": 0.05595,
+      "isin": "JP3769000005",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8410",
+      "n": "Seven Bank Ltd",
+      "weight": 0.00825,
+      "isin": "JP3105220002",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8418",
+      "n": "Yamaguchi Financial Group Inc",
+      "weight": 0.02673,
+      "isin": "JP3935300008",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8424",
+      "n": "Fuyo General Lease Co Ltd",
+      "weight": 0.01191,
+      "isin": "JP3826270005",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8439",
+      "n": "Tokyo Century Corp",
+      "weight": 0.01839,
+      "isin": "JP3424950008",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8473",
+      "n": "SBI Holdings Inc",
+      "weight": 0.08392,
+      "isin": "JP3436120004",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8570",
+      "n": "AEON Financial Service Co Ltd",
+      "weight": 0.00857,
+      "isin": "JP3131400008",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8572",
+      "n": "Acom Co Ltd",
+      "weight": 0.00932,
+      "isin": "JP3108600002",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8591",
+      "n": "ORIX Corp",
+      "weight": 0.33243,
+      "isin": "JP3200450009",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8593",
+      "n": "Mitsubishi HC Capital Inc",
+      "weight": 0.05503,
+      "isin": "JP3499800005",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8601",
+      "n": "Daiwa Securities Group Inc",
+      "weight": 0.11684,
+      "isin": "JP3502200003",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8604",
+      "n": "Nomura Holdings Inc",
+      "weight": 0.22502,
+      "isin": "JP3762600009",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8630",
+      "n": "Sompo Holdings Inc",
+      "weight": 0.28017,
+      "isin": "JP3165000005",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "868",
+      "n": "Xinyi Glass Holdings Ltd",
+      "weight": 0.01392,
+      "isin": "KYG9828G1082",
+      "sector": "Industrials",
+      "region": "HK"
+    },
+    {
+      "t": "87",
+      "n": "Swire Pacific Ltd",
+      "weight": 0.01303,
+      "isin": "HK0087000532",
+      "sector": "Industrials",
+      "region": "HK"
+    },
+    {
+      "t": "8725",
+      "n": "MS&AD Insurance Group Holdings Inc",
+      "weight": 0.29334,
+      "isin": "JP3890310000",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8750",
+      "n": "Daiichi Life Group Inc",
+      "weight": 0.30285,
+      "isin": "JP3476480003",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8766",
+      "n": "Tokio Marine Holdings Inc",
+      "weight": 0.68963,
+      "isin": "JP3910660004",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8795",
+      "n": "T&D Holdings Inc",
+      "weight": 0.1052,
+      "isin": "JP3539220008",
+      "sector": "Financials",
+      "region": "JP"
+    },
+    {
+      "t": "8804",
+      "n": "Tokyo Tatemono Co Ltd",
+      "weight": 0.03095,
+      "isin": "JP3582600007",
+      "sector": "Real Estate",
+      "region": "JP"
+    },
+    {
+      "t": "8TRA",
+      "n": "Traton SE",
+      "weight": 0.02112,
+      "isin": "DE000TRAT0N7",
+      "sector": "Industrials",
+      "region": "DE"
+    },
+    {
+      "t": "9003",
+      "n": "Sotetsu Holdings Inc",
+      "weight": 0.01086,
+      "isin": "JP3316400005",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "9007",
+      "n": "Odakyu Electric Railway Co Ltd",
+      "weight": 0.02791,
+      "isin": "JP3196000008",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "9065",
+      "n": "Sankyu Inc",
+      "weight": 0.01653,
+      "isin": "JP3326000001",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "9076",
+      "n": "Seino Holdings Co Ltd",
+      "weight": 0.01382,
+      "isin": "JP3415400005",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "9101",
+      "n": "Nippon Yusen KK",
+      "weight": 0.13201,
+      "isin": "JP3753000003",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "9104",
+      "n": "Mitsui OSK Lines Ltd",
+      "weight": 0.10891,
+      "isin": "JP3362700001",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "9107",
+      "n": "Kawasaki Kisen Kaisha Ltd",
+      "weight": 0.05714,
+      "isin": "JP3223800008",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "9142",
+      "n": "Kyushu Railway Co",
+      "weight": 0.02437,
+      "isin": "JP3247010006",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "9143",
+      "n": "SG Holdings Co Ltd",
+      "weight": 0.02064,
+      "isin": "JP3162770006",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "9147",
+      "n": "NIPPON EXPRESS HOLDINGS INC",
+      "weight": 0.0621,
+      "isin": "JP3688370000",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "9201",
+      "n": "Japan Airlines Co Ltd",
+      "weight": 0.02067,
+      "isin": "JP3705200008",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "9364",
+      "n": "Kamigumi Co Ltd",
+      "weight": 0.01941,
+      "isin": "JP3219000001",
+      "sector": "Industrials",
+      "region": "JP"
+    },
+    {
+      "t": "9432",
+      "n": "NTT Inc",
+      "weight": 0.22423,
+      "isin": "JP3735400008",
+      "sector": "Communication Services",
+      "region": "JP"
+    },
+    {
+      "t": "9433",
+      "n": "KDDI Corp",
+      "weight": 0.40454,
+      "isin": "JP3496400007",
+      "sector": "Communication Services",
+      "region": "JP"
+    },
+    {
+      "t": "9434",
+      "n": "SoftBank Corp",
+      "weight": 0.32542,
+      "isin": "JP3732000009",
+      "sector": "Communication Services",
+      "region": "JP"
+    },
+    {
+      "t": "9502",
+      "n": "Chubu Electric Power Co Inc",
+      "weight": 0.10087,
+      "isin": "JP3526600006",
+      "sector": "Utilities",
+      "region": "JP"
+    },
+    {
+      "t": "9503",
+      "n": "The Kansai Electric Power Co Inc",
+      "weight": 0.13313,
+      "isin": "JP3228600007",
+      "sector": "Utilities",
+      "region": "JP"
+    },
+    {
+      "t": "9504",
+      "n": "The Chugoku Electric Power Co Inc",
+      "weight": 0.01528,
+      "isin": "JP3522200009",
+      "sector": "Utilities",
+      "region": "JP"
+    },
+    {
+      "t": "9506",
+      "n": "Tohoku Electric Power Co Inc",
+      "weight": 0.0302,
+      "isin": "JP3605400005",
+      "sector": "Utilities",
+      "region": "JP"
+    },
+    {
+      "t": "9507",
+      "n": "Shikoku Electric Power Co Inc",
+      "weight": 0.01548,
+      "isin": "JP3350800003",
+      "sector": "Utilities",
+      "region": "JP"
+    },
+    {
+      "t": "9508",
+      "n": "Kyushu Electric Power Co Inc",
+      "weight": 0.04439,
+      "isin": "JP3246400000",
+      "sector": "Utilities",
+      "region": "JP"
+    },
+    {
+      "t": "9513",
+      "n": "Electric Power Development Co Ltd",
+      "weight": 0.03125,
+      "isin": "JP3551200003",
+      "sector": "Utilities",
+      "region": "JP"
+    },
+    {
+      "t": "9831",
+      "n": "Yamada Holdings Co Ltd",
+      "weight": 0.01813,
+      "isin": "JP3939000000",
+      "sector": "Consumer Discretionary",
+      "region": "JP"
+    },
+    {
+      "t": "992",
+      "n": "Lenovo Group Ltd",
+      "weight": 0.22173,
+      "isin": "HK0992009065",
+      "sector": "Information Technology",
+      "region": "HK"
+    },
+    {
+      "t": "9989",
+      "n": "Sundrug Co Ltd",
+      "weight": 0.01223,
+      "isin": "JP3336600006",
+      "sector": "Consumer Staples",
+      "region": "JP"
+    },
+    {
+      "t": "A2A",
+      "n": "A2A SpA",
+      "weight": 0.03232,
+      "isin": "IT0001233417",
+      "sector": "Utilities",
+      "region": "IT"
+    },
+    {
+      "t": "A2M",
+      "n": "The a2 Milk Co Ltd",
+      "weight": 0.02498,
+      "isin": "NZATME0002S8",
+      "sector": "Consumer Staples",
+      "region": "AU"
+    },
+    {
+      "t": "ABF",
+      "n": "Associated British Foods PLC",
+      "weight": 0.05835,
+      "isin": "GB0006731235",
+      "sector": "Consumer Staples",
+      "region": "GB"
+    },
+    {
+      "t": "ABN",
+      "n": "ABN AMRO Bank NV",
+      "weight": 0.22117,
+      "isin": "NL0011540547",
+      "sector": "Financials",
+      "region": "NL"
+    },
+    {
+      "t": "AC",
+      "n": "Accor SA",
+      "weight": 0.08898,
+      "isin": "FR0000120404",
+      "sector": "Consumer Discretionary",
+      "region": "FR"
+    },
+    {
+      "t": "ACA",
+      "n": "Credit Agricole SA",
+      "weight": 0.14896,
+      "isin": "FR0000045072",
+      "sector": "Financials",
+      "region": "FR"
+    },
+    {
+      "t": "AD",
+      "n": "Koninklijke Ahold Delhaize NV",
+      "weight": 0.24127,
+      "isin": "NL0011794037",
+      "sector": "Consumer Staples",
+      "region": "NL"
+    },
+    {
+      "t": "ADM",
+      "n": "Admiral Group PLC",
+      "weight": 0.1049,
+      "isin": "GB00B02J6398",
+      "sector": "Financials",
+      "region": "GB"
+    },
+    {
+      "t": "ADP",
+      "n": "Aeroports de Paris SA",
+      "weight": 0.03752,
+      "isin": "FR0010340141",
+      "sector": "Industrials",
+      "region": "FR"
+    },
+    {
+      "t": "AENA",
+      "n": "Aena SME SA",
+      "weight": 0.1626,
+      "isin": "ES0105046017",
+      "sector": "Industrials",
+      "region": "ES"
+    },
+    {
+      "t": "AGL",
+      "n": "AGL Energy Ltd",
+      "weight": 0.02799,
+      "isin": "AU000000AGL7",
+      "sector": "Utilities",
+      "region": "AU"
+    },
+    {
+      "t": "AGN",
+      "n": "Aegon Ltd",
+      "weight": 0.09115,
+      "isin": "BMG0112X1056",
+      "sector": "Financials",
+      "region": "NL"
+    },
+    {
+      "t": "AGS",
+      "n": "Ageas SA/NV",
+      "weight": 0.13059,
+      "isin": "BE0974264930",
+      "sector": "Financials",
+      "region": "BE"
+    },
+    {
+      "t": "AIBG",
+      "n": "AIB Group PLC",
+      "weight": 0.20626,
+      "isin": "IE00BF0L3536",
+      "sector": "Financials",
+      "region": "IE"
+    },
+    {
+      "t": "AKER",
+      "n": "Aker ASA",
+      "weight": 0.02596,
+      "isin": "NO0010234552",
+      "sector": "Industrials",
+      "region": "NO"
+    },
+    {
+      "t": "AKRBP",
+      "n": "Aker BP ASA",
+      "weight": 0.08952,
+      "isin": "NO0010345853",
+      "sector": "Energy",
+      "region": "NO"
+    },
+    {
+      "t": "AKZA",
+      "n": "Akzo Nobel NV",
+      "weight": 0.09395,
+      "isin": "NL0013267909",
+      "sector": "Materials",
+      "region": "NL"
+    },
+    {
+      "t": "ALD",
+      "n": "Ampol Ltd",
+      "weight": 0.05592,
+      "isin": "AU0000088338",
+      "sector": "Energy",
+      "region": "AU"
+    },
+    {
+      "t": "ALV",
+      "n": "Allianz SE",
+      "weight": 1.52315,
+      "isin": "DE0008404005",
+      "sector": "Financials",
+      "region": "DE"
+    },
+    {
+      "t": "ALX",
+      "n": "Atlas Arteria Ltd",
+      "weight": 0.01162,
+      "isin": "AU0000013559",
+      "sector": "Industrials",
+      "region": "AU"
+    },
+    {
+      "t": "AMOT",
+      "n": "Amot Investments Ltd",
+      "weight": 0.01224,
+      "isin": "IL0010972789",
+      "sector": "Real Estate",
+      "region": "IL"
+    },
+    {
+      "t": "AMP",
+      "n": "AMP Ltd",
+      "weight": 0.03275,
+      "isin": "AU000000AMP6",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "AMS",
+      "n": "Amadeus IT Group SA",
+      "weight": 0.22297,
+      "isin": "ES0109067019",
+      "sector": "Consumer Discretionary",
+      "region": "ES"
+    },
+    {
+      "t": "AMUN",
+      "n": "Amundi SA",
+      "weight": 0.04901,
+      "isin": "FR0004125920",
+      "sector": "Financials",
+      "region": "FR"
+    },
+    {
+      "t": "ANDR",
+      "n": "ANDRITZ AG",
+      "weight": 0.04817,
+      "isin": "AT0000730007",
+      "sector": "Industrials",
+      "region": "AT"
+    },
+    {
+      "t": "ANZ",
+      "n": "ANZ Group Holdings Ltd",
+      "weight": 0.61465,
+      "isin": "AU000000ANZ3",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "APA",
+      "n": "APA Group",
+      "weight": 0.07386,
+      "isin": "AU000000APA1",
+      "sector": "Utilities",
+      "region": "AU"
+    },
+    {
+      "t": "ASRNL",
+      "n": "ASR Nederland NV",
+      "weight": 0.09945,
+      "isin": "NL0011872643",
+      "sector": "Financials",
+      "region": "NL"
+    },
+    {
+      "t": "ASX",
+      "n": "ASX Ltd",
+      "weight": 0.05974,
+      "isin": "AU000000ASX7",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "AUD",
+      "n": "AUD/USD FWD 20260916",
+      "weight": 0.05808
+    },
+    {
+      "t": "AUD",
+      "n": "AUD/USD FWD 20260916",
+      "weight": 0.0386
+    },
+    {
+      "t": "AUD",
+      "n": "AUD/USD FWD 20260901",
+      "weight": 0.0381
+    },
+    {
+      "t": "AUD",
+      "n": "AUD/USD FWD 20260916",
+      "weight": 0.03361
+    },
+    {
+      "t": "AUD",
+      "n": "Australian Dollar",
+      "weight": 0.00051,
+      "region": "AU"
+    },
+    {
+      "t": "AV/",
+      "n": "Aviva PLC",
+      "weight": 0.22744,
+      "isin": "GB00BPQY8M80",
+      "sector": "Financials",
+      "region": "GB"
+    },
+    {
+      "t": "AXFO",
+      "n": "Axfood AB",
+      "weight": 0.02023,
+      "isin": "SE0006993770",
+      "sector": "Consumer Staples",
+      "region": "SE"
+    },
+    {
+      "t": "AYV",
+      "n": "Ayvens SA",
+      "weight": 0.0359,
+      "isin": "FR0013258662",
+      "sector": "Industrials",
+      "region": "FR"
+    },
+    {
+      "t": "AZJ",
+      "n": "Aurizon Holdings Ltd",
+      "weight": 0.03409,
+      "isin": "AU000000AZJ1",
+      "sector": "Industrials",
+      "region": "AU"
+    },
+    {
+      "t": "BAER",
+      "n": "Julius Baer Group Ltd",
+      "weight": 0.14549,
+      "isin": "CH0102484968",
+      "sector": "Financials",
+      "region": "CH"
+    },
+    {
+      "t": "BAMI",
+      "n": "Banco BPM SpA",
+      "weight": 0.20991,
+      "isin": "IT0005218380",
+      "sector": "Financials",
+      "region": "IT"
+    },
+    {
+      "t": "BARC",
+      "n": "Barclays PLC",
+      "weight": 0.70196,
+      "isin": "GB0031348658",
+      "sector": "Financials",
+      "region": "GB"
+    },
+    {
+      "t": "BAS",
+      "n": "BASF SE",
+      "weight": 0.4163,
+      "isin": "DE000BASF111",
+      "sector": "Materials",
+      "region": "DE"
+    },
+    {
+      "t": "BATS",
+      "n": "British American Tobacco PLC",
+      "weight": 0.86836,
+      "isin": "GB0002875804",
+      "sector": "Consumer Staples",
+      "region": "GB"
+    },
+    {
+      "t": "BBVA",
+      "n": "Banco Bilbao Vizcaya Argentaria SA",
+      "weight": 1.24984,
+      "isin": "ES0113211835",
+      "sector": "Financials",
+      "region": "ES"
+    },
+    {
+      "t": "BCP",
+      "n": "Banco Comercial Portugues SA",
+      "weight": 0.08768,
+      "isin": "PTBCP0AM0015",
+      "sector": "Financials",
+      "region": "PT"
+    },
+    {
+      "t": "BCVN",
+      "n": "Banque Cantonale Vaudoise",
+      "weight": 0.03422,
+      "isin": "CH0531751755",
+      "sector": "Financials",
+      "region": "CH"
+    },
+    {
+      "t": "BEN",
+      "n": "Bendigo & Adelaide Bank Ltd",
+      "weight": 0.03391,
+      "isin": "AU000000BEN6",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "BEZQ",
+      "n": "Bezeq The Israeli Telecommunication Corp Ltd",
+      "weight": 0.0558,
+      "isin": "IL0002300114",
+      "sector": "Communication Services",
+      "region": "IL"
+    },
+    {
+      "t": "BG",
+      "n": "BAWAG Group AG",
+      "weight": 0.1221,
+      "isin": "AT0000BAWAG2",
+      "sector": "Financials",
+      "region": "AT"
+    },
+    {
+      "t": "BHP",
+      "n": "BHP Group Ltd",
+      "weight": 1.84436,
+      "isin": "AU000000BHP4",
+      "sector": "Materials",
+      "region": "AU"
+    },
+    {
+      "t": "BIRG",
+      "n": "Bank of Ireland Group PLC",
+      "weight": 0.16026,
+      "isin": "IE00BD1RP616",
+      "sector": "Financials",
+      "region": "IE"
+    },
+    {
+      "t": "BKG",
+      "n": "The Berkeley Group Holdings PLC",
+      "weight": 0.0322,
+      "isin": "GB00BP0RGD03",
+      "sector": "Consumer Discretionary",
+      "region": "GB"
+    },
+    {
+      "t": "BKT",
+      "n": "Bankinter SA",
+      "weight": 0.09489,
+      "isin": "ES0113679I37",
+      "sector": "Financials",
+      "region": "ES"
+    },
+    {
+      "t": "BMED",
+      "n": "Banca Mediolanum SpA",
+      "weight": 0.04596,
+      "isin": "IT0004776628",
+      "sector": "Financials",
+      "region": "IT"
+    },
+    {
+      "t": "BMPS",
+      "n": "Banca Monte dei Paschi di Siena SpA",
+      "weight": 0.20134,
+      "isin": "IT0005508921",
+      "sector": "Financials",
+      "region": "IT"
+    },
+    {
+      "t": "BMW",
+      "n": "Bayerische Motoren Werke AG",
+      "weight": 0.17924,
+      "isin": "DE0005190003",
+      "sector": "Consumer Discretionary",
+      "region": "DE"
+    },
+    {
+      "t": "BN",
+      "n": "Danone SA",
+      "weight": 0.35918,
+      "isin": "FR0000120644",
+      "sector": "Consumer Staples",
+      "region": "FR"
+    },
+    {
+      "t": "BNP",
+      "n": "BNP Paribas SA",
+      "weight": 0.89127,
+      "isin": "FR0000131104",
+      "sector": "Financials",
+      "region": "FR"
+    },
+    {
+      "t": "BNR",
+      "n": "Brenntag SE",
+      "weight": 0.06444,
+      "isin": "DE000A1DAHH0",
+      "sector": "Industrials",
+      "region": "DE"
+    },
+    {
+      "t": "BNZL",
+      "n": "Bunzl PLC",
+      "weight": 0.09181,
+      "isin": "GB00B0744B38",
+      "sector": "Industrials",
+      "region": "GB"
+    },
+    {
+      "t": "BOQ",
+      "n": "Bank of Queensland Ltd",
+      "weight": 0.02377,
+      "isin": "AU000000BOQ8",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "BP/",
+      "n": "BP PLC",
+      "weight": 0.83615,
+      "isin": "GB0007980591",
+      "sector": "Energy",
+      "region": "GB"
+    },
+    {
+      "t": "BPE",
+      "n": "BPER Banca SPA",
+      "weight": 0.19189,
+      "isin": "IT0000066123",
+      "sector": "Financials",
+      "region": "IT"
+    },
+    {
+      "t": "BPT",
+      "n": "Beach Energy Ltd",
+      "weight": 0.00688,
+      "isin": "AU000000BPT9",
+      "sector": "Energy",
+      "region": "AU"
+    },
+    {
+      "t": "BSL",
+      "n": "BlueScope Steel Ltd",
+      "weight": 0.07453,
+      "isin": "AU000000BSL0",
+      "sector": "Materials",
+      "region": "AU"
+    },
+    {
+      "t": "BT/A",
+      "n": "BT Group PLC",
+      "weight": 0.11832,
+      "isin": "GB0030913577",
+      "sector": "Communication Services",
+      "region": "GB"
+    },
+    {
+      "t": "BTRW",
+      "n": "Barratt Redrow PLC",
+      "weight": 0.0437,
+      "isin": "GB0000811801",
+      "sector": "Consumer Discretionary",
+      "region": "GB"
+    },
+    {
+      "t": "BVI",
+      "n": "Bureau Veritas SA",
+      "weight": 0.08399,
+      "isin": "FR0006174348",
+      "sector": "Industrials",
+      "region": "FR"
+    },
+    {
+      "t": "BXB",
+      "n": "Brambles Ltd",
+      "weight": 0.14407,
+      "isin": "AU000000BXB1",
+      "sector": "Industrials",
+      "region": "AU"
+    },
+    {
+      "t": "CA",
+      "n": "Carrefour SA",
+      "weight": 0.08065,
+      "isin": "FR0000120172",
+      "sector": "Consumer Staples",
+      "region": "FR"
+    },
+    {
+      "t": "CABK",
+      "n": "CaixaBank SA",
+      "weight": 0.43378,
+      "isin": "ES0140609019",
+      "sector": "Financials",
+      "region": "ES"
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": 0.45903
+    },
+    {
+      "t": "CAD",
+      "n": "Canadian Dollar",
+      "weight": 0.36293,
+      "region": "CA"
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": 0.06208
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": 0.06208
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": 0.05145
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": 0.01039
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": 0.00178
+    },
+    {
+      "t": "CAP",
+      "n": "Capgemini SE",
+      "weight": 0.14758,
+      "isin": "FR0000125338",
+      "sector": "Information Technology",
+      "region": "FR"
+    },
+    {
+      "t": "CAR",
+      "n": "CAR Group Ltd",
+      "weight": 0.0542,
+      "isin": "AU000000CAR3",
+      "sector": "Communication Services",
+      "region": "AU"
+    },
+    {
+      "t": "CARLB",
+      "n": "Carlsberg AS",
+      "weight": 0.09646,
+      "isin": "DK0010181759",
+      "sector": "Consumer Staples",
+      "region": "DK"
+    },
+    {
+      "t": "CBA",
+      "n": "Commonwealth Bank of Australia",
+      "weight": 1.46216,
+      "isin": "AU000000CBA7",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "CBK",
+      "n": "Commerzbank AG",
+      "weight": 0.23087,
+      "isin": "DE000CBK1001",
+      "sector": "Financials",
+      "region": "DE"
+    },
+    {
+      "t": "CCH",
+      "n": "Coca-Cola HBC AG",
+      "weight": 0.09261,
+      "isin": "CH0198251305",
+      "sector": "Consumer Staples",
+      "region": "GB"
+    },
+    {
+      "t": "CD",
+      "n": "ComfortDelGro Corp Ltd",
+      "weight": 0.01658,
+      "isin": "SG1N31909426",
+      "sector": "Industrials",
+      "region": "SG"
+    },
+    {
+      "t": "CEN",
+      "n": "Contact Energy Ltd",
+      "weight": 0.03778,
+      "isin": "NZCENE0001S6",
+      "sector": "Utilities",
+      "region": "NZ"
+    },
+    {
+      "t": "CGF",
+      "n": "Challenger Ltd",
+      "weight": 0.02566,
+      "isin": "AU000000CGF5",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "CHF",
+      "n": "CHF/USD FWD 20260901",
+      "weight": 0.04231
+    },
+    {
+      "t": "CHF",
+      "n": "Swiss Franc",
+      "weight": 0.00078,
+      "region": "CH"
+    },
+    {
+      "t": "CLI",
+      "n": "CapitaLand Investment Ltd/Singapore",
+      "weight": 0.03643,
+      "isin": "SGXE62145532",
+      "sector": "Real Estate",
+      "region": "SG"
+    },
+    {
+      "t": "CNA",
+      "n": "Centrica PLC",
+      "weight": 0.07414,
+      "isin": "GB00B033F229",
+      "sector": "Utilities",
+      "region": "GB"
+    },
+    {
+      "t": "COL",
+      "n": "Coles Group Ltd",
+      "weight": 0.17603,
+      "isin": "AU0000030678",
+      "sector": "Consumer Staples",
+      "region": "AU"
+    },
+    {
+      "t": "COLOB",
+      "n": "Coloplast A/S",
+      "weight": 0.07297,
+      "isin": "DK0060448595",
+      "sector": "Health Care",
+      "region": "DK"
+    },
+    {
+      "t": "CON",
+      "n": "Continental AG",
+      "weight": 0.06845,
+      "isin": "DE0005439004",
+      "sector": "Consumer Discretionary",
+      "region": "DE"
+    },
+    {
+      "t": "CPU",
+      "n": "Computershare Ltd",
+      "weight": 0.11477,
+      "isin": "AU000000CPU5",
+      "sector": "Industrials",
+      "region": "AU"
+    },
+    {
+      "t": "CRDA",
+      "n": "Croda International PLC",
+      "weight": 0.04951,
+      "isin": "GB00BJFFLV09",
+      "sector": "Materials",
+      "region": "GB"
+    },
+    {
+      "t": "CS",
+      "n": "AXA SA",
+      "weight": 0.62209,
+      "isin": "FR0000120628",
+      "sector": "Financials",
+      "region": "FR"
+    },
+    {
+      "t": "CSL",
+      "n": "CSL Ltd",
+      "weight": 0.45638,
+      "isin": "AU000000CSL8",
+      "sector": "Health Care",
+      "region": "AU"
+    },
+    {
+      "t": "CTPNV",
+      "n": "CTP NV",
+      "weight": 0.01641,
+      "isin": "NL00150006R6",
+      "sector": "Real Estate",
+      "region": "NL"
+    },
+    {
+      "t": "CVC",
+      "n": "CVC Capital Partners PLC",
+      "weight": 0.02697,
+      "isin": "JE00BRX98089",
+      "sector": "Financials",
+      "region": "NL"
+    },
+    {
+      "t": "CWY",
+      "n": "Cleanaway Waste Management Ltd",
+      "weight": 0.03006,
+      "isin": "AU000000CWY3",
+      "sector": "Industrials",
+      "region": "AU"
+    },
+    {
+      "t": "DANSKE",
+      "n": "Danske Bank A/S",
+      "weight": 0.27796,
+      "isin": "DK0010274414",
+      "sector": "Financials",
+      "region": "DK"
+    },
+    {
+      "t": "DBK",
+      "n": "Deutsche Bank AG",
+      "weight": 0.52875,
+      "isin": "DE0005140008",
+      "sector": "Financials",
+      "region": "DE"
+    },
+    {
+      "t": "DBS",
+      "n": "DBS Group Holdings Ltd",
+      "weight": 0.94207,
+      "isin": "SG1L01001701",
+      "sector": "Financials",
+      "region": "SG"
+    },
+    {
+      "t": "DCC",
+      "n": "DCC Energy plc",
+      "weight": 0.05607,
+      "isin": "IE0002424939",
+      "sector": "Energy",
+      "region": "GB"
+    },
+    {
+      "t": "DFI",
+      "n": "DFI Retail Group Holdings Ltd",
+      "weight": 0.00843,
+      "isin": "BMG2624N1535",
+      "sector": "Consumer Staples",
+      "region": "SG"
+    },
+    {
+      "t": "DG",
+      "n": "Vinci SA",
+      "weight": 0.48803,
+      "isin": "FR0000125486",
+      "sector": "Industrials",
+      "region": "FR"
+    },
+    {
+      "t": "DGE",
+      "n": "Diageo PLC",
+      "weight": 0.39433,
+      "isin": "GB0002374006",
+      "sector": "Consumer Staples",
+      "region": "GB"
+    },
+    {
+      "t": "DHL",
+      "n": "DHL AG",
+      "weight": 0.45934,
+      "isin": "DE0005552004",
+      "sector": "Industrials",
+      "region": "DE"
+    },
+    {
+      "t": "DKK",
+      "n": "DKK/USD FWD 20260901",
+      "weight": 0.00633
+    },
+    {
+      "t": "DKK",
+      "n": "Danish Krone",
+      "weight": 0.0028,
+      "region": "DK"
+    },
+    {
+      "t": "DLAS",
+      "n": "Delek Yizum Nechasim Ltd",
+      "weight": 0.00137,
+      "isin": "IL0012437575",
+      "sector": "Energy",
+      "region": "IL"
+    },
+    {
+      "t": "DLEKG",
+      "n": "Delek Group Ltd",
+      "weight": 0.01967,
+      "isin": "IL0010841281",
+      "sector": "Energy",
+      "region": "IL"
+    },
+    {
+      "t": "DMP",
+      "n": "Domino's Pizza Enterprises Ltd",
+      "weight": 0.00667,
+      "isin": "AU000000DMP0",
+      "sector": "Consumer Discretionary",
+      "region": "AU"
+    },
+    {
+      "t": "DNB",
+      "n": "DNB Bank ASA",
+      "weight": 0.21294,
+      "isin": "NO0010161896",
+      "sector": "Financials",
+      "region": "NO"
+    },
+    {
+      "t": "DNL",
+      "n": "Incitec Pivot Ltd",
+      "weight": 0.03316,
+      "isin": "AU0000390544",
+      "sector": "Materials",
+      "region": "AU"
+    },
+    {
+      "t": "DOW",
+      "n": "Downer EDI Ltd",
+      "weight": 0.02352,
+      "isin": "AU000000DOW2",
+      "sector": "Industrials",
+      "region": "AU"
+    },
+    {
+      "t": "DRR",
+      "n": "Deterra Royalties Ltd",
+      "weight": 0.00957,
+      "isin": "AU0000107484",
+      "sector": "Materials",
+      "region": "AU"
+    },
+    {
+      "t": "DSCT",
+      "n": "Israel Discount Bank Ltd",
+      "weight": 0.10664,
+      "isin": "IL0006912120",
+      "sector": "Financials",
+      "region": "IL"
+    },
+    {
+      "t": "DSFIR",
+      "n": "DSM-Firmenich AG",
+      "weight": 0.15694,
+      "isin": "CH1216478797",
+      "sector": "Materials",
+      "region": "NL"
+    },
+    {
+      "t": "DTE",
+      "n": "Deutsche Telekom AG",
+      "weight": 0.86501,
+      "isin": "DE0005557508",
+      "sector": "Communication Services",
+      "region": "DE"
+    },
+    {
+      "t": "DTG",
+      "n": "Daimler Truck Holding AG",
+      "weight": 0.20628,
+      "isin": "DE000DTR0CK8",
+      "sector": "Industrials",
+      "region": "DE"
+    },
+    {
+      "t": "DWNI",
+      "n": "Deutsche Wohnen SE",
+      "weight": 0.00791,
+      "isin": "DE000A0HN5C6",
+      "sector": "Real Estate",
+      "region": "DE"
+    },
+    {
+      "t": "DWS",
+      "n": "DWS Group GmbH & Co KGaA",
+      "weight": 0.02098,
+      "isin": "DE000DWS1007",
+      "sector": "Financials",
+      "region": "DE"
+    },
+    {
+      "t": "EBO",
+      "n": "EBOS Group Ltd",
+      "weight": 0.01784,
+      "isin": "NZEBOE0001S6",
+      "sector": "Health Care",
+      "region": "NZ"
+    },
+    {
+      "t": "EBP",
+      "n": "Erste Bank Polska SA",
+      "weight": 0.06246,
+      "isin": "PLBZ00000044",
+      "sector": "Financials",
+      "region": "PL"
+    },
+    {
+      "t": "EBS",
+      "n": "Erste Group Bank AG",
+      "weight": 0.30149,
+      "isin": "AT0000652011",
+      "sector": "Financials",
+      "region": "AT"
+    },
+    {
+      "t": "EDEN",
+      "n": "Edenred SE",
+      "weight": 0.06022,
+      "isin": "FR0010908533",
+      "sector": "Financials",
+      "region": "FR"
+    },
+    {
+      "t": "EDP",
+      "n": "EDP SA",
+      "weight": 0.12265,
+      "isin": "PTEDP0AM0009",
+      "sector": "Utilities",
+      "region": "PT"
+    },
+    {
+      "t": "EDV",
+      "n": "Endeavour Mining PLC",
+      "weight": 0.10438,
+      "isin": "GB00BL6K5J42",
+      "sector": "Materials",
+      "region": "GB"
+    },
+    {
+      "t": "EDV",
+      "n": "Endeavour Group Ltd/Australia",
+      "weight": 0.02601,
+      "isin": "AU0000154833",
+      "sector": "Consumer Staples",
+      "region": "AU"
+    },
+    {
+      "t": "ELAL",
+      "n": "El Al Israel Airlines Ltd",
+      "weight": 0.01462,
+      "isin": "IL0010878242",
+      "sector": "Industrials",
+      "region": "IL"
+    },
+    {
+      "t": "ELE",
+      "n": "Endesa SA",
+      "weight": 0.11337,
+      "isin": "ES0130670112",
+      "sector": "Utilities",
+      "region": "ES"
+    },
+    {
+      "t": "ELISA",
+      "n": "Elisa Oyj",
+      "weight": 0.04402,
+      "isin": "FI0009007884",
+      "sector": "Communication Services",
+      "region": "FI"
+    },
+    {
+      "t": "EMSN",
+      "n": "EMS-Chemie Holding AG",
+      "weight": 0.05105,
+      "isin": "CH0016440353",
+      "sector": "Materials",
+      "region": "CH"
+    },
+    {
+      "t": "EN",
+      "n": "Bouygues SA",
+      "weight": 0.07913,
+      "isin": "FR0000120503",
+      "sector": "Industrials",
+      "region": "FR"
+    },
+    {
+      "t": "ENEL",
+      "n": "Enel SpA",
+      "weight": 0.62994,
+      "isin": "IT0003128367",
+      "sector": "Utilities",
+      "region": "IT"
+    },
+    {
+      "t": "ENGI",
+      "n": "Engie SA",
+      "weight": 0.27015,
+      "isin": "FR0010208488",
+      "sector": "Utilities",
+      "region": "FR"
+    },
+    {
+      "t": "ENI",
+      "n": "Eni SpA",
+      "weight": 0.38109,
+      "isin": "IT0003132476",
+      "sector": "Energy",
+      "region": "IT"
+    },
+    {
+      "t": "ENT",
+      "n": "Entain PLC",
+      "weight": 0.03188,
+      "isin": "IM00B5VQMV65",
+      "sector": "Consumer Discretionary",
+      "region": "GB"
+    },
+    {
+      "t": "EOAN",
+      "n": "E.ON SE",
+      "weight": 0.35086,
+      "isin": "DE000ENAG999",
+      "sector": "Utilities",
+      "region": "DE"
+    },
+    {
+      "t": "EQNR",
+      "n": "Equinor ASA",
+      "weight": 0.23476,
+      "isin": "NO0010096985",
+      "sector": "Energy",
+      "region": "NO"
+    },
+    {
+      "t": "ERICB",
+      "n": "Telefonaktiebolaget LM Ericsson",
+      "weight": 0.21022,
+      "isin": "SE0000108656",
+      "sector": "Information Technology",
+      "region": "SE"
+    },
+    {
+      "t": "ESSITYB",
+      "n": "Essity AB",
+      "weight": 0.12852,
+      "isin": "SE0009922164",
+      "sector": "Consumer Staples",
+      "region": "SE"
+    },
+    {
+      "t": "EUR",
+      "n": "EUR/USD FWD 20260901",
+      "weight": 0.11233
+    },
+    {
+      "t": "EUR",
+      "n": "EUR/USD FWD 20260916",
+      "weight": 0.05247
+    },
+    {
+      "t": "EUR",
+      "n": "EUR/USD FWD 20260916",
+      "weight": 0.04002
+    },
+    {
+      "t": "EUR",
+      "n": "EUR/USD FWD 20260916",
+      "weight": 0.02898
+    },
+    {
+      "t": "EUR",
+      "n": "Euro",
+      "weight": 0.00697,
+      "region": "XE"
+    },
+    {
+      "t": "EUR",
+      "n": "EUR/USD FWD 20260916",
+      "weight": 0.0046
+    },
+    {
+      "t": "EVK",
+      "n": "Evonik Industries AG",
+      "weight": 0.04204,
+      "isin": "DE000EVNK013",
+      "sector": "Materials",
+      "region": "DE"
+    },
+    {
+      "t": "EVN",
+      "n": "Evolution Mining Ltd",
+      "weight": 0.16431,
+      "isin": "AU000000EVN4",
+      "sector": "Materials",
+      "region": "AU"
+    },
+    {
+      "t": "EVO",
+      "n": "Evolution AB",
+      "weight": 0.07842,
+      "isin": "SE0012673267",
+      "sector": "Consumer Discretionary",
+      "region": "SE"
+    },
+    {
+      "t": "FBK",
+      "n": "FinecoBank Banca Fineco SpA",
+      "weight": 0.12908,
+      "isin": "IT0000072170",
+      "sector": "Financials",
+      "region": "IT"
+    },
+    {
+      "t": "FDJU",
+      "n": "La Francaise des Jeux SAEM",
+      "weight": 0.02162,
+      "isin": "FR0013451333",
+      "sector": "Consumer Discretionary",
+      "region": "FR"
+    },
+    {
+      "t": "FGR",
+      "n": "Eiffage SA",
+      "weight": 0.06853,
+      "isin": "FR0000130452",
+      "sector": "Industrials",
+      "region": "FR"
+    },
+    {
+      "t": "FHZN",
+      "n": "Flughafen Zurich AG",
+      "weight": 0.03735,
+      "isin": "CH0319416936",
+      "sector": "Industrials",
+      "region": "CH"
+    },
+    {
+      "t": "FIBI",
+      "n": "The First International Bank Of Israel Ltd",
+      "weight": 0.03085,
+      "isin": "IL0005930388",
+      "sector": "Financials",
+      "region": "IL"
+    },
+    {
+      "t": "FIBIH",
+      "n": "FIBI Holdings Ltd",
+      "weight": 0.01349,
+      "isin": "IL0007630119",
+      "sector": "Financials",
+      "region": "IL"
+    },
+    {
+      "t": "FLT",
+      "n": "Flight Centre Travel Group Ltd",
+      "weight": 0.01026,
+      "isin": "AU000000FLT9",
+      "sector": "Consumer Discretionary",
+      "region": "AU"
+    },
+    {
+      "t": "FME",
+      "n": "Fresenius Medical Care AG",
+      "weight": 0.06993,
+      "isin": "DE0005785802",
+      "sector": "Health Care",
+      "region": "DE"
+    },
+    {
+      "t": "FMG",
+      "n": "Fortescue Ltd",
+      "weight": 0.15314,
+      "isin": "AU000000FMG4",
+      "sector": "Materials",
+      "region": "AU"
+    },
+    {
+      "t": "FORTUM",
+      "n": "Fortum Oyj",
+      "weight": 0.07785,
+      "isin": "FI0009007132",
+      "sector": "Utilities",
+      "region": "FI"
+    },
+    {
+      "t": "FPE",
+      "n": "FUCHS SE",
+      "weight": 0.00791,
+      "isin": "DE000A3E5D56",
+      "sector": "Materials",
+      "region": "DE"
+    },
+    {
+      "t": "FPE3",
+      "n": "FUCHS SE",
+      "weight": 0.02305,
+      "isin": "DE000A3E5D64",
+      "sector": "Materials",
+      "region": "DE"
+    },
+    {
+      "t": "FR0013215407",
+      "n": "Engie SA",
+      "weight": 0.01942,
+      "isin": "FR0013215407",
+      "sector": "Utilities",
+      "region": "FR"
+    },
+    {
+      "t": "FR0014004UW8",
+      "n": "Sodexo SA",
+      "weight": 0.0016,
+      "isin": "FR0014004UW8",
+      "sector": "Consumer Discretionary",
+      "region": "FR"
+    },
+    {
+      "t": "FR001400C460",
+      "n": "Sodexo SA",
+      "weight": 0.0007,
+      "isin": "FR001400C460",
+      "sector": "Consumer Discretionary",
+      "region": "FR"
+    },
+    {
+      "t": "FR001400K6E0",
+      "n": "Sodexo SA",
+      "weight": 0.0015,
+      "isin": "FR001400K6E0",
+      "sector": "Consumer Discretionary",
+      "region": "FR"
+    },
+    {
+      "t": "FR001400S2Z6",
+      "n": "Sodexo SA",
+      "weight": 0.00658,
+      "isin": "FR001400S2Z6",
+      "sector": "Consumer Discretionary",
+      "region": "FR"
+    },
+    {
+      "t": "FR001400U6U4",
+      "n": "Engie SA",
+      "weight": 0.01645,
+      "isin": "FR001400U6U4",
+      "sector": "Utilities",
+      "region": "FR"
+    },
+    {
+      "t": "FR0014012X74",
+      "n": "Engie SA",
+      "weight": 0.0955,
+      "isin": "FR0014012X74",
+      "sector": "Utilities",
+      "region": "FR"
+    },
+    {
+      "t": "FRES",
+      "n": "Fresnillo PLC",
+      "weight": 0.06039,
+      "isin": "GB00B2QPKJ12",
+      "sector": "Materials",
+      "region": "GB"
+    },
+    {
+      "t": "G",
+      "n": "Generali",
+      "weight": 0.37751,
+      "isin": "IT0000062072",
+      "sector": "Financials",
+      "region": "IT"
+    },
+    {
+      "t": "GALP",
+      "n": "Galp Energia SGPS SA",
+      "weight": 0.07454,
+      "isin": "PTGAL0AM0009",
+      "sector": "Energy",
+      "region": "PT"
+    },
+    {
+      "t": "GBLB",
+      "n": "Groupe Bruxelles Lambert NV",
+      "weight": 0.04862,
+      "isin": "BE0003797140",
+      "sector": "Financials",
+      "region": "BE"
+    },
+    {
+      "t": "GBP",
+      "n": "GBP/USD FWD 20260916",
+      "weight": 0.13991
+    },
+    {
+      "t": "GBP",
+      "n": "GBP/USD FWD 20260916",
+      "weight": 0.13683
+    },
+    {
+      "t": "GBP",
+      "n": "GBP/USD FWD 20260902",
+      "weight": 0.05684
+    },
+    {
+      "t": "GBP",
+      "n": "GBP/USD FWD 20260916",
+      "weight": 0.04449
+    },
+    {
+      "t": "GBP",
+      "n": "GBP/USD FWD 20260916",
+      "weight": 0.02985
+    },
+    {
+      "t": "GBP",
+      "n": "British Pound Sterling",
+      "weight": 0.02716,
+      "region": "GB"
+    },
+    {
+      "t": "GENS",
+      "n": "Genting Singapore Ltd",
+      "weight": 0.02138,
+      "isin": "SGXE21576413",
+      "sector": "Consumer Discretionary",
+      "region": "SG"
+    },
+    {
+      "t": "GET",
+      "n": "Getlink SE",
+      "weight": 0.04582,
+      "isin": "FR0010533075",
+      "sector": "Industrials",
+      "region": "FR"
+    },
+    {
+      "t": "GJF",
+      "n": "Gjensidige Forsikring ASA",
+      "weight": 0.04372,
+      "isin": "NO0010582521",
+      "sector": "Financials",
+      "region": "NO"
+    },
+    {
+      "t": "GLE",
+      "n": "Societe Generale SA",
+      "weight": 0.43417,
+      "isin": "FR0000130809",
+      "sector": "Financials",
+      "region": "FR"
+    },
+    {
+      "t": "GQG",
+      "n": "GQG Partners Inc",
+      "weight": 0.00558,
+      "isin": "AU0000180499",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "GRF/P",
+      "n": "Grifols SA",
+      "weight": 0.01531,
+      "isin": "ES0171996095",
+      "sector": "Health Care",
+      "region": "ES"
+    },
+    {
+      "t": "GSK",
+      "n": "GSK PLC",
+      "weight": 0.76594,
+      "isin": "GB00BN7SWP63",
+      "sector": "Health Care",
+      "region": "GB"
+    },
+    {
+      "t": "GVYM",
+      "n": "Gav-Yam Lands Corp Ltd",
+      "weight": 0.0064,
+      "isin": "IL0007590198",
+      "sector": "Real Estate",
+      "region": "IL"
+    },
+    {
+      "t": "HBAN",
+      "n": "Helvetia Baloise Holding AG",
+      "weight": 0.15488,
+      "isin": "CH0466642201",
+      "sector": "Financials",
+      "region": "CH"
+    },
+    {
+      "t": "HEN",
+      "n": "Henkel AG & Co KGaA",
+      "weight": 0.05852,
+      "isin": "DE0006048408",
+      "sector": "Consumer Staples",
+      "region": "DE"
+    },
+    {
+      "t": "HER",
+      "n": "Hera SpA",
+      "weight": 0.0234,
+      "isin": "IT0001250932",
+      "sector": "Utilities",
+      "region": "IT"
+    },
+    {
+      "t": "HKD",
+      "n": "HKD/USD FWD 20260901",
+      "weight": 0.00775
+    },
+    {
+      "t": "HKD",
+      "n": "Hong Kong Dollar",
+      "weight": 0.0018,
+      "region": "HK"
+    },
+    {
+      "t": "HKL",
+      "n": "Hongkong Land Holdings Ltd",
+      "weight": 0.06031,
+      "isin": "BMG4587L1090",
+      "sector": "Real Estate",
+      "region": "SG"
+    },
+    {
+      "t": "HLUNA",
+      "n": "H Lundbeck A/S",
+      "weight": 0.00179,
+      "isin": "DK0061804697",
+      "sector": "Health Care",
+      "region": "DK"
+    },
+    {
+      "t": "HLUNB",
+      "n": "H Lundbeck A/S",
+      "weight": 0.01359,
+      "isin": "DK0061804770",
+      "sector": "Health Care",
+      "region": "DK"
+    },
+    {
+      "t": "HMB",
+      "n": "H & M Hennes & Mauritz AB",
+      "weight": 0.06001,
+      "isin": "SE0000106270",
+      "sector": "Consumer Discretionary",
+      "region": "SE"
+    },
+    {
+      "t": "HNR1",
+      "n": "Hannover Rueck SE",
+      "weight": 0.13786,
+      "isin": "DE0008402215",
+      "sector": "Financials",
+      "region": "DE"
+    },
+    {
+      "t": "HOLN",
+      "n": "Holcim AG",
+      "weight": 0.33859,
+      "isin": "CH0012214059",
+      "sector": "Materials",
+      "region": "CH"
+    },
+    {
+      "t": "HPHT",
+      "n": "Hutchison Port Holdings Trust",
+      "weight": 0.00757,
+      "isin": "SG2D00968206",
+      "sector": "Industrials",
+      "region": "SG"
+    },
+    {
+      "t": "HSBA",
+      "n": "HSBC Holdings PLC",
+      "weight": 2.71679,
+      "isin": "GB0005405286",
+      "sector": "Financials",
+      "region": "GB"
+    },
+    {
+      "t": "HVN",
+      "n": "Harvey Norman Holdings Ltd",
+      "weight": 0.01237,
+      "isin": "AU000000HVN7",
+      "sector": "Consumer Discretionary",
+      "region": "AU"
+    },
+    {
+      "t": "IAG",
+      "n": "Insurance Australia Group Ltd",
+      "weight": 0.09643,
+      "isin": "AU000000IAG3",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "IBE",
+      "n": "Iberdrola SA",
+      "weight": 1.22667,
+      "isin": "ES0144580Y14",
+      "sector": "Utilities",
+      "region": "ES"
+    },
+    {
+      "t": "ICG",
+      "n": "ICG PLC",
+      "weight": 0.05612,
+      "isin": "GB00BYT1DJ19",
+      "sector": "Financials",
+      "region": "GB"
+    },
+    {
+      "t": "ICL",
+      "n": "ICL Group Ltd",
+      "weight": 0.03173,
+      "isin": "IL0002810146",
+      "sector": "Materials",
+      "region": "IL"
+    },
+    {
+      "t": "IG",
+      "n": "Italgas SpA",
+      "weight": 0.04782,
+      "isin": "IT0005211237",
+      "sector": "Utilities",
+      "region": "IT"
+    },
+    {
+      "t": "ILS",
+      "n": "New Israeli Sheqel",
+      "weight": 0.0089,
+      "region": "IL"
+    },
+    {
+      "t": "IMB",
+      "n": "Imperial Brands PLC",
+      "weight": 0.19529,
+      "isin": "GB0004544929",
+      "sector": "Consumer Staples",
+      "region": "GB"
+    },
+    {
+      "t": "INGA",
+      "n": "ING Groep NV",
+      "weight": 0.77832,
+      "isin": "NL0011821202",
+      "sector": "Financials",
+      "region": "NL"
+    },
+    {
+      "t": "INW",
+      "n": "Infrastrutture Wireless Italiane SpA",
+      "weight": 0.01668,
+      "isin": "IT0005090300",
+      "sector": "Communication Services",
+      "region": "IT"
+    },
+    {
+      "t": "ISP",
+      "n": "Intesa Sanpaolo SpA",
+      "weight": 0.91849,
+      "isin": "IT0000072618",
+      "sector": "Financials",
+      "region": "IT"
+    },
+    {
+      "t": "ITRK",
+      "n": "Intertek Group PLC",
+      "weight": 0.09283,
+      "isin": "GB0031638363",
+      "sector": "Industrials",
+      "region": "GB"
+    },
+    {
+      "t": "ITX",
+      "n": "Industria de Diseno Textil SA",
+      "weight": 0.57207,
+      "isin": "ES0148396007",
+      "sector": "Consumer Discretionary",
+      "region": "ES"
+    },
+    {
+      "t": "JBH",
+      "n": "JB Hi-Fi Ltd",
+      "weight": 0.03908,
+      "isin": "AU000000JBH7",
+      "sector": "Consumer Discretionary",
+      "region": "AU"
+    },
+    {
+      "t": "JCNC",
+      "n": "Jardine Cycle & Carriage Ltd",
+      "weight": 0.00929,
+      "isin": "SG1B51001017",
+      "sector": "Industrials",
+      "region": "SG"
+    },
+    {
+      "t": "JM",
+      "n": "Jardine Matheson Holdings Ltd",
+      "weight": 0.08328,
+      "isin": "BMG507361001",
+      "sector": "Industrials",
+      "region": "SG"
+    },
+    {
+      "t": "JMT",
+      "n": "Jeronimo Martins SGPS SA",
+      "weight": 0.04379,
+      "isin": "PTJMT0AE0001",
+      "sector": "Consumer Staples",
+      "region": "PT"
+    },
+    {
+      "t": "JPY",
+      "n": "JPY/USD FWD 20260916",
+      "weight": 0.08468
+    },
+    {
+      "t": "JPY",
+      "n": "JPY/USD FWD 20260916",
+      "weight": 0.06746
+    },
+    {
+      "t": "JPY",
+      "n": "JPY/USD FWD 20260901",
+      "weight": 0.05893
+    },
+    {
+      "t": "JPY",
+      "n": "JPY/USD FWD 20260916",
+      "weight": 0.04792
+    },
+    {
+      "t": "JPY",
+      "n": "Japanese Yen",
+      "weight": 0.00084,
+      "region": "JP"
+    },
+    {
+      "t": "KBC",
+      "n": "KBC Group NV",
+      "weight": 0.2577,
+      "isin": "BE0003565737",
+      "sector": "Financials",
+      "region": "BE"
+    },
+    {
+      "t": "KEN",
+      "n": "Kenon Holdings Ltd/Singapore",
+      "weight": 0.00997,
+      "isin": "SG9999012629",
+      "sector": "Utilities",
+      "region": "IL"
+    },
+    {
+      "t": "KEP",
+      "n": "Keppel Ltd",
+      "weight": 0.09821,
+      "isin": "SG1U68934629",
+      "sector": "Industrials",
+      "region": "SG"
+    },
+    {
+      "t": "KESKOB",
+      "n": "Kesko Oyj",
+      "weight": 0.05298,
+      "isin": "FI0009000202",
+      "sector": "Consumer Staples",
+      "region": "FI"
+    },
+    {
+      "t": "KGF",
+      "n": "Kingfisher PLC",
+      "weight": 0.05502,
+      "isin": "GB0033195214",
+      "sector": "Consumer Discretionary",
+      "region": "GB"
+    },
+    {
+      "t": "KNEBV",
+      "n": "Kone Oyj",
+      "weight": 0.1474,
+      "isin": "FI0009013403",
+      "sector": "Industrials",
+      "region": "FI"
+    },
+    {
+      "t": "KNIN",
+      "n": "Kuehne + Nagel International AG",
+      "weight": 0.09413,
+      "isin": "CH0025238863",
+      "sector": "Industrials",
+      "region": "CH"
+    },
+    {
+      "t": "KPN",
+      "n": "Koninklijke KPN NV",
+      "weight": 0.14012,
+      "isin": "NL0000009082",
+      "sector": "Communication Services",
+      "region": "NL"
+    },
+    {
+      "t": "KRW",
+      "n": "Korean Won",
+      "weight": 0.01291,
+      "region": "KR"
+    },
+    {
+      "t": "KRW",
+      "n": "KRW/USD FWD 20260901",
+      "weight": 0.00854
+    },
+    {
+      "t": "LEG",
+      "n": "LEG Immobilien SE",
+      "weight": 0.03306,
+      "isin": "DE000LEG1110",
+      "sector": "Real Estate",
+      "region": "DE"
+    },
+    {
+      "t": "LGEN",
+      "n": "Legal & General Group PLC",
+      "weight": 0.16825,
+      "isin": "GB0005603997",
+      "sector": "Financials",
+      "region": "GB"
+    },
+    {
+      "t": "LHA",
+      "n": "Deutsche Lufthansa AG",
+      "weight": 0.0419,
+      "isin": "DE0008232125",
+      "sector": "Industrials",
+      "region": "DE"
+    },
+    {
+      "t": "LLC",
+      "n": "Lendlease Corp Ltd",
+      "weight": 0.01098,
+      "isin": "AU000000LLC3",
+      "sector": "Real Estate",
+      "region": "AU"
+    },
+    {
+      "t": "LLOY",
+      "n": "Lloyds Banking Group PLC",
+      "weight": 0.66689,
+      "isin": "GB0008706128",
+      "sector": "Financials",
+      "region": "GB"
+    },
+    {
+      "t": "LPP",
+      "n": "LPP SA",
+      "weight": 0.05438,
+      "isin": "PLLPP0000011",
+      "sector": "Consumer Discretionary",
+      "region": "PL"
+    },
+    {
+      "t": "LUMI",
+      "n": "Bank Leumi Le-Israel BM",
+      "weight": 0.28764,
+      "isin": "IL0006046119",
+      "sector": "Financials",
+      "region": "IL"
+    },
+    {
+      "t": "MAP",
+      "n": "Mapfre SA",
+      "weight": 0.03636,
+      "isin": "ES0124244E34",
+      "sector": "Financials",
+      "region": "ES"
+    },
+    {
+      "t": "MB",
+      "n": "Mediobanca Banca di Credito Finanziario SpA",
+      "weight": 0.02148,
+      "isin": "IT0000062957",
+      "sector": "Financials",
+      "region": "IT"
+    },
+    {
+      "t": "MBG",
+      "n": "Mercedes-Benz Group AG",
+      "weight": 0.31777,
+      "isin": "DE0007100000",
+      "sector": "Consumer Discretionary",
+      "region": "DE"
+    },
+    {
+      "t": "MCY",
+      "n": "Mercury NZ Ltd",
+      "weight": 0.02036,
+      "isin": "NZMRPE0001S2",
+      "sector": "Utilities",
+      "region": "NZ"
+    },
+    {
+      "t": "MEL",
+      "n": "Meridian Energy Ltd",
+      "weight": 0.03171,
+      "isin": "NZMELE0002S7",
+      "sector": "Utilities",
+      "region": "NZ"
+    },
+    {
+      "t": "MFG",
+      "n": "Magellan Financial Group Ltd",
+      "weight": 0.00851,
+      "isin": "AU000000MFG4",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "MFSU6",
+      "n": "ICE US mini MSCI EAFE Index Futures",
+      "weight": 0.17892,
+      "region": "US"
+    },
+    {
+      "t": "ML",
+      "n": "Cie Generale des Etablissements Michelin SCA",
+      "weight": 0.19781,
+      "isin": "FR001400AJ45",
+      "sector": "Consumer Discretionary",
+      "region": "FR"
+    },
+    {
+      "t": "MNDI",
+      "n": "Mondi PLC",
+      "weight": 0.03938,
+      "isin": "GB00BMWC6P49",
+      "sector": "Materials",
+      "region": "GB"
+    },
+    {
+      "t": "MNG",
+      "n": "M&G PLC",
+      "weight": 0.07267,
+      "isin": "GB00BKFB1C65",
+      "sector": "Financials",
+      "region": "GB"
+    },
+    {
+      "t": "MOWI",
+      "n": "Mowi ASA",
+      "weight": 0.07308,
+      "isin": "NO0003054108",
+      "sector": "Consumer Staples",
+      "region": "NO"
+    },
+    {
+      "t": "MPL",
+      "n": "Medibank Pvt Ltd",
+      "weight": 0.07273,
+      "isin": "AU000000MPL3",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "MQG",
+      "n": "Macquarie Group Ltd",
+      "weight": 0.47938,
+      "isin": "AU000000MQG1",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "MTRX",
+      "n": "Matrix IT Ltd",
+      "weight": 0.01345,
+      "isin": "IL0004450156",
+      "sector": "Information Technology",
+      "region": "IL"
+    },
+    {
+      "t": "MTS",
+      "n": "Metcash Ltd",
+      "weight": 0.01743,
+      "isin": "AU000000MTS0",
+      "sector": "Consumer Staples",
+      "region": "AU"
+    },
+    {
+      "t": "MUV2",
+      "n": "Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen",
+      "weight": 0.5899,
+      "isin": "DE0008430026",
+      "sector": "Financials",
+      "region": "DE"
+    },
+    {
+      "t": "MZTF",
+      "n": "Mizrahi Tefahot Bank Ltd",
+      "weight": 0.09034,
+      "isin": "IL0006954379",
+      "sector": "Financials",
+      "region": "IL"
+    },
+    {
+      "t": "NAB",
+      "n": "National Australia Bank Ltd",
+      "weight": 0.64794,
+      "isin": "AU000000NAB4",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "NDA",
+      "n": "Nordea Bank Abp",
+      "weight": 0.50216,
+      "isin": "FI4000297767",
+      "sector": "Financials",
+      "region": "FI"
+    },
+    {
+      "t": "NESN",
+      "n": "Nestle SA",
+      "weight": 1.91844,
+      "isin": "CH0038863350",
+      "sector": "Consumer Staples",
+      "region": "CH"
+    },
+    {
+      "t": "NETLINK",
+      "n": "NETLINK NBN TRUST",
+      "weight": 0.0166,
+      "isin": "SG1DH9000006",
+      "sector": "Communication Services",
+      "region": "SG"
+    },
+    {
+      "t": "NEXI",
+      "n": "Nexi SpA",
+      "weight": 0.01726,
+      "isin": "IT0005366767",
+      "sector": "Financials",
+      "region": "IT"
+    },
+    {
+      "t": "NG/",
+      "n": "National Grid PLC",
+      "weight": 0.60198,
+      "isin": "GB00BDR05C01",
+      "sector": "Utilities",
+      "region": "GB"
+    },
+    {
+      "t": "NHC",
+      "n": "New Hope Corp Ltd",
+      "weight": 0.01583,
+      "isin": "AU000000NHC7",
+      "sector": "Energy",
+      "region": "AU"
+    },
+    {
+      "t": "NHY",
+      "n": "Norsk Hydro ASA",
+      "weight": 0.09894,
+      "isin": "NO0005052605",
+      "sector": "Materials",
+      "region": "NO"
+    },
+    {
+      "t": "NN",
+      "n": "NN Group NV",
+      "weight": 0.1811,
+      "isin": "NL0010773842",
+      "sector": "Financials",
+      "region": "NL"
+    },
+    {
+      "t": "NOK",
+      "n": "NOK/USD FWD 20260901",
+      "weight": 0.00369
+    },
+    {
+      "t": "NOK",
+      "n": "Norwegian Krone",
+      "weight": 0.00331,
+      "region": "NO"
+    },
+    {
+      "t": "NOVN",
+      "n": "Novartis AG",
+      "weight": 2.17467,
+      "isin": "CH0012005267",
+      "sector": "Health Care",
+      "region": "CH"
+    },
+    {
+      "t": "NOVOB",
+      "n": "Novo Nordisk A/S",
+      "weight": 1.10506,
+      "isin": "DK0062498333",
+      "sector": "Health Care",
+      "region": "DK"
+    },
+    {
+      "t": "NTGY",
+      "n": "Naturgy Energy Group SA",
+      "weight": 0.12053,
+      "isin": "ES0116870314",
+      "sector": "Utilities",
+      "region": "ES"
+    },
+    {
+      "t": "NWG",
+      "n": "NatWest Group PLC",
+      "weight": 0.56136,
+      "isin": "GB00BM8PJY71",
+      "sector": "Financials",
+      "region": "GB"
+    },
+    {
+      "t": "NXT",
+      "n": "Next PLC",
+      "weight": 0.18268,
+      "isin": "GB0032089863",
+      "sector": "Consumer Discretionary",
+      "region": "GB"
+    },
+    {
+      "t": "NZD",
+      "n": "New Zealand Dollar",
+      "weight": 0.00128,
+      "region": "NZ"
+    },
+    {
+      "t": "NZD",
+      "n": "NZD/USD FWD 20260901",
+      "weight": 0.00045
+    },
+    {
+      "t": "OCBC",
+      "n": "Oversea-Chinese Banking Corp Ltd",
+      "weight": 0.61124,
+      "isin": "SG1S04926220",
+      "sector": "Financials",
+      "region": "SG"
+    },
+    {
+      "t": "OMV",
+      "n": "OMV AG",
+      "weight": 0.08601,
+      "isin": "AT0000743059",
+      "sector": "Energy",
+      "region": "AT"
+    },
+    {
+      "t": "ORA",
+      "n": "Orange SA",
+      "weight": 0.28611,
+      "isin": "FR0000133308",
+      "sector": "Communication Services",
+      "region": "FR"
+    },
+    {
+      "t": "ORA",
+      "n": "Orora Ltd",
+      "weight": 0.0097,
+      "isin": "AU000000ORA8",
+      "sector": "Materials",
+      "region": "AU"
+    },
+    {
+      "t": "ORG",
+      "n": "Origin Energy Ltd",
+      "weight": 0.10838,
+      "isin": "AU000000ORG5",
+      "sector": "Utilities",
+      "region": "AU"
+    },
+    {
+      "t": "ORI",
+      "n": "Orica Ltd",
+      "weight": 0.05595,
+      "isin": "AU000000ORI1",
+      "sector": "Materials",
+      "region": "AU"
+    },
+    {
+      "t": "ORK",
+      "n": "Orkla ASA",
+      "weight": 0.05027,
+      "isin": "NO0003733800",
+      "sector": "Consumer Staples",
+      "region": "NO"
+    },
+    {
+      "t": "ORNBV",
+      "n": "Orion Oyj",
+      "weight": 0.07474,
+      "isin": "FI0009014377",
+      "sector": "Health Care",
+      "region": "FI"
+    },
+    {
+      "t": "PEO",
+      "n": "Bank Polska Kasa Opieki SA",
+      "weight": 0.09367,
+      "isin": "PLPEKAO00016",
+      "sector": "Financials",
+      "region": "PL"
+    },
+    {
+      "t": "PGHN",
+      "n": "Partners Group Holding AG",
+      "weight": 0.14777,
+      "isin": "CH0024608827",
+      "sector": "Financials",
+      "region": "CH"
+    },
+    {
+      "t": "PHOE",
+      "n": "Phoenix Financial Ltd",
+      "weight": 0.10912,
+      "isin": "IL0007670123",
+      "sector": "Financials",
+      "region": "IL"
+    },
+    {
+      "t": "PIRC",
+      "n": "Pirelli & C SpA",
+      "weight": 0.02562,
+      "isin": "IT0005278236",
+      "sector": "Consumer Discretionary",
+      "region": "IT"
+    },
+    {
+      "t": "PKN",
+      "n": "ORLEN SA",
+      "weight": 0.18401,
+      "isin": "PLPKN0000018",
+      "sector": "Energy",
+      "region": "PL"
+    },
+    {
+      "t": "PKO",
+      "n": "Powszechna Kasa Oszczednosci Bank Polski SA",
+      "weight": 0.2005,
+      "isin": "PLPKO0000016",
+      "sector": "Financials",
+      "region": "PL"
+    },
+    {
+      "t": "PLN",
+      "n": "PLN/USD FWD 20260901",
+      "weight": 0.00223
+    },
+    {
+      "t": "PLN",
+      "n": "Polish Zloty",
+      "weight": 0.0019,
+      "region": "PL"
+    },
+    {
+      "t": "PNDORA",
+      "n": "Pandora A/S",
+      "weight": 0.0753,
+      "isin": "DK0060252690",
+      "sector": "Consumer Discretionary",
+      "region": "DK"
+    },
+    {
+      "t": "POLI",
+      "n": "Bank Hapoalim BM",
+      "weight": 0.25824,
+      "isin": "IL0006625771",
+      "sector": "Financials",
+      "region": "IL"
+    },
+    {
+      "t": "PPT",
+      "n": "Perpetual Ltd",
+      "weight": 0.01191,
+      "isin": "AU000000PPT9",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "PSN",
+      "n": "Persimmon PLC",
+      "weight": 0.03831,
+      "isin": "GB0006825383",
+      "sector": "Consumer Discretionary",
+      "region": "GB"
+    },
+    {
+      "t": "PST",
+      "n": "Poste Italiane SpA",
+      "weight": 0.11227,
+      "isin": "IT0003796171",
+      "sector": "Financials",
+      "region": "IT"
+    },
+    {
+      "t": "PUB",
+      "n": "Publicis Groupe SA",
+      "weight": 0.2083,
+      "isin": "FR0000130577",
+      "sector": "Communication Services",
+      "region": "FR"
+    },
+    {
+      "t": "PZU",
+      "n": "Powszechny Zaklad Ubezpieczen SA",
+      "weight": 0.08633,
+      "isin": "PLPZU0000011",
+      "sector": "Financials",
+      "region": "PL"
+    },
+    {
+      "t": "QAN",
+      "n": "Qantas Airways Ltd",
+      "weight": 0.03798,
+      "isin": "AU000000QAN2",
+      "sector": "Industrials",
+      "region": "AU"
+    },
+    {
+      "t": "QBE",
+      "n": "QBE Insurance Group Ltd",
+      "weight": 0.18219,
+      "isin": "AU000000QBE9",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "RAND",
+      "n": "Randstad NV",
+      "weight": 0.03893,
+      "isin": "NL0000379121",
+      "sector": "Industrials",
+      "region": "NL"
+    },
+    {
+      "t": "RBI",
+      "n": "Raiffeisen Bank International AG",
+      "weight": 0.0718,
+      "isin": "AT0000606306",
+      "sector": "Financials",
+      "region": "AT"
+    },
+    {
+      "t": "REC",
+      "n": "Recordati Industria Chimica e Farmaceutica SpA",
+      "weight": 0.04907,
+      "isin": "IT0003828271",
+      "sector": "Health Care",
+      "region": "IT"
+    },
+    {
+      "t": "RED",
+      "n": "Redeia Corp SA",
+      "weight": 0.0548,
+      "isin": "ES0173093024",
+      "sector": "Utilities",
+      "region": "ES"
+    },
+    {
+      "t": "REP",
+      "n": "Repsol SA",
+      "weight": 0.26351,
+      "isin": "ES0173516115",
+      "sector": "Energy",
+      "region": "ES"
+    },
+    {
+      "t": "RI",
+      "n": "Pernod Ricard SA",
+      "weight": 0.10639,
+      "isin": "FR0000120693",
+      "sector": "Consumer Staples",
+      "region": "FR"
+    },
+    {
+      "t": "RIO",
+      "n": "Rio Tinto PLC",
+      "weight": 0.82273,
+      "isin": "GB0007188757",
+      "sector": "Materials",
+      "region": "GB"
+    },
+    {
+      "t": "RIO",
+      "n": "Rio Tinto Ltd",
+      "weight": 0.35439,
+      "isin": "AU000000RIO1",
+      "sector": "Materials",
+      "region": "AU"
+    },
+    {
+      "t": "RKT",
+      "n": "Reckitt Benckiser Group PLC",
+      "weight": 0.34089,
+      "isin": "GB00BSZBP530",
+      "sector": "Consumer Staples",
+      "region": "GB"
+    },
+    {
+      "t": "RNO",
+      "n": "Renault SA",
+      "weight": 0.0489,
+      "isin": "FR0000131906",
+      "sector": "Consumer Discretionary",
+      "region": "FR"
+    },
+    {
+      "t": "RO",
+      "n": "Roche Holding AG",
+      "weight": 0.09989,
+      "isin": "CH0012032113",
+      "sector": "Health Care",
+      "region": "CH"
+    },
+    {
+      "t": "ROP",
+      "n": "Roche Holding AG",
+      "weight": 2.34685,
+      "isin": "CH1499059983",
+      "sector": "Health Care",
+      "region": "CH"
+    },
+    {
+      "t": "RRTL",
+      "n": "RTL Group SA",
+      "weight": 0.01065,
+      "isin": "LU0061462528",
+      "sector": "Communication Services",
+      "region": "DE"
+    },
+    {
+      "t": "RXL",
+      "n": "Rexel SA",
+      "weight": 0.07015,
+      "isin": "FR0010451203",
+      "sector": "Industrials",
+      "region": "FR"
+    },
+    {
+      "t": "S32",
+      "n": "South32 Ltd",
+      "weight": 0.12587,
+      "isin": "AU000000S320",
+      "sector": "Materials",
+      "region": "AU"
+    },
+    {
+      "t": "SAB",
+      "n": "Banco de Sabadell SA",
+      "weight": 0.15063,
+      "isin": "ES0113860A34",
+      "sector": "Financials",
+      "region": "ES"
+    },
+    {
+      "t": "SAGAD",
+      "n": "Sagax AB",
+      "weight": 0.00283,
+      "isin": "SE0009161052",
+      "sector": "Real Estate",
+      "region": "SE"
+    },
+    {
+      "t": "SALM",
+      "n": "Salmar ASA",
+      "weight": 0.0323,
+      "isin": "NO0010310956",
+      "sector": "Consumer Staples",
+      "region": "NO"
+    },
+    {
+      "t": "SAMPO",
+      "n": "Sampo Oyj",
+      "weight": 0.21083,
+      "isin": "FI4000552500",
+      "sector": "Financials",
+      "region": "FI"
+    },
+    {
+      "t": "SAN",
+      "n": "Banco Santander SA",
+      "weight": 1.66305,
+      "isin": "ES0113900J37",
+      "sector": "Financials",
+      "region": "ES"
+    },
+    {
+      "t": "SAN",
+      "n": "Sanofi SA",
+      "weight": 0.73417,
+      "isin": "FR0000120578",
+      "sector": "Health Care",
+      "region": "FR"
+    },
+    {
+      "t": "SBRY",
+      "n": "J Sainsbury PLC",
+      "weight": 0.06606,
+      "isin": "GB00B019KW72",
+      "sector": "Consumer Staples",
+      "region": "GB"
+    },
+    {
+      "t": "SCI",
+      "n": "Sembcorp Industries Ltd",
+      "weight": 0.03147,
+      "isin": "SG1R50925390",
+      "sector": "Utilities",
+      "region": "SG"
+    },
+    {
+      "t": "SCMN",
+      "n": "Swisscom AG",
+      "weight": 0.15058,
+      "isin": "CH0008742519",
+      "sector": "Communication Services",
+      "region": "CH"
+    },
+    {
+      "t": "SCR",
+      "n": "SCOR SE",
+      "weight": 0.05177,
+      "isin": "FR0010411983",
+      "sector": "Financials",
+      "region": "FR"
+    },
+    {
+      "t": "SDF",
+      "n": "Steadfast Group Ltd",
+      "weight": 0.03366,
+      "isin": "AU000000SDF8",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "SDLF",
+      "n": "Standard Life PLC",
+      "weight": 0.07307,
+      "isin": "GB00BGXQNP29",
+      "sector": "Financials",
+      "region": "GB"
+    },
+    {
+      "t": "SDR",
+      "n": "Schroders PLC",
+      "weight": 0.04674,
+      "isin": "GB00BP9LHF23",
+      "sector": "Financials",
+      "region": "GB"
+    },
+    {
+      "t": "SEBA",
+      "n": "Skandinaviska Enskilda Banken AB",
+      "weight": 0.25855,
+      "isin": "SE0000148884",
+      "sector": "Financials",
+      "region": "SE"
+    },
+    {
+      "t": "SEBC",
+      "n": "Skandinaviska Enskilda Banken AB",
+      "weight": 0.00825,
+      "isin": "SE0000120784",
+      "sector": "Financials",
+      "region": "SE"
+    },
+    {
+      "t": "SECUB",
+      "n": "Securitas AB",
+      "weight": 0.05723,
+      "isin": "SE0000163594",
+      "sector": "Industrials",
+      "region": "SE"
+    },
+    {
+      "t": "SEK",
+      "n": "SEEK Ltd",
+      "weight": 0.02723,
+      "isin": "AU000000SEK6",
+      "sector": "Communication Services",
+      "region": "AU"
+    },
+    {
+      "t": "SEK",
+      "n": "SEK/USD FWD 20260901",
+      "weight": 0.00767
+    },
+    {
+      "t": "SEK",
+      "n": "Swedish Krona",
+      "weight": 0.00151,
+      "region": "SE"
+    },
+    {
+      "t": "SGD",
+      "n": "Singapore Dollar",
+      "weight": 0.02352,
+      "region": "SG"
+    },
+    {
+      "t": "SGO",
+      "n": "Cie de Saint-Gobain SA",
+      "weight": 0.31307,
+      "isin": "FR0000125007",
+      "sector": "Industrials",
+      "region": "FR"
+    },
+    {
+      "t": "SGSN",
+      "n": "SGS SA",
+      "weight": 0.14559,
+      "isin": "CH1256740924",
+      "sector": "Industrials",
+      "region": "CH"
+    },
+    {
+      "t": "SGX",
+      "n": "Singapore Exchange Ltd",
+      "weight": 0.12465,
+      "isin": "SG1J26887955",
+      "sector": "Financials",
+      "region": "SG"
+    },
+    {
+      "t": "SHA0",
+      "n": "Schaeffler AG",
+      "weight": 0.01306,
+      "isin": "DE000SHA0100",
+      "sector": "Consumer Discretionary",
+      "region": "DE"
+    },
+    {
+      "t": "SHBA",
+      "n": "Svenska Handelsbanken AB",
+      "weight": 0.16901,
+      "isin": "SE0007100599",
+      "sector": "Financials",
+      "region": "SE"
+    },
+    {
+      "t": "SHBB",
+      "n": "Svenska Handelsbanken AB",
+      "weight": 0.00435,
+      "isin": "SE0007100607",
+      "sector": "Financials",
+      "region": "SE"
+    },
+    {
+      "t": "SHEL",
+      "n": "Shell PLC",
+      "weight": 1.94469,
+      "isin": "GB00BP6MXD84",
+      "sector": "Energy",
+      "region": "GB"
+    },
+    {
+      "t": "SHL",
+      "n": "Sonic Healthcare Ltd",
+      "weight": 0.05013,
+      "isin": "AU000000SHL7",
+      "sector": "Health Care",
+      "region": "AU"
+    },
+    {
+      "t": "SIA",
+      "n": "Singapore Airlines Ltd",
+      "weight": 0.06311,
+      "isin": "SG1V61937297",
+      "sector": "Industrials",
+      "region": "SG"
+    },
+    {
+      "t": "SIE",
+      "n": "SIA Engineering Co Ltd",
+      "weight": 0.0047,
+      "isin": "SG1I53882771",
+      "sector": "Industrials",
+      "region": "SG"
+    },
+    {
+      "t": "SKAB",
+      "n": "Skanska AB",
+      "weight": 0.07226,
+      "isin": "SE0000113250",
+      "sector": "Industrials",
+      "region": "SE"
+    },
+    {
+      "t": "SKFB",
+      "n": "SKF AB",
+      "weight": 0.07363,
+      "isin": "SE0000108227",
+      "sector": "Industrials",
+      "region": "SE"
+    },
+    {
+      "t": "SLHN",
+      "n": "Swiss Life Holding AG",
+      "weight": 0.24218,
+      "isin": "CH0014852781",
+      "sector": "Financials",
+      "region": "CH"
+    },
+    {
+      "t": "SPK",
+      "n": "Spark New Zealand Ltd",
+      "weight": 0.01659,
+      "isin": "NZTELE0001S4",
+      "sector": "Communication Services",
+      "region": "NZ"
+    },
+    {
+      "t": "SREN",
+      "n": "Swiss Re AG",
+      "weight": 0.39217,
+      "isin": "CH0126881561",
+      "sector": "Financials",
+      "region": "CH"
+    },
+    {
+      "t": "SRG",
+      "n": "Snam SpA",
+      "weight": 0.1057,
+      "isin": "IT0003153415",
+      "sector": "Utilities",
+      "region": "IT"
+    },
+    {
+      "t": "SSABA",
+      "n": "SSAB AB",
+      "weight": 0.01916,
+      "isin": "SE0000171100",
+      "sector": "Materials",
+      "region": "SE"
+    },
+    {
+      "t": "SSABB",
+      "n": "SSAB AB",
+      "weight": 0.04924,
+      "isin": "SE0000120669",
+      "sector": "Materials",
+      "region": "SE"
+    },
+    {
+      "t": "SSE",
+      "n": "SSE PLC",
+      "weight": 0.30743,
+      "isin": "GB0007908733",
+      "sector": "Utilities",
+      "region": "GB"
+    },
+    {
+      "t": "ST",
+      "n": "Singapore Telecommunications Ltd",
+      "weight": 0.20133,
+      "isin": "SG1T75931496",
+      "sector": "Communication Services",
+      "region": "SG"
+    },
+    {
+      "t": "STERV",
+      "n": "Stora Enso Oyj",
+      "weight": 0.05204,
+      "isin": "FI0009005961",
+      "sector": "Materials",
+      "region": "FI"
+    },
+    {
+      "t": "STH",
+      "n": "StarHub Ltd",
+      "weight": 0.00381,
+      "isin": "SG1V12936232",
+      "sector": "Communication Services",
+      "region": "SG"
+    },
+    {
+      "t": "STLAM",
+      "n": "Stellantis NV",
+      "weight": 0.09315,
+      "isin": "NL00150001Q9",
+      "sector": "Consumer Discretionary",
+      "region": "IT"
+    },
+    {
+      "t": "STO",
+      "n": "Santos Ltd",
+      "weight": 0.14475,
+      "isin": "AU000000STO6",
+      "sector": "Energy",
+      "region": "AU"
+    },
+    {
+      "t": "SUN",
+      "n": "Suncorp Group Ltd",
+      "weight": 0.11186,
+      "isin": "AU000000SUN6",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "SVT",
+      "n": "Severn Trent PLC",
+      "weight": 0.08666,
+      "isin": "GB00B1FH8J72",
+      "sector": "Utilities",
+      "region": "GB"
+    },
+    {
+      "t": "SW",
+      "n": "Sodexo SA",
+      "weight": 0.03,
+      "isin": "FR0000121220",
+      "sector": "Consumer Discretionary",
+      "region": "FR"
+    },
+    {
+      "t": "SWEDA",
+      "n": "Swedbank AB",
+      "weight": 0.24496,
+      "isin": "SE0000242455",
+      "sector": "Financials",
+      "region": "SE"
+    },
+    {
+      "t": "SYENS",
+      "n": "Syensqo SA",
+      "weight": 0.04986,
+      "isin": "BE0974464977",
+      "sector": "Materials",
+      "region": "BE"
+    },
+    {
+      "t": "TCL",
+      "n": "Transurban Group",
+      "weight": 0.24395,
+      "isin": "AU000000TCL6",
+      "sector": "Industrials",
+      "region": "AU"
+    },
+    {
+      "t": "TEF",
+      "n": "Telefonica SA",
+      "weight": 0.11831,
+      "isin": "ES0178430E18",
+      "sector": "Communication Services",
+      "region": "ES"
+    },
+    {
+      "t": "TEL",
+      "n": "Telenor ASA",
+      "weight": 0.0707,
+      "isin": "NO0010063308",
+      "sector": "Communication Services",
+      "region": "NO"
+    },
+    {
+      "t": "TEL2B",
+      "n": "Tele2 AB",
+      "weight": 0.07445,
+      "isin": "SE0005190238",
+      "sector": "Communication Services",
+      "region": "SE"
+    },
+    {
+      "t": "TELIA",
+      "n": "Telia Co AB",
+      "weight": 0.0795,
+      "isin": "SE0000667925",
+      "sector": "Communication Services",
+      "region": "SE"
+    },
+    {
+      "t": "TEN",
+      "n": "Tenaris SA",
+      "weight": 0.06749,
+      "isin": "LU2598331598",
+      "sector": "Energy",
+      "region": "IT"
+    },
+    {
+      "t": "THBEV",
+      "n": "Thai Beverage PCL",
+      "weight": 0.02032,
+      "isin": "TH0902010014",
+      "sector": "Consumer Staples",
+      "region": "SG"
+    },
+    {
+      "t": "TKA",
+      "n": "Telekom Austria AG",
+      "weight": 0.00628,
+      "isin": "AT0000720008",
+      "sector": "Communication Services",
+      "region": "AT"
+    },
+    {
+      "t": "TLC",
+      "n": "The Lottery Corp Ltd",
+      "weight": 0.05975,
+      "isin": "AU0000219529",
+      "sector": "Consumer Discretionary",
+      "region": "AU"
+    },
+    {
+      "t": "TLS",
+      "n": "Telstra Group Ltd",
+      "weight": 0.10024,
+      "isin": "AU000000TLS2",
+      "sector": "Communication Services",
+      "region": "AU"
+    },
+    {
+      "t": "TLX",
+      "n": "Talanx AG",
+      "weight": 0.067,
+      "isin": "DE000TLX1005",
+      "sector": "Financials",
+      "region": "DE"
+    },
+    {
+      "t": "TMIU6",
+      "n": "TSE Mini Topix Future",
+      "weight": 0.03855,
+      "region": "JP"
+    },
+    {
+      "t": "TPG",
+      "n": "TPG Telecom Ltd",
+      "weight": 0.01314,
+      "isin": "AU0000090128",
+      "sector": "Communication Services",
+      "region": "AU"
+    },
+    {
+      "t": "TRN",
+      "n": "Terna - Rete Elettrica Nazionale",
+      "weight": 0.12145,
+      "isin": "IT0003242622",
+      "sector": "Utilities",
+      "region": "IT"
+    },
+    {
+      "t": "TRYG",
+      "n": "Tryg A/S",
+      "weight": 0.05495,
+      "isin": "DK0060636678",
+      "sector": "Financials",
+      "region": "DK"
+    },
+    {
+      "t": "TSCO",
+      "n": "Tesco PLC",
+      "weight": 0.29639,
+      "isin": "GB00BLGZ9862",
+      "sector": "Consumer Staples",
+      "region": "GB"
+    },
+    {
+      "t": "TTE",
+      "n": "TotalEnergies SE",
+      "weight": 1.2894,
+      "isin": "FR0000120271",
+      "sector": "Energy",
+      "region": "FR"
+    },
+    {
+      "t": "TW/",
+      "n": "Taylor Wimpey PLC",
+      "weight": 0.03073,
+      "isin": "GB0008782301",
+      "sector": "Consumer Discretionary",
+      "region": "GB"
+    },
+    {
+      "t": "TWE",
+      "n": "Treasury Wine Estates Ltd",
+      "weight": 0.02185,
+      "isin": "AU000000TWE9",
+      "sector": "Consumer Staples",
+      "region": "AU"
+    },
+    {
+      "t": "UBSG",
+      "n": "UBS Group AG",
+      "weight": 1.30937,
+      "isin": "CH0244767585",
+      "sector": "Financials",
+      "region": "CH"
+    },
+    {
+      "t": "UCG",
+      "n": "UniCredit SpA",
+      "weight": 1.1275,
+      "isin": "IT0005239360",
+      "sector": "Financials",
+      "region": "IT"
+    },
+    {
+      "t": "ULVR",
+      "n": "Unilever PLC",
+      "weight": 1.04322,
+      "isin": "GB00BVZK7T90",
+      "sector": "Consumer Staples",
+      "region": "GB"
+    },
+    {
+      "t": "UMG",
+      "n": "Universal Music Group NV",
+      "weight": 0.13293,
+      "isin": "NL0015000IY2",
+      "sector": "Communication Services",
+      "region": "NL"
+    },
+    {
+      "t": "UNI",
+      "n": "Unipol Gruppo SpA",
+      "weight": 0.09391,
+      "isin": "IT0004810054",
+      "sector": "Financials",
+      "region": "IT"
+    },
+    {
+      "t": "UOB",
+      "n": "United Overseas Bank Ltd",
+      "weight": 0.30113,
+      "isin": "SG1M31001969",
+      "sector": "Financials",
+      "region": "SG"
+    },
+    {
+      "t": "UPM",
+      "n": "UPM-Kymmene Oyj",
+      "weight": 0.10887,
+      "isin": "FI0009005987",
+      "sector": "Materials",
+      "region": "FI"
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20260901",
+      "weight": 0.3448
+    },
+    {
+      "t": "USD",
+      "n": "USD/GBP FWD 20260916",
+      "weight": 0.28715
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20260916",
+      "weight": 0.25879
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20260916",
+      "weight": 0.18114
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20260916",
+      "weight": 0.17087
+    },
+    {
+      "t": "USD",
+      "n": "USD/EUR FWD 20260916",
+      "weight": 0.11542
+    },
+    {
+      "t": "USD",
+      "n": "USD/JPY FWD 20260916",
+      "weight": 0.10243
+    },
+    {
+      "t": "USD",
+      "n": "USD/JPY FWD 20260916",
+      "weight": 0.09055
+    },
+    {
+      "t": "USD",
+      "n": "USD/AUD FWD 20260916",
+      "weight": 0.08495
+    },
+    {
+      "t": "USD",
+      "n": "USD/CHF FWD 20260916",
+      "weight": 0.06746
+    },
+    {
+      "t": "USD",
+      "n": "USD/GBP FWD 20260916",
+      "weight": 0.05082
+    },
+    {
+      "t": "USD",
+      "n": "USD/AUD FWD 20260916",
+      "weight": 0.03814
+    },
+    {
+      "t": "USD",
+      "n": "USD/KRW FWD 20260916",
+      "weight": 0.02917
+    },
+    {
+      "t": "USD",
+      "n": "USD/SEK FWD 20260916",
+      "weight": 0.02385
+    },
+    {
+      "t": "USD",
+      "n": "US Dollar",
+      "weight": 0.01905,
+      "region": "US"
+    },
+    {
+      "t": "USD",
+      "n": "USD/SGD FWD 20260916",
+      "weight": 0.01737
+    },
+    {
+      "t": "USD",
+      "n": "USD/ILS FWD 20260916",
+      "weight": 0.01392
+    },
+    {
+      "t": "USD",
+      "n": "USD/AUD FWD 20260916",
+      "weight": 0.01318
+    },
+    {
+      "t": "USD",
+      "n": "USD/SGD FWD 20260901",
+      "weight": 0.01091
+    },
+    {
+      "t": "USD",
+      "n": "USD/HKD FWD 20260916",
+      "weight": 0.00997
+    },
+    {
+      "t": "USD",
+      "n": "USD/DKK FWD 20260916",
+      "weight": 0.00183
+    },
+    {
+      "t": "USD",
+      "n": "USD/NOK FWD 20260916",
+      "weight": 0.00052
+    },
+    {
+      "t": "UU/",
+      "n": "United Utilities Group PLC",
+      "weight": 0.11036,
+      "isin": "GB00B39J2M42",
+      "sector": "Utilities",
+      "region": "GB"
+    },
+    {
+      "t": "VALMT",
+      "n": "Valmet Oyj",
+      "weight": 0.03618,
+      "isin": "FI4000074984",
+      "sector": "Industrials",
+      "region": "FI"
+    },
+    {
+      "t": "VAR",
+      "n": "Var Energi ASA",
+      "weight": 0.03532,
+      "isin": "NO0011202772",
+      "sector": "Energy",
+      "region": "NO"
+    },
+    {
+      "t": "VER",
+      "n": "Verbund AG",
+      "weight": 0.03481,
+      "isin": "AT0000746409",
+      "sector": "Utilities",
+      "region": "AT"
+    },
+    {
+      "t": "VGU6",
+      "n": "Eurex EURO STOXX 50 Future",
+      "weight": 0.05064,
+      "isin": "DE000C757930",
+      "region": "DE"
+    },
+    {
+      "t": "VIE",
+      "n": "Veolia Environnement SA",
+      "weight": 0.18076,
+      "isin": "FR0000124141",
+      "sector": "Utilities",
+      "region": "FR"
+    },
+    {
+      "t": "VIG",
+      "n": "Vienna Insurance Group AG Wiener Versicherung Gruppe",
+      "weight": 0.02243,
+      "isin": "AT0000908504",
+      "sector": "Financials",
+      "region": "AT"
+    },
+    {
+      "t": "VMS",
+      "n": "Venture Corp Ltd",
+      "weight": 0.02705,
+      "isin": "SG0531000230",
+      "sector": "Information Technology",
+      "region": "SG"
+    },
+    {
+      "t": "VNA",
+      "n": "Vonovia SE",
+      "weight": 0.12489,
+      "isin": "DE000A1ML7J1",
+      "sector": "Real Estate",
+      "region": "DE"
+    },
+    {
+      "t": "VOD",
+      "n": "Vodafone Group PLC",
+      "weight": 0.22321,
+      "isin": "GB00BH4HKS39",
+      "sector": "Communication Services",
+      "region": "GB"
+    },
+    {
+      "t": "VOLVA",
+      "n": "Volvo AB",
+      "weight": 0.0557,
+      "isin": "SE0000115420",
+      "sector": "Industrials",
+      "region": "SE"
+    },
+    {
+      "t": "VOLVB",
+      "n": "Volvo AB",
+      "weight": 0.42808,
+      "isin": "SE0000115446",
+      "sector": "Industrials",
+      "region": "SE"
+    },
+    {
+      "t": "VOW",
+      "n": "Volkswagen AG",
+      "weight": 0.01983,
+      "isin": "DE0007664005",
+      "sector": "Consumer Discretionary",
+      "region": "DE"
+    },
+    {
+      "t": "VOW3",
+      "n": "Volkswagen AG",
+      "weight": 0.14238,
+      "isin": "DE0007664039",
+      "sector": "Consumer Discretionary",
+      "region": "DE"
+    },
+    {
+      "t": "WBC",
+      "n": "Westpac Banking Corp",
+      "weight": 0.64622,
+      "isin": "AU000000WBC1",
+      "sector": "Financials",
+      "region": "AU"
+    },
+    {
+      "t": "WDS",
+      "n": "Woodside Energy Group Ltd",
+      "weight": 0.33573,
+      "isin": "AU0000224040",
+      "sector": "Energy",
+      "region": "AU"
+    },
+    {
+      "t": "WES",
+      "n": "Wesfarmers Ltd",
+      "weight": 0.49095,
+      "isin": "AU000000WES1",
+      "sector": "Consumer Discretionary",
+      "region": "AU"
+    },
+    {
+      "t": "WIL",
+      "n": "Wilmar International Ltd",
+      "weight": 0.04008,
+      "isin": "SG1T56930848",
+      "sector": "Consumer Staples",
+      "region": "SG"
+    },
+    {
+      "t": "WKL",
+      "n": "Wolters Kluwer NV",
+      "weight": 0.14468,
+      "isin": "NL0000395903",
+      "sector": "Industrials",
+      "region": "NL"
+    },
+    {
+      "t": "WOR",
+      "n": "Worley Ltd",
+      "weight": 0.02543,
+      "isin": "AU000000WOR2",
+      "sector": "Industrials",
+      "region": "AU"
+    },
+    {
+      "t": "WOW",
+      "n": "Woolworths Group Ltd",
+      "weight": 0.26856,
+      "isin": "AU000000WOW2",
+      "sector": "Consumer Staples",
+      "region": "AU"
+    },
+    {
+      "t": "WTB",
+      "n": "Whitbread PLC",
+      "weight": 0.0426,
+      "isin": "GB00B1KJJ408",
+      "sector": "Consumer Discretionary",
+      "region": "GB"
+    },
+    {
+      "t": "XPU6",
+      "n": "SFE S&P ASX Share Price Index 200 Future",
+      "weight": 0.03982,
+      "region": "AU"
+    },
+    {
+      "t": "YAL",
+      "n": "Yancoal Australia Ltd",
+      "weight": 0.01328,
+      "isin": "AU000000YAL0",
+      "sector": "Energy",
+      "region": "AU"
+    },
+    {
+      "t": "YAR",
+      "n": "Yara International ASA",
+      "weight": 0.06079,
+      "isin": "NO0010208051",
+      "sector": "Materials",
+      "region": "NO"
+    },
+    {
+      "t": "Z U6",
+      "n": "FTSE 100 Index Future",
+      "weight": 0.12664,
+      "isin": "GB00N10HYT24",
+      "region": "GB"
+    },
+    {
+      "t": "ZURN",
+      "n": "Zurich Insurance Group AG",
+      "weight": 0.83705,
+      "isin": "CH0011075394",
+      "sector": "Financials",
+      "region": "CH"
+    }
+  ]
+}
