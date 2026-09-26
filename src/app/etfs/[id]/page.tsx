@@ -84,7 +84,7 @@ export default function EtfDetailPage({ params }: { params: Promise<{ id: string
           <table className="mt-3 w-full border-collapse text-sm">
             <thead>
               <tr className="border-b text-left">
-                <th className="py-1 pr-3">Ticker</th>
+                <th className="py-1 pr-3">Ticker / ID</th>
                 <th className="py-1 pr-3">Name</th>
                 <th className="py-1 pr-3 text-right">%</th>
                 {snap.holdings[0]?.sector && <th className="py-1 pr-3">Sector</th>}

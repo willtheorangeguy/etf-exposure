@@ -15,6 +15,7 @@ export const ImportSchema = z.object({
     t: z.string().trim().min(1).max(100),
     n: z.string().trim().min(1).max(500),
     weight: z.number().positive().max(100),
+    isin: z.string().regex(/^[A-Z]{2}[A-Z0-9]{10}$/).optional(),
     sector: z.string().nullish().transform((v) => v ?? undefined),
     region: z.string().nullish().transform((v) => v ?? undefined),
     mv: z.number().nullish().transform((v) => v ?? undefined),

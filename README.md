@@ -84,6 +84,48 @@ gunzip -c backup.sql | docker compose exec -T db psql -U etf etf
 
 ## Using the calculator
 
+The catalog can now be populated and maintained from issuer links at `/sources`.
+End users search those ETFs; they do not need to upload sheets or supply ticker metadata.
+
+## Automatic issuer sources
+
+Open `/sources`, enter an issuer listing/product page or direct CSV/XLSX URL,
+and choose a refresh interval (default: 30 days). The Docker `worker` service
+checks the database every minute and runs due imports, including after restarts.
+It discovers linked downloads and same-origin fund pages (up to two levels,
+100 pages and 1,000 URLs per run). Tickers come from issuer metadata or
+recognizable download filenames. For an ambiguous single-fund source, set its
+ticker once. Re-submit a URL to update its settings. Pause/resume and Refresh now
+are available; last attempt, next due date, and per-file failures are visible.
+
+Supported issuer adapters:
+
+- Vanguard Canada ETF product pages use the same public holdings API as their
+  workbook Download button, including pagination and stock ISINs.
+- BMO `Holdings_Extract_..._TICKER_YYYYMMDD.xlsx` links automatically try the
+  newest date over the preceding 14 days. Holdings retain ISINs when the sheet
+  lacks stock tickers; published ISIN/ticker aliases in the catalog fill these in.
+- iShares CSV URLs identify the ETF from `fileName`. When the CSV includes both
+  parent ETFs and a look-through table, only the last stock-level table is used.
+
+New snapshots retain their issuer dates. Undated or invalid files are rejected,
+unchanged files are deduplicated, and failed refreshes retain the last good data
+and retry after one day. Incomplete or rounded weight totals remain flagged.
+Sources are not an exhaustive worldwide ETF feed: add the issuer directories or
+fund links you want covered. JavaScript-only listing pages without a supported
+adapter need issuer-specific integration; refresh issues explain what failed.
+
+Run everything: `docker compose up -d --build`.
+Local development additionally needs `npm run worker` in a separate terminal
+with the same `DATABASE_URL`, after `npm run migrate`.
+Register the three supplied issuer examples: `node scripts/seed-sources.mjs`.
+Verify live issuer parsing: `npx tsx scripts/verify-issuers.ts`.
+Public URLs are required by default; `TRUSTED_SOURCE_HOSTS` is an optional,
+explicit comma-separated hostname allowlist for private mirrors/test fixtures.
+Source registration follows the MVP's existing no-auth shared database model.
+
+## Manual uploads
+
 1. Open `/import`, choose the issuer's CSV/XLSX file, and preview it.
 2. Enter the ETF's actual ticker, confirm its name and holdings date, then save.
    The download date can differ from the holdings date. A file name alone does not establish its ticker.

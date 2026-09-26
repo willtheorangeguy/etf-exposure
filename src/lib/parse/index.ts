@@ -24,7 +24,7 @@ function cellIdx(row: Row, ...needles: RegExp[]): number {
 }
 
 function detectHeader(rows: Row[]): number {
-  const tickerRe = /\b(ticker|symbol|code|securities? code)\b/;
+  const tickerRe = /\b(ticker|symbol|code|securities? code|isin)\b/;
   const weightRe = /%|weight|market value|\bvalue\b|net asset/;
   for (let i = 0; i < Math.min(rows.length, 30); i++) {
     const t = cellIdx(rows[i], tickerRe);
@@ -70,9 +70,15 @@ function bannerText(rows: Row[], hIdx: number): string {
 }
 
 function tabularParse(rows: Row[]): { header: string; banner: string; holdings: Holding[] } {
-  const hIdx = detectHeader(rows);
+  let hIdx = detectHeader(rows);
+  // iShares provides a second, look-through table after the fund-level table.
+  // Select it rather than counting both levels of exposure.
+  const signature = rows[hIdx].join("|");
+  for (let i = hIdx + 1; i < rows.length; i++) if (rows[i].join("|") === signature) hIdx = i;
   const headerRow: Row = rows[hIdx].map((c) => String(c ?? ""));
-  const ti = cellIdx(headerRow, /\b(ticker|symbol|code|securities? code)\b/);
+  let ti = cellIdx(headerRow, /\b(ticker|symbol|code|securities? code)\b/);
+  const isini = cellIdx(headerRow, /^isin$/i);
+  if (ti < 0) ti = isini;
   const wi = cellIdx(headerRow, /%|weight/);
   if (wi < 0) throw new ParseError("A percentage weight column is required; market values alone are not weights.");
   const ni = cellIdx(headerRow, /holding|name|issuer|company|security/);
@@ -89,6 +95,7 @@ function tabularParse(rows: Row[]): { header: string; banner: string; holdings: 
   for (const r of dataRows) {
     const h = mapRow(r, ti, wi, ni, si, ri, mvi, shi);
     if (h) {
+      if (isini >= 0 && /^[A-Z]{2}[A-Z0-9]{10}$/.test(String(r[isini]))) h.isin = String(r[isini]);
       if (scale !== 1) h.weight = h.weight * scale;
       holdings.push(h);
     }
@@ -131,7 +138,8 @@ export function parseSheet(src: ParseSource, ctx: ParseContext = {}): ParsedShee
     throw new ParseError("Holdings weights exceed 100%. Check the weight column and percentage format.");
   }
 
-  const asOf = ctx.asOf ?? extractAsOf(ctx.bannerText ?? result.banner) ?? todayISO();
+  const detectedDate = ctx.asOf ?? extractAsOf(ctx.bannerText ?? result.banner);
+  const asOf = detectedDate ?? todayISO();
   const holdingsSorted = result.holdings
     .map((h) => ({ ...h, t: h.t, n: h.n }))
     .sort((a, b) => a.t.localeCompare(b.t));
@@ -152,6 +160,7 @@ export function parseSheet(src: ParseSource, ctx: ParseContext = {}): ParsedShee
     name: nameGuess,
     issuer: ctx.issuer ?? (/vanguard/i.test(result.banner) ? "Vanguard" : undefined),
     asOfDate: asOf,
+    dateDetected: !!detectedDate,
     partial: /top\s*\d+\s+holding/i.test(combined) || weightTotal < 98,
     holdings: holdingsSorted,
     contentHash,

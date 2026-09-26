@@ -20,6 +20,7 @@ COPY --from=build /app/.next/standalone ./
 COPY --from=build /app/.next/static ./.next/static
 COPY --from=build /app/db ./db
 COPY --from=build /app/scripts ./scripts
+COPY --from=build /app/dist/source-worker.cjs ./source-worker.cjs
 COPY --from=deps /app/node_modules/postgres ./node_modules/postgres
 USER nextjs
 EXPOSE 3000

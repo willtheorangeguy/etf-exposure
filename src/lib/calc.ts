@@ -9,6 +9,7 @@ export interface Position {
 }
 
 export interface ExposureRow {
+  securityId: string;
   ticker: string;
   name: string;
   exposure: number;
@@ -45,6 +46,15 @@ export function computeExposure(
   }
   const totalInvested = positions.reduce((s, p) => s + (Number.isFinite(p.amount) ? p.amount : 0), 0);
   const byStock = new Map<string, ExposureRow>();
+  const tickerIsins = new Map<string, Set<string>>();
+  const isinTickers = new Map<string, string>();
+  for (const holdings of Object.values(holdingsByEtf)) for (const h of holdings) {
+    if (h.isin && h.t !== h.isin) {
+      const ids = tickerIsins.get(h.t) ?? new Set<string>();
+      ids.add(h.isin); tickerIsins.set(h.t, ids);
+      isinTickers.set(h.isin, h.t);
+    }
+  }
   const sectors = new Map<string, number>();
   let totalExposed = 0;
   let anyPartial = false;
@@ -56,10 +66,12 @@ export function computeExposure(
     for (const h of holdings) {
       const contribution = (p.amount * h.weight) / 100;
       totalExposed += contribution;
-      const key = h.t;
+      const candidates = tickerIsins.get(h.t);
+      const isin = h.isin ?? (candidates?.size === 1 ? [...candidates][0] : undefined);
+      const key = isin ?? h.t;
       let row = byStock.get(key);
       if (!row) {
-        row = { ticker: h.t, name: h.n, exposure: 0, pctOfTotal: 0, byEtf: [], sector: h.sector };
+        row = { securityId: key, ticker: isinTickers.get(isin ?? "") ?? h.t, name: h.n, exposure: 0, pctOfTotal: 0, byEtf: [], sector: h.sector };
         byStock.set(key, row);
       }
       if (row.name === row.ticker && h.n !== h.t) row.name = h.n;

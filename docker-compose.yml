@@ -15,6 +15,7 @@ services:
 
   web:
     build: .
+    restart: unless-stopped
     depends_on:
       db:
         condition: service_healthy
@@ -23,6 +24,21 @@ services:
     ports:
       - "3000:3000"
     entrypoint: ["sh", "-c", "node scripts/migrate.mjs && exec node server.js"]
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://localhost:3000/api/sources').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  worker:
+    build: .
+    restart: unless-stopped
+    depends_on:
+      web:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgres://etf:etf@db:5432/etf
+    entrypoint: ["node", "source-worker.cjs"]
 
 volumes:
   pgdata:

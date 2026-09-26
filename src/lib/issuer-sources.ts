@@ -1,0 +1,78 @@
+import * as cheerio from "cheerio";
+import Papa from "papaparse";
+import { fetchSource, type FetchResult } from "./parse/fetch";
+import { xlsxRows } from "./parse/xlsx";
+import { assertPublicUrl } from "./public-url";
+
+/** Known issuer adapters use published identifiers; they do not guess fund names. */
+export async function fetchIssuerSource(url: string): Promise<FetchResult> {
+  const parsed = new URL(url);
+  if (parsed.hostname === "df.bmogam.com" && /Holdings_Extract_.*_\d{8}\.xlsx$/i.test(parsed.pathname)) {
+    // BMO publishes a new filename each business day. Find the newest available file.
+    for (let days = 0; days < 14; days++) {
+      const date = new Date(); date.setUTCDate(date.getUTCDate() - days);
+      const stamp = date.toISOString().slice(0, 10).replaceAll("-", "");
+      const candidate = url.replace(/\d{8}(?=\.xlsx)/i, stamp);
+      try {
+        const result = await fetchSource(candidate, 20000, true);
+        if (result.source.kind !== "xlsx") throw new Error("Expected BMO workbook");
+        const rows = xlsxRows(result.source.buffer);
+        const ticker = /_([A-Z0-9.]+)_\d{8}\.xlsx/i.exec(candidate)?.[1];
+        return { ...result, source: { kind: "csv", text: Papa.unparse([
+          [`BMO ${ticker}`], [`ETF ticker: ${ticker}`], [`As of ${date.toISOString().slice(0,10)}`], ...rows,
+        ]) } };
+      } catch (err) {
+        if (!/HTTP (404|403)/.test((err as Error).message)) throw err;
+      }
+    }
+    throw new Error("BMO has no available holdings file in the last 14 days; existing snapshots were kept.");
+  }
+  const result = await fetchSource(url, 20000, true);
+  if (parsed.hostname.endsWith("blackrock.com") && result.source.kind === "csv") {
+    const ticker = /^([A-Z0-9.]+)_holdings$/i.exec(parsed.searchParams.get("fileName") ?? "")?.[1];
+    if (ticker) return { ...result, source: { kind: "csv", text: `iShares ${ticker}\n${result.source.text}` } };
+  }
+  const match = parsed.hostname === "www.vanguard.ca" && /\/product\/etf\/[^/]+\/(\d+)\//.exec(parsed.pathname);
+  if (!match || result.source.kind !== "html") return result;
+  const $ = cheerio.load(result.source.text);
+  const heading = $("h1").first().text().trim();
+  const ticker = /^\(([A-Z0-9.\-]+)\)/.exec(heading)?.[1];
+  if (!ticker) throw new Error("Vanguard fund ticker was not found in its product heading.");
+  const endpoint = "https://www.vanguard.ca/gpx/graphql";
+  await assertPublicUrl(endpoint);
+  const query = `query($portIds:[String!],$lastItemKey:String){
+    funds(portIds:$portIds){profile{fundFullName}}
+    borHoldings(portIds:$portIds){holdings(limit:1500,lastItemKey:$lastItemKey){
+      items{ticker isin issuerName securityLongDescription marketValuePercentage effectiveDate gicsSectorDescription bloombergIsoCountry}
+      totalHoldings lastItemKey}}}`;
+  const rows: (string | number)[][] = [];
+  let lastItemKey: string | null = null;
+  let name = heading.replace(/^\([^)]+\)\s*/, "");
+  let asOf: string | undefined;
+  for (let page = 0; page < 20; page++) {
+    const response = await fetch(endpoint, { method: "POST", redirect: "error", signal: AbortSignal.timeout(20000),
+      headers: { "content-type": "application/json", "x-consumer-id": "ca0" },
+      body: JSON.stringify({ query, variables: { portIds: [match[1]], lastItemKey } }) });
+    if (!response.ok) throw new Error(`Vanguard holdings API returned HTTP ${response.status}`);
+    const text = await response.text();
+    if (text.length > 10 * 1024 * 1024) throw new Error("Vanguard response too large");
+    const body = JSON.parse(text);
+    if (body.errors?.length) throw new Error(`Vanguard holdings API: ${body.errors[0].message}`);
+    name = body.data?.funds?.[0]?.profile?.fundFullName ?? name;
+    const holdings = body.data?.borHoldings?.[0]?.holdings;
+    if (!holdings?.items?.length) throw new Error("Vanguard returned no holdings");
+    for (const h of holdings.items) {
+      if (asOf && h.effectiveDate !== asOf) throw new Error("Vanguard returned mixed holdings dates");
+      asOf = h.effectiveDate;
+      rows.push([h.ticker ?? h.isin ?? "", h.issuerName ?? h.securityLongDescription ?? "", h.marketValuePercentage,
+        h.isin ?? "", h.gicsSectorDescription ?? "", h.bloombergIsoCountry ?? ""]);
+    }
+    lastItemKey = holdings.lastItemKey;
+    if (!lastItemKey) break;
+    if (page === 19) throw new Error("Vanguard pagination limit reached");
+  }
+  return { ...result, source: { kind: "csv", text: Papa.unparse([
+    [name], [`ETF ticker: ${ticker}`], [`As of ${asOf}`],
+    ["Ticker", "Holding name", "Weight (%)", "ISIN", "Sector", "Region"], ...rows,
+  ]) } };
+}

@@ -60,7 +60,7 @@ export default function CalculatorPage() {
       <p className="mt-1 text-zinc-500">
         Add ETFs and the $ you have in each. Each underlying stock is summed across all your ETFs.
       </p>
-      <p className="mt-2 text-sm text-zinc-500">Start by <Link href="/import" className="underline">uploading a holdings file</Link>. Your investment amounts stay in this browser. Enter all amounts in the same currency.</p>
+      <p className="mt-2 text-sm text-zinc-500">Search the shared catalog below. <Link href="/sources" className="underline">Issuer sources</Link> keep it updated automatically. Your investment amounts stay in this browser. Enter all amounts in the same currency.</p>
       <label className="mt-4 block text-sm">Portfolio currency <select aria-label="Portfolio currency" value={currency} onChange={(e) => setCurrency(e.target.value)} className="rounded border p-2"><option>CAD</option><option>USD</option></select></label>
 
       <div className="mt-6 space-y-2">
@@ -119,7 +119,7 @@ export default function CalculatorPage() {
           <table className="w-full border-collapse text-sm">
             <thead>
               <tr className="border-b text-left">
-                <th className="py-1 pr-3">Ticker</th>
+                <th className="py-1 pr-3">Ticker / ID</th>
                 <th className="py-1 pr-3">Name</th>
                 <th className="py-1 pr-3 text-right">Exposure</th>
                 <th className="py-1 pr-3 text-right">% of total</th>
@@ -128,7 +128,7 @@ export default function CalculatorPage() {
             </thead>
             <tbody>
               {result.rows.filter((r) => `${r.ticker} ${r.name}`.toLowerCase().includes(filter.toLowerCase())).map((r) => (
-                <tr key={r.ticker} className="border-b border-zinc-100 dark:border-zinc-800">
+                <tr key={r.securityId} className="border-b border-zinc-100 dark:border-zinc-800">
                   <td className="py-1 pr-3 font-mono">{r.ticker}</td>
                   <td className="py-1 pr-3">{r.name}</td>
                   <td className="py-1 pr-3 text-right">{money(r.exposure)}</td>

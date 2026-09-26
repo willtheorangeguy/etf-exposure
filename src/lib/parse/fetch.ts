@@ -1,5 +1,6 @@
 import type { ParseSource } from "../types";
 import { ParseError } from "./index";
+import { assertPublicUrl } from "../public-url";
 
 const MAX_BYTES = 10 * 1024 * 1024;
 
@@ -9,7 +10,7 @@ export interface FetchResult {
   finalUrl: string;
 }
 
-export async function fetchSource(url: string, timeoutMs = 20000): Promise<FetchResult> {
+export async function fetchSource(url: string, timeoutMs = 20000, publicOnly = false): Promise<FetchResult> {
   let parsed: URL;
   try {
     parsed = new URL(url);
@@ -23,14 +24,26 @@ export async function fetchSource(url: string, timeoutMs = 20000): Promise<Fetch
   let res: Response;
   let buf: ArrayBuffer;
   try {
-    res = await fetch(parsed, {
-      redirect: "follow",
+    let target = parsed.href;
+    let redirects = 0;
+    while (true) {
+    if (publicOnly) await assertPublicUrl(target);
+    res = await fetch(target, {
+      redirect: "manual",
       signal: ctrl.signal,
       headers: {
         "user-agent": "Mozilla/5.0 (compatible; etf-exposure-tracker/0.1)",
         accept: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, text/csv, text/html",
       },
     });
+    if (![301, 302, 303, 307, 308].includes(res.status)) break;
+    await res.body?.cancel();
+    if (++redirects > 5) throw new ParseError("too many redirects");
+    const location = res.headers.get("location");
+    if (!location) throw new ParseError("redirect without a location");
+    target = new URL(location, target).href;
+    if (!/^https?:/.test(target)) throw new ParseError("unsupported redirect protocol");
+    }
     if (!res.ok) throw new ParseError(`fetch returned HTTP ${res.status}`);
     if (Number(res.headers.get("content-length")) > MAX_BYTES) throw new ParseError("content too large (>10MB)");
     const reader = res.body?.getReader();

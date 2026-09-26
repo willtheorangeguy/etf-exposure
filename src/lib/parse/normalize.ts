@@ -59,7 +59,7 @@ function dateFromLine(line: string): string | undefined {
  */
 export function extractAsOf(text: string): string | undefined {
   const lines = String(text)
-    .split(/\r?\n|,|;/)
+    .split(/\r?\n|;/)
     .map((l) => l.trim())
     .filter(Boolean);
   for (const line of lines) {

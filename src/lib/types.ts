@@ -2,6 +2,7 @@ export interface Holding {
   t: string;
   n: string;
   weight: number;
+  isin?: string;
   sector?: string;
   region?: string;
   mv?: number;
@@ -13,6 +14,7 @@ export interface ParsedSheet {
   name?: string;
   issuer?: string;
   asOfDate: string; // YYYY-MM-DD
+  dateDetected?: boolean;
   partial: boolean;
   holdings: Holding[];
   contentHash: string;

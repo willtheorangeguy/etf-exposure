@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 const links: Array<{ href: string; label: string }> = [
   { href: "/", label: "Calculator" },
   { href: "/etfs", label: "ETFs" },
+  { href: "/sources", label: "Sources" },
   { href: "/import", label: "Import" },
 ];
 
