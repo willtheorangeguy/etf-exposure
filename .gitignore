@@ -41,3 +41,14 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 dist/
+
+# Documentation assets staged from the shared MkDocs repository
+site/
+.mkdocs-shared/
+docs/stylesheets/
+docs/javascript/
+docs/images/favicon.svg
+overrides/main.html
+overrides/partials/
+overrides/.icons/
+.venv-docs/

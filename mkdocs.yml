@@ -1,0 +1,39 @@
+INHERIT: .mkdocs-shared/shared/mkdocs.base.yml
+site_name: ETF Exposure
+site_description: Issuer ETF holdings converted into per-stock dollar exposure.
+site_author: willtheorangeguy
+site_url: https://williamvdg.me/etf-exposure/docs/
+repo_url: https://github.com/willtheorangeguy/etf-exposure
+repo_name: willtheorangeguy/etf-exposure
+edit_uri: edit/main/docs/
+copyright: Copyright &copy; willtheorangeguy
+nav:
+  - ETF Exposure: index.md
+  - Getting started:
+      - Getting started: getting-started.md
+      - Installation: installation.md
+      - Usage: usage.md
+  - Holdings catalog:
+      - Add ETFs: adding-etfs.md
+      - Expand Vanguard coverage: vanguard-expansion.md
+      - Configuration: configuration.md
+  - Development:
+      - Architecture: architecture.md
+      - Interfaces: api.md
+      - Development: development.md
+      - Testing: testing.md
+      - Deployment: deployment.md
+  - Help:
+      - FAQ: faq.md
+      - Troubleshooting: troubleshooting.md
+      - Limitations: roadmap.md
+  - About:
+      - License: license.md
+      - Contributing: https://github.com/willtheorangeguy/.github/blob/main/CONTRIBUTING.md
+      - Code of conduct: https://github.com/willtheorangeguy/.github/blob/main/CODE_OF_CONDUCT.md
+      - Security: https://github.com/willtheorangeguy/.github/blob/main/SECURITY.md
+exclude_docs: |
+  README.md
+  quickstart.md
+  docs.instructions.md
+  internal/

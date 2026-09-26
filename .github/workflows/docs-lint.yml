@@ -1,0 +1,12 @@
+name: Documentation checks
+on:
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  docs:
+    uses: willtheorangeguy/mkdocs/.github/workflows/docs-lint.yml@main
+    with:
+      # Private repo edit/source URLs require authentication.
+      check_links: false
