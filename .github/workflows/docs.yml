@@ -1,4 +1,4 @@
-name: Refresh holdings and deploy Pages
+name: Refresh holdings and deploy app and docs
 on:
   push:
     branches: [main]
@@ -20,6 +20,8 @@ jobs:
       pages: read
     steps:
       - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v6
         with:
           node-version: '22'
@@ -41,6 +43,23 @@ jobs:
       - run: npm run e2e
         env:
           NEXT_PUBLIC_BASE_PATH: ${{ github.event_name == 'pull_request' && '/etf-exposure' || steps.pages.outputs.base_path }}
+      # Build both sites before saving data or uploading one Pages artifact.
+      # The reusable docs deploy cannot run this app's refresh/build steps.
+      # Use its shared config and design system in the combined pipeline.
+      - name: Checkout shared documentation system
+        uses: actions/checkout@v6
+        with:
+          repository: willtheorangeguy/mkdocs
+          path: .mkdocs-shared
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: .mkdocs-shared/shared/requirements-docs.txt
+      - run: python -m pip install -r .mkdocs-shared/shared/requirements-docs.txt
+      - run: node scripts/stage-docs.mjs
+      - run: python -m mkdocs build --strict --site-dir out/docs
+      - run: node scripts/verify-docs.mjs
       - name: Save validated holdings history
         if: github.event_name != 'pull_request'
         run: |

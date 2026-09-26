@@ -1,63 +1,75 @@
-# ETF Exposure
+<!-- Logo -->
+<h1 align="center">ETF Exposure</h1>
 
-Static ETF look-through calculator hosted on GitHub Pages. GitHub Actions downloads issuer holdings monthly; no PostgreSQL, application server, or paid worker is needed. Investment amounts remain in the browser and default to CAD. All amounts must use the same currency; no currency conversion is performed.
+<!-- Tagline -->
+<h4 align="center">Issuer ETF holdings converted into per-stock dollar exposure for your portfolio.</h4>
 
-## Local development
+<!-- Badges -->
+<p align="center">
+  <img alt="GitHub Issues" src="https://img.shields.io/github/issues/willtheorangeguy/etf-exposure">
+  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/willtheorangeguy/etf-exposure">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
+  <img alt="App and docs deployment" src="https://github.com/willtheorangeguy/etf-exposure/actions/workflows/docs.yml/badge.svg">
+  <img alt="Documentation checks" src="https://github.com/willtheorangeguy/etf-exposure/actions/workflows/docs-lint.yml/badge.svg">
+  <a href="https://williamvdg.me/etf-exposure/docs/"><img alt="Documentation" src="https://img.shields.io/badge/docs-online-c33207"></a>
+</p>
 
-Use Node.js 22 or newer.
+<!-- Nav -->
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#documentation">Documentation</a> •
+  <a href="#support">Support</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a>
+</p>
 
-```sh
+[Open the calculator](https://williamvdg.me/etf-exposure/). Enter your ETF amounts to see each reported holding's dollar exposure and contributions across funds. GitHub Pages serves the app. GitHub Actions refreshes issuer holdings monthly without an application server or database.
+
+## Key Features
+
+- Search a preloaded ETF catalog, initially VCN, ZCN, and XEQT.
+- View every reported holding, filter results, and inspect contributions by ETF.
+- Download holdings from Vanguard Canada, BMO, iShares, or supported CSV/XLSX links.
+- Retain dated snapshots and last good data when an issuer download fails.
+- Keep personal investment amounts in the browser, with CAD as the default.
+- Publish the calculator and searchable documentation in one Pages deployment.
+
+## Installation
+
+Install Node.js 22 or newer, then run:
+
+```bash
+git clone https://github.com/willtheorangeguy/etf-exposure.git
+cd etf-exposure
 npm ci
 npm run dev
 ```
 
-Committed holdings allow development and builds without issuer network access. To update them, run `npm run refresh`.
+The repository is private, so cloning requires access. Open [the local app](http://localhost:3000/).
 
-Production preview:
+## Usage
 
-```sh
-npm run lint
-npm run typecheck
-npm test
-npm run build
-npm run e2e
-npm start
-```
+Search for `VCN`, select it, enter `1000` CAD, and calculate exposure. A holding at 5% contributes CAD 50. Use the same currency for every ETF amount; the app does not convert currencies.
 
-The static preview listens at http://localhost:4173. For a project subdirectory, set `NEXT_PUBLIC_BASE_PATH=/etf-exposure` for both build, e2e, and preview. Next.js links and JSON fetches honor that prefix.
+For catalog expansion, follow [Add ETFs](docs/adding-etfs.md). Give another model the [Vanguard expansion handoff](docs/vanguard-expansion.md), which defines scope, source discovery, acceptance checks, and stop conditions.
 
-## Publishing and refresh
+## Documentation
 
-Enable GitHub Pages with **GitHub Actions** as the source. The workflow in `.github/workflows/pages.yml` runs on main pushes, manually from Actions, and monthly on the first day at 04:17 UTC (scheduled runs can be delayed). It refreshes issuer data, tests and exports the site, commits validated JSON history, and deploys the static artifact. Pull requests build and test without refreshing, committing, or deploying.
+Full documentation lives in [`docs/`](docs/README.md):
+[Installation](docs/installation.md) · [Usage](docs/usage.md) · [Configuration](docs/configuration.md) · [Troubleshooting](docs/troubleshooting.md)
 
-The workflow requires repository contents write permission for its data commit, plus Pages write and ID-token write for deployment. If branch protection blocks bot pushes, permit these data commits or adapt the workflow to submit a pull request. GitHub Pages and Actions eligibility/allowances depend on your account and repository plan; a private repository does not automatically make the published site private.
+Read the [published MkDocs site](https://williamvdg.me/etf-exposure/docs/) for searchable guides.
 
-The current configured site is https://williamvdg.me/etf-exposure/. The workflow obtains its base path from Pages configuration.
+## Support
 
-## Add issuer sources
+File an [issue](https://github.com/willtheorangeguy/etf-exposure/issues/new/choose). Repository access is required.
 
-Edit `config/sources.json` and push or manually run the workflow:
+## Contributing
 
-```json
-{
-  "id": "issuer-fund",
-  "label": "Issuer — ETF",
-  "issuer": "Issuer",
-  "ticker": "ETF",
-  "url": "https://issuer.example/holdings.csv"
-}
-```
+Contributions welcome. See the org-wide [Contributing Guide](https://github.com/willtheorangeguy/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/willtheorangeguy/.github/blob/main/CODE_OF_CONDUCT.md).
 
-Use a unique stable id. Ticker is optional when reliably identified from issuer metadata or the download URL. Supported sources include Vanguard Canada product pages, BMO dated holdings XLSX downloads, iShares holdings CSV downloads, and pages linking to CSV/XLSX files. Same-origin fund-page discovery is bounded to two levels; it is not a universal all-issuer crawler. Broader directories can discover new funds automatically, but the three initial sources seed only VCN, ZCN, and XEQT. Add more issuer/fund links to expand coverage.
+## License
 
-BMO's dated filename is resolved to the newest available file in a 14-day window. Vanguard uses its published holdings endpoint. iShares multi-table files use the underlying/look-through holdings table. No PDF parsing is provided; the supplied BMO URL is XLSX.
-
-## Data and failure handling
-
-`public/data/catalog.json` lists ETFs, snapshot summaries, and refresh status. Dated holdings live in `public/data/etfs/TICKER/YYYY-MM-DD.json`. Data is committed to the repository and included in the public site. No portfolio amounts are committed or uploaded.
-
-Downloads are bounded in size and time and reject private-network destinations. Imports require a real holdings date, positive validated weights, and a plausible total. Identical snapshots are deduplicated; same-date issuer corrections replace that date's file. Older dates remain selectable. ISINs unify matching stocks across issuers where possible.
-
-A failed issuer download retains its last good snapshots, appears on the Data updates page and Actions summary, and does not prevent publication of other good data. If there is no usable catalog at all, refresh fails and no empty site is deployed. Partial holdings are labeled and never scaled to 100%, so reported exposure may be less than the invested amount. Snapshot dates, not the workflow date, indicate holdings freshness.
-
-The former shared upload/API/database architecture has been removed. Existing local database volumes are not deleted by this migration. Historical data not already present in the JSON catalog must be explicitly exported before retiring an old database.
+MIT — see [`LICENSE.md`](LICENSE.md). Issuer holdings remain third-party data; this software license does not grant rights to issuer content.
