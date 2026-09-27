@@ -56,6 +56,8 @@ For a new fund, substitute only values verified on its own issuer page. Append t
 
 Set `ticker` explicitly for a single fund. Do not set one fund's ticker on a directory containing several funds. Configuration can override detected metadata, so a wrong configured ticker can label another fund's holdings incorrectly. Cross-check the issuer page and generated name.
 
+If the holdings download omits the fund's full name, set `name` to the name verified on its product page. BMO's ZCN source uses `"name": "BMO S&P/TSX Capped Composite Index ETF"`. This updates the catalog name on refresh even when no holdings have changed. Use this override only for a single fund.
+
 ## Refresh and inspect
 
 From the repository root:

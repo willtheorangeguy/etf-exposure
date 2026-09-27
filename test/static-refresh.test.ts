@@ -29,6 +29,27 @@ describe("static catalog refresh", () => {
     expect(next.sources[0].last_success_at).toBe(first.sources[0].last_success_at);
     expect(next.sources[0].errors[0].error).toBe("HTTP 503");
   });
+  it("updates a configured fund name even when its holdings are unchanged", async () => {
+    const storage = memory();
+    const first = await refreshCatalog(emptyCatalog(), config, storage, async () => fixture());
+    const namedConfig = SourcesConfig.parse([{ ...config[0], name: "BMO S&P/TSX Capped Composite Index ETF" }]);
+    const second = await refreshCatalog(first, namedConfig, storage, async () => fixture());
+    expect(second.etfs[0].name).toBe(namedConfig[0].name);
+    expect(second.etfs[0].snapshots).toEqual(first.etfs[0].snapshots);
+    expect(second.sources[0].unchanged).toBe(1);
+    expect(storage.writes).toBe(1);
+  });
+  it("does not overwrite the latest name with metadata from an older snapshot", async () => {
+    const storage = memory();
+    const first = await refreshCatalog(emptyCatalog(), config, storage, async () => fixture("2026-08-31"));
+    const currentConfig = SourcesConfig.parse([{ ...config[0], name: "Current fund name" }]);
+    const latest = await refreshCatalog(first, currentConfig, storage, async () => fixture());
+    const oldConfig = SourcesConfig.parse([{ ...config[0], name: "Older fund name" }]);
+    const result = await refreshCatalog(latest, oldConfig, storage, async () => fixture("2026-08-31"));
+    expect(result.etfs[0].name).toBe("Current fund name");
+    expect(result.sources[0].unchanged).toBe(1);
+    expect(storage.writes).toBe(2);
+  });
   it("keeps history sorted and replaces same-date corrections", async () => {
     const storage = memory();
     let catalog = await refreshCatalog(emptyCatalog(), config, storage, async () => fixture());

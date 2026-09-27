@@ -8,6 +8,8 @@ For a fund's ticker, the refresh uses the queued/configured ticker first, then e
 
 The environment variable names below are literal. There is no automatic prefixing or mapping from JSON fields.
 
+For a fund's name, a configured `name` takes precedence over source metadata. BMO holdings workbooks omit the fund name, so their entries supply names verified on BMO product pages. A successful refresh updates catalog names even when the holdings are unchanged.
+
 ## Source configuration
 
 The file contains a nonempty JSON array. IDs must be unique.
@@ -19,6 +21,7 @@ The file contains a nonempty JSON array. IDs must be unique.
 | `url` | string | Required | Public HTTP/HTTPS product page, directory, or CSV/XLSX link. Example appears below. |
 | `issuer` | string | Omitted | Optional issuer name. Example: `Vanguard`. |
 | `ticker` | string | Omitted | Fund ticker matching `^[A-Z][A-Z0-9.\\-]{0,19}$`. Example: `VCN`. Omit on multi-fund directories. |
+| `name` | string | Detected from source metadata | Optional verified full name for a single fund, from 1 to 500 characters. Example: `BMO S&P/TSX Capped Composite Index ETF`. Omit on multi-fund directories. |
 
 Invalid configuration fails schema validation before refresh. A failed individual download is recorded and retains prior data.
 

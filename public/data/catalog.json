@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T03:47:20.887Z",
+  "generated_at": "2026-09-27T11:22:22.878Z",
   "etfs": [
     {
       "id": 47,
       "ticker": "COMM",
-      "name": "BMO COMM",
+      "name": "BMO Global Communications Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -24,7 +24,7 @@
     {
       "id": 45,
       "ticker": "DISC",
-      "name": "BMO DISC",
+      "name": "BMO Global Consumer Discretionary Hedged to CAD Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -43,7 +43,7 @@
     {
       "id": 46,
       "ticker": "ESGA",
-      "name": "BMO ESGA",
+      "name": "BMO MSCI Canada Selection Equity Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -62,7 +62,7 @@
     {
       "id": 48,
       "ticker": "ESGB",
-      "name": "BMO ESGB",
+      "name": "BMO ESG Corporate Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -81,7 +81,7 @@
     {
       "id": 49,
       "ticker": "ESGE",
-      "name": "BMO ESGE",
+      "name": "BMO MSCI EAFE Selection Equity Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -100,7 +100,7 @@
     {
       "id": 50,
       "ticker": "ESGF",
-      "name": "BMO ESGF",
+      "name": "BMO ESG US Corporate Bond Hedged to CAD Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -119,7 +119,7 @@
     {
       "id": 52,
       "ticker": "ESGG",
-      "name": "BMO ESGG",
+      "name": "BMO MSCI Global Selection Equity Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -138,7 +138,7 @@
     {
       "id": 51,
       "ticker": "ESGY",
-      "name": "BMO ESGY",
+      "name": "BMO MSCI USA Selection Equity Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -157,7 +157,7 @@
     {
       "id": 53,
       "ticker": "STPL",
-      "name": "BMO STPL",
+      "name": "BMO Global Consumer Staples Hedged to CAD Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -993,7 +993,7 @@
     {
       "id": 54,
       "ticker": "ZAAA",
-      "name": "BMO ZAAA",
+      "name": "BMO AAA CLO ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1012,7 +1012,7 @@
     {
       "id": 55,
       "ticker": "ZABS",
-      "name": "BMO ZABS",
+      "name": "BMO Asset-Backed Securities ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1031,7 +1031,7 @@
     {
       "id": 56,
       "ticker": "ZAG",
-      "name": "BMO ZAG",
+      "name": "BMO Aggregate Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1050,7 +1050,7 @@
     {
       "id": 171,
       "ticker": "ZAPR",
-      "name": "BMO ZAPR",
+      "name": "BMO US Equity Buffer Hedged to CAD ETF - April",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1069,7 +1069,7 @@
     {
       "id": 57,
       "ticker": "ZBAL",
-      "name": "BMO ZBAL",
+      "name": "BMO Balanced ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1088,7 +1088,7 @@
     {
       "id": 58,
       "ticker": "ZBBZ",
-      "name": "BMO ZBBZ",
+      "name": "BMO BBB CLO ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1107,7 +1107,7 @@
     {
       "id": 59,
       "ticker": "ZBCB",
-      "name": "BMO ZBCB",
+      "name": "BMO Canadian Core Plus US Balanced ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1126,7 +1126,7 @@
     {
       "id": 60,
       "ticker": "ZBDU",
-      "name": "BMO ZBDU",
+      "name": "BMO US Dividend Growth ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1145,7 +1145,7 @@
     {
       "id": 61,
       "ticker": "ZBEC",
-      "name": "BMO ZBEC",
+      "name": "BMO Canadian Equity Plus ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1164,7 +1164,7 @@
     {
       "id": 62,
       "ticker": "ZBEU",
-      "name": "BMO ZBEU",
+      "name": "BMO US Equity Focused ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1183,7 +1183,7 @@
     {
       "id": 63,
       "ticker": "ZBI",
-      "name": "BMO ZBI",
+      "name": "BMO Canadian Bank Income Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1202,7 +1202,7 @@
     {
       "id": 64,
       "ticker": "ZBK",
-      "name": "BMO ZBK",
+      "name": "BMO Equal Weight US Banks Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1221,7 +1221,7 @@
     {
       "id": 65,
       "ticker": "ZBVU",
-      "name": "BMO ZBVU",
+      "name": "BMO US Large Cap Disciplined Value ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1240,7 +1240,7 @@
     {
       "id": 66,
       "ticker": "ZCB",
-      "name": "BMO ZCB",
+      "name": "BMO Corporate Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1259,7 +1259,7 @@
     {
       "id": 67,
       "ticker": "ZCDB",
-      "name": "BMO ZCDB",
+      "name": "BMO Corporate Discount Bond ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1278,7 +1278,7 @@
     {
       "id": 68,
       "ticker": "ZCDX",
-      "name": "BMO ZCDX",
+      "name": "BMO Credit Stress Opportunities ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1297,7 +1297,7 @@
     {
       "id": 69,
       "ticker": "ZCH",
-      "name": "BMO ZCH",
+      "name": "BMO MSCI China Selection Equity Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1316,7 +1316,7 @@
     {
       "id": 70,
       "ticker": "ZCLN",
-      "name": "BMO ZCLN",
+      "name": "BMO Clean Energy Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1335,7 +1335,7 @@
     {
       "id": 71,
       "ticker": "ZCM",
-      "name": "BMO ZCM",
+      "name": "BMO Mid Corporate Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1354,7 +1354,7 @@
     {
       "id": 2,
       "ticker": "ZCN",
-      "name": "BMO ZCN",
+      "name": "BMO S&P/TSX Capped Composite Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1384,7 +1384,7 @@
     {
       "id": 72,
       "ticker": "ZCOM",
-      "name": "BMO ZCOM",
+      "name": "BMO Broad Commodity ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1403,7 +1403,7 @@
     {
       "id": 73,
       "ticker": "ZCON",
-      "name": "BMO ZCON",
+      "name": "BMO Conservative ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1422,7 +1422,7 @@
     {
       "id": 74,
       "ticker": "ZCS",
-      "name": "BMO ZCS",
+      "name": "BMO Short Corporate Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1441,7 +1441,7 @@
     {
       "id": 75,
       "ticker": "ZDB",
-      "name": "BMO ZDB",
+      "name": "BMO Discount Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1460,7 +1460,7 @@
     {
       "id": 172,
       "ticker": "ZDH",
-      "name": "BMO ZDH",
+      "name": "BMO International Dividend Hedged to CAD ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1479,7 +1479,7 @@
     {
       "id": 76,
       "ticker": "ZDI",
-      "name": "BMO ZDI",
+      "name": "BMO International Dividend ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1498,7 +1498,7 @@
     {
       "id": 77,
       "ticker": "ZDIV",
-      "name": "BMO ZDIV",
+      "name": "BMO MSCI Canada IMI High Dividend Yield Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1517,7 +1517,7 @@
     {
       "id": 79,
       "ticker": "ZDJ",
-      "name": "BMO ZDJ",
+      "name": "BMO Dow Jones Industrial Average Hedged to CAD Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1536,7 +1536,7 @@
     {
       "id": 173,
       "ticker": "ZDM",
-      "name": "BMO ZDM",
+      "name": "BMO MSCI EAFE Hedged to CAD Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1555,7 +1555,7 @@
     {
       "id": 78,
       "ticker": "ZDV",
-      "name": "BMO ZDV",
+      "name": "BMO Canadian Dividend ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1574,7 +1574,7 @@
     {
       "id": 80,
       "ticker": "ZDY",
-      "name": "BMO ZDY",
+      "name": "BMO US Dividend ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1593,7 +1593,7 @@
     {
       "id": 84,
       "ticker": "ZEA",
-      "name": "BMO ZEA",
+      "name": "BMO MSCI EAFE Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1612,7 +1612,7 @@
     {
       "id": 81,
       "ticker": "ZEB",
-      "name": "BMO ZEB",
+      "name": "BMO Equal Weight Banks Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1631,7 +1631,7 @@
     {
       "id": 82,
       "ticker": "ZEF",
-      "name": "BMO ZEF",
+      "name": "BMO Emerging Markets Bond Hedged to CAD Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1650,7 +1650,7 @@
     {
       "id": 83,
       "ticker": "ZEM",
-      "name": "BMO ZEM",
+      "name": "BMO MSCI Emerging Markets Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1669,7 +1669,7 @@
     {
       "id": 85,
       "ticker": "ZEO",
-      "name": "BMO ZEO",
+      "name": "BMO Equal Weight Oil & Gas Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1688,7 +1688,7 @@
     {
       "id": 88,
       "ticker": "ZEQ",
-      "name": "BMO ZEQ",
+      "name": "BMO MSCI Europe High Quality Hedged to CAD Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1707,7 +1707,7 @@
     {
       "id": 87,
       "ticker": "ZEQL",
-      "name": "BMO ZEQL",
+      "name": "BMO MSCI USA Equal Weight Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1726,7 +1726,7 @@
     {
       "id": 86,
       "ticker": "ZEQT",
-      "name": "BMO ZEQT",
+      "name": "BMO All-Equity ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1745,7 +1745,7 @@
     {
       "id": 89,
       "ticker": "ZESG",
-      "name": "BMO ZESG",
+      "name": "BMO Balanced ESG ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1764,7 +1764,7 @@
     {
       "id": 90,
       "ticker": "ZESM",
-      "name": "BMO ZESM",
+      "name": "BMO MSCI EAFE Small-Mid Cap Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1783,7 +1783,7 @@
     {
       "id": 93,
       "ticker": "ZFH",
-      "name": "BMO ZFH",
+      "name": "BMO Floating Rate High Yield ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1802,7 +1802,7 @@
     {
       "id": 91,
       "ticker": "ZFL",
-      "name": "BMO ZFL",
+      "name": "BMO Long Federal Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1821,7 +1821,7 @@
     {
       "id": 92,
       "ticker": "ZFM",
-      "name": "BMO ZFM",
+      "name": "BMO Mid Federal Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1840,7 +1840,7 @@
     {
       "id": 95,
       "ticker": "ZFS",
-      "name": "BMO ZFS",
+      "name": "BMO Short Federal Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1859,7 +1859,7 @@
     {
       "id": 94,
       "ticker": "ZGB",
-      "name": "BMO ZGB",
+      "name": "BMO Government Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1878,7 +1878,7 @@
     {
       "id": 96,
       "ticker": "ZGD",
-      "name": "BMO ZGD",
+      "name": "BMO Equal Weight Global Gold Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1897,7 +1897,7 @@
     {
       "id": 97,
       "ticker": "ZGI",
-      "name": "BMO ZGI",
+      "name": "BMO Global Infrastructure Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1916,7 +1916,7 @@
     {
       "id": 174,
       "ticker": "ZGLD",
-      "name": "BMO ZGLD",
+      "name": "BMO Gold Bullion ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1935,7 +1935,7 @@
     {
       "id": 175,
       "ticker": "ZGLH",
-      "name": "BMO ZGLH",
+      "name": "BMO Gold Bullion Hedged to CAD ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1954,7 +1954,7 @@
     {
       "id": 98,
       "ticker": "ZGQ",
-      "name": "BMO ZGQ",
+      "name": "BMO MSCI All Country World High Quality Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1973,7 +1973,7 @@
     {
       "id": 99,
       "ticker": "ZGRO",
-      "name": "BMO ZGRO",
+      "name": "BMO Growth ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -1992,7 +1992,7 @@
     {
       "id": 100,
       "ticker": "ZHC",
-      "name": "BMO ZHC",
+      "name": "BMO Human Capital Factor US Equity ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2011,7 +2011,7 @@
     {
       "id": 176,
       "ticker": "ZHP",
-      "name": "BMO ZHP",
+      "name": "BMO US Preferred Share Hedged to CAD Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2030,7 +2030,7 @@
     {
       "id": 101,
       "ticker": "ZHU",
-      "name": "BMO ZHU",
+      "name": "BMO Equal Weight US Health Care Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2049,7 +2049,7 @@
     {
       "id": 177,
       "ticker": "ZHY",
-      "name": "BMO ZHY",
+      "name": "BMO High Yield US Corporate Bond Hedged to CAD Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2068,7 +2068,7 @@
     {
       "id": 102,
       "ticker": "ZIC",
-      "name": "BMO ZIC",
+      "name": "BMO Mid-Term US IG Corporate Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2087,7 +2087,7 @@
     {
       "id": 103,
       "ticker": "ZID",
-      "name": "BMO ZID",
+      "name": "BMO MSCI India Selection Equity Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2106,7 +2106,7 @@
     {
       "id": 104,
       "ticker": "ZIN",
-      "name": "BMO ZIN",
+      "name": "BMO Equal Weight Industrials Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2125,7 +2125,7 @@
     {
       "id": 105,
       "ticker": "ZIQ",
-      "name": "BMO ZIQ",
+      "name": "BMO MSCI EAFE High Quality Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2144,7 +2144,7 @@
     {
       "id": 106,
       "ticker": "ZIU",
-      "name": "BMO ZIU",
+      "name": "BMO S&P/TSX 60 Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2163,7 +2163,7 @@
     {
       "id": 178,
       "ticker": "ZJAN",
-      "name": "BMO ZJAN",
+      "name": "BMO US Equity Buffer Hedged to CAD ETF – January",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2182,7 +2182,7 @@
     {
       "id": 107,
       "ticker": "ZJG",
-      "name": "BMO ZJG",
+      "name": "BMO Junior Gold Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2201,7 +2201,7 @@
     {
       "id": 108,
       "ticker": "ZJK",
-      "name": "BMO ZJK",
+      "name": "BMO High Yield US Corporate Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2220,7 +2220,7 @@
     {
       "id": 109,
       "ticker": "ZJPN",
-      "name": "BMO ZJPN",
+      "name": "BMO Japan Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2239,7 +2239,7 @@
     {
       "id": 179,
       "ticker": "ZJUL",
-      "name": "BMO ZJUL",
+      "name": "BMO US Equity Buffer Hedged to CAD ETF - July",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2258,7 +2258,7 @@
     {
       "id": 110,
       "ticker": "ZLB",
-      "name": "BMO ZLB",
+      "name": "BMO Low Volatility Canadian Equity ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2277,7 +2277,7 @@
     {
       "id": 111,
       "ticker": "ZLC",
-      "name": "BMO ZLC",
+      "name": "BMO Long Corporate Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2296,7 +2296,7 @@
     {
       "id": 180,
       "ticker": "ZLD",
-      "name": "BMO ZLD",
+      "name": "BMO Low Volatility International Equity Hedged to CAD ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2315,7 +2315,7 @@
     {
       "id": 112,
       "ticker": "ZLE",
-      "name": "BMO ZLE",
+      "name": "BMO Low Volatility Emerging Markets Equity ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2334,7 +2334,7 @@
     {
       "id": 181,
       "ticker": "ZLH",
-      "name": "BMO ZLH",
+      "name": "BMO Low Volatility US Equity Hedged to CAD ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2353,7 +2353,7 @@
     {
       "id": 113,
       "ticker": "ZLI",
-      "name": "BMO ZLI",
+      "name": "BMO Low Volatility International Equity ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2372,7 +2372,7 @@
     {
       "id": 114,
       "ticker": "ZLSC",
-      "name": "BMO ZLSC",
+      "name": "BMO Long Short Canadian Equity ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2391,7 +2391,7 @@
     {
       "id": 115,
       "ticker": "ZLSU",
-      "name": "BMO ZLSU",
+      "name": "BMO Long Short US Equity ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2410,7 +2410,7 @@
     {
       "id": 116,
       "ticker": "ZLU",
-      "name": "BMO ZLU",
+      "name": "BMO Low Volatility US Equity ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2429,7 +2429,7 @@
     {
       "id": 117,
       "ticker": "ZMBS",
-      "name": "BMO ZMBS",
+      "name": "BMO Canadian MBS Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2448,7 +2448,7 @@
     {
       "id": 119,
       "ticker": "ZMI",
-      "name": "BMO ZMI",
+      "name": "BMO Monthly Income ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2467,7 +2467,7 @@
     {
       "id": 118,
       "ticker": "ZMID",
-      "name": "BMO ZMID",
+      "name": "BMO S&P US Mid Cap Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2486,7 +2486,7 @@
     {
       "id": 120,
       "ticker": "ZMLG",
-      "name": "BMO ZMLG",
+      "name": "BMO Market+ Low Volatility Global Equity ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2505,7 +2505,7 @@
     {
       "id": 121,
       "ticker": "ZMP",
-      "name": "BMO ZMP",
+      "name": "BMO Mid Provincial Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2524,7 +2524,7 @@
     {
       "id": 122,
       "ticker": "ZMPC",
-      "name": "BMO ZMPC",
+      "name": "BMO Market+ Canadian Equity ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2543,7 +2543,7 @@
     {
       "id": 125,
       "ticker": "ZMPG",
-      "name": "BMO ZMPG",
+      "name": "BMO Market+ Global Equity ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2562,7 +2562,7 @@
     {
       "id": 123,
       "ticker": "ZMPU",
-      "name": "BMO ZMPU",
+      "name": "BMO Market+ US Equity ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2581,7 +2581,7 @@
     {
       "id": 124,
       "ticker": "ZMPW",
-      "name": "BMO ZMPW",
+      "name": "BMO Market+ All Country World Equity ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2600,7 +2600,7 @@
     {
       "id": 126,
       "ticker": "ZMT",
-      "name": "BMO ZMT",
+      "name": "BMO Equal Weight Global Base Metals Hedged to CAD Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2619,7 +2619,7 @@
     {
       "id": 182,
       "ticker": "ZMU",
-      "name": "BMO ZMU",
+      "name": "BMO Mid-Term US IG Corporate Bond Hedged to CAD Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2638,7 +2638,7 @@
     {
       "id": 127,
       "ticker": "ZNQ",
-      "name": "BMO ZNQ",
+      "name": "BMO NASDAQ 100 Equity Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2657,7 +2657,7 @@
     {
       "id": 183,
       "ticker": "ZOCT",
-      "name": "BMO ZOCT",
+      "name": "BMO US Equity Buffer Hedged to CAD ETF – October",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2676,7 +2676,7 @@
     {
       "id": 128,
       "ticker": "ZPAY",
-      "name": "BMO ZPAY",
+      "name": "BMO Premium Yield ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2695,7 +2695,7 @@
     {
       "id": 184,
       "ticker": "ZPH",
-      "name": "BMO ZPH",
+      "name": "BMO US Put Write Hedged to CAD ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2714,7 +2714,7 @@
     {
       "id": 130,
       "ticker": "ZPL",
-      "name": "BMO ZPL",
+      "name": "BMO Long Provincial Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2733,7 +2733,7 @@
     {
       "id": 129,
       "ticker": "ZPR",
-      "name": "BMO ZPR",
+      "name": "BMO Laddered Preferred Share Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2752,7 +2752,7 @@
     {
       "id": 131,
       "ticker": "ZPS",
-      "name": "BMO ZPS",
+      "name": "BMO Short Provincial Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2771,7 +2771,7 @@
     {
       "id": 132,
       "ticker": "ZPW",
-      "name": "BMO ZPW",
+      "name": "BMO US Put Write ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2790,7 +2790,7 @@
     {
       "id": 133,
       "ticker": "ZQB",
-      "name": "BMO ZQB",
+      "name": "BMO High Quality Corporate Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2809,7 +2809,7 @@
     {
       "id": 134,
       "ticker": "ZQQ",
-      "name": "BMO ZQQ",
+      "name": "BMO NASDAQ 100 Equity Hedged to CAD Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2828,7 +2828,7 @@
     {
       "id": 135,
       "ticker": "ZRE",
-      "name": "BMO ZRE",
+      "name": "BMO Equal Weight REITs Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2847,7 +2847,7 @@
     {
       "id": 136,
       "ticker": "ZRR",
-      "name": "BMO ZRR",
+      "name": "BMO Real Return Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2866,7 +2866,7 @@
     {
       "id": 137,
       "ticker": "ZSB",
-      "name": "BMO ZSB",
+      "name": "BMO Short-Term Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2885,7 +2885,7 @@
     {
       "id": 138,
       "ticker": "ZSDB",
-      "name": "BMO ZSDB",
+      "name": "BMO Short-Term Discount Bond ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2904,7 +2904,7 @@
     {
       "id": 141,
       "ticker": "ZSML",
-      "name": "BMO ZSML",
+      "name": "BMO S&P US Small Cap Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2923,7 +2923,7 @@
     {
       "id": 139,
       "ticker": "ZSP",
-      "name": "BMO ZSP",
+      "name": "BMO S&P 500 Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2942,7 +2942,7 @@
     {
       "id": 140,
       "ticker": "ZST",
-      "name": "BMO ZST",
+      "name": "BMO Ultra Short-Term Bond ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2961,7 +2961,7 @@
     {
       "id": 142,
       "ticker": "ZSU",
-      "name": "BMO ZSU",
+      "name": "BMO Short-Term US IG Corporate Bond Hedged to CAD Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2980,7 +2980,7 @@
     {
       "id": 143,
       "ticker": "ZTIP",
-      "name": "BMO ZTIP",
+      "name": "BMO Short-Term US TIPS Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -2999,7 +2999,7 @@
     {
       "id": 144,
       "ticker": "ZTL",
-      "name": "BMO ZTL",
+      "name": "BMO Long-Term US Treasury Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3018,7 +3018,7 @@
     {
       "id": 145,
       "ticker": "ZTM",
-      "name": "BMO ZTM",
+      "name": "BMO Mid-Term US Treasury Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3037,7 +3037,7 @@
     {
       "id": 146,
       "ticker": "ZTS",
-      "name": "BMO ZTS",
+      "name": "BMO Short-Term US Treasury Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3056,7 +3056,7 @@
     {
       "id": 147,
       "ticker": "ZUAG",
-      "name": "BMO ZUAG",
+      "name": "BMO US Aggregate Bond Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3075,7 +3075,7 @@
     {
       "id": 185,
       "ticker": "ZUB",
-      "name": "BMO ZUB",
+      "name": "BMO Equal Weight US Banks Hedged to CAD Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3094,7 +3094,7 @@
     {
       "id": 148,
       "ticker": "ZUCM",
-      "name": "BMO ZUCM",
+      "name": "BMO USD Cash Management ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3113,7 +3113,7 @@
     {
       "id": 186,
       "ticker": "ZUD",
-      "name": "BMO ZUD",
+      "name": "BMO US Dividend Hedged to CAD ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3132,7 +3132,7 @@
     {
       "id": 187,
       "ticker": "ZUE",
-      "name": "BMO ZUE",
+      "name": "BMO S&P 500 Hedged to CAD Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3151,7 +3151,7 @@
     {
       "id": 161,
       "ticker": "ZUH",
-      "name": "BMO ZUH",
+      "name": "BMO Equal Weight US Health Care Hedged to CAD Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3170,7 +3170,7 @@
     {
       "id": 149,
       "ticker": "ZUP",
-      "name": "BMO ZUP",
+      "name": "BMO US Preferred Share Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3189,7 +3189,7 @@
     {
       "id": 150,
       "ticker": "ZUQ",
-      "name": "BMO ZUQ",
+      "name": "BMO MSCI USA High Quality Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3208,7 +3208,7 @@
     {
       "id": 151,
       "ticker": "ZUT",
-      "name": "BMO ZUT",
+      "name": "BMO Equal Weight Utilities Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3227,7 +3227,7 @@
     {
       "id": 152,
       "ticker": "ZVC",
-      "name": "BMO ZVC",
+      "name": "BMO MSCI Canada Value Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3246,7 +3246,7 @@
     {
       "id": 153,
       "ticker": "ZVU",
-      "name": "BMO ZVU",
+      "name": "BMO MSCI USA Value Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3265,7 +3265,7 @@
     {
       "id": 154,
       "ticker": "ZWA",
-      "name": "BMO ZWA",
+      "name": "BMO Covered Call Dow Jones Industrial Average Hedged to CAD ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3284,7 +3284,7 @@
     {
       "id": 155,
       "ticker": "ZWB",
-      "name": "BMO ZWB",
+      "name": "BMO Covered Call Canadian Banks ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3303,7 +3303,7 @@
     {
       "id": 156,
       "ticker": "ZWC",
-      "name": "BMO ZWC",
+      "name": "BMO Canadian High Dividend Covered Call ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3322,7 +3322,7 @@
     {
       "id": 157,
       "ticker": "ZWE",
-      "name": "BMO ZWE",
+      "name": "BMO Europe High Dividend Covered Call Hedged to CAD ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3341,7 +3341,7 @@
     {
       "id": 158,
       "ticker": "ZWEN",
-      "name": "BMO ZWEN",
+      "name": "BMO Covered Call Energy ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3360,7 +3360,7 @@
     {
       "id": 159,
       "ticker": "ZWG",
-      "name": "BMO ZWG",
+      "name": "BMO Global High Dividend Covered Call ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3379,7 +3379,7 @@
     {
       "id": 160,
       "ticker": "ZWGD",
-      "name": "BMO ZWGD",
+      "name": "BMO Covered Call Spread Gold Bullion ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3398,7 +3398,7 @@
     {
       "id": 162,
       "ticker": "ZWH",
-      "name": "BMO ZWH",
+      "name": "BMO US High Dividend Covered Call ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3417,7 +3417,7 @@
     {
       "id": 163,
       "ticker": "ZWHC",
-      "name": "BMO ZWHC",
+      "name": "BMO Covered Call Health Care ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3436,7 +3436,7 @@
     {
       "id": 164,
       "ticker": "ZWK",
-      "name": "BMO ZWK",
+      "name": "BMO Covered Call US Banks ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3455,7 +3455,7 @@
     {
       "id": 165,
       "ticker": "ZWP",
-      "name": "BMO ZWP",
+      "name": "BMO Europe High Dividend Covered Call ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3474,7 +3474,7 @@
     {
       "id": 188,
       "ticker": "ZWS",
-      "name": "BMO ZWS",
+      "name": "BMO US High Dividend Covered Call Hedged to CAD ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3493,7 +3493,7 @@
     {
       "id": 167,
       "ticker": "ZWT",
-      "name": "BMO ZWT",
+      "name": "BMO Covered Call Technology ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3512,7 +3512,7 @@
     {
       "id": 166,
       "ticker": "ZWU",
-      "name": "BMO ZWU",
+      "name": "BMO Covered Call Utilities ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3531,7 +3531,7 @@
     {
       "id": 170,
       "ticker": "ZXCO",
-      "name": "BMO ZXCO",
+      "name": "BMO Target 2027 Canadian Corporate Bond ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3550,7 +3550,7 @@
     {
       "id": 168,
       "ticker": "ZXCP",
-      "name": "BMO ZXCP",
+      "name": "BMO Target 2028 Canadian Corporate Bond ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3569,7 +3569,7 @@
     {
       "id": 169,
       "ticker": "ZXCQ",
-      "name": "BMO ZXCQ",
+      "name": "BMO Target 2029 Canadian Corporate Bond ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3588,7 +3588,7 @@
     {
       "id": 189,
       "ticker": "ZXLB",
-      "name": "BMO ZXLB",
+      "name": "BMO SPDR Materials Select Sector Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3607,7 +3607,7 @@
     {
       "id": 190,
       "ticker": "ZXLC",
-      "name": "BMO ZXLC",
+      "name": "BMO SPDR Communication Services Select Sector Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3626,7 +3626,7 @@
     {
       "id": 191,
       "ticker": "ZXLE",
-      "name": "BMO ZXLE",
+      "name": "BMO SPDR Energy Select Sector Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3645,7 +3645,7 @@
     {
       "id": 192,
       "ticker": "ZXLF",
-      "name": "BMO ZXLF",
+      "name": "BMO SPDR Financials Select Sector Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3664,7 +3664,7 @@
     {
       "id": 198,
       "ticker": "ZXLI",
-      "name": "BMO ZXLI",
+      "name": "BMO SPDR Industrials Select Sector Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3683,7 +3683,7 @@
     {
       "id": 194,
       "ticker": "ZXLK",
-      "name": "BMO ZXLK",
+      "name": "BMO SPDR Technology Select Sector Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3702,7 +3702,7 @@
     {
       "id": 193,
       "ticker": "ZXLP",
-      "name": "BMO ZXLP",
+      "name": "BMO SPDR Consumer Staples Select Sector Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3721,7 +3721,7 @@
     {
       "id": 195,
       "ticker": "ZXLR",
-      "name": "BMO ZXLR",
+      "name": "BMO SPDR Real Estate Select Sector Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3740,7 +3740,7 @@
     {
       "id": 196,
       "ticker": "ZXLU",
-      "name": "BMO ZXLU",
+      "name": "BMO SPDR Utilities Select Sector Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3759,7 +3759,7 @@
     {
       "id": 197,
       "ticker": "ZXLV",
-      "name": "BMO ZXLV",
+      "name": "BMO SPDR Health Care Select Sector Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3778,7 +3778,7 @@
     {
       "id": 199,
       "ticker": "ZXLY",
-      "name": "BMO ZXLY",
+      "name": "BMO SPDR Consumer Discretionary Select Sector Index ETF",
       "issuer": "BMO",
       "snapshots": [
         {
@@ -3800,8 +3800,8 @@
       "id": "vanguard-vcn",
       "label": "Vanguard Canada — VCN",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9561/vanguard-ftse-canada-all-cap-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3810,8 +3810,8 @@
       "id": "bmo-zcn",
       "label": "BMO — ZCN",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCN_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3820,8 +3820,8 @@
       "id": "ishares-xeqt",
       "label": "iShares — XEQT",
       "url": "https://www.blackrock.com/ca/investors/en/products/309480/fund/1464253357814.ajax?fileType=csv&fileName=XEQT_holdings&dataType=fund",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3830,8 +3830,8 @@
       "id": "vanguard-vxe",
       "label": "Vanguard Canada — VXE",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9548/vanguard-ftse-global-all-cap-ex-canada-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3840,8 +3840,8 @@
       "id": "vanguard-vce",
       "label": "Vanguard Canada — VCE",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9554/vanguard-ftse-canada-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3850,8 +3850,8 @@
       "id": "vanguard-ve",
       "label": "Vanguard Canada — VE",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9549/vanguard-ftse-developed-europe-all-cap-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3860,8 +3860,8 @@
       "id": "vanguard-va",
       "label": "Vanguard Canada — VA",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9550/vanguard-ftse-developed-asia-pacific-all-cap-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3870,8 +3870,8 @@
       "id": "vanguard-vus",
       "label": "Vanguard Canada — VUS",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9551/vanguard-morningstar-us-total-market-index-etf-cad-hedged",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3880,8 +3880,8 @@
       "id": "vanguard-vee",
       "label": "Vanguard Canada — VEE",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9556/vanguard-ftse-emerging-markets-all-cap-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3890,8 +3890,8 @@
       "id": "vanguard-vun",
       "label": "Vanguard Canada — VUN",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9557/vanguard-morningstar-us-total-market-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3900,8 +3900,8 @@
       "id": "vanguard-vdu",
       "label": "Vanguard Canada — VDU",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9558/vanguard-ftse-developed-all-cap-ex-us-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3910,8 +3910,8 @@
       "id": "vanguard-vef",
       "label": "Vanguard Canada — VEF",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9555/vanguard-ftse-developed-all-cap-ex-us-index-etf-cad-hedged",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3920,8 +3920,8 @@
       "id": "vanguard-vre",
       "label": "Vanguard Canada — VRE",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9559/vanguard-ftse-canadian-capped-reit-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3930,8 +3930,8 @@
       "id": "vanguard-vdy",
       "label": "Vanguard Canada — VDY",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9560/vanguard-ftse-canadian-high-dividend-yield-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3940,8 +3940,8 @@
       "id": "vanguard-vfv",
       "label": "Vanguard Canada — VFV",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9563/vanguard-sp-500-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3950,8 +3950,8 @@
       "id": "vanguard-vsp",
       "label": "Vanguard Canada — VSP",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9562/vanguard-sp-500-index-etf-cad-hedged",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3960,8 +3960,8 @@
       "id": "vanguard-vgg",
       "label": "Vanguard Canada — VGG",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9566/vanguard-us-dividend-appreciation-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3970,8 +3970,8 @@
       "id": "vanguard-vgh",
       "label": "Vanguard Canada — VGH",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9564/vanguard-us-dividend-appreciation-index-etf-cad-hedged",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3980,8 +3980,8 @@
       "id": "vanguard-viu",
       "label": "Vanguard Canada — VIU",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9569/vanguard-ftse-developed-all-cap-ex-north-america-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -3990,8 +3990,8 @@
       "id": "vanguard-vi",
       "label": "Vanguard Canada — VI",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9570/vanguard-ftse-developed-all-cap-ex-north-america-index-etf-cad-hedged",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4000,8 +4000,8 @@
       "id": "vanguard-vidy",
       "label": "Vanguard Canada — VIDY",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9742/vanguard-ftse-developed-ex-north-america-high-dividend-yield-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4010,8 +4010,8 @@
       "id": "vanguard-vvl",
       "label": "Vanguard Canada — VVL",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9795/vanguard-global-value-factor-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4020,8 +4020,8 @@
       "id": "vanguard-vvo",
       "label": "Vanguard Canada — VVO",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9828/vanguard-global-minimum-volatility-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4030,8 +4030,8 @@
       "id": "vanguard-vmo",
       "label": "Vanguard Canada — VMO",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9835/vanguard-global-momentum-factor-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4040,8 +4040,8 @@
       "id": "vanguard-vab",
       "label": "Vanguard Canada — VAB",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9552/vanguard-canadian-aggregate-bond-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4050,8 +4050,8 @@
       "id": "vanguard-vsb",
       "label": "Vanguard Canada — VSB",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9553/vanguard-canadian-short-term-bond-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4060,8 +4060,8 @@
       "id": "vanguard-vsc",
       "label": "Vanguard Canada — VSC",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9565/vanguard-canadian-short-term-corporate-bond-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4070,8 +4070,8 @@
       "id": "vanguard-vbu",
       "label": "Vanguard Canada — VBU",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9567/vanguard-us-aggregate-bond-index-etf-cad-hedged",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4080,8 +4080,8 @@
       "id": "vanguard-vbg",
       "label": "Vanguard Canada — VBG",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9568/vanguard-global-ex-us-aggregate-bond-index-etf-cad-hedged",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4090,8 +4090,8 @@
       "id": "vanguard-vgab",
       "label": "Vanguard Canada — VGAB",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9841/vanguard-global-aggregate-bond-index-etf-cad-hedged",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4100,8 +4100,8 @@
       "id": "vanguard-vlb",
       "label": "Vanguard Canada — VLB",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/1811/vanguard-canadian-long-term-bond-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4110,8 +4110,8 @@
       "id": "vanguard-vgv",
       "label": "Vanguard Canada — VGV",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/1817/vanguard-canadian-government-bond-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4120,8 +4120,8 @@
       "id": "vanguard-vcb",
       "label": "Vanguard Canada — VCB",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/1936/vanguard-canadian-corporate-bond-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4130,8 +4130,8 @@
       "id": "vanguard-vcns",
       "label": "Vanguard Canada — VCNS",
       "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9577/vanguard-conservative-etf-portfolio",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4140,8 +4140,8 @@
       "id": "vanguard-vbal",
       "label": "Vanguard Canada — VBAL",
       "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9578/vanguard-balanced-etf-portfolio",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4150,8 +4150,8 @@
       "id": "vanguard-vgro",
       "label": "Vanguard Canada — VGRO",
       "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9579/vanguard-growth-etf-portfolio",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4160,8 +4160,8 @@
       "id": "vanguard-vcip",
       "label": "Vanguard Canada — VCIP",
       "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9691/vanguard-conservative-income-etf-portfolio",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4170,8 +4170,8 @@
       "id": "vanguard-veqt",
       "label": "Vanguard Canada — VEQT",
       "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9692/vanguard-all-equity-etf-portfolio",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4180,8 +4180,8 @@
       "id": "vanguard-vrif",
       "label": "Vanguard Canada — VRIF",
       "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9870/vanguard-retirement-income-etf-portfolio",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4190,8 +4190,8 @@
       "id": "vanguard-vvsg",
       "label": "Vanguard Canada — VVSG",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/D003/vanguard-canadian-ultra-short-government-bond-index-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4200,8 +4200,8 @@
       "id": "vanguard-vudv",
       "label": "Vanguard Canada — VUDV",
       "url": "https://www.vanguard.ca/en/product/etf/equity/D018/vanguard-us-high-dividend-yield-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4210,8 +4210,8 @@
       "id": "vanguard-vudh",
       "label": "Vanguard Canada — VUDH",
       "url": "https://www.vanguard.ca/en/product/etf/equity/D019/vanguard-us-high-dividend-yield-hedged-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4220,8 +4220,8 @@
       "id": "vanguard-vigg",
       "label": "Vanguard Canada — VIGG",
       "url": "https://www.vanguard.ca/en/product/etf/equity/D020/vanguard-developed-ex-north-america-dividend-appreciation-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4230,8 +4230,8 @@
       "id": "vanguard-vcor",
       "label": "Vanguard Canada — VCOR",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/D021/vanguard-global-core-plus-bond-etf",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4240,8 +4240,8 @@
       "id": "bmo-disc",
       "label": "BMO — DISC",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_DISC_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4250,8 +4250,8 @@
       "id": "bmo-esga",
       "label": "BMO — ESGA",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGA_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4260,8 +4260,8 @@
       "id": "bmo-comm",
       "label": "BMO — COMM",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_COMM_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4270,8 +4270,8 @@
       "id": "bmo-esgb",
       "label": "BMO — ESGB",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGB_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4280,8 +4280,8 @@
       "id": "bmo-esge",
       "label": "BMO — ESGE",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGE_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4290,8 +4290,8 @@
       "id": "bmo-esgf",
       "label": "BMO — ESGF",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGF_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4300,8 +4300,8 @@
       "id": "bmo-esgy",
       "label": "BMO — ESGY",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGY_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4310,8 +4310,8 @@
       "id": "bmo-esgg",
       "label": "BMO — ESGG",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGG_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4320,8 +4320,8 @@
       "id": "bmo-stpl",
       "label": "BMO — STPL",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_STPL_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4330,8 +4330,8 @@
       "id": "bmo-zaaa",
       "label": "BMO — ZAAA",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZAAA_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4340,8 +4340,8 @@
       "id": "bmo-zabs",
       "label": "BMO — ZABS",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZABS_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4350,8 +4350,8 @@
       "id": "bmo-zag",
       "label": "BMO — ZAG",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZAG_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4360,8 +4360,8 @@
       "id": "bmo-zapr",
       "label": "BMO — ZAPR",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZAPR_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4370,8 +4370,8 @@
       "id": "bmo-zbal",
       "label": "BMO — ZBAL",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBAL_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4380,8 +4380,8 @@
       "id": "bmo-zbbz",
       "label": "BMO — ZBBZ",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBBZ_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4390,8 +4390,8 @@
       "id": "bmo-zbcb",
       "label": "BMO — ZBCB",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBCB_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4400,8 +4400,8 @@
       "id": "bmo-zbdu",
       "label": "BMO — ZBDU",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBDU_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4410,8 +4410,8 @@
       "id": "bmo-zbec",
       "label": "BMO — ZBEC",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBEC_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4420,8 +4420,8 @@
       "id": "bmo-zbeu",
       "label": "BMO — ZBEU",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBEU_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4430,8 +4430,8 @@
       "id": "bmo-zbi",
       "label": "BMO — ZBI",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBI_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4440,8 +4440,8 @@
       "id": "bmo-zbk",
       "label": "BMO — ZBK",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBK_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4450,8 +4450,8 @@
       "id": "bmo-zbvu",
       "label": "BMO — ZBVU",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBVU_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4460,8 +4460,8 @@
       "id": "bmo-zcb",
       "label": "BMO — ZCB",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCB_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4470,8 +4470,8 @@
       "id": "bmo-zcdb",
       "label": "BMO — ZCDB",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCDB_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4480,8 +4480,8 @@
       "id": "bmo-zcdx",
       "label": "BMO — ZCDX",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCDX_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4490,8 +4490,8 @@
       "id": "bmo-zch",
       "label": "BMO — ZCH",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCH_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4500,8 +4500,8 @@
       "id": "bmo-zcln",
       "label": "BMO — ZCLN",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCLN_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4510,8 +4510,8 @@
       "id": "bmo-zcm",
       "label": "BMO — ZCM",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCM_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4520,8 +4520,8 @@
       "id": "bmo-zcom",
       "label": "BMO — ZCOM",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCOM_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4530,8 +4530,8 @@
       "id": "bmo-zcon",
       "label": "BMO — ZCON",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCON_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4540,8 +4540,8 @@
       "id": "bmo-zcs",
       "label": "BMO — ZCS",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCS_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4550,8 +4550,8 @@
       "id": "bmo-zdb",
       "label": "BMO — ZDB",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDB_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4560,8 +4560,8 @@
       "id": "bmo-zdh",
       "label": "BMO — ZDH",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDH_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4570,8 +4570,8 @@
       "id": "bmo-zdi",
       "label": "BMO — ZDI",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDI_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4580,8 +4580,8 @@
       "id": "bmo-zdiv",
       "label": "BMO — ZDIV",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDIV_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4590,8 +4590,8 @@
       "id": "bmo-zdm",
       "label": "BMO — ZDM",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDM_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4600,8 +4600,8 @@
       "id": "bmo-zdv",
       "label": "BMO — ZDV",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDV_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4610,8 +4610,8 @@
       "id": "bmo-zdj",
       "label": "BMO — ZDJ",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDJ_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4620,8 +4620,8 @@
       "id": "bmo-zdy",
       "label": "BMO — ZDY",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDY_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4630,8 +4630,8 @@
       "id": "bmo-zeb",
       "label": "BMO — ZEB",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEB_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4640,8 +4640,8 @@
       "id": "bmo-zef",
       "label": "BMO — ZEF",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEF_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4650,8 +4650,8 @@
       "id": "bmo-zem",
       "label": "BMO — ZEM",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEM_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4660,8 +4660,8 @@
       "id": "bmo-zea",
       "label": "BMO — ZEA",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEA_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4670,8 +4670,8 @@
       "id": "bmo-zeo",
       "label": "BMO — ZEO",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEO_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4680,8 +4680,8 @@
       "id": "bmo-zeqt",
       "label": "BMO — ZEQT",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEQT_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4690,8 +4690,8 @@
       "id": "bmo-zeql",
       "label": "BMO — ZEQL",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEQL_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4700,8 +4700,8 @@
       "id": "bmo-zeq",
       "label": "BMO — ZEQ",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEQ_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4710,8 +4710,8 @@
       "id": "bmo-zesg",
       "label": "BMO — ZESG",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZESG_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4720,8 +4720,8 @@
       "id": "bmo-zesm",
       "label": "BMO — ZESM",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZESM_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4730,8 +4730,8 @@
       "id": "bmo-zfl",
       "label": "BMO — ZFL",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFL_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4740,8 +4740,8 @@
       "id": "bmo-zfm",
       "label": "BMO — ZFM",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFM_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4750,8 +4750,8 @@
       "id": "bmo-zfh",
       "label": "BMO — ZFH",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFH_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4760,8 +4760,8 @@
       "id": "bmo-zgb",
       "label": "BMO — ZGB",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGB_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4770,8 +4770,8 @@
       "id": "bmo-zfs",
       "label": "BMO — ZFS",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFS_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4780,8 +4780,8 @@
       "id": "bmo-zgd",
       "label": "BMO — ZGD",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGD_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4790,8 +4790,8 @@
       "id": "bmo-zgi",
       "label": "BMO — ZGI",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGI_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4800,8 +4800,8 @@
       "id": "bmo-zgld",
       "label": "BMO — ZGLD",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGLD_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4810,8 +4810,8 @@
       "id": "bmo-zglh",
       "label": "BMO — ZGLH",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGLH_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4820,8 +4820,8 @@
       "id": "bmo-zgq",
       "label": "BMO — ZGQ",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGQ_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4830,8 +4830,8 @@
       "id": "bmo-zgro",
       "label": "BMO — ZGRO",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGRO_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4840,8 +4840,8 @@
       "id": "bmo-zhc",
       "label": "BMO — ZHC",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZHC_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:47:20.887Z",
-      "last_success_at": "2026-09-27T03:47:20.887Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4850,8 +4850,8 @@
       "id": "bmo-zhu",
       "label": "BMO — ZHU",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZHU_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4860,8 +4860,8 @@
       "id": "bmo-zhp",
       "label": "BMO — ZHP",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZHP_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4870,8 +4870,8 @@
       "id": "bmo-zhy",
       "label": "BMO — ZHY",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZHY_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4880,8 +4880,8 @@
       "id": "bmo-zic",
       "label": "BMO — ZIC",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZIC_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4890,8 +4890,8 @@
       "id": "bmo-zid",
       "label": "BMO — ZID",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZID_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4900,8 +4900,8 @@
       "id": "bmo-zin",
       "label": "BMO — ZIN",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZIN_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4910,8 +4910,8 @@
       "id": "bmo-ziq",
       "label": "BMO — ZIQ",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZIQ_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4920,8 +4920,8 @@
       "id": "bmo-ziu",
       "label": "BMO — ZIU",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZIU_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4930,8 +4930,8 @@
       "id": "bmo-zjan",
       "label": "BMO — ZJAN",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZJAN_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4940,8 +4940,8 @@
       "id": "bmo-zjg",
       "label": "BMO — ZJG",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZJG_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4950,8 +4950,8 @@
       "id": "bmo-zjk",
       "label": "BMO — ZJK",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZJK_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4960,8 +4960,8 @@
       "id": "bmo-zjpn",
       "label": "BMO — ZJPN",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZJPN_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4970,8 +4970,8 @@
       "id": "bmo-zlb",
       "label": "BMO — ZLB",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLB_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4980,8 +4980,8 @@
       "id": "bmo-zjul",
       "label": "BMO — ZJUL",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZJUL_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -4990,8 +4990,8 @@
       "id": "bmo-zlc",
       "label": "BMO — ZLC",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLC_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5000,8 +5000,8 @@
       "id": "bmo-zld",
       "label": "BMO — ZLD",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLD_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5010,8 +5010,8 @@
       "id": "bmo-zle",
       "label": "BMO — ZLE",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLE_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5020,8 +5020,8 @@
       "id": "bmo-zlh",
       "label": "BMO — ZLH",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLH_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5030,8 +5030,8 @@
       "id": "bmo-zli",
       "label": "BMO — ZLI",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLI_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5040,8 +5040,8 @@
       "id": "bmo-zlsc",
       "label": "BMO — ZLSC",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLSC_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5050,8 +5050,8 @@
       "id": "bmo-zlsu",
       "label": "BMO — ZLSU",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLSU_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5060,8 +5060,8 @@
       "id": "bmo-zlu",
       "label": "BMO — ZLU",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLU_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5070,8 +5070,8 @@
       "id": "bmo-zmbs",
       "label": "BMO — ZMBS",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMBS_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5080,8 +5080,8 @@
       "id": "bmo-zmid",
       "label": "BMO — ZMID",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMID_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5090,8 +5090,8 @@
       "id": "bmo-zmi",
       "label": "BMO — ZMI",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMI_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5100,8 +5100,8 @@
       "id": "bmo-zmlg",
       "label": "BMO — ZMLG",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMLG_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5110,8 +5110,8 @@
       "id": "bmo-zmp",
       "label": "BMO — ZMP",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMP_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5120,8 +5120,8 @@
       "id": "bmo-zmpc",
       "label": "BMO — ZMPC",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMPC_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5130,8 +5130,8 @@
       "id": "bmo-zmpu",
       "label": "BMO — ZMPU",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMPU_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5140,8 +5140,8 @@
       "id": "bmo-zmpw",
       "label": "BMO — ZMPW",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMPW_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5150,8 +5150,8 @@
       "id": "bmo-zmpg",
       "label": "BMO — ZMPG",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMPG_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5160,8 +5160,8 @@
       "id": "bmo-zmu",
       "label": "BMO — ZMU",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMU_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5170,8 +5170,8 @@
       "id": "bmo-zmt",
       "label": "BMO — ZMT",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMT_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5180,8 +5180,8 @@
       "id": "bmo-znq",
       "label": "BMO — ZNQ",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZNQ_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5190,8 +5190,8 @@
       "id": "bmo-zoct",
       "label": "BMO — ZOCT",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZOCT_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5200,8 +5200,8 @@
       "id": "bmo-zph",
       "label": "BMO — ZPH",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPH_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5210,8 +5210,8 @@
       "id": "bmo-zpay",
       "label": "BMO — ZPAY",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPAY_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5220,8 +5220,8 @@
       "id": "bmo-zpr",
       "label": "BMO — ZPR",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPR_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5230,8 +5230,8 @@
       "id": "bmo-zpl",
       "label": "BMO — ZPL",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPL_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5240,8 +5240,8 @@
       "id": "bmo-zps",
       "label": "BMO — ZPS",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPS_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5250,8 +5250,8 @@
       "id": "bmo-zpw",
       "label": "BMO — ZPW",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPW_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5260,8 +5260,8 @@
       "id": "bmo-zqb",
       "label": "BMO — ZQB",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZQB_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5270,8 +5270,8 @@
       "id": "bmo-zqq",
       "label": "BMO — ZQQ",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZQQ_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5280,8 +5280,8 @@
       "id": "bmo-zre",
       "label": "BMO — ZRE",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZRE_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5290,8 +5290,8 @@
       "id": "bmo-zrr",
       "label": "BMO — ZRR",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZRR_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5300,8 +5300,8 @@
       "id": "bmo-zsb",
       "label": "BMO — ZSB",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZSB_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5310,8 +5310,8 @@
       "id": "bmo-zsdb",
       "label": "BMO — ZSDB",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZSDB_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5320,8 +5320,8 @@
       "id": "bmo-zsp",
       "label": "BMO — ZSP",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZSP_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5330,8 +5330,8 @@
       "id": "bmo-zst",
       "label": "BMO — ZST",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZST_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5340,8 +5340,8 @@
       "id": "bmo-zsml",
       "label": "BMO — ZSML",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZSML_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5350,8 +5350,8 @@
       "id": "bmo-zsu",
       "label": "BMO — ZSU",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZSU_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5360,8 +5360,8 @@
       "id": "bmo-ztip",
       "label": "BMO — ZTIP",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZTIP_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5370,8 +5370,8 @@
       "id": "bmo-ztl",
       "label": "BMO — ZTL",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZTL_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5380,8 +5380,8 @@
       "id": "bmo-ztm",
       "label": "BMO — ZTM",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZTM_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5390,8 +5390,8 @@
       "id": "bmo-zts",
       "label": "BMO — ZTS",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZTS_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5400,8 +5400,8 @@
       "id": "bmo-zuag",
       "label": "BMO — ZUAG",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUAG_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5410,8 +5410,8 @@
       "id": "bmo-zub",
       "label": "BMO — ZUB",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUB_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5420,8 +5420,8 @@
       "id": "bmo-zucm",
       "label": "BMO — ZUCM",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUCM_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5430,8 +5430,8 @@
       "id": "bmo-zud",
       "label": "BMO — ZUD",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUD_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5440,8 +5440,8 @@
       "id": "bmo-zue",
       "label": "BMO — ZUE",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUE_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5450,8 +5450,8 @@
       "id": "bmo-zup",
       "label": "BMO — ZUP",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUP_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5460,8 +5460,8 @@
       "id": "bmo-zuq",
       "label": "BMO — ZUQ",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUQ_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5470,8 +5470,8 @@
       "id": "bmo-zut",
       "label": "BMO — ZUT",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUT_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5480,8 +5480,8 @@
       "id": "bmo-zvc",
       "label": "BMO — ZVC",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZVC_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5490,8 +5490,8 @@
       "id": "bmo-zvu",
       "label": "BMO — ZVU",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZVU_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5500,8 +5500,8 @@
       "id": "bmo-zwa",
       "label": "BMO — ZWA",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWA_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5510,8 +5510,8 @@
       "id": "bmo-zwb",
       "label": "BMO — ZWB",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWB_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5520,8 +5520,8 @@
       "id": "bmo-zwc",
       "label": "BMO — ZWC",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWC_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5530,8 +5530,8 @@
       "id": "bmo-zwe",
       "label": "BMO — ZWE",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWE_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5540,8 +5540,8 @@
       "id": "bmo-zwen",
       "label": "BMO — ZWEN",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWEN_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5550,8 +5550,8 @@
       "id": "bmo-zwg",
       "label": "BMO — ZWG",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWG_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5560,8 +5560,8 @@
       "id": "bmo-zwgd",
       "label": "BMO — ZWGD",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWGD_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5570,8 +5570,8 @@
       "id": "bmo-zuh",
       "label": "BMO — ZUH",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUH_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5580,8 +5580,8 @@
       "id": "bmo-zwh",
       "label": "BMO — ZWH",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWH_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5590,8 +5590,8 @@
       "id": "bmo-zwhc",
       "label": "BMO — ZWHC",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWHC_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5600,8 +5600,8 @@
       "id": "bmo-zwk",
       "label": "BMO — ZWK",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWK_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5610,8 +5610,8 @@
       "id": "bmo-zwp",
       "label": "BMO — ZWP",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWP_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5620,8 +5620,8 @@
       "id": "bmo-zws",
       "label": "BMO — ZWS",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWS_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5630,8 +5630,8 @@
       "id": "bmo-zwu",
       "label": "BMO — ZWU",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWU_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5640,8 +5640,8 @@
       "id": "bmo-zwt",
       "label": "BMO — ZWT",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWT_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5650,8 +5650,8 @@
       "id": "bmo-zxcp",
       "label": "BMO — ZXCP",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXCP_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5660,8 +5660,8 @@
       "id": "bmo-zxcq",
       "label": "BMO — ZXCQ",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXCQ_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5670,8 +5670,8 @@
       "id": "bmo-zxco",
       "label": "BMO — ZXCO",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXCO_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5680,8 +5680,8 @@
       "id": "bmo-zxlb",
       "label": "BMO — ZXLB",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLB_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5690,8 +5690,8 @@
       "id": "bmo-zxlc",
       "label": "BMO — ZXLC",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLC_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5700,8 +5700,8 @@
       "id": "bmo-zxle",
       "label": "BMO — ZXLE",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLE_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5710,8 +5710,8 @@
       "id": "bmo-zxlf",
       "label": "BMO — ZXLF",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLF_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5720,8 +5720,8 @@
       "id": "bmo-zxlp",
       "label": "BMO — ZXLP",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLP_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5730,8 +5730,8 @@
       "id": "bmo-zxlk",
       "label": "BMO — ZXLK",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLK_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5740,8 +5740,8 @@
       "id": "bmo-zxlr",
       "label": "BMO — ZXLR",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLR_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5750,8 +5750,8 @@
       "id": "bmo-zxlu",
       "label": "BMO — ZXLU",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLU_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5760,8 +5760,8 @@
       "id": "bmo-zxlv",
       "label": "BMO — ZXLV",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLV_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5770,8 +5770,8 @@
       "id": "bmo-zxli",
       "label": "BMO — ZXLI",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLI_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -5780,8 +5780,8 @@
       "id": "bmo-zxly",
       "label": "BMO — ZXLY",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLY_20260924.xlsx",
-      "last_checked_at": "2026-09-27T03:44:35.911Z",
-      "last_success_at": "2026-09-27T03:44:35.911Z",
+      "last_checked_at": "2026-09-27T11:22:22.878Z",
+      "last_success_at": "2026-09-27T11:22:22.878Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []

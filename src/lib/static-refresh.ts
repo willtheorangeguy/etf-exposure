@@ -12,6 +12,7 @@ export const SourcesConfig = z.array(z.object({
   id: z.string().regex(/^[a-z0-9-]+$/), label: z.string().min(1),
   url: z.string().url().refine((s) => /^https?:\/\//.test(s)),
   issuer: z.string().optional(), ticker: z.string().regex(/^[A-Z][A-Z0-9.\-]{0,19}$/).optional(),
+  name: z.string().trim().min(1).max(500).optional(),
 })).min(1).refine((items) => new Set(items.map((s) => s.id)).size === items.length, "Source ids must be unique");
 
 export function emptyCatalog(): StaticCatalog { return { version: 1, generated_at: new Date().toISOString(), etfs: [], sources: [] }; }
@@ -38,7 +39,7 @@ export async function refreshCatalog(previous: StaticCatalog, config: z.infer<ty
     const report = { id: source.id, label: source.label, url: source.url, last_checked_at: now,
       last_success_at: previous.sources.find((s) => s.id === source.id)?.last_success_at ?? null,
       imported: 0, unchanged: 0, errors: [] as Array<{url:string;error:string}> };
-    const queue: Array<DownloadLink & {depth:number}> = [{ url: source.url, ticker: source.ticker, depth: 0 }];
+    const queue: Array<DownloadLink & {depth:number}> = [{ url: source.url, ticker: source.ticker, name: source.name, depth: 0 }];
     const visited = new Set<string>();
     let pages = 0;
     while (queue.length && visited.size < 1000) {
@@ -51,7 +52,7 @@ export async function refreshCatalog(previous: StaticCatalog, config: z.infer<ty
           if (++pages > 100) throw new Error("Page limit reached. Add narrower issuer sources.");
           const links = discoverLinks(fetched.source.text, fetched.finalUrl);
           if (links.files.length || links.pages.length) {
-            queue.push(...links.files.map((link) => ({ ...link, ticker: link.ticker ?? item.ticker, depth: item.depth })));
+            queue.push(...links.files.map((link) => ({ ...link, ticker: link.ticker ?? item.ticker, name: link.name ?? item.name, depth: item.depth })));
             if (item.depth < 2) queue.push(...links.pages.map((link) => ({ ...link, depth: item.depth + 1 })));
             continue;
           }
@@ -73,10 +74,10 @@ export async function refreshCatalog(previous: StaticCatalog, config: z.infer<ty
           etf = { id: Math.max(0,...catalog.etfs.map((e) => e.id)) + 1, ticker, name: input.name, issuer: input.issuer ?? null, snapshots: [] };
           catalog.etfs.push(etf);
         }
-        const existing = etf.snapshots.find((s) => s.as_of_date === input.asOfDate);
-        if (existing?.content_hash === hash && existing.partial === input.partial) { report.unchanged++; continue; }
         const latestDate = etf.snapshots[0]?.as_of_date;
         if (!latestDate || input.asOfDate >= latestDate) { etf.name = input.name; etf.issuer = input.issuer ?? etf.issuer; }
+        const existing = etf.snapshots.find((s) => s.as_of_date === input.asOfDate);
+        if (existing?.content_hash === hash && existing.partial === input.partial) { report.unchanged++; continue; }
         const file = `etfs/${ticker}/${input.asOfDate}.json`;
         const snapshot: StaticSnapshot = { id: existing?.id ?? Math.max(0,...etf.snapshots.map((s) => s.id)) + 1,
           as_of_date: input.asOfDate, source: "url", source_url: fetched.finalUrl, created_at: existing?.created_at ?? now,
