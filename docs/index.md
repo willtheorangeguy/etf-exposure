@@ -27,9 +27,9 @@ Open [the local calculator](http://localhost:3000/). Committed holdings are avai
 
     [Add ETFs](./adding-etfs.md) with verified issuer links and acceptance checks.
 
-- **Delegate Vanguard expansion**
+- **Configure data sources**
 
-    [Expand Vanguard coverage](./vanguard-expansion.md) includes a copyable agent task.
+    [Configuration](./configuration.md) explains how issuer sources are configured.
 
 - **Modify the app**
 

@@ -7,7 +7,6 @@ docs/
 ├── getting-started.md
 ├── configuration.md
 ├── adding-etfs.md
-├── vanguard-expansion.md
 ├── architecture.md
 ├── development.md
 ├── deployment.md
@@ -19,7 +18,6 @@ docs/
 - [Usage](./usage.md)
 - [Configuration](./configuration.md)
 - [Add ETFs](./adding-etfs.md)
-- [Expand Vanguard coverage](./vanguard-expansion.md)
 - [Architecture](./architecture.md)
 - [Interfaces](./api.md)
 - [Development](./development.md)

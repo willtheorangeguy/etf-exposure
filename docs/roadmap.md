@@ -4,7 +4,7 @@ The current implementation has deliberate boundaries. This page does not promise
 
 ## Catalog coverage
 
-The initial catalog contains VCN, ZCN, and XEQT. Remaining Vanguard Canada funds require verified product links and per-fund checks. [Expand Vanguard coverage](./vanguard-expansion.md) defines that work.
+The configured issuer sources define catalog coverage. New funds require verified product links and per-fund checks. [Add ETFs](./adding-etfs.md) describes that process.
 
 HTML discovery follows static anchors within limits. It does not guarantee all funds on every issuer's site. PDF parsing and JavaScript-browser crawling are not implemented.
 

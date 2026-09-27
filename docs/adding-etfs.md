@@ -121,4 +121,4 @@ Open a pull request. After review and merge, the combined Pages workflow refresh
 
 Do not weaken date, weight, network, or schema validation to import a fund. Stop and report evidence when a verified fund cannot be parsed, requires authentication, returns no holdings, or exceeds discovery/pagination limits.
 
-For funds that hold other ETFs, the current calculator uses their reported holdings. It does not recursively resolve ETF constituents. Do not claim per-stock look-through for such a fund unless the issuer source already provides that table. [Vanguard expansion](./vanguard-expansion.md) makes this a required review checkpoint.
+For funds that hold other ETFs, the current calculator uses their reported holdings. It does not recursively resolve ETF constituents. Do not claim per-stock look-through for such a fund unless the issuer source already provides that table. Review this distinction before adding a fund.
