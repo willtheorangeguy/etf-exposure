@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFL_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "e693f4b73727dbeb1c754c4552bf312124d786ac7ea229348eab435b9f97fc49",
+  "content_hash": "1cd55f61979724ca4fb2368fc01606e4077d01b194452d09e563a94471ad380b",
   "holdings": [
     {
       "t": "CAN",
@@ -166,6 +166,13 @@
       "isin": "CA13521JAB76",
       "sector": "GOVERNMENT BONDS",
       "mv": 3940154.81
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.04,
+      "sector": "-",
+      "mv": -480018.97
     },
     {
       "t": "FNFACA",

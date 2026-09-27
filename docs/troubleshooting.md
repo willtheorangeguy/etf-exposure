@@ -22,7 +22,9 @@ For a verified single-fund source, set its uppercase ticker in configuration. Do
 
 ## Holdings weights exceed 100%
 
-The imported sum exceeded the 105% validation tolerance. Check whether a file contains multiple tables or incompatible weights. Do not divide weights to make the total pass. Record evidence and request a parser fix with a fixture.
+The imported net sum exceeded 100.5%. Totals above 100% and up to 100.5% are corrected proportionally to 100% to handle small rounding overruns. Larger totals remain errors: check for repeated tables, missing cash/short positions, or incompatible weights. Do not increase the tolerance to import an invalid table.
+
+An individual holding can exceed 100% when a negative cash or derivative position offsets it. BMO's adapter retains rows without ISINs using the issuer's holding name, or a currency-qualified cash identifier, so those offsets are included in the net total.
 
 ## Refresh exits zero but the new ETF is absent
 

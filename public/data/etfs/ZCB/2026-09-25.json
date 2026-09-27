@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCB_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "c361e32fd9c5d65bbb91cf609db1836de2b324b1b576743170e7cb50b19041dc",
+  "content_hash": "787388e8a9c59e81aa7cc185484f06555a3f26b3b435a1b9e71fdaa7094455ec",
   "holdings": [
     {
       "t": "ACAFP",
@@ -4014,6 +4014,13 @@
       "isin": "CA124765AC27",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 598182.55
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.12,
+      "sector": "-",
+      "mv": -2618459.64
     },
     {
       "t": "CAU8302FAB79",

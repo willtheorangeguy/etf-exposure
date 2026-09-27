@@ -82,7 +82,7 @@ For each new fund, verify:
 - Partial status is explained, not hidden.
 - Holdings correspond to the fund's asset class. Bond identifiers and ETF holdings are not automatically individual stocks.
 
-Open the file referenced by the snapshot's `file` field under `public/data/`. Review a sample of names, tickers, weights, and International Securities Identification Numbers (ISINs). The parser drops nonpositive weights. Do not compare its count to an issuer's count without accounting for those rows.
+Open the file referenced by the snapshot's `file` field under `public/data/`. Review a sample of names, tickers, weights, and International Securities Identification Numbers (ISINs). The parser drops zero weights and retains negative cash/short positions. BMO positions without ISINs use the issuer's holding name or a currency-qualified cash identifier. Net totals above 100% and up to 100.5% are corrected proportionally to 100%; larger overruns are rejected. Do not compare the holdings count to an issuer's count without accounting for zero-weight rows.
 
 ## Validate the change
 

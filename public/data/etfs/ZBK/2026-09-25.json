@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBK_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "013f717ca861d9588136627dd5263ee8f7066a5a673e58f206e0361e283c2e8c",
+  "content_hash": "6c11c81fb42f0a712070ef05281783f4b46a61ad374f5599c3878f31301f995d",
   "holdings": [
     {
       "t": "BAC",
@@ -24,6 +24,14 @@
       "sector": "FINANCIALS",
       "mv": 35476703.19,
       "shares": 186786
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.11,
+      "sector": "-",
+      "mv": 857039.91,
+      "shares": 1
     },
     {
       "t": "CFG",

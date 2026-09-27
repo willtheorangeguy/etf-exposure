@@ -1,4 +1,5 @@
 import { z } from "zod";
+import { holdingsTotal, MAX_HOLDINGS_TOTAL, normalizeWeightRounding, WEIGHT_SUM_EPSILON } from "./holding-weights";
 
 export const ImportSchema = z.object({
   ticker: z.string().trim().toUpperCase().regex(/^[A-Z0-9.\-]{1,20}$/),
@@ -14,13 +15,13 @@ export const ImportSchema = z.object({
   holdings: z.array(z.object({
     t: z.string().trim().min(1).max(100),
     n: z.string().trim().min(1).max(500),
-    weight: z.number().max(100).refine((v) => v !== 0, "weight must be non-zero"),
+    weight: z.number().refine((v) => v !== 0, "weight must be non-zero"),
     isin: z.string().regex(/^[A-Z]{2}[A-Z0-9]{10}$/).optional(),
     sector: z.string().nullish().transform((v) => v ?? undefined),
     region: z.string().nullish().transform((v) => v ?? undefined),
     mv: z.number().nullish().transform((v) => v ?? undefined),
     shares: z.number().nullish().transform((v) => v ?? undefined),
-  })).min(1).max(20000).refine((holdings) => holdings.reduce((sum, h) => sum + h.weight, 0) <= 105,
-    "Holdings weights exceed 100%"),
+  })).min(1).max(20000).refine((holdings) => Number.isFinite(holdingsTotal(holdings)) && holdingsTotal(holdings) <= MAX_HOLDINGS_TOTAL + WEIGHT_SUM_EPSILON,
+    "Holdings total exceeds the 100.5% rounding limit").transform(normalizeWeightRounding),
   partial: z.boolean(),
 });

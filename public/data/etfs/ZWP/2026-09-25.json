@@ -5,12 +5,72 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWP_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "f5df7269a85a1515dd6570cbc54cc0fd29f584f10dbcc1c77b0bdefdff86db68",
+  "content_hash": "3e5b6b3bc8fdb42196ddaef4fda55c2dfc18b2ea5529d20f72843cadc5891655",
   "holdings": [
+    {
+      "t": "781214521 BMOMOOTC CALL OPTIONS",
+      "n": "781214521 BMOMOOTC CALL OPTIONS",
+      "weight": -0.009996001599360253,
+      "sector": "-"
+    },
+    {
+      "t": "800156920 BMOMOOTC CALL OPTIONS",
+      "n": "800156920 BMOMOOTC CALL OPTIONS",
+      "weight": -0.009996001599360253,
+      "sector": "-"
+    },
+    {
+      "t": "800780281 BMOMOOTC CALL OPTIONS",
+      "n": "800780281 BMOMOOTC CALL OPTIONS",
+      "weight": -0.009996001599360253,
+      "sector": "-"
+    },
+    {
+      "t": "801968147 BMOMOOTC CALL OPTIONS",
+      "n": "801968147 BMOMOOTC CALL OPTIONS",
+      "weight": -0.009996001599360253,
+      "sector": "-"
+    },
+    {
+      "t": "801968154 BMOMOOTC CALL OPTIONS",
+      "n": "801968154 BMOMOOTC CALL OPTIONS",
+      "weight": -0.009996001599360253,
+      "sector": "-"
+    },
+    {
+      "t": "801968187 BMOMOOTC CALL OPTIONS",
+      "n": "801968187 BMOMOOTC CALL OPTIONS",
+      "weight": -0.009996001599360253,
+      "sector": "-"
+    },
+    {
+      "t": "801968201 BMOMOOTC CALL OPTIONS",
+      "n": "801968201 BMOMOOTC CALL OPTIONS",
+      "weight": -0.009996001599360253,
+      "sector": "-"
+    },
+    {
+      "t": "802443504 BMOMOOTC CALL OPTIONS",
+      "n": "802443504 BMOMOOTC CALL OPTIONS",
+      "weight": -0.009996001599360253,
+      "sector": "-"
+    },
+    {
+      "t": "802634407 BMOMOOTC CALL OPTIONS",
+      "n": "802634407 BMOMOOTC CALL OPTIONS",
+      "weight": -0.009996001599360253,
+      "sector": "-"
+    },
+    {
+      "t": "802634443 BMOMOOTC CALL OPTIONS",
+      "n": "802634443 BMOMOOTC CALL OPTIONS",
+      "weight": -0.009996001599360253,
+      "sector": "-"
+    },
     {
       "t": "ABBN",
       "n": "ABB LTD",
-      "weight": 1.77,
+      "weight": 1.769292283086765,
       "isin": "CH0012221716",
       "sector": "INDUSTRIALS",
       "mv": 19816757.51,
@@ -19,7 +79,7 @@
     {
       "t": "ALV",
       "n": "ALLIANZ SE",
-      "weight": 2.5,
+      "weight": 2.4990003998400634,
       "isin": "DE0008404005",
       "sector": "FINANCIALS",
       "mv": 27951093.08,
@@ -28,7 +88,7 @@
     {
       "t": "ASML",
       "n": "ASML holding nv",
-      "weight": 4.96,
+      "weight": 4.9580167932826855,
       "isin": "NL0010273215",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 55422374.99,
@@ -37,7 +97,7 @@
     {
       "t": "ATCOA",
       "n": "ATLAS COPCO AB",
-      "weight": 1.45,
+      "weight": 1.4494202319072367,
       "isin": "SE0017486889",
       "sector": "INDUSTRIALS",
       "mv": 16155506.7,
@@ -46,16 +106,24 @@
     {
       "t": "AZN",
       "n": "Astrazeneca PLC",
-      "weight": 1.54,
+      "weight": 1.539384246301479,
       "isin": "GB0009895292",
       "sector": "HEALTH CARE",
       "mv": 17164091.29,
       "shares": 72585
     },
     {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 1.0895641743302678,
+      "sector": "-",
+      "mv": 12185878.39,
+      "shares": 1
+    },
+    {
       "t": "CS",
       "n": "AXA SA",
-      "weight": 3.21,
+      "weight": 3.2087165133946414,
       "isin": "FR0000120628",
       "sector": "FINANCIALS",
       "mv": 35806733.56,
@@ -64,7 +132,7 @@
     {
       "t": "DG",
       "n": "VINCI SA",
-      "weight": 2.42,
+      "weight": 2.4190323870451813,
       "isin": "FR0000125486",
       "sector": "INDUSTRIALS",
       "mv": 27006318.26,
@@ -73,7 +141,7 @@
     {
       "t": "DTE",
       "n": "Deutsche Telekom AG",
-      "weight": 3.84,
+      "weight": 3.8384646141543373,
       "isin": "DE0005557508",
       "sector": "COMMUNICATION SERVICES",
       "mv": 42940200.23,
@@ -82,7 +150,7 @@
     {
       "t": "EDV",
       "n": "Endeavour Mining plc",
-      "weight": 0.95,
+      "weight": 0.949620151939224,
       "isin": "GB00BL6K5J42",
       "sector": "MATERIALS",
       "mv": 10617306.15,
@@ -91,7 +159,7 @@
     {
       "t": "ENEL",
       "n": "Enel SpA",
-      "weight": 3.85,
+      "weight": 3.8484606157536976,
       "isin": "IT0003128367",
       "sector": "UTILITIES",
       "mv": 42963878.9,
@@ -100,7 +168,7 @@
     {
       "t": "ENGI",
       "n": "Engie SA",
-      "weight": 3.42,
+      "weight": 3.4186325469812067,
       "isin": "FR0010208488",
       "sector": "UTILITIES",
       "mv": 38187325.62,
@@ -109,7 +177,7 @@
     {
       "t": "GB00B2B0DG97",
       "n": "Relx PLC",
-      "weight": 1.01,
+      "weight": 1.0095961615353857,
       "isin": "GB00B2B0DG97",
       "sector": "INDUSTRIALS",
       "mv": 11234103.89,
@@ -118,7 +186,7 @@
     {
       "t": "HOLN",
       "n": "LAFARGEHOLCIM LTD",
-      "weight": 0.38,
+      "weight": 0.37984806077568967,
       "isin": "CH0012214059",
       "sector": "MATERIALS",
       "mv": 4279885.43,
@@ -127,7 +195,7 @@
     {
       "t": "HSBA",
       "n": "HSBC Holdings plc",
-      "weight": 5.9,
+      "weight": 5.89764094362255,
       "isin": "GB0005405286",
       "sector": "FINANCIALS",
       "mv": 65867595.71,
@@ -136,7 +204,7 @@
     {
       "t": "IMB",
       "n": "IMPERIAL BRANDS PLC",
-      "weight": 1.95,
+      "weight": 1.9492203118752494,
       "isin": "GB0004544929",
       "sector": "CONSUMER STAPLES",
       "mv": 21817818.81,
@@ -145,7 +213,7 @@
     {
       "t": "INGA",
       "n": "ING GROEP NV",
-      "weight": 3.43,
+      "weight": 3.428628548580567,
       "isin": "NL0011821202",
       "sector": "FINANCIALS",
       "mv": 38321020.15,
@@ -154,7 +222,7 @@
     {
       "t": "ISP",
       "n": "Intesa Sanpaolo S.p.A.",
-      "weight": 5.68,
+      "weight": 5.677728908436624,
       "isin": "IT0000072618",
       "sector": "FINANCIALS",
       "mv": 63435870.15,
@@ -163,7 +231,7 @@
     {
       "t": "ITX",
       "n": "Industria de Diseño Textil, S.A.",
-      "weight": 1.11,
+      "weight": 1.1095561775289882,
       "isin": "ES0148396007",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 12360130.53,
@@ -172,7 +240,7 @@
     {
       "t": "MC",
       "n": "LVMH Moet Hennessy Louis VuittonTTON SE",
-      "weight": 0.9,
+      "weight": 0.8996401439424229,
       "isin": "FR0000121014",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 10027755.6,
@@ -181,7 +249,7 @@
     {
       "t": "NDA",
       "n": "NORDEA BANK ABP",
-      "weight": 2.21,
+      "weight": 2.209116353458616,
       "isin": "FI4000297767",
       "sector": "FINANCIALS",
       "mv": 24670687.61,
@@ -190,7 +258,7 @@
     {
       "t": "NESN",
       "n": "Nestlé S.A.",
-      "weight": 2.32,
+      "weight": 2.3190723710515786,
       "isin": "CH0038863350",
       "sector": "CONSUMER STAPLES",
       "mv": 25897731.5,
@@ -199,7 +267,7 @@
     {
       "t": "NG/",
       "n": "National Grid PLC",
-      "weight": 0.92,
+      "weight": 0.9196321471411434,
       "isin": "GB00BDR05C01",
       "sector": "UTILITIES",
       "mv": 10226037.39,
@@ -208,7 +276,7 @@
     {
       "t": "NOVN",
       "n": "NOVARTIS AG",
-      "weight": 3.82,
+      "weight": 3.8184726109556166,
       "isin": "CH0012005267",
       "sector": "HEALTH CARE",
       "mv": 42674835.2,
@@ -217,7 +285,7 @@
     {
       "t": "ORA",
       "n": "Orange S.A.",
-      "weight": 0.36,
+      "weight": 0.3598560575769691,
       "isin": "FR0000133308",
       "sector": "COMMUNICATION SERVICES",
       "mv": 3993316.32,
@@ -226,7 +294,7 @@
     {
       "t": "RIO",
       "n": "Rio Tinto Group",
-      "weight": 3.79,
+      "weight": 3.788484606157536,
       "isin": "GB0007188757",
       "sector": "MATERIALS",
       "mv": 42288161.77,
@@ -235,7 +303,7 @@
     {
       "t": "RKT",
       "n": "RECKITT BENCKISER GROUP PLC",
-      "weight": 0.83,
+      "weight": 0.829668132746901,
       "isin": "GB00BSZBP530",
       "sector": "CONSUMER STAPLES",
       "mv": 9299229.86,
@@ -244,7 +312,7 @@
     {
       "t": "ROP",
       "n": "Roche Holdings AG",
-      "weight": 5.22,
+      "weight": 5.217912834866052,
       "isin": "CH1499059983",
       "sector": "HEALTH CARE",
       "mv": 58324078.59,
@@ -253,7 +321,7 @@
     {
       "t": "RR/",
       "n": "ROLLS-ROYCE HOLDINGS PLC",
-      "weight": 0.59,
+      "weight": 0.589764094362255,
       "isin": "GB00B63H8491",
       "sector": "INDUSTRIALS",
       "mv": 6580749,
@@ -262,7 +330,7 @@
     {
       "t": "SAN",
       "n": "SANOFI SA",
-      "weight": 1.94,
+      "weight": 1.939224310275889,
       "isin": "FR0000120578",
       "sector": "HEALTH CARE",
       "mv": 21622010.15,
@@ -271,7 +339,7 @@
     {
       "t": "SAP",
       "n": "SAP SE",
-      "weight": 1.41,
+      "weight": 1.4094362255097956,
       "isin": "DE0007164600",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 15743263.36,
@@ -280,7 +348,7 @@
     {
       "t": "SCMN",
       "n": "SWISSCOM AG",
-      "weight": 2.06,
+      "weight": 2.059176329468212,
       "isin": "CH0008742519",
       "sector": "COMMUNICATION SERVICES",
       "mv": 23043702.93,
@@ -289,7 +357,7 @@
     {
       "t": "SHEL",
       "n": "Shell plc",
-      "weight": 4.66,
+      "weight": 4.658136745301879,
       "isin": "GB00BP6MXD84",
       "sector": "ENERGY",
       "mv": 52097333.14,
@@ -298,7 +366,7 @@
     {
       "t": "SIE",
       "n": "SIEMENS AG",
-      "weight": 4.8,
+      "weight": 4.798080767692921,
       "isin": "DE0007236101",
       "sector": "INDUSTRIALS",
       "mv": 53605702.71,
@@ -307,7 +375,7 @@
     {
       "t": "SU",
       "n": "Schneider Electric S.E.",
-      "weight": 1.81,
+      "weight": 1.809276289484206,
       "isin": "FR0000121972",
       "sector": "INDUSTRIALS",
       "mv": 20221368.97,
@@ -316,7 +384,7 @@
     {
       "t": "TTE",
       "n": "TotalEnergies SE",
-      "weight": 4.31,
+      "weight": 4.308276689324269,
       "isin": "FR0000120271",
       "sector": "ENERGY",
       "mv": 48097604.9,
@@ -325,7 +393,7 @@
     {
       "t": "UBSG",
       "n": "UBS Group AG",
-      "weight": 2.74,
+      "weight": 2.7389044382247096,
       "isin": "CH0244767585",
       "sector": "FINANCIALS",
       "mv": 30625242.48,
@@ -334,7 +402,7 @@
     {
       "t": "ULVR",
       "n": "Unilever PLC",
-      "weight": 2.47,
+      "weight": 2.469012395041983,
       "isin": "GB00BVZK7T90",
       "sector": "CONSUMER STAPLES",
       "mv": 27610143.03,
@@ -343,7 +411,7 @@
     {
       "t": "ULVR",
       "n": "Unilever PLC",
-      "weight": 0.02,
+      "weight": 0.019992003198720507,
       "isin": "GB00BVZK7T90",
       "sector": "CONSUMER STAPLES",
       "mv": 213189.19,
@@ -352,7 +420,7 @@
     {
       "t": "VOW3",
       "n": "VOLKSWAGEN AG PFD",
-      "weight": 1.09,
+      "weight": 1.0895641743302678,
       "isin": "DE0007664039",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 12180171.67,
@@ -361,7 +429,7 @@
     {
       "t": "ZURN",
       "n": "ZURICH INSURANCE GROUP AG",
-      "weight": 1.41,
+      "weight": 1.4094362255097956,
       "isin": "CH0011075394",
       "sector": "FINANCIALS",
       "mv": 15779762.01,

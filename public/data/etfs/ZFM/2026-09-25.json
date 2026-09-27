@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFM_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "c77c7b071888fdb0b6a7a732f28214406831a35ee56203274907480f76d1a7ce",
+  "content_hash": "13518d4d26b79df9db6178178dc4857b69c9ef3331fdd2a9f947221021cfbe7a",
   "holdings": [
     {
       "t": "CA12593CAS04",
@@ -246,6 +246,13 @@
       "isin": "CA505443AA94",
       "sector": "PROVINCIAL BOND",
       "mv": 2005536.61
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.66,
+      "sector": "-",
+      "mv": 4683985.45
     },
     {
       "t": "CPPIBC",

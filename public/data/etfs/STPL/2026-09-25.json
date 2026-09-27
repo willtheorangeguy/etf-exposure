@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_STPL_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "9a8c8f172f55741846994d430007dda753cf131c961f787bafa93416ed989a3c",
+  "content_hash": "d4b02ac830765ad686e8ec6abcc5e1787f455cdbe5da96fae2f7125d3adb2659",
   "holdings": [
     {
       "t": "142",
@@ -546,6 +546,14 @@
       "sector": "CONSUMER STAPLES",
       "mv": 101920.36,
       "shares": 549
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -1.15,
+      "sector": "-",
+      "mv": -354543.02,
+      "shares": 1
     },
     {
       "t": "CASY",

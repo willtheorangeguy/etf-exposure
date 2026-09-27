@@ -13,6 +13,27 @@ it("rejects impossible calendar dates", () => {
 it("rejects totals above the rounding tolerance", () => {
   expect(ImportSchema.safeParse({ ...input, holdings: [...input.holdings, { t: "TD", n: "TD", weight: 10 }] }).success).toBe(false);
 });
+it("normalizes accepted overruns without changing the input or partial tables", () => {
+  const holdings = [{ t: "A", n: "Alpha", weight: 60.3 }, { t: "B", n: "Beta", weight: 40.2 }];
+  const parsed = ImportSchema.parse({ ...input, holdings });
+  expect(parsed.holdings.reduce((sum, h) => sum + h.weight, 0)).toBeLessThanOrEqual(100);
+  expect(parsed.holdings[0].weight).toBeCloseTo(60, 10);
+  expect(holdings[0].weight).toBe(60.3);
+  expect(ImportSchema.parse(parsed).holdings).toEqual(parsed.holdings);
+  const partial = ImportSchema.parse({ ...input, partial: true, holdings: [{ t: "A", n: "Alpha", weight: 40 }] });
+  expect(partial.holdings[0].weight).toBe(40);
+});
+it("rejects an overrun just beyond the normalization limit", () => {
+  expect(ImportSchema.safeParse({ ...input, holdings: [
+    { t: "A", n: "Alpha", weight: 60 }, { t: "B", n: "Beta", weight: 40.5001 },
+  ] }).success).toBe(false);
+});
+it("accepts a holding above 100% when negative cash offsets it", () => {
+  const parsed = ImportSchema.parse({ ...input, holdings: [
+    { t: "A", n: "Alpha", weight: 100.83 }, { t: "CASH.CAD", n: "Cash", weight: -0.83 },
+  ] });
+  expect(parsed.holdings[0].weight).toBeCloseTo(100.83, 10);
+});
 it("accepts negative-weight (short hedge) rows that net to 100%", () => {
   const parsed = ImportSchema.parse({ ...input, holdings: [
     { t: "EQ", n: "Equity Core", weight: 98.94 },
@@ -24,6 +45,6 @@ it("accepts negative-weight (short hedge) rows that net to 100%", () => {
 it("rejects zero weights", () => {
   expect(ImportSchema.safeParse({ ...input, holdings: [{ t: "RY", n: "Royal Bank", weight: 0 }] }).success).toBe(false);
 });
-it("rejects single weights above 100", () => {
+it("rejects an unoffset single weight beyond the rounding limit", () => {
   expect(ImportSchema.safeParse({ ...input, holdings: [{ t: "RY", n: "Royal Bank", weight: 101 }] }).success).toBe(false);
 });

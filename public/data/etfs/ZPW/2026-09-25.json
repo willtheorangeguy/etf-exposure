@@ -4,49 +4,105 @@
   "source": "url",
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPW_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
-  "partial": true,
-  "content_hash": "a78c1db3f9d1a8f4d40bb63ff58ea1a6e2a0204e8e2117ba7cf3da1ec66c0089",
+  "partial": false,
+  "content_hash": "ba927e5e5dfae967294ed3eb30210c55a25c090d2a855182e8b85f9c6fd1e607",
   "holdings": [
     {
       "t": "AAPL",
       "n": "Apple Inc.",
-      "weight": 3.53,
+      "weight": 3.52858856457417,
       "isin": "US0378331005",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 4341838.15,
       "shares": 9000
     },
     {
+      "t": "ACCENTURE PLC PUT OPTIONS",
+      "n": "ACCENTURE PLC PUT OPTIONS",
+      "weight": -0.029988004798080767,
+      "sector": "-"
+    },
+    {
+      "t": "ALPHABET INC PUT OPTIONS",
+      "n": "ALPHABET INC PUT OPTIONS",
+      "weight": -0.029988004798080767,
+      "sector": "-"
+    },
+    {
+      "t": "APPLE INC PUT OPTIONS",
+      "n": "APPLE INC PUT OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
+      "t": "APPLIED MATERIALS INC PUT OPTIONS",
+      "n": "APPLIED MATERIALS INC PUT OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
+      "t": "AUTOMATIC DATA PROCESSING INC PUT OPTIONS",
+      "n": "AUTOMATIC DATA PROCESSING INC PUT OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
       "t": "BLK",
       "n": "BlackRock, Inc.",
-      "weight": 1,
+      "weight": 0.9996001599360256,
       "isin": "US09290D1019",
       "sector": "FINANCIALS",
       "mv": 1229224.94,
       "shares": 800
     },
     {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 59.006397441023594,
+      "sector": "-",
+      "mv": 72697208.66,
+      "shares": 1
+    },
+    {
       "t": "CBOE",
       "n": "Cboe Global Markets, Inc.",
-      "weight": 0.59,
+      "weight": 0.5897640943622551,
       "isin": "US12503M1080",
       "sector": "FINANCIALS",
       "mv": 729941.07,
       "shares": 2000
     },
     {
+      "t": "CISCO SYSTEMS INC PUT OPTIONS",
+      "n": "CISCO SYSTEMS INC PUT OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
       "t": "COST",
       "n": "Costco Wholesale Corporation",
-      "weight": 1.59,
+      "weight": 1.5893642542982807,
       "isin": "US22160K1051",
       "sector": "CONSUMER STAPLES",
       "mv": 1957807.43,
       "shares": 1500
     },
     {
+      "t": "EATON CORP PLC PUT OPTIONS",
+      "n": "EATON CORP PLC PUT OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
+      "t": "ELI LILLY & CO PUT OPTIONS",
+      "n": "ELI LILLY & CO PUT OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
       "t": "GOOGL",
       "n": "Alphabet Inc.",
-      "weight": 1.97,
+      "weight": 1.9692123150739704,
       "isin": "US02079K3059",
       "sector": "COMMUNICATION SERVICES",
       "mv": 2432288.22,
@@ -55,16 +111,34 @@
     {
       "t": "ITW",
       "n": "Illinois Tool Works Inc.",
-      "weight": 1.61,
+      "weight": 1.6093562574970013,
       "isin": "US4523081093",
       "sector": "INDUSTRIALS",
       "mv": 1978860.81,
       "shares": 5100
     },
     {
+      "t": "JOHNSON & JOHNSON PUT OPTIONS",
+      "n": "JOHNSON & JOHNSON PUT OPTIONS",
+      "weight": -0.029988004798080767,
+      "sector": "-"
+    },
+    {
+      "t": "KLA CORP PUT OPTIONS",
+      "n": "KLA CORP PUT OPTIONS",
+      "weight": -0.019992003198720514,
+      "sector": "-"
+    },
+    {
+      "t": "LAM RESEARCH CORP PUT OPTIONS",
+      "n": "LAM RESEARCH CORP PUT OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
       "t": "LIN",
       "n": "Linde plc",
-      "weight": 1.62,
+      "weight": 1.6193522590963616,
       "isin": "IE000S9YS762",
       "sector": "MATERIALS",
       "mv": 1993907.73,
@@ -73,7 +147,7 @@
     {
       "t": "LLY",
       "n": "Eli Lilly and Company",
-      "weight": 2.04,
+      "weight": 2.0391843262694924,
       "isin": "US5324571083",
       "sector": "HEALTH CARE",
       "mv": 2510917.5,
@@ -82,7 +156,7 @@
     {
       "t": "LMT",
       "n": "Lockheed Martin Corporation",
-      "weight": 2.09,
+      "weight": 2.089164334266293,
       "isin": "US5398301094",
       "sector": "INDUSTRIALS",
       "mv": 2572120.75,
@@ -91,25 +165,43 @@
     {
       "t": "MA",
       "n": "Mastercard Incorporated",
-      "weight": 1.63,
+      "weight": 1.6293482606957217,
       "isin": "US57636Q1040",
       "sector": "FINANCIALS",
       "mv": 2007281.36,
       "shares": 2500
     },
     {
+      "t": "MASTERCARD INC PUT OPTIONS",
+      "n": "MASTERCARD INC PUT OPTIONS",
+      "weight": -0.019992003198720514,
+      "sector": "-"
+    },
+    {
+      "t": "MERCK & CO INC PUT OPTIONS",
+      "n": "MERCK & CO INC PUT OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
       "t": "META",
       "n": "Meta Platforms, Inc.",
-      "weight": 4.32,
+      "weight": 4.318272690923631,
       "isin": "US30303M1027",
       "sector": "COMMUNICATION SERVICES",
       "mv": 5315927.44,
       "shares": 5000
     },
     {
+      "t": "META PLATFORMS INC PUT OPTIONS",
+      "n": "META PLATFORMS INC PUT OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
       "t": "MRK",
       "n": "Merck & Co., Inc.",
-      "weight": 1.2,
+      "weight": 1.1995201919232306,
       "isin": "US58933Y1055",
       "sector": "HEALTH CARE",
       "mv": 1473093.1,
@@ -118,7 +210,7 @@
     {
       "t": "MSFT",
       "n": "Microsoft Corporation",
-      "weight": 2.61,
+      "weight": 2.6089564174330264,
       "isin": "US5949181045",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 3212425.29,
@@ -127,34 +219,58 @@
     {
       "t": "NVDA",
       "n": "NVIDIA Corporation",
-      "weight": 3.23,
+      "weight": 3.2287085165933624,
       "isin": "US67066G1040",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 3979378.27,
       "shares": 12500
     },
     {
+      "t": "NVIDIA CORP PUT OPTIONS",
+      "n": "NVIDIA CORP PUT OPTIONS",
+      "weight": -0.019992003198720514,
+      "sector": "-"
+    },
+    {
+      "t": "PALANTIR TECHNOLOGIES INC PUT OPTIONS",
+      "n": "PALANTIR TECHNOLOGIES INC PUT OPTIONS",
+      "weight": -0.019992003198720514,
+      "sector": "-"
+    },
+    {
       "t": "PG",
       "n": "The Procter & Gamble Company",
-      "weight": 2.02,
+      "weight": 2.019192323070772,
       "isin": "US7427181091",
       "sector": "CONSUMER STAPLES",
       "mv": 2482020.28,
       "shares": 12000
     },
     {
+      "t": "TEXAS INSTRUMENTS INC PUT OPTIONS",
+      "n": "TEXAS INSTRUMENTS INC PUT OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
       "t": "TJX",
       "n": "The TJX Companies, Inc.",
-      "weight": 1.2,
+      "weight": 1.1995201919232306,
       "isin": "US8725401090",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 1471706.94,
       "shares": 8000
     },
     {
+      "t": "UNION PACIFIC CORP PUT OPTIONS",
+      "n": "UNION PACIFIC CORP PUT OPTIONS",
+      "weight": -0.059976009596161534,
+      "sector": "-"
+    },
+    {
       "t": "US46120E6023",
       "n": "Intuitive Surgical, Inc.",
-      "weight": 1.16,
+      "weight": 1.1595361855257895,
       "isin": "US46120E6023",
       "sector": "HEALTH CARE",
       "mv": 1432767.13,
@@ -163,7 +279,7 @@
     {
       "t": "US64110L1061",
       "n": "Netflix, Inc.",
-      "weight": 1.63,
+      "weight": 1.6293482606957217,
       "isin": "US64110L1061",
       "sector": "COMMUNICATION SERVICES",
       "mv": 2012620.91,
@@ -172,7 +288,7 @@
     {
       "t": "US69608A1088",
       "n": "Palantir Technologies Inc.",
-      "weight": 1.42,
+      "weight": 1.4194322271091562,
       "isin": "US69608A1088",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 1743811.76,
@@ -181,16 +297,22 @@
     {
       "t": "V",
       "n": "Visa Inc.",
-      "weight": 2.11,
+      "weight": 2.1091563374650137,
       "isin": "US92826C8394",
       "sector": "FINANCIALS",
       "mv": 2598203.21,
       "shares": 5000
     },
     {
+      "t": "VISA INC PUT OPTIONS",
+      "n": "VISA INC PUT OPTIONS",
+      "weight": -0.019992003198720514,
+      "sector": "-"
+    },
+    {
       "t": "WMT",
       "n": "Walmart Inc.",
-      "weight": 2.79,
+      "weight": 2.788884446221511,
       "isin": "US9311421039",
       "sector": "CONSUMER STAPLES",
       "mv": 3436477,

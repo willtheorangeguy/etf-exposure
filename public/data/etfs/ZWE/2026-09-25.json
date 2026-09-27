@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWE_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "d83a2e8b97bc7ae306810ca6cc9655a6a8dd695197e7b8ac93382b06d0d6119d",
+  "content_hash": "be82cac40085699371dca32405ba45cf80fd74ee864ff197681372bd017d1ecf",
   "holdings": [
     {
       "t": "CA05585L1058",
@@ -15,6 +15,14 @@
       "sector": "-",
       "mv": 772248074.01,
       "shares": 37260194
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.43,
+      "sector": "-",
+      "mv": 3313270.86,
+      "shares": 1
     }
   ]
 }

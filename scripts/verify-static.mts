@@ -3,6 +3,7 @@ import assert from "node:assert/strict";
 import type { StaticCatalog, StaticSnapshot } from "../src/lib/catalog-types";
 import { computeExposure } from "../src/lib/calc";
 import type { Holding } from "../src/lib/types";
+import { holdingsTotal, WEIGHT_SUM_EPSILON } from "../src/lib/holding-weights";
 
 const catalog: StaticCatalog = JSON.parse(await readFile("out/data/catalog.json", "utf8"));
 assert(catalog.etfs.length > 0);
@@ -16,6 +17,8 @@ for (const etf of catalog.etfs) {
     assert.equal(snapshot.holdings.length, summary.holdings_count);
     assert.equal(snapshot.content_hash, summary.content_hash);
     assert(snapshot.holdings.every((h) => h.weight !== 0 && Number.isFinite(h.weight)));
+    assert(holdingsTotal(snapshot.holdings) <= 100 + WEIGHT_SUM_EPSILON,
+      `${etf.ticker} ${snapshot.as_of_date}: holdings net total exceeds 100%`);
   }
   holdings[etf.id] = JSON.parse(await readFile(`out/data/${etf.snapshots[0].file}`, "utf8")).holdings;
   positions.push({ etfId: etf.id, etfTicker: etf.ticker, amount: 1000, asOf: etf.snapshots[0].as_of_date, partial: etf.snapshots[0].partial });

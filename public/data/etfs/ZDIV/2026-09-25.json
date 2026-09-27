@@ -5,12 +5,12 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDIV_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "dc0bed11706c2ed3d5789919ffcb8fbbaf2ff748f5fe0ffa51999a506cd43e21",
+  "content_hash": "775befbb3aca3a49571e0c7034eb3a328fd518095cab5117575b49b1d7ce69fe",
   "holdings": [
     {
       "t": "BAM",
       "n": "Brookfield Asset Management Ltd.",
-      "weight": 3.62,
+      "weight": 3.6192761447710455,
       "isin": "CA1130041058",
       "sector": "FINANCIALS",
       "mv": 446984.88,
@@ -19,7 +19,7 @@
     {
       "t": "CA1367178326",
       "n": "Canadian Utilities Limited",
-      "weight": 1.14,
+      "weight": 1.1397720455908815,
       "isin": "CA1367178326",
       "sector": "UTILITIES",
       "mv": 140990.9,
@@ -28,7 +28,7 @@
     {
       "t": "CA14150G4007",
       "n": "Cardinal Energy Ltd.",
-      "weight": 0.29,
+      "weight": 0.2899420115976804,
       "isin": "CA14150G4007",
       "sector": "ENERGY",
       "mv": 36193.16,
@@ -37,7 +37,7 @@
     {
       "t": "CA30041N1078",
       "n": "Evertz Technologies Limited",
-      "weight": 0.06,
+      "weight": 0.05998800239952009,
       "isin": "CA30041N1078",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 6886.88,
@@ -46,7 +46,7 @@
     {
       "t": "CA6252841045",
       "n": "Mullen Group Ltd.",
-      "weight": 0.42,
+      "weight": 0.41991601679664065,
       "isin": "CA6252841045",
       "sector": "INDUSTRIALS",
       "mv": 52389.18,
@@ -55,7 +55,7 @@
     {
       "t": "CA7029251088",
       "n": "Pason Systems Inc.",
-      "weight": 0.19,
+      "weight": 0.18996200759848028,
       "isin": "CA7029251088",
       "sector": "ENERGY",
       "mv": 23696.01,
@@ -64,7 +64,7 @@
     {
       "t": "CA74349D1069",
       "n": "Propel Holdings Inc.",
-      "weight": 0.12,
+      "weight": 0.11997600479904018,
       "isin": "CA74349D1069",
       "sector": "FINANCIALS",
       "mv": 14894.04,
@@ -73,7 +73,7 @@
     {
       "t": "CA7739151032",
       "n": "Rockpoint Gas Storage Inc.",
-      "weight": 0.22,
+      "weight": 0.21995600879824034,
       "isin": "CA7739151032",
       "sector": "ENERGY",
       "mv": 26611.12,
@@ -82,7 +82,7 @@
     {
       "t": "CA7751092007",
       "n": "Rogers Communications Inc.",
-      "weight": 2.89,
+      "weight": 2.8894221155768847,
       "isin": "CA7751092007",
       "sector": "COMMUNICATION SERVICES",
       "mv": 357814.42,
@@ -91,16 +91,24 @@
     {
       "t": "CA77519R1029",
       "n": "Rogers Sugar Inc.",
-      "weight": 0.13,
+      "weight": 0.1299740051989602,
       "isin": "CA77519R1029",
       "sector": "CONSUMER STAPLES",
       "mv": 16382.25,
       "shares": 2427
     },
     {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.3899220155968806,
+      "sector": "-",
+      "mv": 48799.38,
+      "shares": 1
+    },
+    {
       "t": "CCA",
       "n": "Cogeco Communications Inc.",
-      "weight": 0.14,
+      "weight": 0.13997200559888023,
       "isin": "CA19239C1068",
       "sector": "COMMUNICATION SERVICES",
       "mv": 16714,
@@ -109,7 +117,7 @@
     {
       "t": "CNQ",
       "n": "Canadian Natural Resources Limited",
-      "weight": 4.96,
+      "weight": 4.959008198360327,
       "isin": "CA1363851017",
       "sector": "ENERGY",
       "mv": 612590.4,
@@ -118,7 +126,7 @@
     {
       "t": "CPX",
       "n": "Capital Power Corporation",
-      "weight": 1.69,
+      "weight": 1.6896620675864824,
       "isin": "CA14042M1023",
       "sector": "UTILITIES",
       "mv": 208291.31,
@@ -127,7 +135,7 @@
     {
       "t": "CTC/A",
       "n": "Canadian Tire Corporation, Limited",
-      "weight": 1.58,
+      "weight": 1.5796840631873625,
       "isin": "CA1366812024",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 194813.47,
@@ -136,7 +144,7 @@
     {
       "t": "EIF",
       "n": "Exchange Income Corporation",
-      "weight": 0.6,
+      "weight": 0.5998800239952009,
       "isin": "CA3012831077",
       "sector": "INDUSTRIALS",
       "mv": 73908.6,
@@ -145,7 +153,7 @@
     {
       "t": "EMA",
       "n": "Emera Incorporated",
-      "weight": 3.62,
+      "weight": 3.6192761447710455,
       "isin": "CA2908761018",
       "sector": "UTILITIES",
       "mv": 447999.72,
@@ -154,7 +162,7 @@
     {
       "t": "ENB",
       "n": "Enbridge Inc.",
-      "weight": 4.26,
+      "weight": 4.259148170365926,
       "isin": "CA29250N1050",
       "sector": "ENERGY",
       "mv": 526989.97,
@@ -163,7 +171,7 @@
     {
       "t": "ENGH",
       "n": "Enghouse Systems Limited",
-      "weight": 0.13,
+      "weight": 0.1299740051989602,
       "isin": "CA2929491041",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 15752.34,
@@ -172,7 +180,7 @@
     {
       "t": "FRU",
       "n": "Freehold Royalties Ltd.",
-      "weight": 0.41,
+      "weight": 0.4099180163967206,
       "isin": "CA3565001086",
       "sector": "ENERGY",
       "mv": 50695.48,
@@ -181,7 +189,7 @@
     {
       "t": "FTS",
       "n": "Fortis Inc.",
-      "weight": 4.96,
+      "weight": 4.959008198360327,
       "isin": "CA3495531079",
       "sector": "UTILITIES",
       "mv": 612515.6,
@@ -190,7 +198,7 @@
     {
       "t": "GEI",
       "n": "Gibson Energy Inc.",
-      "weight": 0.93,
+      "weight": 0.9298140371925615,
       "isin": "CA3748252069",
       "sector": "ENERGY",
       "mv": 114802.87,
@@ -199,7 +207,7 @@
     {
       "t": "GWO",
       "n": "Great-West Lifeco Inc.",
-      "weight": 4.06,
+      "weight": 4.059188162367525,
       "isin": "CA39138C1068",
       "sector": "FINANCIALS",
       "mv": 501889.18,
@@ -208,7 +216,7 @@
     {
       "t": "HWX",
       "n": "Headwater Exploration Inc.",
-      "weight": 0.53,
+      "weight": 0.5298940211957608,
       "isin": "CA4220961078",
       "sector": "ENERGY",
       "mv": 65556.7,
@@ -217,7 +225,7 @@
     {
       "t": "IGM",
       "n": "Igm Financial Inc.",
-      "weight": 1.13,
+      "weight": 1.1297740451909617,
       "isin": "CA4495861060",
       "sector": "FINANCIALS",
       "mv": 140095.44,
@@ -226,7 +234,7 @@
     {
       "t": "KEY",
       "n": "Keyera Corp.",
-      "weight": 2.67,
+      "weight": 2.669466106778644,
       "isin": "CA4932711001",
       "sector": "ENERGY",
       "mv": 330424.82,
@@ -235,7 +243,7 @@
     {
       "t": "LNF",
       "n": "Leon's Furniture Limited",
-      "weight": 0.09,
+      "weight": 0.08998200359928013,
       "isin": "CA5266821092",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 10904.7,
@@ -244,7 +252,7 @@
     {
       "t": "MFC",
       "n": "Manulife Financial Corporation",
-      "weight": 5.96,
+      "weight": 5.958808238352329,
       "isin": "CA56501R1064",
       "sector": "FINANCIALS",
       "mv": 736319.7,
@@ -253,7 +261,7 @@
     {
       "t": "MFI",
       "n": "Maple Leaf Foods Inc.",
-      "weight": 0.34,
+      "weight": 0.33993201359728054,
       "isin": "CA5649051078",
       "sector": "CONSUMER STAPLES",
       "mv": 41527.35,
@@ -262,7 +270,7 @@
     {
       "t": "MG",
       "n": "Magna International Inc.",
-      "weight": 4.1,
+      "weight": 4.099180163967206,
       "isin": "CA5592224011",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 507012.3,
@@ -271,7 +279,7 @@
     {
       "t": "NA",
       "n": "National Bank of Canada",
-      "weight": 5.14,
+      "weight": 5.138972205558887,
       "isin": "CA6330671034",
       "sector": "FINANCIALS",
       "mv": 635416.62,
@@ -280,7 +288,7 @@
     {
       "t": "NTR",
       "n": "Nutrien Ltd.",
-      "weight": 5.22,
+      "weight": 5.2189562087582475,
       "isin": "CA67077M1086",
       "sector": "MATERIALS",
       "mv": 644921.09,
@@ -289,7 +297,7 @@
     {
       "t": "NWC",
       "n": "The North West Company Inc.",
-      "weight": 0.45,
+      "weight": 0.4499100179964007,
       "isin": "CA6632782083",
       "sector": "CONSUMER STAPLES",
       "mv": 55236.72,
@@ -298,7 +306,7 @@
     {
       "t": "OTEX",
       "n": "Open Text Corporation",
-      "weight": 1.32,
+      "weight": 1.319736052789442,
       "isin": "CA6837151068",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 162874.11,
@@ -307,7 +315,7 @@
     {
       "t": "PBH",
       "n": "Premium Brands Holdings Corporation",
-      "weight": 0.63,
+      "weight": 0.6298740251949609,
       "isin": "CA74061A1084",
       "sector": "CONSUMER STAPLES",
       "mv": 77730.72,
@@ -316,7 +324,7 @@
     {
       "t": "PEY",
       "n": "Peyto Exploration & Development Corp.",
-      "weight": 0.83,
+      "weight": 0.8298340331933612,
       "isin": "CA7170461064",
       "sector": "ENERGY",
       "mv": 102743.53,
@@ -325,7 +333,7 @@
     {
       "t": "POW",
       "n": "Power Corporation of Canada",
-      "weight": 5.86,
+      "weight": 5.858828234353129,
       "isin": "CA7392391016",
       "sector": "FINANCIALS",
       "mv": 724730.36,
@@ -334,7 +342,7 @@
     {
       "t": "PPL",
       "n": "Pembina Pipeline Corporation",
-      "weight": 4.67,
+      "weight": 4.669066186762647,
       "isin": "CA7063271034",
       "sector": "ENERGY",
       "mv": 577584.8,
@@ -343,7 +351,7 @@
     {
       "t": "PSK",
       "n": "PrairieSky Royalty Ltd.",
-      "weight": 1.38,
+      "weight": 1.379724055188962,
       "isin": "CA7397211086",
       "sector": "ENERGY",
       "mv": 170218.62,
@@ -352,7 +360,7 @@
     {
       "t": "PXT",
       "n": "Parex Resources Inc.",
-      "weight": 0.45,
+      "weight": 0.4499100179964007,
       "isin": "CA69946Q1046",
       "sector": "ENERGY",
       "mv": 55702.4,
@@ -361,7 +369,7 @@
     {
       "t": "QBR/B",
       "n": "Quebecor Inc.",
-      "weight": 1.65,
+      "weight": 1.6496700659868024,
       "isin": "CA7481932084",
       "sector": "COMMUNICATION SERVICES",
       "mv": 204072.8,
@@ -370,7 +378,7 @@
     {
       "t": "RUS",
       "n": "Russel Metals Inc.",
-      "weight": 0.83,
+      "weight": 0.8298340331933612,
       "isin": "CA7819036046",
       "sector": "INDUSTRIALS",
       "mv": 102434.44,
@@ -379,7 +387,7 @@
     {
       "t": "SLF",
       "n": "Sun Life Financial Inc.",
-      "weight": 5.84,
+      "weight": 5.838832233553289,
       "isin": "CA8667961053",
       "sector": "FINANCIALS",
       "mv": 721406.66,
@@ -388,7 +396,7 @@
     {
       "t": "SU",
       "n": "Suncor Energy Inc.",
-      "weight": 5.06,
+      "weight": 5.058988202359528,
       "isin": "CA8672241079",
       "sector": "ENERGY",
       "mv": 625387.32,
@@ -397,7 +405,7 @@
     {
       "t": "T",
       "n": "Telus Corporation",
-      "weight": 1.09,
+      "weight": 1.0897820435912817,
       "isin": "CA87971M1032",
       "sector": "COMMUNICATION SERVICES",
       "mv": 134808,
@@ -406,7 +414,7 @@
     {
       "t": "TPZ",
       "n": "Topaz Energy Corp.",
-      "weight": 0.65,
+      "weight": 0.649870025994801,
       "isin": "CA89055A2039",
       "sector": "ENERGY",
       "mv": 79904.66,
@@ -415,7 +423,7 @@
     {
       "t": "TRI",
       "n": "THOMSON REUTERS CORP",
-      "weight": 3.22,
+      "weight": 3.219356128774245,
       "isin": "CA8849038812",
       "sector": "INDUSTRIALS",
       "mv": 397912.4,
@@ -424,7 +432,7 @@
     {
       "t": "WCP",
       "n": "Whitecap Resources Inc.",
-      "weight": 3.85,
+      "weight": 3.8492301539692058,
       "isin": "CA96467A2002",
       "sector": "ENERGY",
       "mv": 476265.7,
@@ -433,7 +441,7 @@
     {
       "t": "WTE",
       "n": "Westshore Terminals Investment Corporation",
-      "weight": 0.25,
+      "weight": 0.24995000999800038,
       "isin": "CA96145A2002",
       "sector": "INDUSTRIALS",
       "mv": 31060.19,

@@ -5,12 +5,19 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZIC_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "125b1050abce27cfd0270039555ae0d68082a851a483f0b9a6c343ba294c2b05",
+  "content_hash": "1ebb5be4edc5213c77792c206dc95680032c526d2063b42ae508ef472668f65f",
   "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.00999900009999003,
+      "sector": "-",
+      "mv": 261502.42
+    },
     {
       "t": "US00130HCM51",
       "n": "The AES Corporation 5.80% 03/15/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US00130HCM51",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3072229.72
@@ -18,7 +25,7 @@
     {
       "t": "US00206RMT67",
       "n": "AT&T Inc. 5.40% 02/15/2034",
-      "weight": 0.29,
+      "weight": 0.2899710028997108,
       "isin": "US00206RMT67",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 10581997.2
@@ -26,7 +33,7 @@
     {
       "t": "US00206RMY52",
       "n": "AT&T Inc. 5.38% 08/15/2035",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US00206RMY52",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5064634.4
@@ -34,7 +41,7 @@
     {
       "t": "US00206RNG38",
       "n": "AT&T INC 4.75% 04/30/2033",
-      "weight": 0.21,
+      "weight": 0.2099790020997906,
       "isin": "US00206RNG38",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7684047.25
@@ -42,7 +49,7 @@
     {
       "t": "US002824BT63",
       "n": "ABBOTT LABORATORIES 4.30% 03/15/2033",
-      "weight": 0.27,
+      "weight": 0.2699730026997308,
       "isin": "US002824BT63",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 10162675.42
@@ -50,7 +57,7 @@
     {
       "t": "US002824BU37",
       "n": "ABBOTT LABORATORIES 4.65% 03/15/2036",
-      "weight": 0.38,
+      "weight": 0.3799620037996211,
       "isin": "US002824BU37",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 14054872.88
@@ -58,7 +65,7 @@
     {
       "t": "US00287YDU01",
       "n": "AbbVie Inc. 5.05% 03/15/2034",
-      "weight": 0.32,
+      "weight": 0.31996800319968094,
       "isin": "US00287YDU01",
       "sector": "Health Care",
       "mv": 12001406.1
@@ -66,7 +73,7 @@
     {
       "t": "US00287YEG08",
       "n": "ABBVIE INC 4.75% 03/15/2036",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US00287YEG08",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5496397.36
@@ -74,7 +81,7 @@
     {
       "t": "US00287YEN58",
       "n": "ABBVIE INC 4.88% 09/15/2031",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US00287YEN58",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5812696.81
@@ -82,7 +89,7 @@
     {
       "t": "US00440KAC71",
       "n": "Accenture Capital Inc. 4.25% 10/04/2031",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US00440KAC71",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4627657.93
@@ -90,7 +97,7 @@
     {
       "t": "US00440KAD54",
       "n": "Accenture Capital Inc. 4.50% 10/04/2034",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US00440KAD54",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5843990.17
@@ -98,7 +105,7 @@
     {
       "t": "US00440KAH68",
       "n": "ACCENTURE CAPITAL INC 5.30% 07/10/2033",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US00440KAH68",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4298757.08
@@ -106,7 +113,7 @@
     {
       "t": "US00724PAG46",
       "n": "Adobe Inc. 4.95% 04/04/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US00724PAG46",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2903703.83
@@ -114,7 +121,7 @@
     {
       "t": "US00774MAX39",
       "n": "AerCap Ireland Capital Designated Activity Company 3.30% 01/30/2032",
-      "weight": 0.38,
+      "weight": 0.3799620037996211,
       "isin": "US00774MAX39",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 14105691.17
@@ -122,7 +129,7 @@
     {
       "t": "US00774MAY12",
       "n": "AerCap Ireland Capital Designated Activity Company 3.40% 10/29/2033",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US00774MAY12",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5061437.41
@@ -130,7 +137,7 @@
     {
       "t": "US00774MBM64",
       "n": "AerCap Ireland Capital Designated Activity Company 4.95% 09/10/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US00774MBM64",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4800182.12
@@ -138,7 +145,7 @@
     {
       "t": "US007903BM89",
       "n": "ADVANCED MICRO DEVICES 5.25% 08/17/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US007903BM89",
       "sector": "Information Technology",
       "mv": 3863345.63
@@ -146,7 +153,7 @@
     {
       "t": "US007903BN62",
       "n": "ADVANCED MICRO DEVICES 5.50% 08/17/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US007903BN62",
       "sector": "Information Technology",
       "mv": 3823098.91
@@ -154,7 +161,7 @@
     {
       "t": "US009066AE14",
       "n": "AIRBNB INC 5.25% 03/16/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US009066AE14",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2944330.5
@@ -162,7 +169,7 @@
     {
       "t": "US00914AAS15",
       "n": "Air Lease Corporation 2.88% 01/15/2032",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US00914AAS15",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2578922.79
@@ -170,7 +177,7 @@
     {
       "t": "US009158BK14",
       "n": "Air Products and Chemicals, Inc. 4.85% 02/08/2034",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US009158BK14",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4326087.88
@@ -178,7 +185,7 @@
     {
       "t": "US015271AY59",
       "n": "Alexandria Real Estate Equities, Inc. 2.95% 03/15/2034",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US015271AY59",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2520213.38
@@ -186,7 +193,7 @@
     {
       "t": "US015271BF51",
       "n": "ALEXANDRIA REAL ESTATE EQUITIES INC 5.25% 03/15/2036",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US015271BF51",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2758383.95
@@ -194,7 +201,7 @@
     {
       "t": "US015271BG35",
       "n": "ALEXANDRIA REAL ESTATE E 7.25% 02/15/2032",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US015271BG35",
       "sector": "Real Estate",
       "mv": 4177437.7
@@ -202,7 +209,7 @@
     {
       "t": "US01609WBP68",
       "n": "ALIBABA GROUP HOLDING LTD 5.25% 05/26/2035",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US01609WBP68",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4585074.72
@@ -210,7 +217,7 @@
     {
       "t": "US020002BK68",
       "n": "The Allstate Corporation 5.25% 03/30/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US020002BK68",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2960157.6
@@ -218,7 +225,7 @@
     {
       "t": "US02005NBV10",
       "n": "Ally Financial Inc. 6.18% 07/26/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US02005NBV10",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2915619.07
@@ -226,7 +233,7 @@
     {
       "t": "US02079KAY38",
       "n": "ALPHABET INC 4.70% 11/15/2035",
-      "weight": 0.36,
+      "weight": 0.35996400359964104,
       "isin": "US02079KAY38",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 13241230.98
@@ -234,7 +241,7 @@
     {
       "t": "US02079KBM80",
       "n": "ALPHABET INC 4.80% 02/15/2036",
-      "weight": 0.43,
+      "weight": 0.42995700429957123,
       "isin": "US02079KBM80",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 15909312.26
@@ -242,7 +249,7 @@
     {
       "t": "US02079KCS42",
       "n": "ALPHABET INC 5.45% 08/15/2036",
-      "weight": 0.49,
+      "weight": 0.4899510048995114,
       "isin": "US02079KCS42",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 18039032.93
@@ -250,7 +257,7 @@
     {
       "t": "US023135DE35",
       "n": "AMAZON.COM INC 4.55% 03/13/2033",
-      "weight": 0.42,
+      "weight": 0.4199580041995812,
       "isin": "US023135DE35",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 15444817.21
@@ -258,7 +265,7 @@
     {
       "t": "US023135DF00",
       "n": "AMAZON.COM INC 4.88% 03/13/2036",
-      "weight": 0.6,
+      "weight": 0.5999400059994017,
       "isin": "US023135DF00",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 22405619.57
@@ -266,7 +273,7 @@
     {
       "t": "US023135EE26",
       "n": "AMAZON.COM INC 5.30% 07/09/2036",
-      "weight": 0.47,
+      "weight": 0.46995300469953133,
       "isin": "US023135EE26",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 17510140.83
@@ -274,7 +281,7 @@
     {
       "t": "US02344AAH14",
       "n": "Amcor Flexibles North America Inc. 5.50% 03/17/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US02344AAH14",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3146204.27
@@ -282,7 +289,7 @@
     {
       "t": "US02344AAK43",
       "n": "AMCOR FLEXIBLES NORTH AMERICA INC 5.13% 03/12/2036",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US02344AAK43",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2773880.24
@@ -290,7 +297,7 @@
     {
       "t": "US023608AR31",
       "n": "Ameren Corporation 5.38% 03/15/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US023608AR31",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2853122.27
@@ -298,7 +305,7 @@
     {
       "t": "US02364WBK09",
       "n": "América Móvil, S.A.B. de C.V. 4.70% 07/21/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US02364WBK09",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2969310.78
@@ -306,7 +313,7 @@
     {
       "t": "US025537AX91",
       "n": "American Electric Power Co. Inc. 5.63% 03/01/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US025537AX91",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3664435.47
@@ -314,7 +321,7 @@
     {
       "t": "US02557TAF66",
       "n": "American Electric Power Company, Inc. 6.05% 03/15/2036",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US02557TAF66",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5656336.52
@@ -322,7 +329,7 @@
     {
       "t": "US025816DW67",
       "n": "American Express Company 5.28% 07/26/2034",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US025816DW67",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6507215.01
@@ -330,7 +337,7 @@
     {
       "t": "US025816EK11",
       "n": "American Express Company 4.92% 07/20/2032",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US025816EK11",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6706647.37
@@ -338,7 +345,7 @@
     {
       "t": "US025816EM76",
       "n": "AMERICAN EXPRESS CO 4.80% 10/24/2035",
-      "weight": 0.22,
+      "weight": 0.21997800219978064,
       "isin": "US025816EM76",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8068100.68
@@ -346,7 +353,7 @@
     {
       "t": "US02665WEZ05",
       "n": "American Honda Finance Corporation 4.90% 01/10/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US02665WEZ05",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2819695.48
@@ -354,7 +361,7 @@
     {
       "t": "US026874DS37",
       "n": "American International Group, Inc. 5.13% 03/27/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US026874DS37",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2859742.18
@@ -362,7 +369,7 @@
     {
       "t": "US03027XBZ24",
       "n": "American Tower Corporation 5.65% 03/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US03027XBZ24",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3077401.84
@@ -370,7 +377,7 @@
     {
       "t": "US03027XCD03",
       "n": "American Tower Corporation 5.55% 07/15/2033",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US03027XCD03",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3363222.64
@@ -378,7 +385,7 @@
     {
       "t": "US03027XCR98",
       "n": "AMERICAN TOWER CORP 4.70% 12/15/2032",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US03027XCR98",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3248023.17
@@ -386,7 +393,7 @@
     {
       "t": "US03040WBA27",
       "n": "American Water Capital Corp. 4.45% 06/01/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US03040WBA27",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2984682.34
@@ -394,7 +401,7 @@
     {
       "t": "US03040WBF14",
       "n": "American Water Capital Corp. 5.25% 03/01/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US03040WBF14",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3135486.58
@@ -402,7 +409,7 @@
     {
       "t": "US03073EBE41",
       "n": "CENCORA INC 4.90% 02/13/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US03073EBE41",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3687902.91
@@ -410,7 +417,7 @@
     {
       "t": "US03076CAM82",
       "n": "Ameriprise Financial, Inc. 5.15% 05/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US03076CAM82",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2929769.01
@@ -418,7 +425,7 @@
     {
       "t": "US03076CAP14",
       "n": "Ameriprise Financial, Inc. 5.20% 04/15/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US03076CAP14",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2886410.41
@@ -426,7 +433,7 @@
     {
       "t": "US031162DE75",
       "n": "Amgen Inc. 3.35% 02/22/2032",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US031162DE75",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3519343.12
@@ -434,7 +441,7 @@
     {
       "t": "US031162DR88",
       "n": "Amgen Inc. 5.25% 03/02/2033",
-      "weight": 0.46,
+      "weight": 0.45995400459954133,
       "isin": "US031162DR88",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 17162415.82
@@ -442,7 +449,7 @@
     {
       "t": "US031162DW73",
       "n": "AMGEN INC 4.85% 02/19/2036",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US031162DW73",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6455911.8
@@ -450,7 +457,7 @@
     {
       "t": "US032095AL53",
       "n": "Amphenol Corporation 2.20% 09/15/2031",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US032095AL53",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2607267.54
@@ -458,7 +465,7 @@
     {
       "t": "US032095AZ40",
       "n": "AMPHENOL CORP 4.40% 02/15/2033",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US032095AZ40",
       "sector": "Information Technology",
       "mv": 4650266.69
@@ -466,7 +473,7 @@
     {
       "t": "US032095BA89",
       "n": "AMPHENOL CORP 4.63% 02/15/2036",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US032095BA89",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5843808.91
@@ -474,7 +481,7 @@
     {
       "t": "US032654AV70",
       "n": "Analog Devices, Inc. 2.10% 10/01/2031",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US032654AV70",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3404391.86
@@ -482,7 +489,7 @@
     {
       "t": "US03523TBY38",
       "n": "Anheuser-Busch InBev Worldwide Inc. 5.00% 06/15/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US03523TBY38",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3856492.8
@@ -490,7 +497,7 @@
     {
       "t": "US03674XAU00",
       "n": "ANTERO RESOURCES CORP 5.40% 02/01/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US03674XAU00",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2808687.61
@@ -498,7 +505,7 @@
     {
       "t": "US036752AZ60",
       "n": "Elevance Health, Inc. 5.38% 06/15/2034",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US036752AZ60",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3902780.15
@@ -506,7 +513,7 @@
     {
       "t": "US036752BD40",
       "n": "Elevance Health, Inc. 5.20% 02/15/2035",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US036752BD40",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5012834.76
@@ -514,7 +521,7 @@
     {
       "t": "US03740LAG77",
       "n": "Aon Corporation 5.35% 02/28/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US03740LAG77",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2889407.41
@@ -522,7 +529,7 @@
     {
       "t": "US03740MAD20",
       "n": "Aon North America, Inc. 5.45% 03/01/2034",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US03740MAD20",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6712579.99
@@ -530,7 +537,7 @@
     {
       "t": "US03769MAE66",
       "n": "Apollo Global Management, Inc. 5.15% 08/12/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US03769MAE66",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3103890.45
@@ -538,7 +545,7 @@
     {
       "t": "US03769MAG15",
       "n": "APOLLO GLOBAL MANAGEMENT INC 5.70% 03/30/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US03769MAG15",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2922419.88
@@ -546,7 +553,7 @@
     {
       "t": "US03770DAF06",
       "n": "Apollo Debt Solutions BDC 6.55% 03/15/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US03770DAF06",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3063110.31
@@ -554,7 +561,7 @@
     {
       "t": "US037833EP10",
       "n": "Apple Inc. 3.35% 08/08/2032",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US037833EP10",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5482762.91
@@ -562,7 +569,7 @@
     {
       "t": "US037833EV87",
       "n": "Apple Inc. 4.30% 05/10/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US037833EV87",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3830346.81
@@ -570,7 +577,7 @@
     {
       "t": "US037833FA32",
       "n": "Apple Inc. 4.50% 05/12/2032",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US037833FA32",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3902997.85
@@ -578,7 +585,7 @@
     {
       "t": "US03831WAC29",
       "n": "AppLovin Corporation 5.38% 12/01/2031",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US03831WAC29",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3941289.19
@@ -586,7 +593,7 @@
     {
       "t": "US03831WAD02",
       "n": "AppLovin Corporation 5.50% 12/01/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US03831WAD02",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3855557.55
@@ -594,7 +601,7 @@
     {
       "t": "US03938LBF04",
       "n": "ARCELORMITTAL SA 6.80% 11/29/2032",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US03938LBF04",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4265051.78
@@ -602,7 +609,7 @@
     {
       "t": "US03938LBM54",
       "n": "ARCELORMITTAL SA 5.38% 05/19/2036",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US03938LBM54",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3942624.81
@@ -610,7 +617,7 @@
     {
       "t": "US039482AD67",
       "n": "Archer-Daniels-Midland Company 2.90% 03/01/2032",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US039482AD67",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2614909.96
@@ -618,7 +625,7 @@
     {
       "t": "US04010LBH50",
       "n": "Ares Capital Corporation 5.80% 03/08/2032",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US04010LBH50",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3814556.12
@@ -626,7 +633,7 @@
     {
       "t": "US04020EAJ64",
       "n": "Ares Strategic Income Fund 6.20% 03/21/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US04020EAJ64",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2869353.28
@@ -634,7 +641,7 @@
     {
       "t": "US04316JAN90",
       "n": "Arthur J. Gallagher & Co. 5.15% 02/15/2035",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US04316JAN90",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5609290.74
@@ -642,7 +649,7 @@
     {
       "t": "US04351LAE02",
       "n": "ASCENSION HEALTH 4.92% 11/15/2035",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US04351LAE02",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3233100.69
@@ -650,7 +657,7 @@
     {
       "t": "US04636NAN30",
       "n": "AstraZeneca Finance LLC 5.00% 02/26/2034",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US04636NAN30",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5747510.28
@@ -658,7 +665,7 @@
     {
       "t": "US04636NAS27",
       "n": "ASTRAZENECA FINANCE LLC 4.60% 03/02/2036",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US04636NAS27",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2742343.79
@@ -666,7 +673,7 @@
     {
       "t": "US04686JAN19",
       "n": "ATHENE HOLDING LTD 6.15% 08/15/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US04686JAN19",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3811765.45
@@ -674,7 +681,7 @@
     {
       "t": "US051473AE62",
       "n": "AUGUSTA SPINCO CORP 4.95% 03/23/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US051473AE62",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2838402.51
@@ -682,7 +689,7 @@
     {
       "t": "US051473AF38",
       "n": "AUGUSTA SPINCO CORP 5.25% 03/23/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US051473AF38",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2811966.37
@@ -690,7 +697,7 @@
     {
       "t": "US052769AH94",
       "n": "Autodesk, Inc. 2.40% 12/15/2031",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US052769AH94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3390820.31
@@ -698,7 +705,7 @@
     {
       "t": "US053015AH60",
       "n": "Automatic Data Processing, Inc. 4.45% 09/09/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US053015AH60",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3683671.05
@@ -706,7 +713,7 @@
     {
       "t": "US053015AJ27",
       "n": "Automatic Data Processing, Inc. 4.75% 05/08/2032",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US053015AJ27",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4237317.89
@@ -714,7 +721,7 @@
     {
       "t": "US053015AK99",
       "n": "AUTOMATIC DATA PROCESSING INC 5.00% 05/07/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US053015AK99",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3797247.06
@@ -722,7 +729,7 @@
     {
       "t": "US053332BB79",
       "n": "AutoZone Inc. 4.75% 08/01/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US053332BB79",
       "sector": "Consumer Discretionary",
       "mv": 2911380.08
@@ -730,7 +737,7 @@
     {
       "t": "US054989AB41",
       "n": "B.A.T Capital Corporation 6.42% 08/02/2033",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US054989AB41",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5212438.24
@@ -738,7 +745,7 @@
     {
       "t": "US05526DCB91",
       "n": "B.A.T Capital Corporation 5.35% 08/15/2032",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US05526DCB91",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3909571.57
@@ -746,7 +753,7 @@
     {
       "t": "US05526DCC74",
       "n": "B.A.T Capital Corporation 5.63% 08/15/2035",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US05526DCC74",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3894402.38
@@ -754,7 +761,7 @@
     {
       "t": "US055451BA54",
       "n": "BHP Billiton Finance (USA) Limited 4.90% 02/28/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US055451BA54",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2865713.91
@@ -762,7 +769,7 @@
     {
       "t": "US055451BE76",
       "n": "BHP Billiton Finance (USA) Limited 5.25% 09/08/2033",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US055451BE76",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6510762.69
@@ -770,7 +777,7 @@
     {
       "t": "US055451BL10",
       "n": "BHP Billiton Finance (USA) Limited 5.30% 02/21/2035",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US055451BL10",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4827863.16
@@ -778,7 +785,7 @@
     {
       "t": "US05724BAN91",
       "n": "BAKER HUGHES HOLDINGS LLC / BAKER HUGHES CO-OBLIGOR INC 4.65% 06/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US05724BAN91",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2825329.5
@@ -786,7 +793,7 @@
     {
       "t": "US05724BAP40",
       "n": "BAKER HUGHES HOLDINGS LLC / BAKER HUGHES CO-OBLIGOR INC 5.00% 06/15/2036",
-      "weight": 0.2,
+      "weight": 0.1999800019998006,
       "isin": "US05724BAP40",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7496071.71
@@ -794,7 +801,7 @@
     {
       "t": "US05946KAR23",
       "n": "Banco Bilbao Vizcaya Argentaria, S.A. 6.03% 03/13/2034",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US05946KAR23",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4078429.37
@@ -802,7 +809,7 @@
     {
       "t": "US05946KAU51",
       "n": "BANCO BILBAO VIZCAYA ARGENTARIA SA 5.13% 03/03/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US05946KAU51",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3667907.65
@@ -810,7 +817,7 @@
     {
       "t": "US05946KAZ49",
       "n": "BANCO BILBAO VIZCAYA ARG 5.24% 09/03/2031",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US05946KAZ49",
       "sector": "Financials",
       "mv": 3851424.3
@@ -818,7 +825,7 @@
     {
       "t": "US05964HAV78",
       "n": "Banco Santander, S.A. 6.92% 08/08/2033",
-      "weight": 0.23,
+      "weight": 0.22997700229977067,
       "isin": "US05964HAV78",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8345185
@@ -826,7 +833,7 @@
     {
       "t": "US05964HAZ82",
       "n": "Banco Santander, S.A. 6.94% 11/07/2033",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US05964HAZ82",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6639956.15
@@ -834,7 +841,7 @@
     {
       "t": "US05964HBD61",
       "n": "Banco Santander, S.A. 6.35% 03/14/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US05964HBD61",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4992300.15
@@ -842,7 +849,7 @@
     {
       "t": "US06051GKY43",
       "n": "Bank of America Corp. 5.02% 07/22/2032",
-      "weight": 0.52,
+      "weight": 0.5199480051994815,
       "isin": "US06051GKY43",
       "sector": "Financials",
       "mv": 19234629.54
@@ -850,7 +857,7 @@
     {
       "t": "US06051GLH01",
       "n": "Bank of America Corp. 5.29% 04/25/2033",
-      "weight": 0.54,
+      "weight": 0.5399460053994616,
       "isin": "US06051GLH01",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 20012491
@@ -858,7 +865,7 @@
     {
       "t": "US06051GMA49",
       "n": "Bank of America Corporation 5.47% 01/23/2034",
-      "weight": 0.53,
+      "weight": 0.5299470052994716,
       "isin": "US06051GMA49",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 19802122.29
@@ -866,7 +873,7 @@
     {
       "t": "US06368DH723",
       "n": "Bank of Montreal 3.09% 01/10/2032",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US06368DH723",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4305365.18
@@ -874,7 +881,7 @@
     {
       "t": "US06368MS705",
       "n": "Bank of Montreal 5.30% 06/02/2036",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US06368MS705",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4755300.85
@@ -882,7 +889,7 @@
     {
       "t": "US06406RBM88",
       "n": "Bank of New York Mellon Corp. 5.83% 10/25/2032",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US06406RBM88",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6117754.01
@@ -890,7 +897,7 @@
     {
       "t": "US06406RBR75",
       "n": "Bank of New York Mellon Corp. 4.97% 04/26/2033",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US06406RBR75",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4129184.85
@@ -898,7 +905,7 @@
     {
       "t": "US06406RBU05",
       "n": "The Bank of New York Mellon Corporation 6.47% 10/25/2033",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US06406RBU05",
       "sector": "Financials",
       "mv": 4657927.81
@@ -906,7 +913,7 @@
     {
       "t": "US06417XAE13",
       "n": "The Bank Of Nova Scotia 2.45% 02/02/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US06417XAE13",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2914536.28
@@ -914,7 +921,7 @@
     {
       "t": "US06417XAG60",
       "n": "The Bank Of Nova Scotia 4.59% 05/04/2032",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US06417XAG60",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4680886.45
@@ -922,7 +929,7 @@
     {
       "t": "US06418GAZ00",
       "n": "Bank Of Nova Scotia 4.81% 02/02/2033",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US06418GAZ00",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4161801.97
@@ -930,7 +937,7 @@
     {
       "t": "US06738ECE32",
       "n": "Barclays PLC 7.44% 11/02/2032",
-      "weight": 0.24,
+      "weight": 0.2399760023997607,
       "isin": "US06738ECE32",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8854799.85
@@ -938,7 +945,7 @@
     {
       "t": "US06738ECG89",
       "n": "Barclays PLC 6.22% 05/09/2033",
-      "weight": 0.23,
+      "weight": 0.22997700229977067,
       "isin": "US06738ECG89",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8426855.22
@@ -946,7 +953,7 @@
     {
       "t": "US06738ECV56",
       "n": "Barclays PLC 5.34% 09/10/2034",
-      "weight": 0.21,
+      "weight": 0.2099790020997906,
       "isin": "US06738ECV56",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7617479.31
@@ -954,7 +961,7 @@
     {
       "t": "US071813CS61",
       "n": "Baxter International Inc. 2.54% 02/01/2032",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US071813CS61",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4229247.55
@@ -962,7 +969,7 @@
     {
       "t": "US071813DE66",
       "n": "BAXTER INTERNATIONAL INC 5.65% 12/15/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US071813DE66",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3875725.74
@@ -970,7 +977,7 @@
     {
       "t": "US0778FPAL33",
       "n": "Bell Canada, Inc. 5.10% 05/11/2033",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US0778FPAL33",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3307757.7
@@ -978,7 +985,7 @@
     {
       "t": "US084664DA63",
       "n": "Berkshire Hathaway Finance Corporation 2.88% 03/15/2032",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US084664DA63",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3518522.97
@@ -986,7 +993,7 @@
     {
       "t": "US08576PAQ46",
       "n": "Berry Global Inc. 5.65% 01/15/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US08576PAQ46",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3077884.47
@@ -994,7 +1001,7 @@
     {
       "t": "US090572AQ17",
       "n": "Bio-Rad Laboratories, Inc. 3.70% 03/15/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US090572AQ17",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2925308.52
@@ -1002,7 +1009,7 @@
     {
       "t": "US09247XAS09",
       "n": "BlackRock Inc. 2.10% 02/25/2032",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US09247XAS09",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3335388.61
@@ -1010,7 +1017,7 @@
     {
       "t": "US09247XAT81",
       "n": "BlackRock Inc. 4.75% 05/25/2033",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US09247XAT81",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5349751.23
@@ -1018,7 +1025,7 @@
     {
       "t": "US09261HBW60",
       "n": "Blackstone Private Credit Fund 6.00% 11/22/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US09261HBW60",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2953095.84
@@ -1026,7 +1033,7 @@
     {
       "t": "US09261HBX44",
       "n": "Blackstone Private Credit Fund 6.00% 01/29/2032",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US09261HBX44",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4117556.64
@@ -1034,7 +1041,7 @@
     {
       "t": "US09261HCD70",
       "n": "BLACKSTONE PRIVATE CRE 6.20% 11/15/2031",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US09261HCD70",
       "sector": "-",
       "mv": 2894326.27
@@ -1042,7 +1049,7 @@
     {
       "t": "US09290DAB73",
       "n": "BlackRock, Inc. 5.00% 03/14/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US09290DAB73",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3806285.14
@@ -1050,7 +1057,7 @@
     {
       "t": "US092914AA83",
       "n": "BLACKSTONE REG FINANCE CO L.L.C. 5.00% 12/06/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US092914AA83",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2834496.33
@@ -1058,7 +1065,7 @@
     {
       "t": "US09581JAT34",
       "n": "Blue Owl Finance LLC 6.25% 04/18/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US09581JAT34",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3842087.48
@@ -1066,7 +1073,7 @@
     {
       "t": "US09581JAV89",
       "n": "BLUE OWL FINANCE LLC 6.75% 08/18/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US09581JAV89",
       "sector": "-",
       "mv": 2846311.19
@@ -1074,7 +1081,7 @@
     {
       "t": "US097023DS12",
       "n": "Boeing Co. 6.53% 05/01/2034",
-      "weight": 0.28,
+      "weight": 0.27997200279972084,
       "isin": "US097023DS12",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 10518825.34
@@ -1082,7 +1089,7 @@
     {
       "t": "US09857LBN73",
       "n": "BOOKING HOLDINGS INC 5.38% 05/07/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US09857LBN73",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2885707.34
@@ -1090,7 +1097,7 @@
     {
       "t": "US10112RBF01",
       "n": "Boston Properties Limited Partnership 2.45% 10/01/2033",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US10112RBF01",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2730754.83
@@ -1098,7 +1105,7 @@
     {
       "t": "US10112RBH66",
       "n": "Boston Properties Limited Partnership 6.50% 01/15/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US10112RBH66",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3042595.49
@@ -1106,7 +1113,7 @@
     {
       "t": "US10112RBJ23",
       "n": "Boston Properties Limited Partnership 5.75% 01/15/2035",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US10112RBJ23",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3302781.15
@@ -1114,7 +1121,7 @@
     {
       "t": "US10373QBT67",
       "n": "BP Capital Markets America, Inc. 2.72% 01/12/2032",
-      "weight": 0.19,
+      "weight": 0.18998100189981054,
       "isin": "US10373QBT67",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7032849.61
@@ -1122,7 +1129,7 @@
     {
       "t": "US10373QBU31",
       "n": "BP Capital Markets America, Inc. 4.81% 02/13/2033",
-      "weight": 0.23,
+      "weight": 0.22997700229977067,
       "isin": "US10373QBU31",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8665065.17
@@ -1130,7 +1137,7 @@
     {
       "t": "US10373QCA67",
       "n": "BP Capital Markets America, Inc. 5.23% 11/17/2034",
-      "weight": 0.21,
+      "weight": 0.2099790020997906,
       "isin": "US10373QCA67",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7714159.05
@@ -1138,7 +1145,7 @@
     {
       "t": "US110122DU92",
       "n": "Bristol-Myers Squibb Company 2.95% 03/15/2032",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US110122DU92",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6173731.38
@@ -1146,7 +1153,7 @@
     {
       "t": "US110122DZ89",
       "n": "Bristol-Myers Squibb Company 5.90% 11/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US110122DZ89",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3076811.29
@@ -1154,7 +1161,7 @@
     {
       "t": "US110122EH72",
       "n": "Bristol-Myers Squibb Company 5.20% 02/22/2034",
-      "weight": 0.26,
+      "weight": 0.25997400259974074,
       "isin": "US110122EH72",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 9742323.39
@@ -1162,7 +1169,7 @@
     {
       "t": "US11135FBM23",
       "n": "Broadcom Inc. 3.14% 11/15/2035",
-      "weight": 0.28,
+      "weight": 0.27997200279972084,
       "isin": "US11135FBM23",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 10256591.73
@@ -1170,7 +1177,7 @@
     {
       "t": "US11135FCM14",
       "n": "Broadcom Inc. 5.20% 07/15/2035",
-      "weight": 0.26,
+      "weight": 0.25997400259974074,
       "isin": "US11135FCM14",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 9587587.07
@@ -1178,7 +1185,7 @@
     {
       "t": "US11135FCT66",
       "n": "Broadcom Inc. 3.47% 04/15/2034",
-      "weight": 0.3,
+      "weight": 0.29997000299970084,
       "isin": "US11135FCT66",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 10936901.86
@@ -1186,7 +1193,7 @@
     {
       "t": "US113004AA39",
       "n": "Brookfield Asset Management Ltd. 5.80% 04/24/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US113004AA39",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2962283.8
@@ -1194,7 +1201,7 @@
     {
       "t": "US113004AC94",
       "n": "BROOKFIELD ASSET MANAGEMENT LTD 5.30% 01/15/2036",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US113004AC94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3192938.76
@@ -1202,7 +1209,7 @@
     {
       "t": "US115236AM30",
       "n": "Brown & Brown, Inc. 5.55% 06/23/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US115236AM30",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3797821.25
@@ -1210,7 +1217,7 @@
     {
       "t": "US120568BF69",
       "n": "Bunge Limited Finance Corp. 4.65% 09/17/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US120568BF69",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2872249.69
@@ -1218,7 +1225,7 @@
     {
       "t": "US12505BAG59",
       "n": "CBRE Services, Inc. 5.95% 08/15/2034",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US12505BAG59",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3956680.93
@@ -1226,7 +1233,7 @@
     {
       "t": "US12505BAL45",
       "n": "CBRE SERVICES INC 4.90% 01/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US12505BAL45",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2827322.41
@@ -1234,7 +1241,7 @@
     {
       "t": "US12505BAM28",
       "n": "CBRE SERVICES INC 5.25% 06/01/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US12505BAM28",
       "sector": "-",
       "mv": 2835816.75
@@ -1242,7 +1249,7 @@
     {
       "t": "US12513GBJ76",
       "n": "CDW LLC 3.57% 12/01/2031",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US12513GBJ76",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3546723.98
@@ -1250,7 +1257,7 @@
     {
       "t": "US12527GAL77",
       "n": "CF INDUSTRIES INC 5.30% 11/26/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US12527GAL77",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3811209.56
@@ -1258,7 +1265,7 @@
     {
       "t": "US125523CV04",
       "n": "The Cigna Group 5.25% 02/15/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US125523CV04",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4805358.46
@@ -1266,7 +1273,7 @@
     {
       "t": "US125523CY43",
       "n": "The Cigna Group 4.88% 09/15/2032",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US125523CY43",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5165844.74
@@ -1274,7 +1281,7 @@
     {
       "t": "US125523CZ18",
       "n": "The Cigna Group 5.25% 01/15/2036",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US125523CZ18",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5697808.7
@@ -1282,7 +1289,7 @@
     {
       "t": "US12572QAK13",
       "n": "CME Group Inc. 2.65% 03/15/2032",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US12572QAK13",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2580641.47
@@ -1290,7 +1297,7 @@
     {
       "t": "US125896BY50",
       "n": "CMS Energy Corporation 6.50% 06/01/2035",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US125896BY50",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3969319.89
@@ -1298,7 +1305,7 @@
     {
       "t": "US12636YAE23",
       "n": "CRH America Finance, Inc. 5.40% 05/21/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US12636YAE23",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2801004.62
@@ -1306,7 +1313,7 @@
     {
       "t": "US12636YAF97",
       "n": "CRH America Finance, Inc. 5.50% 01/09/2035",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US12636YAF97",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5137643.04
@@ -1314,7 +1321,7 @@
     {
       "t": "US12636YAJ10",
       "n": "CRH America Finance, Inc. 5.00% 02/09/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US12636YAJ10",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3704283.25
@@ -1322,7 +1329,7 @@
     {
       "t": "US126408HU08",
       "n": "CSX Corp. 4.10% 11/15/2032",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US126408HU08",
       "sector": "Industrials",
       "mv": 3599963.48
@@ -1330,7 +1337,7 @@
     {
       "t": "US126408HZ94",
       "n": "CSX Corporation 5.05% 06/15/2035",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US126408HZ94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3412614.7
@@ -1338,7 +1345,7 @@
     {
       "t": "US126650DU15",
       "n": "CVS Health Corporation 5.25% 02/21/2033",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US126650DU15",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6757746.96
@@ -1346,7 +1353,7 @@
     {
       "t": "US126650DY37",
       "n": "CVS Health Corp. 5.30% 06/01/2033",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US126650DY37",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5158165.9
@@ -1354,7 +1361,7 @@
     {
       "t": "US126650EK24",
       "n": "CVS Health Corporation 5.45% 09/15/2035",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US126650EK24",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6385373.16
@@ -1362,7 +1369,7 @@
     {
       "t": "US127387AP39",
       "n": "Cadence Design Systems, Inc. 4.70% 09/10/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US127387AP39",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3690983.32
@@ -1370,7 +1377,7 @@
     {
       "t": "US134429BP34",
       "n": "Campbell Soup Co. 5.40% 03/21/2034",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US134429BP34",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4086576.73
@@ -1378,7 +1385,7 @@
     {
       "t": "US134429BQ17",
       "n": "The Campbell's Company 4.75% 03/23/2035",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US134429BQ17",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2735129.4
@@ -1386,7 +1393,7 @@
     {
       "t": "US13607HR535",
       "n": "Canadian Imperial Bank Of Commerce 3.60% 04/07/2032",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US13607HR535",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3635277.64
@@ -1394,7 +1401,7 @@
     {
       "t": "US13607LWW98",
       "n": "Canadian Imperial Bank Of Commerce 6.09% 10/03/2033",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US13607LWW98",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4575801.07
@@ -1402,7 +1409,7 @@
     {
       "t": "US136375DC36",
       "n": "Canadian National Railway Company 3.85% 08/05/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US136375DC36",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2996573.45
@@ -1410,7 +1417,7 @@
     {
       "t": "US136375DR05",
       "n": "Canadian National Railway Company 4.38% 09/18/2034",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US136375DR05",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2742450.65
@@ -1418,7 +1425,7 @@
     {
       "t": "US13645RBF01",
       "n": "Canadian Pacific Railway Company 2.45% 12/02/2031",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US13645RBF01",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4907273.57
@@ -1426,7 +1433,7 @@
     {
       "t": "US14040HDA05",
       "n": "Capital One Financial Corp. 6.38% 06/08/2033",
-      "weight": 0.19,
+      "weight": 0.18998100189981054,
       "isin": "US14040HDA05",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7140687.42
@@ -1434,7 +1441,7 @@
     {
       "t": "US14040HDJ14",
       "n": "Capital One Financial Corporation 6.18% 01/30/2035",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US14040HDJ14",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6780922.13
@@ -1442,7 +1449,7 @@
     {
       "t": "US14040HDN26",
       "n": "Capital One Financial Corporation 5.20% 09/11/2035",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US14040HDN26",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6136592.11
@@ -1450,7 +1457,7 @@
     {
       "t": "US14149YBS63",
       "n": "Cardinal Health, Inc. 5.35% 11/15/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US14149YBS63",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3887944.67
@@ -1458,7 +1465,7 @@
     {
       "t": "US14316JAA60",
       "n": "The Carlyle Group Inc. 5.05% 09/19/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US14316JAA60",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2851549.75
@@ -1466,7 +1473,7 @@
     {
       "t": "US14448CBC73",
       "n": "Carrier Global Corp. 5.90% 03/15/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US14448CBC73",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3534131.89
@@ -1474,7 +1481,7 @@
     {
       "t": "US149123CL34",
       "n": "Caterpillar Inc. 5.20% 05/15/2035",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US149123CL34",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6708090.64
@@ -1482,7 +1489,7 @@
     {
       "t": "US151290CD37",
       "n": "CEMEX SAB DE CV 5.75% 06/05/2036",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US151290CD37",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5727755.52
@@ -1490,7 +1497,7 @@
     {
       "t": "US15189XBL10",
       "n": "CENTERPOINT ENERGY HOUSTON ELECTRIC LLC 4.85% 04/01/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US15189XBL10",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2963933.12
@@ -1498,7 +1505,7 @@
     {
       "t": "US161175CR30",
       "n": "Charter Communications Operating Capital Corp. 6.55% 06/01/2034",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US161175CR30",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5822966.22
@@ -1506,7 +1513,7 @@
     {
       "t": "US161175CS13",
       "n": "Charter Communications Operating, LLC 5.85% 12/01/2035",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US161175CS13",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4550856.33
@@ -1514,7 +1521,7 @@
     {
       "t": "US161175CY80",
       "n": "CHARTER COMMUNICATIONS OPERATING LLC / CHARTER COMMUNICATIONS OPERATING CAPITAL 6.05% 02/15/2032",
-      "weight": 0.19,
+      "weight": 0.18998100189981054,
       "isin": "US161175CY80",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7175169.93
@@ -1522,7 +1529,7 @@
     {
       "t": "US16411QAN16",
       "n": "Cheniere Energy Partners, L.P. 3.25% 01/31/2032",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US16411QAN16",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4280686.77
@@ -1530,7 +1537,7 @@
     {
       "t": "US16411QAQ47",
       "n": "Cheniere Energy Partners, L.P. 5.95% 06/30/2033",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US16411QAQ47",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5612253.63
@@ -1538,7 +1545,7 @@
     {
       "t": "US16411QAS03",
       "n": "Cheniere Energy Partners, L.P. 5.75% 08/15/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US16411QAS03",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4771703.9
@@ -1546,7 +1553,7 @@
     {
       "t": "US16411RAN98",
       "n": "Cheniere Energy, Inc. 5.65% 04/15/2034",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US16411RAN98",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5701659.84
@@ -1554,7 +1561,7 @@
     {
       "t": "US16411RAP47",
       "n": "CHENIERE ENERGY INC 5.20% 07/30/2036",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US16411RAP47",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4008667.13
@@ -1562,7 +1569,7 @@
     {
       "t": "US165167DH73",
       "n": "Expand Energy Corporation 5.70% 01/15/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US165167DH73",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2902252.31
@@ -1570,7 +1577,7 @@
     {
       "t": "US166756BF23",
       "n": "Chevron U.S.A. Inc. 4.98% 04/15/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US166756BF23",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2919062.95
@@ -1578,7 +1585,7 @@
     {
       "t": "US166756BK18",
       "n": "Chevron U.S.A. Inc. 4.50% 10/15/2032",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US166756BK18",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4843873.37
@@ -1586,7 +1593,7 @@
     {
       "t": "US166756BL90",
       "n": "Chevron U.S.A. Inc. 4.85% 10/15/2035",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US166756BL90",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3431883.86
@@ -1594,7 +1601,7 @@
     {
       "t": "US171239AK24",
       "n": "Chubb INA Holdings LLC 5.00% 03/15/2034",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US171239AK24",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6001570.21
@@ -1602,7 +1609,7 @@
     {
       "t": "US171239AM89",
       "n": "Chubb INA Holdings LLC 4.90% 08/15/2035",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US171239AM89",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5036223.92
@@ -1610,7 +1617,7 @@
     {
       "t": "US171239AN62",
       "n": "CHUBB INA HOLDINGS LLC 5.30% 05/20/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US171239AN62",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3851558.41
@@ -1618,7 +1625,7 @@
     {
       "t": "US17252MAQ33",
       "n": "Cintas Corporation No. 2 4.00% 05/01/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US17252MAQ33",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3063911.77
@@ -1626,7 +1633,7 @@
     {
       "t": "US17275RBT86",
       "n": "Cisco Systems, Inc. 5.05% 02/26/2034",
-      "weight": 0.27,
+      "weight": 0.2699730026997308,
       "isin": "US17275RBT86",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 9839792.22
@@ -1634,7 +1641,7 @@
     {
       "t": "US17275RBY71",
       "n": "Cisco Systems, Inc. 4.95% 02/24/2032",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US17275RBY71",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3880213.8
@@ -1642,7 +1649,7 @@
     {
       "t": "US17275RBZ47",
       "n": "Cisco Systems, Inc. 5.10% 02/24/2035",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US17275RBZ47",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4760482.18
@@ -1650,7 +1657,7 @@
     {
       "t": "US172967NN71",
       "n": "Citigroup Inc. 3.79% 03/17/2032",
-      "weight": 0.29,
+      "weight": 0.2899710028997108,
       "isin": "US172967NN71",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 10751353.18
@@ -1658,7 +1665,7 @@
     {
       "t": "US17327CAQ69",
       "n": "Citigroup Inc. 3.06% 01/25/2032",
-      "weight": 0.29,
+      "weight": 0.2899710028997108,
       "isin": "US17327CAQ69",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 10676169.65
@@ -1666,7 +1673,7 @@
     {
       "t": "US17327CAR43",
       "n": "Citigroup Inc. 6.17% 05/25/2033",
-      "weight": 0.36,
+      "weight": 0.35996400359964104,
       "isin": "US17327CAR43",
       "sector": "Financials",
       "mv": 13256351
@@ -1674,7 +1681,7 @@
     {
       "t": "US174610BG97",
       "n": "Citizens Financial Group, Inc. 6.65% 04/25/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US174610BG97",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3122870.27
@@ -1682,7 +1689,7 @@
     {
       "t": "US191216DR86",
       "n": "The Coca-Cola Company 5.00% 05/13/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US191216DR86",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4649792.75
@@ -1690,7 +1697,7 @@
     {
       "t": "US191216DY38",
       "n": "The Coca-Cola Company 4.65% 08/14/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US191216DY38",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2855714.13
@@ -1698,7 +1705,7 @@
     {
       "t": "US20030NEB38",
       "n": "Comcast Corp. 5.50% 11/15/2032",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US20030NEB38",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3979835.69
@@ -1706,7 +1713,7 @@
     {
       "t": "US20030NEC11",
       "n": "Comcast Corp. 4.65% 02/15/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US20030NEC11",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3698033.69
@@ -1714,7 +1721,7 @@
     {
       "t": "US20030NEJ63",
       "n": "Comcast Corporation 5.30% 06/01/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US20030NEJ63",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4988120.29
@@ -1722,7 +1729,7 @@
     {
       "t": "US20268JAR41",
       "n": "CommonSpirit Health 5.21% 12/01/2031",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US20268JAR41",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3088311.32
@@ -1730,7 +1737,7 @@
     {
       "t": "US20826FBF27",
       "n": "ConocoPhillips Company 5.05% 09/15/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US20826FBF27",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3849848.99
@@ -1738,7 +1745,7 @@
     {
       "t": "US20826FBL94",
       "n": "ConocoPhillips Company 5.00% 01/15/2035",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US20826FBL94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4767120.49
@@ -1746,7 +1753,7 @@
     {
       "t": "US21036PBP27",
       "n": "Constellation Brands, Inc. 4.90% 05/01/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US21036PBP27",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2868107.65
@@ -1754,7 +1761,7 @@
     {
       "t": "US210385AU46",
       "n": "CONSTELLATION ENERGY GENERATION LLC 5.30% 06/01/2036",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US210385AU46",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3262865.13
@@ -1762,7 +1769,7 @@
     {
       "t": "US210518EA04",
       "n": "CONSUMERS ENERGY CO 5.13% 05/01/2036",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US210518EA04",
       "sector": "Utilities",
       "mv": 3282548.83
@@ -1770,7 +1777,7 @@
     {
       "t": "US21871XAH26",
       "n": "Corebridge Financial Inc. 3.90% 04/05/2032",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US21871XAH26",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5541572.48
@@ -1778,7 +1785,7 @@
     {
       "t": "US21871XAS80",
       "n": "Corebridge Financial, Inc. 5.75% 01/15/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US21871XAS80",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2950340.9
@@ -1786,7 +1793,7 @@
     {
       "t": "US21871XAT63",
       "n": "Corebridge Financial, Inc. 6.38% 09/15/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US21871XAT63",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2863648.56
@@ -1794,7 +1801,7 @@
     {
       "t": "US231021AW65",
       "n": "Cummins Inc. 5.15% 02/20/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US231021AW65",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2888455.17
@@ -1802,7 +1809,7 @@
     {
       "t": "US231021BA37",
       "n": "Cummins Inc. 5.30% 05/09/2035",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US231021BA37",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3976351.48
@@ -1810,7 +1817,7 @@
     {
       "t": "US233331BL01",
       "n": "DTE Energy Company 5.85% 06/01/2034",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US233331BL01",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3438316.15
@@ -1818,7 +1825,7 @@
     {
       "t": "US233331BQ97",
       "n": "DTE ENERGY CO 6.20% 07/01/2033",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US233331BQ97",
       "sector": "Utilities",
       "mv": 4149140.55
@@ -1826,7 +1833,7 @@
     {
       "t": "US23338VBB18",
       "n": "DTE ELECTRIC CO 4.85% 03/01/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US23338VBB18",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2888618.26
@@ -1834,7 +1841,7 @@
     {
       "t": "US244199BL82",
       "n": "Deere & Company 5.45% 01/16/2035",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US244199BL82",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4939181.9
@@ -1842,7 +1849,7 @@
     {
       "t": "US24422EXE49",
       "n": "John Deere Capital Corporation 5.15% 09/08/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US24422EXE49",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3886225.01
@@ -1850,7 +1857,7 @@
     {
       "t": "US24422EXX20",
       "n": "John Deere Capital Corporation 4.40% 09/08/2031",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US24422EXX20",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5287666.84
@@ -1858,7 +1865,7 @@
     {
       "t": "US24703DBL47",
       "n": "Dell International L.L.C. 5.75% 02/01/2033",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US24703DBL47",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3971258.26
@@ -1866,7 +1873,7 @@
     {
       "t": "US24703DBT72",
       "n": "Dell EMC 4.75% 10/06/2032",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US24703DBT72",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5214799.8
@@ -1874,7 +1881,7 @@
     {
       "t": "US24703DBU46",
       "n": "Dell EMC 5.10% 02/15/2036",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US24703DBU46",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4643362.7
@@ -1882,7 +1889,7 @@
     {
       "t": "US251526CT41",
       "n": "Deutsche Bank AG (New York branch) 7.08% 02/10/2033",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US251526CT41",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6314595.95
@@ -1890,7 +1897,7 @@
     {
       "t": "US251526CY36",
       "n": "Deutsche Bank AG - New York Branch 5.40% 09/11/2034",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US251526CY36",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5324269.68
@@ -1898,7 +1905,7 @@
     {
       "t": "US25160PAG28",
       "n": "Deutsche Bank AG (New York branch) 3.74% 01/07/2032",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US25160PAG28",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4425273.16
@@ -1906,7 +1913,7 @@
     {
       "t": "US25179MBG78",
       "n": "Devon Energy Corporation 5.20% 09/15/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US25179MBG78",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4754106.64
@@ -1914,7 +1921,7 @@
     {
       "t": "US25243YBH18",
       "n": "DIAGEO CAPITAL PLC 5.50% 01/24/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US25243YBH18",
       "sector": "-",
       "mv": 2956538.58
@@ -1922,7 +1929,7 @@
     {
       "t": "US25243YBN85",
       "n": "DIAGEO CAPITAL PLC 5.63% 10/05/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US25243YBN85",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3602320.21
@@ -1930,7 +1937,7 @@
     {
       "t": "US25245BAE74",
       "n": "Diageo Investment Corp. 5.63% 04/15/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US25245BAE74",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2995926.09
@@ -1938,7 +1945,7 @@
     {
       "t": "US25278XAV10",
       "n": "Diamondback Energy Inc. 6.25% 03/15/2033",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US25278XAV10",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4496626.52
@@ -1946,7 +1953,7 @@
     {
       "t": "US25278XAZ24",
       "n": "Diamondback Energy Inc. 5.40% 04/18/2034",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US25278XAZ24",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5489879.03
@@ -1954,7 +1961,7 @@
     {
       "t": "US25278XBC20",
       "n": "Diamondback Energy, Inc. 5.55% 04/01/2035",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US25278XBC20",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4824677.39
@@ -1962,7 +1969,7 @@
     {
       "t": "US253393AF94",
       "n": "Dick's Sporting Goods Inc. 3.15% 01/15/2032",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US253393AF94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2614508.8
@@ -1970,7 +1977,7 @@
     {
       "t": "US254687GE01",
       "n": "WALT DISNEY CO/THE 4.63% 03/14/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US254687GE01",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3655025.66
@@ -1978,7 +1985,7 @@
     {
       "t": "US256677AP01",
       "n": "Dollar General Corporation 5.45% 07/05/2033",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US256677AP01",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3911422.43
@@ -1986,7 +1993,7 @@
     {
       "t": "US256746AJ71",
       "n": "Dollar Tree Inc. 2.65% 12/01/2031",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US256746AJ71",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2707239.37
@@ -1994,7 +2001,7 @@
     {
       "t": "US25746UDV89",
       "n": "Dominion Energy, Inc. 6.63% 05/15/2035",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US25746UDV89",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5057341.23
@@ -2002,7 +2009,7 @@
     {
       "t": "US25746UEA34",
       "n": "Dominion Energy, Inc. 6.20% 02/15/2036",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US25746UEA34",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5022335.68
@@ -2010,7 +2017,7 @@
     {
       "t": "US26441CBT18",
       "n": "Duke Energy Corporation 4.50% 08/15/2032",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US26441CBT18",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4536031.48
@@ -2018,7 +2025,7 @@
     {
       "t": "US26441CCG87",
       "n": "Duke Energy Corporation 6.45% 09/01/2034",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US26441CCG87",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3959916.33
@@ -2026,7 +2033,7 @@
     {
       "t": "US26442CBJ27",
       "n": "Duke Energy Carolinas, LLC 4.95% 01/15/2033",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US26442CBJ27",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4820464.8
@@ -2034,7 +2041,7 @@
     {
       "t": "US26875PAY79",
       "n": "EOG Resources, Inc. 5.00% 07/15/2032",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US26875PAY79",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4867172.13
@@ -2042,7 +2049,7 @@
     {
       "t": "US26875PAZ45",
       "n": "EOG Resources, Inc. 5.35% 01/15/2036",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US26875PAZ45",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4818330.99
@@ -2050,7 +2057,7 @@
     {
       "t": "US26884LAR06",
       "n": "EQT Corporation 5.75% 02/01/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US26884LAR06",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2936978.27
@@ -2058,7 +2065,7 @@
     {
       "t": "US26969PAC23",
       "n": "EAGLE MATERIALS INC 5.00% 03/15/2036",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US26969PAC23",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2725041.37
@@ -2066,7 +2073,7 @@
     {
       "t": "US277432AY69",
       "n": "Eastman Chemical Company 5.63% 02/20/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US277432AY69",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2905960.12
@@ -2074,7 +2081,7 @@
     {
       "t": "US278058DY59",
       "n": "EATON CORP 4.50% 03/06/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US278058DY59",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3733608.59
@@ -2082,7 +2089,7 @@
     {
       "t": "US278058DZ25",
       "n": "EATON CORP 4.80% 03/06/2036",
-      "weight": 0.22,
+      "weight": 0.21997800219978064,
       "isin": "US278058DZ25",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8158335.51
@@ -2090,7 +2097,7 @@
     {
       "t": "US278062AH73",
       "n": "Eaton Corporation 4.15% 03/15/2033",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US278062AH73",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4787698.41
@@ -2098,7 +2105,7 @@
     {
       "t": "US278865BW98",
       "n": "ECOLAB INC 5.15% 06/15/2033",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US278865BW98",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5865329.37
@@ -2106,7 +2113,7 @@
     {
       "t": "US278865BX71",
       "n": "ECOLAB INC 5.35% 06/15/2036",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US278865BX71",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5952373.27
@@ -2114,7 +2121,7 @@
     {
       "t": "US28622HAB78",
       "n": "Elevance Health, Inc. 4.75% 02/15/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US28622HAB78",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3764415.7
@@ -2122,7 +2129,7 @@
     {
       "t": "US291011BR42",
       "n": "Emerson Electric Co. 2.20% 12/21/2031",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US291011BR42",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3408017.87
@@ -2130,7 +2137,7 @@
     {
       "t": "US29250NBR52",
       "n": "Enbridge Inc. 5.70% 03/08/2033",
-      "weight": 0.26,
+      "weight": 0.25997400259974074,
       "isin": "US29250NBR52",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 9781344.84
@@ -2138,7 +2145,7 @@
     {
       "t": "US29250NCC74",
       "n": "Enbridge Inc. 5.63% 04/05/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US29250NCC74",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4857689.4
@@ -2146,7 +2153,7 @@
     {
       "t": "US29250NCR44",
       "n": "Enbridge Inc 5.45% 03/27/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US29250NCR44",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3788419.34
@@ -2154,7 +2161,7 @@
     {
       "t": "US29273VAQ32",
       "n": "Energy Transfer LP 5.75% 02/15/2033",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US29273VAQ32",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6507102.37
@@ -2162,7 +2169,7 @@
     {
       "t": "US29273VAU44",
       "n": "Energy Transfer LP 6.55% 12/01/2033",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US29273VAU44",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6270997.04
@@ -2170,7 +2177,7 @@
     {
       "t": "US29273VAY65",
       "n": "Energy Transfer LP 5.55% 05/15/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US29273VAY65",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4924679.73
@@ -2178,7 +2185,7 @@
     {
       "t": "US29364GAU76",
       "n": "ENTERGY CORP 6.50% 12/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US29364GAU76",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2917336.47
@@ -2186,7 +2193,7 @@
     {
       "t": "US29364WBR88",
       "n": "ENTERGY LOUISIANA LLC 4.90% 04/15/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US29364WBR88",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2824750.36
@@ -2194,7 +2201,7 @@
     {
       "t": "US29379VCD38",
       "n": "Enterprise Products Operating LLC 5.35% 01/31/2033",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US29379VCD38",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3931025.37
@@ -2202,7 +2209,7 @@
     {
       "t": "US29379VCG68",
       "n": "Enterprise Products Operating LLC 4.95% 02/15/2035",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US29379VCG68",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4173183.08
@@ -2210,7 +2217,7 @@
     {
       "t": "US29379VCL53",
       "n": "Enterprise Products Operating LLC 5.20% 01/15/2036",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US29379VCL53",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5790149.08
@@ -2218,7 +2225,7 @@
     {
       "t": "US29390XAA28",
       "n": "Equinix Europe 2 Financing Corporation Llc 5.50% 06/15/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US29390XAA28",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2901263.48
@@ -2226,7 +2233,7 @@
     {
       "t": "US29390XAH70",
       "n": "EQUINIX EUROPE 2 FINANCING CORP LLC 4.70% 03/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US29390XAH70",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2893808.14
@@ -2234,7 +2241,7 @@
     {
       "t": "US29444UBU97",
       "n": "Equinix Inc. 3.90% 04/15/2032",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US29444UBU97",
       "sector": "Real Estate",
       "mv": 4433739.19
@@ -2242,7 +2249,7 @@
     {
       "t": "US30040WAU27",
       "n": "Eversource Energy 5.13% 05/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US30040WAU27",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3035778.52
@@ -2250,7 +2257,7 @@
     {
       "t": "US30040WBD92",
       "n": "EVERSOURCE ENERGY 6.35% 08/15/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US30040WBD92",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2899794.03
@@ -2258,7 +2265,7 @@
     {
       "t": "US30161NBK63",
       "n": "Exelon Corp. 5.30% 03/15/2033",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US30161NBK63",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3299091.95
@@ -2266,7 +2273,7 @@
     {
       "t": "US30161NBQ34",
       "n": "Exelon Corporation 6.50% 03/15/2035",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US30161NBQ34",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3899827.42
@@ -2274,7 +2281,7 @@
     {
       "t": "US30161NBV29",
       "n": "EXELON CORP 4.95% 03/15/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US30161NBV29",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2869919.81
@@ -2282,7 +2289,7 @@
     {
       "t": "US30212PBL85",
       "n": "Expedia Group, Inc. 5.40% 02/15/2035",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US30212PBL85",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4155818.45
@@ -2290,7 +2297,7 @@
     {
       "t": "US30212PBM68",
       "n": "EXPEDIA GROUP INC 5.50% 04/15/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US30212PBM68",
       "sector": "Consumer Discretionary",
       "mv": 3799767.63
@@ -2298,7 +2305,7 @@
     {
       "t": "US30225VAV99",
       "n": "Extra Space Storage LP 4.95% 01/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US30225VAV99",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2983439.32
@@ -2306,7 +2313,7 @@
     {
       "t": "US30303MAC64",
       "n": "META PLATFORMS INC 4.60% 11/15/2032",
-      "weight": 0.41,
+      "weight": 0.40995900409959113,
       "isin": "US30303MAC64",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 15212538.31
@@ -2314,7 +2321,7 @@
     {
       "t": "US30303MAD48",
       "n": "META PLATFORMS INC 4.88% 11/15/2035",
-      "weight": 0.65,
+      "weight": 0.6499350064992302,
       "isin": "US30303MAD48",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 24263663.61
@@ -2322,7 +2329,7 @@
     {
       "t": "US30303MAH51",
       "n": "META PLATFORMS INC 5.25% 05/15/2036",
-      "weight": 0.63,
+      "weight": 0.6299370062993718,
       "isin": "US30303MAH51",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 23500042.84
@@ -2330,7 +2337,7 @@
     {
       "t": "US303901BL51",
       "n": "Fairfax Financial Holdings Limited 5.63% 08/16/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US303901BL51",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2934888.67
@@ -2338,7 +2345,7 @@
     {
       "t": "US314352AG01",
       "n": "FEDEX FREIGHT HOLDING CO INC 5.25% 03/15/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US314352AG01",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3654977.27
@@ -2346,7 +2353,7 @@
     {
       "t": "US31488VAA52",
       "n": "Ferguson Enterprises Inc. 5.00% 10/03/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US31488VAA52",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2865244.5
@@ -2354,7 +2361,7 @@
     {
       "t": "US31620MBY12",
       "n": "Fidelity National Information Services, Inc. 5.10% 07/15/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US31620MBY12",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2877467.42
@@ -2362,7 +2369,7 @@
     {
       "t": "US316773DP29",
       "n": "FIFTH THIRD BANCORP 5.14% 01/29/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US316773DP29",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3700229.96
@@ -2370,7 +2377,7 @@
     {
       "t": "US31959XAF06",
       "n": "First Citizens BancShares, Inc. 6.25% 03/12/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US31959XAF06",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2816097.06
@@ -2378,7 +2385,7 @@
     {
       "t": "US337738BE73",
       "n": "Fiserv, Inc. 5.60% 03/02/2033",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US337738BE73",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3430194.82
@@ -2386,7 +2393,7 @@
     {
       "t": "US337738BH05",
       "n": "Fiserv, Inc. 5.63% 08/21/2033",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US337738BH05",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5203944.64
@@ -2394,7 +2401,7 @@
     {
       "t": "US337738BQ04",
       "n": "Fiserv, Inc. 5.25% 08/11/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US337738BQ04",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3685055.95
@@ -2402,7 +2409,7 @@
     {
       "t": "US341081GG63",
       "n": "Florida Power & Light Company 2.45% 02/03/2032",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US341081GG63",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5194232.72
@@ -2410,7 +2417,7 @@
     {
       "t": "US345370DA55",
       "n": "Ford Motor Company 3.25% 02/12/2032",
-      "weight": 0.23,
+      "weight": 0.22997700229977067,
       "isin": "US345370DA55",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8615158.71
@@ -2418,7 +2425,7 @@
     {
       "t": "US345370DB39",
       "n": "Ford Motor Company 6.10% 08/19/2032",
-      "weight": 0.2,
+      "weight": 0.1999800019998006,
       "isin": "US345370DB39",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7268924.75
@@ -2426,7 +2433,7 @@
     {
       "t": "US345397E664",
       "n": "Ford Motor Credit Company LLC 6.13% 03/08/2034",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US345397E664",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6424519.87
@@ -2434,7 +2441,7 @@
     {
       "t": "US35137LAN55",
       "n": "Fox Corp. 6.50% 10/13/2033",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US35137LAN55",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5268607.53
@@ -2442,7 +2449,7 @@
     {
       "t": "US354613AN11",
       "n": "FRANKLIN TEMPLETON INC 5.50% 08/10/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US354613AN11",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2839085.45
@@ -2450,7 +2457,7 @@
     {
       "t": "US361841AR08",
       "n": "GLP Capital, L.P. 3.25% 01/15/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US361841AR08",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2825611.36
@@ -2458,7 +2465,7 @@
     {
       "t": "US361841AT63",
       "n": "GLP Capital, L.P. 5.63% 09/15/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US361841AT63",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2938069.66
@@ -2466,7 +2473,7 @@
     {
       "t": "US361841AX75",
       "n": "GLP CAPITAL LP / GLP FINANCING II INC 5.63% 03/01/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US361841AX75",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2900958.08
@@ -2474,7 +2481,7 @@
     {
       "t": "US36264FAM32",
       "n": "Haleon US Capital LLC 3.63% 03/24/2032",
-      "weight": 0.2,
+      "weight": 0.1999800019998006,
       "isin": "US36264FAM32",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7370695.82
@@ -2482,7 +2489,7 @@
     {
       "t": "US36266GAC15",
       "n": "GE HealthCare Technologies Inc. 5.50% 06/15/2035",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US36266GAC15",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3336623.77
@@ -2490,7 +2497,7 @@
     {
       "t": "US36267VAK98",
       "n": "GE Healthcare Technologies Inc. 5.91% 11/22/2032",
-      "weight": 0.19,
+      "weight": 0.18998100189981054,
       "isin": "US36267VAK98",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7135251.32
@@ -2498,7 +2505,7 @@
     {
       "t": "US36828AAB70",
       "n": "GE VERNOVA INC 4.88% 02/04/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US36828AAB70",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3722294.5
@@ -2506,7 +2513,7 @@
     {
       "t": "US369550BR84",
       "n": "General Dynamics Corporation 4.95% 08/15/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US369550BR84",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2836634.15
@@ -2514,7 +2521,7 @@
     {
       "t": "US369604CA96",
       "n": "General Electric Company 4.90% 01/29/2036",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US369604CA96",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4166708.56
@@ -2522,7 +2529,7 @@
     {
       "t": "US370334CT90",
       "n": "General Mills, Inc. 4.95% 03/29/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US370334CT90",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3866244.77
@@ -2530,7 +2537,7 @@
     {
       "t": "US370334DB73",
       "n": "General Mills, Inc. 5.25% 01/30/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US370334DB73",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2851135.91
@@ -2538,7 +2545,7 @@
     {
       "t": "US37045VAZ31",
       "n": "General Motors Company 5.60% 10/15/2032",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US37045VAZ31",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5000486.69
@@ -2546,7 +2553,7 @@
     {
       "t": "US37045XDS27",
       "n": "General Motors Financial Company, Inc. 3.10% 01/12/2032",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US37045XDS27",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4652508.06
@@ -2554,7 +2561,7 @@
     {
       "t": "US37045XEP78",
       "n": "General Motors Financial Co. Inc. 6.10% 01/07/2034",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US37045XEP78",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6064453.05
@@ -2562,7 +2569,7 @@
     {
       "t": "US375558BZ59",
       "n": "Gilead Sciences Inc. 5.25% 10/15/2033",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US375558BZ59",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3979935.93
@@ -2570,7 +2577,7 @@
     {
       "t": "US375558CC55",
       "n": "Gilead Sciences, Inc. 5.10% 06/15/2035",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US375558CC55",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3920169.57
@@ -2578,7 +2585,7 @@
     {
       "t": "US377372AQ02",
       "n": "GlaxoSmithKline Capital Inc. 4.88% 04/15/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US377372AQ02",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2857790.31
@@ -2586,7 +2593,7 @@
     {
       "t": "US37940XAH52",
       "n": "Global Payments Inc. 2.90% 11/15/2031",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US37940XAH52",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2571919.21
@@ -2594,7 +2601,7 @@
     {
       "t": "US37940XAX03",
       "n": "GLOBAL PAYMENTS INC 5.20% 11/15/2032",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US37940XAX03",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3801223.38
@@ -2602,7 +2609,7 @@
     {
       "t": "US37940XAY85",
       "n": "GLOBAL PAYMENTS INC 5.55% 11/15/2035",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US37940XAY85",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6555263.78
@@ -2610,7 +2617,7 @@
     {
       "t": "US38141GB789",
       "n": "The Goldman Sachs Group, Inc. 5.02% 10/23/2034",
-      "weight": 0.36,
+      "weight": 0.35996400359964104,
       "isin": "US38141GB789",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 13203096.12
@@ -2618,7 +2625,7 @@
     {
       "t": "US38141GZM94",
       "n": "Goldman Sachs Group Inc. (The) 3.10% 02/24/2032",
-      "weight": 0.38,
+      "weight": 0.3799620037996211,
       "isin": "US38141GZM94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 14163308.04
@@ -2626,7 +2633,7 @@
     {
       "t": "US38145GAS93",
       "n": "GOLDMAN SACHS GROUP INC/THE 5.07% 01/21/2036",
-      "weight": 0.46,
+      "weight": 0.45995400459954133,
       "isin": "US38145GAS93",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 16902602.84
@@ -2634,7 +2641,7 @@
     {
       "t": "US403949AS99",
       "n": "HF Sinclair Corporation 6.25% 01/15/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US403949AS99",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3003410.57
@@ -2642,7 +2649,7 @@
     {
       "t": "US40409AAC45",
       "n": "HA SUSTAINABLE INF CAP 5.95% 07/15/2033",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US40409AAC45",
       "sector": "Financials",
       "mv": 4006200.73
@@ -2650,7 +2657,7 @@
     {
       "t": "US404119CK30",
       "n": "HCA Inc. 3.63% 03/15/2032",
-      "weight": 0.19,
+      "weight": 0.18998100189981054,
       "isin": "US404119CK30",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7134349.45
@@ -2658,7 +2665,7 @@
     {
       "t": "US404119CU12",
       "n": "HCA Inc. 5.60% 04/01/2034",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US404119CU12",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5176326.27
@@ -2666,7 +2673,7 @@
     {
       "t": "US404119DB22",
       "n": "HCA Inc. 5.75% 03/01/2035",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US404119DB22",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6191573.46
@@ -2674,7 +2681,7 @@
     {
       "t": "US404280DH94",
       "n": "HSBC Holdings plc 5.40% 08/11/2032",
-      "weight": 0.27,
+      "weight": 0.2699730026997308,
       "isin": "US404280DH94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 9845808.21
@@ -2682,7 +2689,7 @@
     {
       "t": "US404280FM61",
       "n": "HSBC HOLDINGS PLC 5.28% 03/10/2036",
-      "weight": 0.27,
+      "weight": 0.2699730026997308,
       "isin": "US404280FM61",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 10160391.07
@@ -2690,7 +2697,7 @@
     {
       "t": "US404280FT15",
       "n": "N/A 5.73% 08/14/2036",
-      "weight": 0.35,
+      "weight": 0.349965003499651,
       "isin": "US404280FT15",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 13089041.31
@@ -2698,7 +2705,7 @@
     {
       "t": "US40434LAN55",
       "n": "HP Inc. 5.50% 01/15/2033",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US40434LAN55",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4278983.13
@@ -2706,7 +2713,7 @@
     {
       "t": "US40555XAC65",
       "n": "HALEON US CAPITAL LLC 5.38% 08/21/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US40555XAC65",
       "sector": "-",
       "mv": 2995831.95
@@ -2714,7 +2721,7 @@
     {
       "t": "US41068XAF78",
       "n": "HA Sustainable Infrastructure Capital, Inc. 6.38% 07/01/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US41068XAF78",
       "sector": "Financials",
       "mv": 3855639.44
@@ -2722,7 +2729,7 @@
     {
       "t": "US42250PAE34",
       "n": "Healthpeak Properties, Inc. 5.25% 12/15/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US42250PAE34",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2919212.87
@@ -2730,7 +2737,7 @@
     {
       "t": "US42824CBU27",
       "n": "Hewlett Packard Enterprise Company 4.85% 10/15/2031",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US42824CBU27",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4877560.23
@@ -2738,7 +2745,7 @@
     {
       "t": "US42824CBV00",
       "n": "Hewlett Packard Enterprise Company 5.00% 10/15/2034",
-      "weight": 0.21,
+      "weight": 0.2099790020997906,
       "isin": "US42824CBV00",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7642642.49
@@ -2746,7 +2753,7 @@
     {
       "t": "US43475RAT32",
       "n": "AMRIZE FINANCE US LLC 5.40% 04/07/2035",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US43475RAT32",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3899905.94
@@ -2754,7 +2761,7 @@
     {
       "t": "US437076CP51",
       "n": "The Home Depot, Inc. 3.25% 04/15/2032",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US437076CP51",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4515733.79
@@ -2762,7 +2769,7 @@
     {
       "t": "US437076CS90",
       "n": "The Home Depot, Inc. 4.50% 09/15/2032",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US437076CS90",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4738910.75
@@ -2770,7 +2777,7 @@
     {
       "t": "US437076DE95",
       "n": "The Home Depot, Inc. 4.95% 06/25/2034",
-      "weight": 0.19,
+      "weight": 0.18998100189981054,
       "isin": "US437076DE95",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7055475.97
@@ -2778,7 +2785,7 @@
     {
       "t": "US438127AC63",
       "n": "HONDA MOTOR CO LTD 2.97% 03/10/2032",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US438127AC63",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2578217.87
@@ -2786,7 +2793,7 @@
     {
       "t": "US438127AF94",
       "n": "HONDA MOTOR CO LTD 5.34% 07/08/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US438127AF94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3817099.74
@@ -2794,7 +2801,7 @@
     {
       "t": "US43849RAQ83",
       "n": "HONEYWELL AEROSPACE INC 4.60% 03/16/2033",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US43849RAQ83",
       "sector": "Industrials",
       "mv": 6546601.78
@@ -2802,7 +2809,7 @@
     {
       "t": "US43849RAR66",
       "n": "HONEYWELL AEROSPACE INC 4.95% 03/16/2036",
-      "weight": 0.33,
+      "weight": 0.32996700329967094,
       "isin": "US43849RAR66",
       "sector": "Industrials",
       "mv": 12335874.35
@@ -2810,7 +2817,7 @@
     {
       "t": "US438516CM68",
       "n": "Honeywell International Inc. 4.50% 01/15/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US438516CM68",
       "sector": "Industrials",
       "mv": 3717510.89
@@ -2818,7 +2825,7 @@
     {
       "t": "US444859BV38",
       "n": "Humana Inc. 5.88% 03/01/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US444859BV38",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2954528.12
@@ -2826,7 +2833,7 @@
     {
       "t": "US444859BY76",
       "n": "Humana Inc. 5.95% 03/15/2034",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US444859BY76",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3358171.45
@@ -2834,7 +2841,7 @@
     {
       "t": "US444859CD21",
       "n": "Humana Inc. 5.55% 05/01/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US444859CD21",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2900537.67
@@ -2842,7 +2849,7 @@
     {
       "t": "US446150BD56",
       "n": "Huntington Bancshares Incorporated 5.71% 02/02/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US446150BD56",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4859083.49
@@ -2850,7 +2857,7 @@
     {
       "t": "US446150BL72",
       "n": "HUNTINGTON BANCSHARES INC/OH 5.61% 01/28/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US446150BL72",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2794511.43
@@ -2858,7 +2865,7 @@
     {
       "t": "US449276AE42",
       "n": "IBM INTERNATIONAL CAPITAL PTE LTD 4.90% 02/05/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US449276AE42",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3744884.16
@@ -2866,7 +2873,7 @@
     {
       "t": "US456837BH52",
       "n": "ING Groep N.V. 6.11% 09/11/2033",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US456837BH52",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5149613.01
@@ -2874,7 +2881,7 @@
     {
       "t": "US456837BM48",
       "n": "ING Groep N.V. 5.55% 03/19/2034",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US456837BM48",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5773280.64
@@ -2882,7 +2889,7 @@
     {
       "t": "US456837BV47",
       "n": "ING GROEP NV 5.42% 03/23/2036",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US456837BV47",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6160521.73
@@ -2890,7 +2897,7 @@
     {
       "t": "US45687VAB27",
       "n": "Ingersoll Rand Inc. 5.70% 08/14/2033",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US45687VAB27",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3958766.34
@@ -2898,7 +2905,7 @@
     {
       "t": "US45687VAF31",
       "n": "Ingersoll Rand Inc. 5.45% 06/15/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US45687VAF31",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2941918.57
@@ -2906,7 +2913,7 @@
     {
       "t": "US458140CA64",
       "n": "Intel Corp. 4.15% 08/05/2032",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US458140CA64",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4713415.22
@@ -2914,7 +2921,7 @@
     {
       "t": "US458140CG35",
       "n": "Intel Corp. 5.20% 02/10/2033",
-      "weight": 0.24,
+      "weight": 0.2399760023997607,
       "isin": "US458140CG35",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8737115.18
@@ -2922,7 +2929,7 @@
     {
       "t": "US458140CS72",
       "n": "INTEL CORP 5.30% 05/15/2036",
-      "weight": 0.23,
+      "weight": 0.22997700229977067,
       "isin": "US458140CS72",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8579921.4
@@ -2930,7 +2937,7 @@
     {
       "t": "US45865VAE02",
       "n": "INTERCONTINENTALEXCHANGE 4.90% 09/01/2031",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US45865VAE02",
       "sector": "Financials",
       "mv": 4281089.82
@@ -2938,7 +2945,7 @@
     {
       "t": "US45866FAW41",
       "n": "Intercontinental Exchange, Inc. 4.60% 03/15/2033",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US45866FAW41",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5664741.95
@@ -2946,7 +2953,7 @@
     {
       "t": "US459200LJ85",
       "n": "International Business Machines Corporation 5.20% 02/10/2035",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US459200LJ85",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3384712.62
@@ -2954,7 +2961,7 @@
     {
       "t": "US459200LT67",
       "n": "INTERNATIONAL BUSINESS MACHINES CORP 4.95% 02/03/2036",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US459200LT67",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4060293.58
@@ -2962,7 +2969,7 @@
     {
       "t": "US46124HAG11",
       "n": "Intuit Inc. 5.20% 09/15/2033",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US46124HAG11",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4822735.51
@@ -2970,7 +2977,7 @@
     {
       "t": "US46124HAL06",
       "n": "INTUIT INC 5.50% 06/15/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US46124HAL06",
       "sector": "Information Technology",
       "mv": 3779303.32
@@ -2978,7 +2985,7 @@
     {
       "t": "US46590XAP15",
       "n": "JBS NV/JBS USA FOODS GROUP HOLDINGS INC/JBS USA FOOD CO HOLDINGS 3.00% 05/15/2032",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US46590XAP15",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3442569.57
@@ -2986,7 +2993,7 @@
     {
       "t": "US46590XAY22",
       "n": "JBS NV/JBS USA FOODS GROUP HOLDINGS INC/JBS USA FOOD CO HOLDINGS 5.75% 04/01/2033",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US46590XAY22",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6653589.83
@@ -2994,7 +3001,7 @@
     {
       "t": "US46647PDH64",
       "n": "JPMorgan Chase & Co. 4.91% 07/25/2032",
-      "weight": 0.46,
+      "weight": 0.45995400459954133,
       "isin": "US46647PDH64",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 17223806.69
@@ -3002,7 +3009,7 @@
     {
       "t": "US46647PDR47",
       "n": "JPMorgan Chase & Co. 5.35% 06/01/2033",
-      "weight": 0.49,
+      "weight": 0.4899510048995114,
       "isin": "US46647PDR47",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 18319252.88
@@ -3010,7 +3017,7 @@
     {
       "t": "US46647PFC59",
       "n": "JPMorgan Chase & Co. 5.58% 07/23/2035",
-      "weight": 0.42,
+      "weight": 0.4199580041995812,
       "isin": "US46647PFC59",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 15382577.27
@@ -3018,7 +3025,7 @@
     {
       "t": "US472140AF96",
       "n": "JBS USA HOLDING LUX SARL / JBS USA FOODS GROUP HOLDINGS INC / JBS USA FOOD CO 5.50% 01/15/2036",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US472140AF96",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4701358.39
@@ -3026,7 +3033,7 @@
     {
       "t": "US47233JGT97",
       "n": "Jefferies Financial Group Inc. 2.63% 10/15/2031",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US47233JGT97",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3383715.88
@@ -3034,7 +3041,7 @@
     {
       "t": "US47233WEJ45",
       "n": "Jefferies Financial Group Inc. 6.20% 04/14/2034",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US47233WEJ45",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6256137.84
@@ -3042,7 +3049,7 @@
     {
       "t": "US47233WLL18",
       "n": "JEFFERIES FINANCIAL GROUP INC 5.50% 02/15/2036",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US47233WLL18",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5440871.24
@@ -3050,7 +3057,7 @@
     {
       "t": "US478160CW20",
       "n": "Johnson & Johnson 4.95% 06/01/2034",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US478160CW20",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3381537.95
@@ -3058,7 +3065,7 @@
     {
       "t": "US478160DK72",
       "n": "Johnson & Johnson 4.85% 03/01/2032",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US478160DK72",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4888524.06
@@ -3066,7 +3073,7 @@
     {
       "t": "US478160DL55",
       "n": "Johnson & Johnson 5.00% 03/01/2035",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US478160DL55",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5183013.82
@@ -3074,7 +3081,7 @@
     {
       "t": "US482480AL46",
       "n": "KLA Corporation 4.65% 07/15/2032",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US482480AL46",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3810721.56
@@ -3082,7 +3089,7 @@
     {
       "t": "US48251WAB00",
       "n": "KKR & Co. Inc. 5.10% 08/07/2035",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US48251WAB00",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3302106.85
@@ -3090,7 +3097,7 @@
     {
       "t": "US49177JAK88",
       "n": "Kenvue Inc. 4.90% 03/22/2033",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US49177JAK88",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4830902.2
@@ -3098,7 +3105,7 @@
     {
       "t": "US49177JAS15",
       "n": "Kenvue Inc. 4.85% 05/22/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US49177JAS15",
       "sector": "Consumer Staples",
       "mv": 2928081.77
@@ -3106,7 +3113,7 @@
     {
       "t": "US49271VAQ32",
       "n": "Keurig Dr Pepper Inc. 4.05% 04/15/2032",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US49271VAQ32",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3169893.9
@@ -3114,7 +3121,7 @@
     {
       "t": "US49326EEN94",
       "n": "KeyCorp 4.79% 06/01/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US49326EEN94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2842751.18
@@ -3122,7 +3129,7 @@
     {
       "t": "US49326EEP43",
       "n": "KeyCorp 6.40% 03/06/2034",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US49326EEP43",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4021255.67
@@ -3130,7 +3137,7 @@
     {
       "t": "US49327M3H53",
       "n": "KeyBank National Association 5.00% 01/26/2033",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US49327M3H53",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4332024.55
@@ -3138,7 +3145,7 @@
     {
       "t": "US494553AE00",
       "n": "Kinder Morgan, Inc. 5.40% 02/01/2034",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US494553AE00",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3964448.71
@@ -3146,7 +3153,7 @@
     {
       "t": "US49456BAX91",
       "n": "Kinder Morgan, Inc. 5.20% 06/01/2033",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US49456BAX91",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6412081.59
@@ -3154,7 +3161,7 @@
     {
       "t": "US49456BBE02",
       "n": "KINDER MORGAN INC 5.55% 08/01/2036",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US49456BBE02",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4390994.92
@@ -3162,7 +3169,7 @@
     {
       "t": "US501044DV05",
       "n": "The Kroger Co. 5.00% 09/15/2034",
-      "weight": 0.22,
+      "weight": 0.21997800219978064,
       "isin": "US501044DV05",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8241647.22
@@ -3170,7 +3177,7 @@
     {
       "t": "US502431AQ20",
       "n": "L3Harris Technologies, Inc. 5.40% 07/31/2033",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US502431AQ20",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5920280.36
@@ -3178,7 +3185,7 @@
     {
       "t": "US502431AU32",
       "n": "L3Harris Technologies, Inc. 5.35% 06/01/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US502431AU32",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2924240.49
@@ -3186,7 +3193,7 @@
     {
       "t": "US50249AAM53",
       "n": "LYB International Finance III, LLC 5.50% 03/01/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US50249AAM53",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2857265.65
@@ -3194,7 +3201,7 @@
     {
       "t": "US50249AAR41",
       "n": "LYB INTERNATIONAL FINANCE III LLC 5.88% 01/15/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US50249AAR41",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3871934.03
@@ -3202,7 +3209,7 @@
     {
       "t": "US50540RBB78",
       "n": "Labcorp Holdings Inc. 4.80% 10/01/2034",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US50540RBB78",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3237090.99
@@ -3210,7 +3217,7 @@
     {
       "t": "US52532XAJ46",
       "n": "Leidos, Inc. 5.75% 03/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US52532XAJ46",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2934480.67
@@ -3218,7 +3225,7 @@
     {
       "t": "US52532XAN57",
       "n": "LEIDOS INC 5.00% 03/15/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US52532XAN57",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2859045.96
@@ -3226,7 +3233,7 @@
     {
       "t": "US532457CL03",
       "n": "Eli Lilly and Company 4.70% 02/09/2034",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US532457CL03",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5672519.15
@@ -3234,7 +3241,7 @@
     {
       "t": "US532457CR72",
       "n": "Eli Lilly and Company 4.60% 08/14/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US532457CR72",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4936172.51
@@ -3242,7 +3249,7 @@
     {
       "t": "US532457DR63",
       "n": "ELI LILLY & CO 4.85% 05/20/2036",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US532457DR63",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5660565.01
@@ -3250,7 +3257,7 @@
     {
       "t": "US539439BE84",
       "n": "Lloyds Banking Group plc 6.07% 06/13/2035",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US539439BE84",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5481838.09
@@ -3258,7 +3265,7 @@
     {
       "t": "US53944YAU73",
       "n": "Lloyds Banking Group plc 4.98% 08/11/2032",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US53944YAU73",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4766697.04
@@ -3266,7 +3273,7 @@
     {
       "t": "US53944YAX13",
       "n": "Lloyds Banking Group plc 5.68% 01/05/2034",
-      "weight": 0.22,
+      "weight": 0.21997800219978064,
       "isin": "US53944YAX13",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7992299.51
@@ -3274,7 +3281,7 @@
     {
       "t": "US539830BR92",
       "n": "Lockheed Martin Corporation 3.90% 06/15/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US539830BR92",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3045436.85
@@ -3282,7 +3289,7 @@
     {
       "t": "US539830BW87",
       "n": "Lockheed Martin Corporation 5.25% 01/15/2033",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US539830BW87",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3962038.13
@@ -3290,7 +3297,7 @@
     {
       "t": "US539830CA58",
       "n": "Lockheed Martin Corporation 4.75% 02/15/2034",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US539830CA58",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3235793.77
@@ -3298,7 +3305,7 @@
     {
       "t": "US548661EH62",
       "n": "Lowe's Companies, Inc. 3.75% 04/01/2032",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US548661EH62",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5577873.3
@@ -3306,7 +3313,7 @@
     {
       "t": "US548661EL74",
       "n": "Lowe's Companies, Inc. 5.00% 04/15/2033",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US548661EL74",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4858092.77
@@ -3314,7 +3321,7 @@
     {
       "t": "US548661EW30",
       "n": "Lowe's Companies, Inc. 4.50% 10/15/2032",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US548661EW30",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5221400.9
@@ -3322,7 +3329,7 @@
     {
       "t": "US55261FAR55",
       "n": "M&T Bank Corp. 5.05% 01/27/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US55261FAR55",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3788517.13
@@ -3330,7 +3337,7 @@
     {
       "t": "US55261FAV67",
       "n": "M&T Bank Corporation 5.39% 01/16/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US55261FAV67",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3857046.55
@@ -3338,7 +3345,7 @@
     {
       "t": "US55336VBV18",
       "n": "MPLX LP 5.00% 03/01/2033",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US55336VBV18",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4197424.09
@@ -3346,7 +3353,7 @@
     {
       "t": "US55336VBX73",
       "n": "MPLX LP 5.50% 06/01/2034",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US55336VBX73",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6411464.28
@@ -3354,7 +3361,7 @@
     {
       "t": "US55336VCC28",
       "n": "MPLX LP 5.40% 09/15/2035",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US55336VCC28",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5651741.9
@@ -3362,7 +3369,7 @@
     {
       "t": "US55354GAR11",
       "n": "MSCI Inc. 5.25% 09/01/2035",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US55354GAR11",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4659739.62
@@ -3370,7 +3377,7 @@
     {
       "t": "US56501RAN61",
       "n": "Manulife Financial Corporation 3.70% 03/16/2032",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US56501RAN61",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2708511.24
@@ -3378,7 +3385,7 @@
     {
       "t": "US56501RAX44",
       "n": "Manulife Financial Corp 4.99% 12/11/2035",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US56501RAX44",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4138978.35
@@ -3386,7 +3393,7 @@
     {
       "t": "US56585ABL52",
       "n": "Marathon Petroleum Corporation 5.70% 03/01/2035",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US56585ABL52",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3480593.18
@@ -3394,7 +3401,7 @@
     {
       "t": "US571748CB69",
       "n": "Marsh & McLennan Companies, Inc. 4.85% 11/15/2031",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US571748CB69",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3895962.42
@@ -3402,7 +3409,7 @@
     {
       "t": "US571748CC43",
       "n": "Marsh & McLennan Companies, Inc. 5.00% 03/15/2035",
-      "weight": 0.21,
+      "weight": 0.2099790020997906,
       "isin": "US571748CC43",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7949932.34
@@ -3410,7 +3417,7 @@
     {
       "t": "US571903BQ56",
       "n": "Marriott International Inc. 5.30% 05/15/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US571903BQ56",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3876010.22
@@ -3418,7 +3425,7 @@
     {
       "t": "US571903BS13",
       "n": "Marriott International, Inc. 5.35% 03/15/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US571903BS13",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3793614.3
@@ -3426,7 +3433,7 @@
     {
       "t": "US573284BD72",
       "n": "MARTIN MARIETTA MATERIAL 5.20% 01/30/2032",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US573284BD72",
       "sector": "Materials",
       "mv": 4865614.82
@@ -3434,7 +3441,7 @@
     {
       "t": "US573284BE55",
       "n": "MARTIN MARIETTA MATERIAL 5.40% 01/30/2034",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US573284BE55",
       "sector": "Materials",
       "mv": 4435611.59
@@ -3442,7 +3449,7 @@
     {
       "t": "US573284BF21",
       "n": "MARTIN MARIETTA MATERIAL 5.63% 08/15/2036",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US573284BF21",
       "sector": "Materials",
       "mv": 5796257.83
@@ -3450,7 +3457,7 @@
     {
       "t": "US573874AT14",
       "n": "MARVELL TECHNOLOGY INC 5.30% 04/15/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US573874AT14",
       "sector": "Information Technology",
       "mv": 3822098.92
@@ -3458,7 +3465,7 @@
     {
       "t": "US57636QAZ72",
       "n": "Mastercard Incorporated 4.88% 05/09/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US57636QAZ72",
       "sector": "Financials",
       "mv": 3859279.7
@@ -3466,7 +3473,7 @@
     {
       "t": "US57636QBB95",
       "n": "Mastercard Incorporated 4.35% 01/15/2032",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US57636QBB95",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4609205.82
@@ -3474,7 +3481,7 @@
     {
       "t": "US57636QBC78",
       "n": "Mastercard Incorporated 4.55% 01/15/2035",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US57636QBC78",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4102230.34
@@ -3482,7 +3489,7 @@
     {
       "t": "US58013MFS89",
       "n": "Mcdonald's Corporation 4.60% 09/09/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US58013MFS89",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2855749.22
@@ -3490,7 +3497,7 @@
     {
       "t": "US58013MGA62",
       "n": "McDonald's Corporation 4.95% 03/03/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US58013MGA62",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3619686.33
@@ -3498,7 +3505,7 @@
     {
       "t": "US58013MGC29",
       "n": "McDonald's Corporation 5.00% 02/13/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US58013MGC29",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2818942.55
@@ -3506,7 +3513,7 @@
     {
       "t": "US58507LBC28",
       "n": "MEDTRONIC GLOBAL HOLDINGS SCA 4.50% 03/30/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US58507LBC28",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3815857.55
@@ -3514,7 +3521,7 @@
     {
       "t": "US58733RAG74",
       "n": "MERCADOLIBRE INC 4.90% 01/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US58733RAG74",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2803978.82
@@ -3522,7 +3529,7 @@
     {
       "t": "US58933YBE41",
       "n": "Merck & Co., Inc. 2.15% 12/10/2031",
-      "weight": 0.19,
+      "weight": 0.18998100189981054,
       "isin": "US58933YBE41",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6867717.04
@@ -3530,7 +3537,7 @@
     {
       "t": "US58933YBK01",
       "n": "Merck & Co., Inc. 4.50% 05/17/2033",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US58933YBK01",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5787546.55
@@ -3538,7 +3545,7 @@
     {
       "t": "US58933YBS37",
       "n": "Merck & Co., Inc. 4.95% 09/15/2035",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US58933YBS37",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6564187.14
@@ -3546,7 +3553,7 @@
     {
       "t": "US59156RCE62",
       "n": "MetLife, Inc. 5.38% 07/15/2033",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US59156RCE62",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4010850.24
@@ -3554,7 +3561,7 @@
     {
       "t": "US59156RCQ92",
       "n": "MetLife, Inc. 6.35% 03/15/2035",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US59156RCQ92",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3910869.04
@@ -3562,7 +3569,7 @@
     {
       "t": "US59156RCR75",
       "n": "METLIFE INC 5.85% 03/15/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US59156RCR75",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3742918.65
@@ -3570,7 +3577,7 @@
     {
       "t": "US595112BS19",
       "n": "Micron Technology Inc. 2.70% 04/15/2032",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US595112BS19",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3462664.72
@@ -3578,7 +3585,7 @@
     {
       "t": "US606822CK87",
       "n": "MITSUBISHI UFJ FINANCIAL GROUP INC 5.13% 07/20/2032",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US606822CK87",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5938017.24
@@ -3586,7 +3593,7 @@
     {
       "t": "US606822DF83",
       "n": "MITSUBISHI UFJ FINANCIAL GROUP INC 5.43% 04/17/2034",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US606822DF83",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6160763.34
@@ -3594,7 +3601,7 @@
     {
       "t": "US606822DL51",
       "n": "MITSUBISHI UFJ FINANCIAL GROUP INC 5.62% 04/24/2035",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US606822DL51",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6058169.72
@@ -3602,7 +3609,7 @@
     {
       "t": "US60687YBU29",
       "n": "MIZUHO FINANCIAL GROUP INC 2.56% 09/13/2031",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US60687YBU29",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3393196.94
@@ -3610,7 +3617,7 @@
     {
       "t": "US60687YDB20",
       "n": "MIZUHO FINANCIAL GROUP INC 5.75% 07/06/2033",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US60687YDB20",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4333545.11
@@ -3618,7 +3625,7 @@
     {
       "t": "US60687YDM84",
       "n": "MIZUHO FINANCIAL GROUP INC 5.32% 07/08/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US60687YDM84",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3812490.68
@@ -3626,7 +3633,7 @@
     {
       "t": "US60871RAT77",
       "n": "MOLSON COORS BEVERAGE CO 5.50% 07/08/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US60871RAT77",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3823800.41
@@ -3634,7 +3641,7 @@
     {
       "t": "US609207BB05",
       "n": "Mondelez International, Inc. 3.00% 03/17/2032",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US609207BB05",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2605296.79
@@ -3642,7 +3649,7 @@
     {
       "t": "US61747YFE05",
       "n": "Morgan Stanley 5.25% 04/21/2033",
-      "weight": 0.35,
+      "weight": 0.349965003499651,
       "isin": "US61747YFE05",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 12921859.53
@@ -3650,7 +3657,7 @@
     {
       "t": "US61748UAT97",
       "n": "MORGAN STANLEY 5.07% 01/30/2036",
-      "weight": 0.4,
+      "weight": 0.3999600039996012,
       "isin": "US61748UAT97",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 14746309.16
@@ -3658,7 +3665,7 @@
     {
       "t": "US61748UAX00",
       "n": "MORGAN STANLEY 5.30% 04/10/2036",
-      "weight": 0.39,
+      "weight": 0.38996100389961114,
       "isin": "US61748UAX00",
       "sector": "Financials",
       "mv": 14590595.03
@@ -3666,7 +3673,7 @@
     {
       "t": "US620076BZ10",
       "n": "Motorola Solutions, Inc. 5.40% 04/15/2034",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US620076BZ10",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3486631.53
@@ -3674,7 +3681,7 @@
     {
       "t": "US620076CC16",
       "n": "Motorola Solutions, Inc. 5.55% 08/15/2035",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US620076CC16",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3437214.55
@@ -3682,7 +3689,7 @@
     {
       "t": "US62954HAJ77",
       "n": "NXP B.V. 2.65% 02/15/2032",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US62954HAJ77",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3456023.8
@@ -3690,7 +3697,7 @@
     {
       "t": "US62954HBB33",
       "n": "NXP B.V. 5.00% 01/15/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US62954HBB33",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3811120.03
@@ -3698,7 +3705,7 @@
     {
       "t": "US63111XAJ00",
       "n": "Nasdaq Inc. 5.55% 02/15/2034",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US63111XAJ00",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4497204.96
@@ -3706,7 +3713,7 @@
     {
       "t": "US636274AE20",
       "n": "National Grid PLC 5.81% 06/12/2033",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US636274AE20",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3157671.35
@@ -3714,7 +3721,7 @@
     {
       "t": "US636274AF94",
       "n": "National Grid PLC 5.42% 01/11/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US636274AF94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2918511.04
@@ -3722,7 +3729,7 @@
     {
       "t": "US636274AG77",
       "n": "National Grid PLC 5.41% 06/09/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US636274AG77",
       "sector": "Utilities",
       "mv": 2855882.17
@@ -3730,7 +3737,7 @@
     {
       "t": "US639057AH16",
       "n": "NATWEST GROUP PLC 6.02% 03/02/2033",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US639057AH16",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4125453.51
@@ -3738,7 +3745,7 @@
     {
       "t": "US639057AN83",
       "n": "NATWEST GROUP PLC 5.78% 03/01/2034",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US639057AN83",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6008072.27
@@ -3746,7 +3753,7 @@
     {
       "t": "US64110LAZ94",
       "n": "Netflix, Inc. 4.90% 08/15/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US64110LAZ94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3855595.32
@@ -3754,7 +3761,7 @@
     {
       "t": "US64110LBB18",
       "n": "NETFLIX INC 5.25% 08/15/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US64110LBB18",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3816675.4
@@ -3762,7 +3769,7 @@
     {
       "t": "US651639AZ99",
       "n": "Newmont Corp. 2.60% 07/15/2032",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US651639AZ99",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2690615.72
@@ -3770,7 +3777,7 @@
     {
       "t": "US65163LAR06",
       "n": "Newmont Corporation 5.35% 03/15/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US65163LAR06",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3877303.09
@@ -3778,7 +3785,7 @@
     {
       "t": "US65339KCU25",
       "n": "NextEra Energy Capital Holdings, Inc. 5.25% 03/15/2034",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US65339KCU25",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4226735.46
@@ -3786,7 +3793,7 @@
     {
       "t": "US65339KDB35",
       "n": "NextEra Energy Capital Holdings, Inc. 6.75% 06/15/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US65339KDB35",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4893950.04
@@ -3794,7 +3801,7 @@
     {
       "t": "US65473PAX33",
       "n": "NiSource Inc. 5.35% 07/15/2035",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US65473PAX33",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3416105.44
@@ -3802,7 +3809,7 @@
     {
       "t": "US65473PBB04",
       "n": "NISOURCE INC 5.30% 05/18/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US65473PBB04",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2864187.25
@@ -3810,7 +3817,7 @@
     {
       "t": "US65473PBC86",
       "n": "NISOURCE INC 6.25% 04/15/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US65473PBC86",
       "sector": "Utilities",
       "mv": 3071732.57
@@ -3818,7 +3825,7 @@
     {
       "t": "US65535HBA68",
       "n": "NOMURA HOLDINGS INC 3.00% 01/22/2032",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US65535HBA68",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2722200.75
@@ -3826,7 +3833,7 @@
     {
       "t": "US65535HBV06",
       "n": "NOMURA HOLDINGS INC 5.78% 07/03/2034",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US65535HBV06",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4094177.39
@@ -3834,7 +3841,7 @@
     {
       "t": "US65535HCM97",
       "n": "NOMURA HOLDINGS INC 5.55% 07/14/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US65535HCM97",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3800731.07
@@ -3842,7 +3849,7 @@
     {
       "t": "US665859AX29",
       "n": "Northern Trust Corporation 6.13% 11/02/2032",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US665859AX29",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4147459.08
@@ -3850,7 +3857,7 @@
     {
       "t": "US665859AZ76",
       "n": "NORTHERN TRUST CORP 5.12% 11/19/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US665859AZ76",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2797681
@@ -3858,7 +3865,7 @@
     {
       "t": "US666807CH36",
       "n": "Northrop Grumman Corporation 4.70% 03/15/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US666807CH36",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3769107.08
@@ -3866,7 +3873,7 @@
     {
       "t": "US666807CL48",
       "n": "Northrop Grumman Corporation 4.90% 06/01/2034",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US666807CL48",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3276903.9
@@ -3874,7 +3881,7 @@
     {
       "t": "US66989HAV06",
       "n": "Novartis Capital Corporation 4.20% 09/18/2034",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US66989HAV06",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4019491.13
@@ -3882,7 +3889,7 @@
     {
       "t": "US66989HBH03",
       "n": "NOVARTIS CAPITAL CORP 4.60% 03/18/2033",
-      "weight": 0.22,
+      "weight": 0.21997800219978064,
       "isin": "US66989HBH03",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8204562.49
@@ -3890,7 +3897,7 @@
     {
       "t": "US66989HBJ68",
       "n": "NOVARTIS CAPITAL CORP 4.90% 03/18/2036",
-      "weight": 0.24,
+      "weight": 0.2399760023997607,
       "isin": "US66989HBJ68",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8720685.25
@@ -3898,7 +3905,7 @@
     {
       "t": "US67066GAS30",
       "n": "NVIDIA CORP 4.75% 06/15/2033",
-      "weight": 0.37,
+      "weight": 0.36996300369963103,
       "isin": "US67066GAS30",
       "sector": "Information Technology",
       "mv": 13649213.21
@@ -3906,7 +3913,7 @@
     {
       "t": "US67066GAT13",
       "n": "NVIDIA CORP 4.95% 06/15/2036",
-      "weight": 0.4,
+      "weight": 0.3999600039996012,
       "isin": "US67066GAT13",
       "sector": "Information Technology",
       "mv": 14925698.05
@@ -3914,7 +3921,7 @@
     {
       "t": "US67103HAL15",
       "n": "O'Reilly Automotive, Inc. 4.70% 06/15/2032",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US67103HAL15",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3277577.97
@@ -3922,7 +3929,7 @@
     {
       "t": "US67103HAP29",
       "n": "O'REILLY AUTOMOTIVE INC 5.10% 03/12/2036",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US67103HAP29",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3177110.65
@@ -3930,7 +3937,7 @@
     {
       "t": "US674599EL59",
       "n": "Occidental Petroleum Corporation 5.55% 10/01/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US674599EL59",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3139086.22
@@ -3938,7 +3945,7 @@
     {
       "t": "US68233JCS15",
       "n": "Oncor Electric Delivery Company LLC 5.65% 11/15/2033",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US68233JCS15",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3159994.74
@@ -3946,7 +3953,7 @@
     {
       "t": "US682680BL63",
       "n": "ONEOK, Inc. 6.05% 09/01/2033",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US682680BL63",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6000995.57
@@ -3954,7 +3961,7 @@
     {
       "t": "US682680CD39",
       "n": "ONEOK, Inc. 4.75% 10/15/2031",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US682680CD39",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4857582.73
@@ -3962,7 +3969,7 @@
     {
       "t": "US682680CE12",
       "n": "ONEOK, Inc. 5.05% 11/01/2034",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US682680CE12",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6091698.23
@@ -3970,7 +3977,7 @@
     {
       "t": "US68389XDK81",
       "n": "Oracle Corporation 4.80% 09/26/2032",
-      "weight": 0.29,
+      "weight": 0.2899710028997108,
       "isin": "US68389XDK81",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 10689448.58
@@ -3978,7 +3985,7 @@
     {
       "t": "US68389XDM48",
       "n": "Oracle Corporation 5.20% 09/26/2035",
-      "weight": 0.37,
+      "weight": 0.36996300369963103,
       "isin": "US68389XDM48",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 13717220.6
@@ -3986,7 +3993,7 @@
     {
       "t": "US68389XDZ50",
       "n": "ORACLE CORP 5.70% 02/04/2036",
-      "weight": 0.5,
+      "weight": 0.49995000499950143,
       "isin": "US68389XDZ50",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 18404508.65
@@ -3994,7 +4001,7 @@
     {
       "t": "US690742AP69",
       "n": "Owens Corning 5.70% 06/15/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US690742AP69",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3103626.6
@@ -4002,7 +4009,7 @@
     {
       "t": "US693475BJ30",
       "n": "PNC Financial Services Group Inc. (The) 6.04% 10/28/2032",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US693475BJ30",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6580921.24
@@ -4010,7 +4017,7 @@
     {
       "t": "US693475BU84",
       "n": "PNC Financial Services Group Inc. (The) 6.88% 10/20/2033",
-      "weight": 0.26,
+      "weight": 0.25997400259974074,
       "isin": "US693475BU84",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 9625481.33
@@ -4018,7 +4025,7 @@
     {
       "t": "US693475CC77",
       "n": "The PNC Financial Services Group, Inc. 5.58% 01/29/2035",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US693475CC77",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6779926.65
@@ -4026,7 +4033,7 @@
     {
       "t": "US69352PAT03",
       "n": "PPL Capital Funding, Inc. 5.25% 09/01/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US69352PAT03",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2850600.65
@@ -4034,7 +4041,7 @@
     {
       "t": "US694308KM84",
       "n": "Pacific Gas & Electric Co. 6.40% 06/15/2033",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US694308KM84",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4728944.26
@@ -4042,7 +4049,7 @@
     {
       "t": "US694308KR71",
       "n": "Pacific Gas and Electric Company 5.80% 05/15/2034",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US694308KR71",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4279917.57
@@ -4050,7 +4057,7 @@
     {
       "t": "US694308KU01",
       "n": "Pacific Gas and Electric Company 5.70% 03/01/2035",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US694308KU01",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4214164.32
@@ -4058,7 +4065,7 @@
     {
       "t": "US695114DD77",
       "n": "PacifiCorp 5.45% 02/15/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US695114DD77",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4665868.64
@@ -4066,7 +4073,7 @@
     {
       "t": "US695114DP08",
       "n": "PACIFICORP 5.45% 04/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US695114DP08",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3116348.85
@@ -4074,7 +4081,7 @@
     {
       "t": "US695114DQ80",
       "n": "PACIFICORP 5.80% 04/15/2036",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US695114DQ80",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3397329.71
@@ -4082,7 +4089,7 @@
     {
       "t": "US704326AB35",
       "n": "Paychex, Inc. 5.35% 04/15/2032",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US704326AB35",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6016351.41
@@ -4090,7 +4097,7 @@
     {
       "t": "US704326AC18",
       "n": "Paychex, Inc. 5.60% 04/15/2035",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US704326AC18",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4671296.6
@@ -4098,7 +4105,7 @@
     {
       "t": "US70450YAL74",
       "n": "PayPal Holdings Inc. 4.40% 06/01/2032",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US70450YAL74",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3773449.43
@@ -4106,7 +4113,7 @@
     {
       "t": "US70450YAP88",
       "n": "PayPal Holdings Inc. 5.15% 06/01/2034",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US70450YAP88",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3488256.08
@@ -4114,7 +4121,7 @@
     {
       "t": "US713448FE31",
       "n": "PepsiCo Inc. 1.95% 10/21/2031",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US713448FE31",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4313765.6
@@ -4122,7 +4129,7 @@
     {
       "t": "US713448FM56",
       "n": "PepsiCo, Inc. 3.90% 07/18/2032",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US713448FM56",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4902631.92
@@ -4130,7 +4137,7 @@
     {
       "t": "US713448GC65",
       "n": "PepsiCo, Inc. 5.00% 02/07/2035",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US713448GC65",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4774270.64
@@ -4138,7 +4145,7 @@
     {
       "t": "US716973AE24",
       "n": "PFIZER INVESTMENT ENTERPRISES PTE LTD 4.75% 05/19/2033",
-      "weight": 0.53,
+      "weight": 0.5299470052994716,
       "isin": "US716973AE24",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 19625988.07
@@ -4146,7 +4153,7 @@
     {
       "t": "US717081FE83",
       "n": "PFIZER INC 4.50% 11/15/2032",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US717081FE83",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4778820.53
@@ -4154,7 +4161,7 @@
     {
       "t": "US717081FF58",
       "n": "PFIZER INC 4.88% 11/15/2035",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US717081FF58",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4726613.09
@@ -4162,7 +4169,7 @@
     {
       "t": "US718172CX57",
       "n": "Philip Morris International Inc. 5.75% 11/17/2032",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US718172CX57",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6095202.73
@@ -4170,7 +4177,7 @@
     {
       "t": "US718172DB29",
       "n": "Philip Morris International Inc. 5.38% 02/15/2033",
-      "weight": 0.24,
+      "weight": 0.2399760023997607,
       "isin": "US718172DB29",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8866438.71
@@ -4178,7 +4185,7 @@
     {
       "t": "US718172DJ54",
       "n": "Philip Morris International Inc. 5.25% 02/13/2034",
-      "weight": 0.2,
+      "weight": 0.1999800019998006,
       "isin": "US718172DJ54",
       "sector": "Consumer Staples",
       "mv": 7231773.18
@@ -4186,7 +4193,7 @@
     {
       "t": "US718547AR30",
       "n": "Phillips 66 Company 5.30% 06/30/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US718547AR30",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3559353.87
@@ -4194,7 +4201,7 @@
     {
       "t": "US718547BA95",
       "n": "Phillips 66 Company 6.20% 03/15/2036",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US718547BA95",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4114390.39
@@ -4202,7 +4209,7 @@
     {
       "t": "US72147KAH14",
       "n": "Pilgrim's Pride Corporation 3.50% 03/01/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US72147KAH14",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3104749.04
@@ -4210,7 +4217,7 @@
     {
       "t": "US72650RBQ48",
       "n": "Plains All American Pipeline, L.P. 5.95% 06/15/2035",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US72650RBQ48",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4031048.33
@@ -4218,7 +4225,7 @@
     {
       "t": "US72650RBS04",
       "n": "Plains All American Pipeline, L.P. 5.60% 01/15/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US72650RBS04",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3835586.56
@@ -4226,7 +4233,7 @@
     {
       "t": "US740816AR46",
       "n": "Harvard Corporation 4.61% 02/15/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US740816AR46",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2798445.61
@@ -4234,7 +4241,7 @@
     {
       "t": "US742718FW49",
       "n": "Procter & Gamble Co. 2.30% 02/01/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US742718FW49",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2959400.02
@@ -4242,7 +4249,7 @@
     {
       "t": "US742718GA10",
       "n": "The Procter & Gamble Company 4.05% 01/26/2033",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US742718GA10",
       "sector": "Consumer Staples",
       "mv": 3213365.71
@@ -4250,7 +4257,7 @@
     {
       "t": "US742718GG89",
       "n": "The Procter & Gamble Company 4.55% 01/29/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US742718GG89",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2845666.52
@@ -4258,7 +4265,7 @@
     {
       "t": "US743315BD41",
       "n": "PROGRESSIVE CORP/THE 5.15% 03/26/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US743315BD41",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3735393.17
@@ -4266,7 +4273,7 @@
     {
       "t": "US74340XCE94",
       "n": "Prologis, L.P. 4.75% 06/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US74340XCE94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2984736.8
@@ -4274,7 +4281,7 @@
     {
       "t": "US74340XCH26",
       "n": "Prologis, L.P. 5.13% 01/15/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US74340XCH26",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2879139.71
@@ -4282,7 +4289,7 @@
     {
       "t": "US74340XCJ81",
       "n": "Prologis, L.P. 5.00% 03/15/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US74340XCJ81",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2963414.71
@@ -4290,7 +4297,7 @@
     {
       "t": "US744320BJ04",
       "n": "Prudential Financial Inc. 5.13% 02/28/2032",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US744320BJ04",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3742326.03
@@ -4298,7 +4305,7 @@
     {
       "t": "US744320BK76",
       "n": "Prudential Financial Inc. 6.00% 09/01/2032",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US744320BK76",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4722933.57
@@ -4306,7 +4313,7 @@
     {
       "t": "US744320BP63",
       "n": "Prudential Financial, Inc. 6.50% 03/15/2034",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US744320BP63",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3927861.21
@@ -4314,7 +4321,7 @@
     {
       "t": "US744448CZ26",
       "n": "Public Service Co. of Colorado 5.35% 05/15/2034",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US744448CZ26",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3911244.82
@@ -4322,7 +4329,7 @@
     {
       "t": "US744533BS89",
       "n": "Public Service Company of Oklahoma 5.45% 01/15/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US744533BS89",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3006985.24
@@ -4330,7 +4337,7 @@
     {
       "t": "US744538AF64",
       "n": "Public Service Company of New Hampshire 5.35% 10/01/2033",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US744538AF64",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3267972.18
@@ -4338,7 +4345,7 @@
     {
       "t": "US744573AU04",
       "n": "Public Service Enterprise Group Incorporated 2.45% 11/15/2031",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US744573AU04",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2566744.13
@@ -4346,7 +4353,7 @@
     {
       "t": "US74762EAR36",
       "n": "QUANTA SERVICES INC 5.30% 08/09/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US74762EAR36",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2892727.42
@@ -4354,7 +4361,7 @@
     {
       "t": "US74762EAS19",
       "n": "QUANTA SERVICES INC 5.55% 08/09/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US74762EAS19",
       "sector": "Industrials",
       "mv": 2869905.86
@@ -4362,7 +4369,7 @@
     {
       "t": "US74834LBD10",
       "n": "Quest Diagnostics Incorporated 6.40% 11/30/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US74834LBD10",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3136235.76
@@ -4370,7 +4377,7 @@
     {
       "t": "US74834LBG41",
       "n": "Quest Diagnostics Incorporated 5.00% 12/15/2034",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US74834LBG41",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3257173.18
@@ -4378,7 +4385,7 @@
     {
       "t": "US74949LAG77",
       "n": "RELX Capital Inc. 5.25% 03/27/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US74949LAG77",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2841420.95
@@ -4386,7 +4393,7 @@
     {
       "t": "US75513ECN94",
       "n": "RTX Corporation 2.38% 03/15/2032",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US75513ECN94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3262536.21
@@ -4394,7 +4401,7 @@
     {
       "t": "US75513ECR09",
       "n": "RTX Corporation 5.15% 02/27/2033",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US75513ECR09",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4844382.94
@@ -4402,7 +4409,7 @@
     {
       "t": "US75513ECW93",
       "n": "RTX Corp. 6.10% 03/15/2034",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US75513ECW93",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6380021.7
@@ -4410,7 +4417,7 @@
     {
       "t": "US756109BP80",
       "n": "Realty Income Corporation 5.63% 10/13/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US756109BP80",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3099775.47
@@ -4418,7 +4425,7 @@
     {
       "t": "US756109CG72",
       "n": "Realty Income Corporation 5.13% 02/15/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US756109CG72",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2996159.61
@@ -4426,7 +4433,7 @@
     {
       "t": "US756109DB76",
       "n": "REALTY INCOME CORP 4.75% 04/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US756109DB76",
       "sector": "Real Estate",
       "mv": 3006716.97
@@ -4434,7 +4441,7 @@
     {
       "t": "US758750AP89",
       "n": "Regal Rexnord Corporation 6.40% 04/15/2033",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US758750AP89",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5011747.59
@@ -4442,7 +4449,7 @@
     {
       "t": "US7591EPAV24",
       "n": "Regions Financial Corporation 5.50% 09/06/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US7591EPAV24",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3811263.49
@@ -4450,7 +4457,7 @@
     {
       "t": "US75968NAE13",
       "n": "RENAISSANCERE HOLDINGS L 5.75% 06/05/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US75968NAE13",
       "sector": "Financials",
       "mv": 2969466.94
@@ -4458,7 +4465,7 @@
     {
       "t": "US760759BC31",
       "n": "Republic Services, Inc. 5.00% 04/01/2034",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US760759BC31",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3197005.06
@@ -4466,7 +4473,7 @@
     {
       "t": "US76720AAT34",
       "n": "Rio Tinto Finance (USA) plc 5.00% 03/14/2032",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US76720AAT34",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4901506.65
@@ -4474,7 +4481,7 @@
     {
       "t": "US76720AAU07",
       "n": "Rio Tinto Finance (USA) plc 5.25% 03/14/2035",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US76720AAU07",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6711835.35
@@ -4482,7 +4489,7 @@
     {
       "t": "US775109CH22",
       "n": "Rogers Communications Inc. 3.80% 03/15/2032",
-      "weight": 0.19,
+      "weight": 0.18998100189981054,
       "isin": "US775109CH22",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6985335.39
@@ -4490,7 +4497,7 @@
     {
       "t": "US775109DF56",
       "n": "Rogers Communications Inc. 5.30% 02/15/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US775109DF56",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4697664.6
@@ -4498,7 +4505,7 @@
     {
       "t": "US776696AJ52",
       "n": "Roper Technologies, Inc. 4.90% 10/15/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US776696AJ52",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3734956.49
@@ -4506,7 +4513,7 @@
     {
       "t": "US776696AM81",
       "n": "Roper Technologies, Inc. 5.10% 09/15/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US776696AM81",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3725403.55
@@ -4514,7 +4521,7 @@
     {
       "t": "US780153BX93",
       "n": "N/A 5.55% 01/20/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US780153BX93",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4770421.25
@@ -4522,7 +4529,7 @@
     {
       "t": "US78016EYH43",
       "n": "Royal Bank of Canada 2.30% 11/03/2031",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US78016EYH43",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5152768.35
@@ -4530,7 +4537,7 @@
     {
       "t": "US78016FZX58",
       "n": "Royal Bank of Canada 5.00% 02/01/2033",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US78016FZX58",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6529593.86
@@ -4538,7 +4545,7 @@
     {
       "t": "US78016HZW32",
       "n": "Royal Bank of Canada 5.15% 02/01/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US78016HZW32",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4853975.43
@@ -4546,7 +4553,7 @@
     {
       "t": "US78017TAB98",
       "n": "Royal Caribbean Cruises Ltd. 5.38% 01/15/2036",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US78017TAB98",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5593463.05
@@ -4554,7 +4561,7 @@
     {
       "t": "US78017TAC71",
       "n": "ROYAL CARIBBEAN CRUISES LTD 4.75% 05/15/2033",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US78017TAC71",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5110677.81
@@ -4562,7 +4569,7 @@
     {
       "t": "US78081BAU70",
       "n": "Royalty Pharma plc 5.20% 09/25/2035",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US78081BAU70",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3406069.16
@@ -4570,7 +4577,7 @@
     {
       "t": "US78409VBK98",
       "n": "S&P Global Inc. 2.90% 03/01/2032",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US78409VBK98",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5154208.36
@@ -4578,7 +4585,7 @@
     {
       "t": "US78410GAK04",
       "n": "SBA COMMUNICATIONS CORP 5.45% 07/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US78410GAK04",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3023110.56
@@ -4586,7 +4593,7 @@
     {
       "t": "US78574MAA18",
       "n": "Sabra Health Care Limited Partnership 3.20% 12/01/2031",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US78574MAA18",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2878382.9
@@ -4594,7 +4601,7 @@
     {
       "t": "US79466LAS34",
       "n": "SALESFORCE INC 4.90% 09/15/2031",
-      "weight": 0.4,
+      "weight": 0.3999600039996012,
       "isin": "US79466LAS34",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 14770890.18
@@ -4602,7 +4609,7 @@
     {
       "t": "US79466LAT17",
       "n": "SALESFORCE INC 5.20% 03/15/2033",
-      "weight": 0.29,
+      "weight": 0.2899710028997108,
       "isin": "US79466LAT17",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 10782412.17
@@ -4610,7 +4617,7 @@
     {
       "t": "US79466LAU89",
       "n": "SALESFORCE INC 5.55% 03/15/2036",
-      "weight": 0.49,
+      "weight": 0.4899510048995114,
       "isin": "US79466LAU89",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 18080613.64
@@ -4618,7 +4625,7 @@
     {
       "t": "US797440CG74",
       "n": "San Diego Gas & Electric Company 5.40% 04/15/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US797440CG74",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3644006.51
@@ -4626,7 +4633,7 @@
     {
       "t": "US801060AJ31",
       "n": "SANOFI SA 4.20% 11/03/2032",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US801060AJ31",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4599197.87
@@ -4634,7 +4641,7 @@
     {
       "t": "US80281LAY11",
       "n": "Santander UK Group Holdings plc 5.14% 09/22/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US80281LAY11",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3644301.51
@@ -4642,7 +4649,7 @@
     {
       "t": "US80282KBL98",
       "n": "Santander Holdings U.S.A Inc. 6.34% 05/31/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US80282KBL98",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3046007.52
@@ -4650,7 +4657,7 @@
     {
       "t": "US80282KBU97",
       "n": "SANTANDER HOLDINGS USA INC 5.70% 06/05/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US80282KBU97",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2856862.9
@@ -4658,7 +4665,7 @@
     {
       "t": "US806854AQ80",
       "n": "SCHLUMBERGER INVESTMENT SA 5.15% 05/07/2036",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US806854AQ80",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4115660.25
@@ -4666,7 +4673,7 @@
     {
       "t": "US808513CE32",
       "n": "Charles Schwab Corp. 5.85% 05/19/2033",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US808513CE32",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5253213.32
@@ -4674,7 +4681,7 @@
     {
       "t": "US808513CH62",
       "n": "Charles Schwab Corp. 6.14% 08/24/2033",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US808513CH62",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5822827.76
@@ -4682,7 +4689,7 @@
     {
       "t": "US808513CV56",
       "n": "CHARLES SCHWAB CORP/THE 5.66% 08/12/2036",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US808513CV56",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5201568.63
@@ -4690,7 +4697,7 @@
     {
       "t": "US816851BT54",
       "n": "Sempra 6.40% 10/01/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US816851BT54",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4930635.75
@@ -4698,7 +4705,7 @@
     {
       "t": "US816851BX66",
       "n": "Sempra 5.25% 03/15/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US816851BX66",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2904416.54
@@ -4706,7 +4713,7 @@
     {
       "t": "US81762PAJ12",
       "n": "SERVICENOW INC 5.40% 05/15/2036",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US81762PAJ12",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4810429.37
@@ -4714,7 +4721,7 @@
     {
       "t": "US822905AC90",
       "n": "Shell Finance US Inc. 4.13% 05/11/2035",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US822905AC90",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4271948.34
@@ -4722,7 +4729,7 @@
     {
       "t": "US822905AQ86",
       "n": "SHELL FINANCE US INC 4.75% 01/06/2036",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US822905AQ86",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4000073.65
@@ -4730,7 +4737,7 @@
     {
       "t": "US828807DY06",
       "n": "Simon Property Group, L.P. 4.75% 09/26/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US828807DY06",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3806666.64
@@ -4738,7 +4745,7 @@
     {
       "t": "US828807EA11",
       "n": "Simon Property Group, L.P. 5.13% 10/01/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US828807EA11",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3022380.03
@@ -4746,7 +4753,7 @@
     {
       "t": "US83007CAF95",
       "n": "SOUTH BOW USA INFRASTRUCTURE HOLDINGS LLC 5.58% 10/01/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US83007CAF95",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4903885.63
@@ -4754,7 +4761,7 @@
     {
       "t": "US832696AX63",
       "n": "The J. M. Smucker Company 6.20% 11/15/2033",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US832696AX63",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4212810.43
@@ -4762,7 +4769,7 @@
     {
       "t": "US83272GAE17",
       "n": "Smurfit Kappa Treasury Unlimited Company 5.44% 04/03/2034",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US83272GAE17",
       "sector": "Financials",
       "mv": 3803162.66
@@ -4770,7 +4777,7 @@
     {
       "t": "US83272YAB83",
       "n": "Smurfit Westrock Financing Designated Activity Company 5.42% 01/15/2035",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US83272YAB83",
       "sector": "Financials",
       "mv": 3298545.82
@@ -4778,7 +4785,7 @@
     {
       "t": "US83272YAC66",
       "n": "SMURFIT WESTROCK FINANCING DAC 5.19% 01/15/2036",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US83272YAC66",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3087738.17
@@ -4786,7 +4793,7 @@
     {
       "t": "US83444MAR25",
       "n": "Solventum Corporation 5.60% 03/23/2034",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US83444MAR25",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6358651.75
@@ -4794,7 +4801,7 @@
     {
       "t": "US842400HT35",
       "n": "Southern California Edison Company 5.95% 11/01/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US842400HT35",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3029130.2
@@ -4802,7 +4809,7 @@
     {
       "t": "US842400HZ94",
       "n": "Southern California Edison Company 5.20% 06/01/2034",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US842400HZ94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3374542.83
@@ -4810,7 +4817,7 @@
     {
       "t": "US842400JG95",
       "n": "Southern California Edison Company 5.45% 03/01/2035",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US842400JG95",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3496565.86
@@ -4818,7 +4825,7 @@
     {
       "t": "US842587DT18",
       "n": "The Southern Company 5.70% 03/15/2034",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US842587DT18",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4337565.38
@@ -4826,7 +4833,7 @@
     {
       "t": "US842587EB90",
       "n": "The Southern Company 6.38% 03/15/2035",
-      "weight": 0.19,
+      "weight": 0.18998100189981054,
       "isin": "US842587EB90",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6940513.84
@@ -4834,7 +4841,7 @@
     {
       "t": "US842587EJ27",
       "n": "SOUTHERN CO/THE 6.00% 04/01/2033",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US842587EJ27",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5627518.53
@@ -4842,7 +4849,7 @@
     {
       "t": "US84265VAK17",
       "n": "SOUTHERN COPPER CORP 5.35% 06/24/2036",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US84265VAK17",
       "sector": "Materials",
       "mv": 4732540.27
@@ -4850,7 +4857,7 @@
     {
       "t": "US844741BM99",
       "n": "SOUTHWEST AIRLINES CO 5.25% 11/15/2035",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US844741BM99",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2774130.94
@@ -4858,7 +4865,7 @@
     {
       "t": "US845467AT68",
       "n": "Expand Energy Corporation 4.75% 02/01/2032",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US845467AT68",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4319177.38
@@ -4866,7 +4873,7 @@
     {
       "t": "US84615QAC78",
       "n": "SPACE EXPLORATION TECHNOLOGIES CORP 5.65% 07/15/2033",
-      "weight": 0.61,
+      "weight": 0.6099390060993918,
       "isin": "US84615QAC78",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 22621703.11
@@ -4874,7 +4881,7 @@
     {
       "t": "US84615QAE35",
       "n": "SPACE EXPLORATION TECHNOLOGIES CORP 5.88% 07/15/2036",
-      "weight": 0.61,
+      "weight": 0.6099390060993918,
       "isin": "US84615QAE35",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 22526910.36
@@ -4882,7 +4889,7 @@
     {
       "t": "US855244BC24",
       "n": "Starbucks Corp. 3.00% 02/14/2032",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US855244BC24",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3509456.33
@@ -4890,7 +4897,7 @@
     {
       "t": "US857477CC50",
       "n": "State Street Corporation 5.16% 05/18/2033",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US857477CC50",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3967136.93
@@ -4898,7 +4905,7 @@
     {
       "t": "US857477CR20",
       "n": "State Street Corporation 4.68% 10/22/2031",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US857477CR20",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3039736.77
@@ -4906,7 +4913,7 @@
     {
       "t": "US857477DE08",
       "n": "STATE STREET CORP 4.78% 10/23/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US857477DE08",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3715925.94
@@ -4914,7 +4921,7 @@
     {
       "t": "US858119BS89",
       "n": "Steel Dynamics, Inc. 5.25% 05/15/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US858119BS89",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2888196.03
@@ -4922,7 +4929,7 @@
     {
       "t": "US863667BF72",
       "n": "Stryker Corporation 4.63% 09/11/2034",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US863667BF72",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2764022.22
@@ -4930,7 +4937,7 @@
     {
       "t": "US863667BM24",
       "n": "Stryker Corporation 5.20% 02/10/2035",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US863667BM24",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3894455.33
@@ -4938,7 +4945,7 @@
     {
       "t": "US86562MCS70",
       "n": "SUMITOMO MITSUI FINANCIAL GROUP INC 5.77% 01/13/2033",
-      "weight": 0.19,
+      "weight": 0.18998100189981054,
       "isin": "US86562MCS70",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6996827.36
@@ -4946,7 +4953,7 @@
     {
       "t": "US86562MDP23",
       "n": "SUMITOMO MITSUI FINANCIAL GROUP INC 5.56% 07/09/2034",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US86562MDP23",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5317982.39
@@ -4954,7 +4961,7 @@
     {
       "t": "US86562MEK27",
       "n": "SUMITOMO MITSUI FINANCIAL GROUP INC 5.33% 03/03/2036",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US86562MEK27",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4831432.77
@@ -4962,7 +4969,7 @@
     {
       "t": "US86944BAQ68",
       "n": "Sutter Health 5.54% 08/15/2035",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US86944BAQ68",
       "sector": "Health Care",
       "mv": 3465302.22
@@ -4970,7 +4977,7 @@
     {
       "t": "US86960YAA01",
       "n": "SUZANO NETHERLANDS BV 5.50% 01/15/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US86960YAA01",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3752507.36
@@ -4978,7 +4985,7 @@
     {
       "t": "US871607AD97",
       "n": "Synopsys, Inc. 5.00% 04/01/2032",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US871607AD97",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5944436.78
@@ -4986,7 +4993,7 @@
     {
       "t": "US871607AE70",
       "n": "Synopsys, Inc. 5.15% 04/01/2035",
-      "weight": 0.26,
+      "weight": 0.25997400259974074,
       "isin": "US871607AE70",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 9461117.12
@@ -4994,7 +5001,7 @@
     {
       "t": "US87165BAR42",
       "n": "Synchrony Financial 2.88% 10/28/2031",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US87165BAR42",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2576880
@@ -5002,7 +5009,7 @@
     {
       "t": "US87264ACV52",
       "n": "T-Mobile USA Inc. 5.20% 01/15/2033",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US87264ACV52",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4842877.53
@@ -5010,7 +5017,7 @@
     {
       "t": "US87264ACY91",
       "n": "T-Mobile USA Inc. 5.05% 07/15/2033",
-      "weight": 0.27,
+      "weight": 0.2699730026997308,
       "isin": "US87264ACY91",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 9943344.64
@@ -5018,7 +5025,7 @@
     {
       "t": "US87264ADF93",
       "n": "T-Mobile USA, Inc. 5.15% 04/15/2034",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US87264ADF93",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5235347.62
@@ -5026,7 +5033,7 @@
     {
       "t": "US872898AC52",
       "n": "TSMC Arizona Corporation 2.50% 10/25/2031",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US872898AC52",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4247853.67
@@ -5034,7 +5041,7 @@
     {
       "t": "US872898AH40",
       "n": "TSMC Arizona Corporation 4.25% 04/22/2032",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US872898AH40",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4087344.87
@@ -5042,7 +5049,7 @@
     {
       "t": "US874060BK18",
       "n": "Takeda Pharmaceutical Company Limited 5.30% 07/05/2034",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US874060BK18",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4426791.29
@@ -5050,7 +5057,7 @@
     {
       "t": "US87406BAA08",
       "n": "TAKEDA US FINANCING INC 5.20% 07/07/2035",
-      "weight": 0.17,
+      "weight": 0.1699830016998305,
       "isin": "US87406BAA08",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6389929.37
@@ -5058,7 +5065,7 @@
     {
       "t": "US876030AL10",
       "n": "Tapestry, Inc. 5.50% 03/11/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US876030AL10",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2846641.78
@@ -5066,7 +5073,7 @@
     {
       "t": "US87612EBP07",
       "n": "Target Corporation 4.50% 09/15/2032",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US87612EBP07",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3869498.81
@@ -5074,7 +5081,7 @@
     {
       "t": "US87612EBS46",
       "n": "Target Corporation 4.50% 09/15/2034",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US87612EBS46",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2755236.84
@@ -5082,7 +5089,7 @@
     {
       "t": "US87612EBT29",
       "n": "Target Corporation 5.00% 04/15/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US87612EBT29",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3850666.82
@@ -5090,7 +5097,7 @@
     {
       "t": "US87612GAF81",
       "n": "Targa Resources Corp. 6.50% 03/30/2034",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US87612GAF81",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4200810.03
@@ -5098,7 +5105,7 @@
     {
       "t": "US87612GAK76",
       "n": "Targa Resources Corp. 5.50% 02/15/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US87612GAK76",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3834497.96
@@ -5106,7 +5113,7 @@
     {
       "t": "US87612GAM33",
       "n": "Targa Resources Corp. 5.55% 08/15/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US87612GAM33",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3833357.33
@@ -5114,7 +5121,7 @@
     {
       "t": "US87971MBW29",
       "n": "Telus Corporation 3.40% 05/13/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US87971MBW29",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3135891.35
@@ -5122,7 +5129,7 @@
     {
       "t": "US882508CB86",
       "n": "Texas Instruments Inc. 4.90% 03/14/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US882508CB86",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3707081.3
@@ -5130,7 +5137,7 @@
     {
       "t": "US88339WAC01",
       "n": "The Williams Companies, Inc. 5.15% 03/15/2034",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US88339WAC01",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5131663.78
@@ -5138,7 +5145,7 @@
     {
       "t": "US883556CX89",
       "n": "Thermo Fisher Scientific Inc. 5.09% 08/10/2033",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US883556CX89",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4144247.9
@@ -5146,7 +5153,7 @@
     {
       "t": "US883556DD17",
       "n": "Thermo Fisher Scientific Inc. 4.47% 10/07/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US883556DD17",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2871134.46
@@ -5154,7 +5161,7 @@
     {
       "t": "US883556DJ86",
       "n": "THERMO FISHER SCIENTIFIC INC 4.90% 02/12/2036",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US883556DJ86",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4795858.15
@@ -5162,7 +5169,7 @@
     {
       "t": "US89114TZV78",
       "n": "The Toronto-Dominion Bank 3.20% 03/10/2032",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US89114TZV78",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5325121.01
@@ -5170,7 +5177,7 @@
     {
       "t": "US89115A2E11",
       "n": "The Toronto-Dominion Bank 4.46% 06/08/2032",
-      "weight": 0.21,
+      "weight": 0.2099790020997906,
       "isin": "US89115A2E11",
       "sector": "Financials",
       "mv": 7631355.05
@@ -5178,7 +5185,7 @@
     {
       "t": "US89115KAJ97",
       "n": "The Toronto-Dominion Bank 4.93% 10/15/2035",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US89115KAJ97",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4704156.01
@@ -5186,7 +5193,7 @@
     {
       "t": "US89157XAA90",
       "n": "TotalEnergies Capital Société anonyme 5.15% 04/05/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US89157XAA90",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4918807.74
@@ -5194,7 +5201,7 @@
     {
       "t": "US89157XAD30",
       "n": "TotalEnergies Capital Société anonyme 4.72% 09/10/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US89157XAD30",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2810145.15
@@ -5202,7 +5209,7 @@
     {
       "t": "US89158TAB52",
       "n": "TOTALENERGIES CAPITAL USA LLC 4.57% 01/13/2033",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US89158TAB52",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5131871.39
@@ -5210,7 +5217,7 @@
     {
       "t": "US892356AB23",
       "n": "Tractor Supply Company 5.25% 05/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US892356AB23",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2941932.32
@@ -5218,7 +5225,7 @@
     {
       "t": "US89236TLM52",
       "n": "Toyota Motor Credit Corporation 4.80% 01/05/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US89236TLM52",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2982915.36
@@ -5226,7 +5233,7 @@
     {
       "t": "US89236TNB79",
       "n": "Toyota Motor Credit Corporation 5.35% 01/09/2035",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US89236TNB79",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3337593.41
@@ -5234,7 +5241,7 @@
     {
       "t": "US89236TPS86",
       "n": "Toyota Motor Credit Corporation 4.60% 03/11/2033",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US89236TPS86",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3338667.23
@@ -5242,7 +5249,7 @@
     {
       "t": "US896239AE08",
       "n": "Trimble Inc. 6.10% 03/15/2033",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US896239AE08",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3191938.5
@@ -5250,7 +5257,7 @@
     {
       "t": "US89788MAM47",
       "n": "Truist Financial Corporation 5.12% 01/26/2033",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US89788MAM47",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5787329.94
@@ -5258,7 +5265,7 @@
     {
       "t": "US89788MAP77",
       "n": "Truist Financial Corporation 5.87% 06/08/2033",
-      "weight": 0.19,
+      "weight": 0.18998100189981054,
       "isin": "US89788MAP77",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6981818
@@ -5266,7 +5273,7 @@
     {
       "t": "US89788MAS17",
       "n": "Truist Financial Corp. 5.71% 01/24/2034",
-      "weight": 0.21,
+      "weight": 0.2099790020997906,
       "isin": "US89788MAS17",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7830181.73
@@ -5274,7 +5281,7 @@
     {
       "t": "US902494BM45",
       "n": "Tyson Foods, Inc. 5.70% 03/15/2034",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US902494BM45",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3485646.01
@@ -5282,7 +5289,7 @@
     {
       "t": "US90353TAP57",
       "n": "Uber Technologies, Inc. 4.80% 09/15/2034",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US90353TAP57",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5526788
@@ -5290,7 +5297,7 @@
     {
       "t": "US90353TAU43",
       "n": "Uber Technologies, Inc. 4.80% 09/15/2035",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US90353TAU43",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4809455.92
@@ -5298,7 +5305,7 @@
     {
       "t": "US904764BT39",
       "n": "Unilever Capital Corporation 5.00% 12/08/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US904764BT39",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3064881.88
@@ -5306,7 +5313,7 @@
     {
       "t": "US904764BV84",
       "n": "Unilever Capital Corporation 4.63% 08/12/2034",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US904764BV84",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4150229.44
@@ -5314,7 +5321,7 @@
     {
       "t": "US907818FX12",
       "n": "Union Pacific Corporation 2.80% 02/14/2032",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US907818FX12",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4600149.98
@@ -5322,7 +5329,7 @@
     {
       "t": "US907818GB82",
       "n": "Union Pacific Corporation 4.50% 01/20/2033",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US907818GB82",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3389864.94
@@ -5330,7 +5337,7 @@
     {
       "t": "US907818GG79",
       "n": "Union Pacific Corporation 5.10% 02/20/2035",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US907818GG79",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3906839.36
@@ -5338,7 +5345,7 @@
     {
       "t": "US90932LAJ61",
       "n": "UNITED AIRLINES 2023-1 CLASS A PASS THROUGH TRUST 5.80% 01/15/2036",
-      "weight": 0.11,
+      "weight": 0.10998900109989032,
       "isin": "US90932LAJ61",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4164619.97
@@ -5346,7 +5353,7 @@
     {
       "t": "US911312BZ82",
       "n": "United Parcel Service, Inc. 4.88% 03/03/2033",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US911312BZ82",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3431035.34
@@ -5354,7 +5361,7 @@
     {
       "t": "US911312CD61",
       "n": "United Parcel Service, Inc. 5.15% 05/22/2034",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US911312CD61",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3498291.29
@@ -5362,7 +5369,7 @@
     {
       "t": "US911312CJ32",
       "n": "United Parcel Service, Inc. 5.25% 05/14/2035",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US911312CJ32",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5171524.21
@@ -5370,7 +5377,7 @@
     {
       "t": "US91159HJL50",
       "n": "U.S. Bancorp 4.84% 02/01/2033",
-      "weight": 0.2,
+      "weight": 0.1999800019998006,
       "isin": "US91159HJL50",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7523776.91
@@ -5378,7 +5385,7 @@
     {
       "t": "US91159HJN17",
       "n": "U.S. Bancorp 5.84% 06/10/2033",
-      "weight": 0.19,
+      "weight": 0.18998100189981054,
       "isin": "US91159HJN17",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7009405.38
@@ -5386,7 +5393,7 @@
     {
       "t": "US91159HJR21",
       "n": "U.S. Bancorp 5.68% 01/23/2034",
-      "weight": 0.21,
+      "weight": 0.2099790020997906,
       "isin": "US91159HJR21",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7852957.79
@@ -5394,7 +5401,7 @@
     {
       "t": "US91324PEJ75",
       "n": "UnitedHealth Group Incorporated 4.20% 05/15/2032",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US91324PEJ75",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5656398.57
@@ -5402,7 +5409,7 @@
     {
       "t": "US91324PER91",
       "n": "UnitedHealth Group Incorporated 5.35% 02/15/2033",
-      "weight": 0.21,
+      "weight": 0.2099790020997906,
       "isin": "US91324PER91",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7827123.55
@@ -5410,7 +5417,7 @@
     {
       "t": "US91324PFJ66",
       "n": "UnitedHealth Group Incorporated 5.15% 07/15/2034",
-      "weight": 0.21,
+      "weight": 0.2099790020997906,
       "isin": "US91324PFJ66",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7820104.63
@@ -5418,7 +5425,7 @@
     {
       "t": "US91911TAR41",
       "n": "VALE OVERSEAS LTD 6.13% 06/12/2033",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US91911TAR41",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6077708.18
@@ -5426,7 +5433,7 @@
     {
       "t": "US91913YBG44",
       "n": "VALERO ENERGY CORP 5.15% 03/10/2036",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US91913YBG44",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3187928.99
@@ -5434,7 +5441,7 @@
     {
       "t": "US92343VGN82",
       "n": "Verizon Communications Inc. 2.36% 03/15/2032",
-      "weight": 0.43,
+      "weight": 0.42995700429957123,
       "isin": "US92343VGN82",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 15848252.11
@@ -5442,7 +5449,7 @@
     {
       "t": "US92343VGZ13",
       "n": "Verizon Communications Inc. 5.25% 04/02/2035",
-      "weight": 0.23,
+      "weight": 0.22997700229977067,
       "isin": "US92343VGZ13",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8659021.46
@@ -5450,7 +5457,7 @@
     {
       "t": "US92343VHG23",
       "n": "VERIZON COMMUNICATIONS INC 5.00% 01/15/2036",
-      "weight": 0.22,
+      "weight": 0.21997800219978064,
       "isin": "US92343VHG23",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8284053
@@ -5458,7 +5465,7 @@
     {
       "t": "US925650AD55",
       "n": "VICI Properties L.P. 5.13% 05/15/2032",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US925650AD55",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6025631.37
@@ -5466,7 +5473,7 @@
     {
       "t": "US925650AK98",
       "n": "VICI Properties L.P. 5.63% 04/01/2035",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US925650AK98",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3452524.91
@@ -5474,7 +5481,7 @@
     {
       "t": "US925650AL71",
       "n": "VICI PROPERTIES LP 5.40% 10/15/2031",
-      "weight": 0.09,
+      "weight": 0.08999100089991026,
       "isin": "US925650AL71",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3456041.57
@@ -5482,7 +5489,7 @@
     {
       "t": "US92764MAB00",
       "n": "Viper Energy Partners LLC 5.70% 08/01/2035",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US92764MAB00",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4301137.3
@@ -5490,7 +5497,7 @@
     {
       "t": "US927804GX64",
       "n": "VIRGINIA ELECTRIC AND POWER CO 4.95% 03/15/2036",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US927804GX64",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4698402.9
@@ -5498,7 +5505,7 @@
     {
       "t": "US92840VBB71",
       "n": "VISTRA OPERATIONS CO LLC 5.25% 04/30/2033",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US92840VBB71",
       "sector": "-",
       "mv": 3861940.74
@@ -5506,7 +5513,7 @@
     {
       "t": "US92840VBC54",
       "n": "VISTRA OPERATIONS CO LLC 5.55% 04/30/2036",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US92840VBC54",
       "sector": "-",
       "mv": 5757437.09
@@ -5514,7 +5521,7 @@
     {
       "t": "US92857WCD02",
       "n": "VODAFONE GROUP PLC 5.35% 06/18/2036",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US92857WCD02",
       "sector": "Communication Services",
       "mv": 3784796.55
@@ -5522,7 +5529,7 @@
     {
       "t": "US929160BC27",
       "n": "Vulcan Materials Company 5.35% 12/01/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US929160BC27",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2991030.8
@@ -5530,7 +5537,7 @@
     {
       "t": "US931142ET65",
       "n": "Walmart Inc. 1.80% 09/22/2031",
-      "weight": 0.18,
+      "weight": 0.17998200179982052,
       "isin": "US931142ET65",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6763732.85
@@ -5538,7 +5545,7 @@
     {
       "t": "US931142FD05",
       "n": "Walmart Inc. 4.10% 04/15/2033",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US931142FD05",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5710667.82
@@ -5546,7 +5553,7 @@
     {
       "t": "US931142FP35",
       "n": "Walmart Inc. 4.90% 04/28/2035",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US931142FP35",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5872673.69
@@ -5554,7 +5561,7 @@
     {
       "t": "US94106BAF85",
       "n": "Waste Connections, Inc. 4.20% 01/15/2033",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US94106BAF85",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2768449.3
@@ -5562,7 +5569,7 @@
     {
       "t": "US94106BAG68",
       "n": "Waste Connections, Inc. 5.00% 03/01/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US94106BAG68",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2844271.64
@@ -5570,7 +5577,7 @@
     {
       "t": "US94106LBS79",
       "n": "Waste Management, Inc. 4.15% 04/15/2032",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US94106LBS79",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3789364.99
@@ -5578,7 +5585,7 @@
     {
       "t": "US94106LBW81",
       "n": "Waste Management, Inc. 4.88% 02/15/2034",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US94106LBW81",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4828139.05
@@ -5586,7 +5593,7 @@
     {
       "t": "US94106LCE74",
       "n": "Waste Management, Inc. 4.95% 03/15/2035",
-      "weight": 0.15,
+      "weight": 0.14998500149985042,
       "isin": "US94106LCE74",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5638083.35
@@ -5594,7 +5601,7 @@
     {
       "t": "US95000U2U64",
       "n": "Wells Fargo & Company 3.35% 03/02/2032",
-      "weight": 0.39,
+      "weight": 0.38996100389961114,
       "isin": "US95000U2U64",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 14564321.28
@@ -5602,7 +5609,7 @@
     {
       "t": "US95000U3B74",
       "n": "Wells Fargo & Co. 4.90% 07/25/2032",
-      "weight": 0.45,
+      "weight": 0.4499550044995513,
       "isin": "US95000U3B74",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 16600312.41
@@ -5610,7 +5617,7 @@
     {
       "t": "US95000U3F88",
       "n": "Wells Fargo & Company 5.56% 07/25/2033",
-      "weight": 0.45,
+      "weight": 0.4499550044995513,
       "isin": "US95000U3F88",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 16702105.56
@@ -5618,7 +5625,7 @@
     {
       "t": "US95041AAG31",
       "n": "Welltower OP LLC 5.13% 07/01/2035",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US95041AAG31",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4767902.9
@@ -5626,7 +5633,7 @@
     {
       "t": "US958667AE72",
       "n": "Western Midstream Operating L.P. 6.15% 04/01/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US958667AE72",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3077490.41
@@ -5634,7 +5641,7 @@
     {
       "t": "US958667AG21",
       "n": "Western Midstream Operating, LP 5.45% 11/15/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US958667AG21",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3036353.43
@@ -5642,7 +5649,7 @@
     {
       "t": "US960386AT71",
       "n": "Westinghouse Air Brake Technologies Corporation 5.50% 05/29/2035",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US960386AT71",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2923240.43
@@ -5650,7 +5657,7 @@
     {
       "t": "US961214EX77",
       "n": "Westpac Banking Corporation 3.02% 11/18/2031",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US961214EX77",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4384810.66
@@ -5658,7 +5665,7 @@
     {
       "t": "US961214FG36",
       "n": "Westpac Banking Corporation 5.41% 08/10/2032",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US961214FG36",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3866492.47
@@ -5666,7 +5673,7 @@
     {
       "t": "US961214FW85",
       "n": "Westpac Banking Corporation 5.62% 11/20/2034",
-      "weight": 0.16,
+      "weight": 0.15998400159984047,
       "isin": "US961214FW85",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5874203.93
@@ -5674,7 +5681,7 @@
     {
       "t": "US969457CJ76",
       "n": "The Williams Companies, Inc. 5.65% 03/15/2033",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US969457CJ76",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4894941.83
@@ -5682,7 +5689,7 @@
     {
       "t": "US969457CV05",
       "n": "WILLIAMS COS INC/THE 5.15% 03/15/2036",
-      "weight": 0.12,
+      "weight": 0.11998800119988035,
       "isin": "US969457CV05",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4626379.32
@@ -5690,7 +5697,7 @@
     {
       "t": "US970648AM30",
       "n": "Willis North America Inc. 5.35% 05/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US970648AM30",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2930111.27
@@ -5698,7 +5705,7 @@
     {
       "t": "US980236AR40",
       "n": "Woodside Finance Limited 5.10% 09/12/2034",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US980236AR40",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5345448.38
@@ -5706,7 +5713,7 @@
     {
       "t": "US980236AV51",
       "n": "Woodside Finance Limited 6.00% 05/19/2035",
-      "weight": 0.14,
+      "weight": 0.13998600139986042,
       "isin": "US980236AV51",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5014436.15
@@ -5714,7 +5721,7 @@
     {
       "t": "US98138HAJ05",
       "n": "Workday Inc. 3.80% 04/01/2032",
-      "weight": 0.13,
+      "weight": 0.12998700129987037,
       "isin": "US98138HAJ05",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4653415.77
@@ -5722,7 +5729,7 @@
     {
       "t": "US98389BBA70",
       "n": "Xcel Energy Inc. 5.45% 08/15/2033",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US98389BBA70",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3123101.04
@@ -5730,7 +5737,7 @@
     {
       "t": "US98389BBB53",
       "n": "Xcel Energy Inc. 5.50% 03/15/2034",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US98389BBB53",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3029721.61
@@ -5738,7 +5745,7 @@
     {
       "t": "US98956PAV40",
       "n": "Zimmer Biomet Holdings, Inc. 2.60% 11/24/2031",
-      "weight": 0.07,
+      "weight": 0.06999300069993021,
       "isin": "US98956PAV40",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2594477.06
@@ -5746,7 +5753,7 @@
     {
       "t": "US98978VAV53",
       "n": "Zoetis Inc. 5.60% 11/16/2032",
-      "weight": 0.08,
+      "weight": 0.07999200079992023,
       "isin": "US98978VAV53",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3011382.78
@@ -5754,7 +5761,7 @@
     {
       "t": "US98978VAX10",
       "n": "Zoetis Inc. 5.00% 08/17/2035",
-      "weight": 0.1,
+      "weight": 0.0999900009999003,
       "isin": "US98978VAX10",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3731280.66

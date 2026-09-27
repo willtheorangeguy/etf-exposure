@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUH_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "e33c77a64ba94a09f130f37dcd654fdac031071ee2961ef3077d80ae3843c78b",
+  "content_hash": "b272df8c9575324f493c202aa90ba1e8c903af643f83285677ea46dbfd5b4ec7",
   "holdings": [
     {
       "t": "ABBV",
@@ -141,6 +141,14 @@
       "sector": "HEALTH CARE",
       "mv": 1891679.86,
       "shares": 6073
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -2.15,
+      "sector": "-",
+      "mv": -4017276.15,
+      "shares": 1
     },
     {
       "t": "CI",

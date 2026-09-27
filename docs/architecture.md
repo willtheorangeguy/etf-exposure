@@ -26,7 +26,7 @@ graph LR
 
 ### Parsing and validation
 
-`src/lib/parse/` handles CSV, XLSX, and table metadata. `ImportSchema` validates the resulting dates, identifiers, positive weights, and total. Partial tables remain partial.
+`src/lib/parse/` handles CSV, XLSX, and table metadata. `ImportSchema` validates the resulting dates, identifiers, nonzero signed weights, and net total. Totals above 100% and up to 100.5% are corrected proportionally to 100%; larger overruns are rejected. Partial tables remain partial.
 
 ### Static catalog
 

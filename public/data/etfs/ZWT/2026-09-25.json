@@ -5,12 +5,12 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWT_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "654c59c5fd65cea213f21f6a381a26b25db5fd30fa6418e517f2427a536e9497",
+  "content_hash": "06fe41c5b93614df9ac422e2ec22a402dacbc669dc9f793e331a04cbca37c5ba",
   "holdings": [
     {
       "t": "AAPL",
       "n": "Apple Inc.",
-      "weight": 8.45,
+      "weight": 8.446621351459415,
       "isin": "US0378331005",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 19065011.34,
@@ -19,7 +19,7 @@
     {
       "t": "ACN",
       "n": "Accenture plc",
-      "weight": 0.74,
+      "weight": 0.7397041183526589,
       "isin": "IE00B4BNMY34",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 1666221.8,
@@ -28,16 +28,28 @@
     {
       "t": "ADI",
       "n": "Analog Devices, Inc.",
-      "weight": 1.06,
+      "weight": 1.0595761695321873,
       "isin": "US0326541051",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 2399495.61,
       "shares": 4310
     },
     {
+      "t": "ADVANCED MICRO DEVICES INC CALL OPTIONS",
+      "n": "ADVANCED MICRO DEVICES INC CALL OPTIONS",
+      "weight": -0.4398240703718513,
+      "sector": "-"
+    },
+    {
+      "t": "ALPHABET INC CALL OPTIONS",
+      "n": "ALPHABET INC CALL OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
       "t": "AMAT",
       "n": "Applied Materials, Inc.",
-      "weight": 2.04,
+      "weight": 2.0391843262694924,
       "isin": "US0382221051",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 4601057.33,
@@ -46,34 +58,60 @@
     {
       "t": "AMD",
       "n": "Advanced Micro Devices, Inc.",
-      "weight": 5.27,
+      "weight": 5.267892842862854,
       "isin": "US0079031078",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 11892964.05,
       "shares": 13333
     },
     {
+      "t": "AMPHENOL CORP CALL OPTIONS",
+      "n": "AMPHENOL CORP CALL OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
       "t": "APH",
       "n": "Amphenol Corporation",
-      "weight": 1.25,
+      "weight": 1.249500199920032,
       "isin": "US0320951017",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 2822353.37,
       "shares": 23729
     },
     {
+      "t": "APPLE INC CALL OPTIONS",
+      "n": "APPLE INC CALL OPTIONS",
+      "weight": -0.07996801279488205,
+      "sector": "-"
+    },
+    {
+      "t": "ARISTA NETWORKS INC CALL OPTIONS",
+      "n": "ARISTA NETWORKS INC CALL OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
       "t": "AVGO",
       "n": "Broadcom Inc.",
-      "weight": 6.6,
+      "weight": 6.597361055577768,
       "isin": "US11135F1012",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 14889121.87,
       "shares": 29836
     },
     {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.6197520991603358,
+      "sector": "-",
+      "mv": 1393695.5,
+      "shares": 1
+    },
+    {
       "t": "CRM",
       "n": "Salesforce, Inc.",
-      "weight": 1.34,
+      "weight": 1.3394642143142743,
       "isin": "US79466L3024",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 3027744.71,
@@ -82,7 +120,7 @@
     {
       "t": "CSCO",
       "n": "Cisco Systems, Inc.",
-      "weight": 2.37,
+      "weight": 2.3690523790483806,
       "isin": "US17275R1023",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 5350782.03,
@@ -91,16 +129,22 @@
     {
       "t": "DELL",
       "n": "Dell Technologies Inc.",
-      "weight": 2.53,
+      "weight": 2.5289884046381443,
       "isin": "US24703L2025",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 5704627.99,
       "shares": 7165
     },
     {
+      "t": "DELL TECHNOLOGIES INC CALL OPTIONS",
+      "n": "DELL TECHNOLOGIES INC CALL OPTIONS",
+      "weight": -0.10995601759296282,
+      "sector": "-"
+    },
+    {
       "t": "GLW",
       "n": "Corning Incorporated",
-      "weight": 0.88,
+      "weight": 0.8796481407437026,
       "isin": "US2193501051",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 1978015.37,
@@ -109,7 +153,7 @@
     {
       "t": "GOOGL",
       "n": "Alphabet Inc.",
-      "weight": 6.97,
+      "weight": 6.967213114754098,
       "isin": "US02079K3059",
       "sector": "COMMUNICATION SERVICES",
       "mv": 15721338.14,
@@ -118,7 +162,7 @@
     {
       "t": "IBM",
       "n": "International Business Machines Corporation",
-      "weight": 1.25,
+      "weight": 1.249500199920032,
       "isin": "US4592001014",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 2826735.35,
@@ -127,25 +171,37 @@
     {
       "t": "INTC",
       "n": "Intel Corporation",
-      "weight": 3.09,
+      "weight": 3.088764494202319,
       "isin": "US4581401001",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 6963965.37,
       "shares": 40028
     },
     {
+      "t": "INTEL CORP CALL OPTIONS",
+      "n": "INTEL CORP CALL OPTIONS",
+      "weight": -0.16993202718912437,
+      "sector": "-"
+    },
+    {
       "t": "INTU",
       "n": "Intuit Inc.",
-      "weight": 0.52,
+      "weight": 0.5197920831667333,
       "isin": "US4612021034",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 1183536.6,
       "shares": 3034
     },
     {
+      "t": "KLA CORP CALL OPTIONS",
+      "n": "KLA CORP CALL OPTIONS",
+      "weight": -0.019992003198720514,
+      "sector": "-"
+    },
+    {
       "t": "KLAC",
       "n": "KLA Corporation",
-      "weight": 1.3,
+      "weight": 1.2994802079168333,
       "isin": "US4824801009",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 2935533.24,
@@ -154,7 +210,7 @@
     {
       "t": "LRCX",
       "n": "Lam Research Corporation",
-      "weight": 2.04,
+      "weight": 2.0391843262694924,
       "isin": "US5128073062",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 4607847.19,
@@ -163,16 +219,34 @@
     {
       "t": "META",
       "n": "Meta Platforms, Inc.",
-      "weight": 9.11,
+      "weight": 9.106357457017157,
       "isin": "US30303M1027",
       "sector": "COMMUNICATION SERVICES",
       "mv": 20544996.35,
       "shares": 19324
     },
     {
+      "t": "META PLATFORMS INC CALL OPTIONS",
+      "n": "META PLATFORMS INC CALL OPTIONS",
+      "weight": -0.33986405437824874,
+      "sector": "-"
+    },
+    {
+      "t": "MICRON TECHNOLOGY INC CALL OPTIONS",
+      "n": "MICRON TECHNOLOGY INC CALL OPTIONS",
+      "weight": -0.0699720111955218,
+      "sector": "-"
+    },
+    {
+      "t": "MICROSOFT CORP CALL OPTIONS",
+      "n": "MICROSOFT CORP CALL OPTIONS",
+      "weight": -0.059976009596161534,
+      "sector": "-"
+    },
+    {
       "t": "MSFT",
       "n": "Microsoft Corporation",
-      "weight": 8.68,
+      "weight": 8.676529388244703,
       "isin": "US5949181045",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 19571701.07,
@@ -181,7 +255,7 @@
     {
       "t": "MU",
       "n": "Micron Technology, Inc.",
-      "weight": 7.16,
+      "weight": 7.157137145141943,
       "isin": "US5951121038",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 16156389.81,
@@ -190,7 +264,7 @@
     {
       "t": "NVDA",
       "n": "NVIDIA Corporation",
-      "weight": 8.19,
+      "weight": 8.18672530987605,
       "isin": "US67066G1040",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 18472910.63,
@@ -199,25 +273,37 @@
     {
       "t": "ORCL",
       "n": "Oracle Corporation",
-      "weight": 1.48,
+      "weight": 1.4794082367053178,
       "isin": "US68389X1054",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 3333697.54,
       "shares": 17191
     },
     {
+      "t": "PALO ALTO NETWORKS INC CALL OPTIONS",
+      "n": "PALO ALTO NETWORKS INC CALL OPTIONS",
+      "weight": -0.03998400639744103,
+      "sector": "-"
+    },
+    {
       "t": "SHOP",
       "n": "Shopify Inc.",
-      "weight": 1.07,
+      "weight": 1.0695721711315473,
       "isin": "CA82509L1076",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 2410643.25,
       "shares": 11981
     },
     {
+      "t": "TEXAS INSTRUMENTS INC CALL OPTIONS",
+      "n": "TEXAS INSTRUMENTS INC CALL OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
       "t": "TXN",
       "n": "Texas Instruments Incorporated",
-      "weight": 1.44,
+      "weight": 1.4394242303078768,
       "isin": "US8825081040",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 3245644.55,
@@ -226,7 +312,7 @@
     {
       "t": "US0231351067",
       "n": "Amazon.com, Inc.",
-      "weight": 7.65,
+      "weight": 7.646941223510596,
       "isin": "US0231351067",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 17266707.4,
@@ -235,7 +321,7 @@
     {
       "t": "US03831W1080",
       "n": "AppLovin Corporation",
-      "weight": 0.68,
+      "weight": 0.6797281087564975,
       "isin": "US03831W1080",
       "sector": "COMMUNICATION SERVICES",
       "mv": 1540588.88,
@@ -244,7 +330,7 @@
     {
       "t": "US0404132054",
       "n": "Arista Networks Inc",
-      "weight": 1.31,
+      "weight": 1.3094762095161936,
       "isin": "US0404132054",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 2957189.34,
@@ -253,7 +339,7 @@
     {
       "t": "US64110L1061",
       "n": "Netflix, Inc.",
-      "weight": 1.84,
+      "weight": 1.8392642942822872,
       "isin": "US64110L1061",
       "sector": "COMMUNICATION SERVICES",
       "mv": 4140665.63,
@@ -262,7 +348,7 @@
     {
       "t": "US69608A1088",
       "n": "Palantir Technologies Inc.",
-      "weight": 2.49,
+      "weight": 2.489004398240704,
       "isin": "US69608A1088",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 5615878.69,
@@ -271,7 +357,7 @@
     {
       "t": "US6974351057",
       "n": "Palo Alto Networks, Inc.",
-      "weight": 1.99,
+      "weight": 1.9892043182726908,
       "isin": "US6974351057",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 4483171.3,

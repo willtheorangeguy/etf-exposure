@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMP_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "27c41928ea39560ed572e030dd52dff8e7f5a27d38552a7c32e2ab646af256e5",
+  "content_hash": "55ccd5aa36e374b8ec56457c7c55c3e5f1e9b5717b702f1b286f51dd987c9a9c",
   "holdings": [
     {
       "t": "ALTA",
@@ -214,6 +214,13 @@
       "isin": "CAC23264BB63",
       "sector": "PROVINCIAL BOND",
       "mv": 3392987.89
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.05,
+      "sector": "-",
+      "mv": -380274.79
     },
     {
       "t": "FRHYDR",

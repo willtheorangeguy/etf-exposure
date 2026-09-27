@@ -5,8 +5,22 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXCP_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "dd03296efb825affd0ade5554a1ef18f53e089be57675fd38e5d96064beaa461",
+  "content_hash": "e42217865298ff4b84394b02d226e74c4821429243be302e818c3b9fd993412e",
   "holdings": [
+    {
+      "t": "586497653 INTEREST RATE SWAP 11/22/2028",
+      "n": "586497653 Interest Rate Swap 11/22/2028",
+      "weight": -0.24,
+      "sector": "-",
+      "mv": -31274.98
+    },
+    {
+      "t": "586919304 INTEREST RATE SWAP 11/22/2028",
+      "n": "586919304 Interest Rate Swap 11/22/2028",
+      "weight": -0.16,
+      "sector": "-",
+      "mv": -20433.12
+    },
     {
       "t": "AIREIN",
       "n": "Aimco Realty Investors Lp 3.04% 06/01/2028",
@@ -38,6 +52,13 @@
       "isin": "CA06368LNK84",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 916535.04
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 1.34,
+      "sector": "-",
+      "mv": 172605.5
     },
     {
       "t": "CCDJ",

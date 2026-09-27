@@ -5,8 +5,22 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXCO_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "4302d31820ca378979b421f25e7ef541153e6ea7bdb1767b574a2851b71de4d3",
+  "content_hash": "7afdec77f3eaa9d8b6db8ebda867153ba8f391ca745e394ad93ac8aaab2266b1",
   "holdings": [
+    {
+      "t": "586599003 INTEREST RATE SWAP 11/16/2027",
+      "n": "586599003 Interest Rate Swap 11/16/2027",
+      "weight": -0.25,
+      "sector": "-",
+      "mv": -22451.88
+    },
+    {
+      "t": "586919284 INTEREST RATE SWAP 11/16/2027",
+      "n": "586919284 Interest Rate Swap 11/16/2027",
+      "weight": -0.14,
+      "sector": "-",
+      "mv": -12531.14
+    },
     {
       "t": "BCECN",
       "n": "Bell Canada 3.60% 09/29/2027",
@@ -126,6 +140,13 @@
       "isin": "CA89353ZCF32",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 642913.12
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 1.04,
+      "sector": "-",
+      "mv": 93710.15
     },
     {
       "t": "CM",

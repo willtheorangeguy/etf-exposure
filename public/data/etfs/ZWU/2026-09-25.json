@@ -5,12 +5,12 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWU_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "a35d210a28b91bc4fb63524244425e3d5278baeff1f7bba7dc9361becafb07b0",
+  "content_hash": "737876144220260db08a919c508961296e8e70092137a1134ac72953e8531c3f",
   "holdings": [
     {
       "t": "AEP",
       "n": "American Electric Power Company, Inc.",
-      "weight": 2.98,
+      "weight": 2.9797020297970196,
       "isin": "US0255371017",
       "sector": "UTILITIES",
       "mv": 62856917.75,
@@ -19,16 +19,22 @@
     {
       "t": "ALA",
       "n": "Altagas Ltd.",
-      "weight": 2.79,
+      "weight": 2.7897210278972095,
       "isin": "CA0213611001",
       "sector": "UTILITIES",
       "mv": 58874606.5,
       "shares": 1127650
     },
     {
+      "t": "AT&T INC CALL OPTIONS",
+      "n": "AT&T INC CALL OPTIONS",
+      "weight": -0.009999000099989998,
+      "sector": "-"
+    },
+    {
       "t": "BCE",
       "n": "BCE Inc.",
-      "weight": 4.14,
+      "weight": 4.139586041395859,
       "isin": "CA05534B7604",
       "sector": "COMMUNICATION SERVICES",
       "mv": 87366417.49,
@@ -37,7 +43,7 @@
     {
       "t": "BMG162521014",
       "n": "BROOKFIELD INFRASTRUCTURE PARTNERS LP",
-      "weight": 3.18,
+      "weight": 3.1796820317968195,
       "isin": "BMG162521014",
       "sector": "UTILITIES",
       "mv": 67114866.2,
@@ -46,7 +52,7 @@
     {
       "t": "CA05590D1069",
       "n": "BMO Equal Weight Utilities Index ETF",
-      "weight": 5.18,
+      "weight": 5.179482051794819,
       "isin": "CA05590D1069",
       "sector": "Financials",
       "mv": 109375865.27,
@@ -55,7 +61,7 @@
     {
       "t": "CA1367178326",
       "n": "Canadian Utilities Limited",
-      "weight": 2.79,
+      "weight": 2.7897210278972095,
       "isin": "CA1367178326",
       "sector": "UTILITIES",
       "mv": 58909348,
@@ -64,16 +70,24 @@
     {
       "t": "CA7751092007",
       "n": "Rogers Communications Inc.",
-      "weight": 4.01,
+      "weight": 4.009599040095989,
       "isin": "CA7751092007",
       "sector": "COMMUNICATION SERVICES",
       "mv": 84634543.4,
       "shares": 1872860
     },
     {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.15998400159983997,
+      "sector": "-",
+      "mv": -3364077.67,
+      "shares": 1
+    },
+    {
       "t": "CPX",
       "n": "Capital Power Corporation",
-      "weight": 2.54,
+      "weight": 2.5397460253974597,
       "isin": "CA14042M1023",
       "sector": "UTILITIES",
       "mv": 53600625.48,
@@ -82,7 +96,7 @@
     {
       "t": "DUK",
       "n": "Duke Energy Corporation",
-      "weight": 2.95,
+      "weight": 2.94970502949705,
       "isin": "US26441C2044",
       "sector": "UTILITIES",
       "mv": 62318175.03,
@@ -91,7 +105,7 @@
     {
       "t": "EMA",
       "n": "Emera Incorporated",
-      "weight": 4.12,
+      "weight": 4.11958804119588,
       "isin": "CA2908761018",
       "sector": "UTILITIES",
       "mv": 86899191.96,
@@ -100,7 +114,7 @@
     {
       "t": "ENB",
       "n": "Enbridge Inc.",
-      "weight": 4.78,
+      "weight": 4.779522047795219,
       "isin": "CA29250N1050",
       "sector": "ENERGY",
       "mv": 100929457.64,
@@ -109,7 +123,7 @@
     {
       "t": "EXC",
       "n": "Exelon Corporation",
-      "weight": 2.64,
+      "weight": 2.63973602639736,
       "isin": "US30161N1019",
       "sector": "UTILITIES",
       "mv": 55781306.89,
@@ -118,7 +132,7 @@
     {
       "t": "FTS",
       "n": "Fortis Inc.",
-      "weight": 5.25,
+      "weight": 5.249475052494749,
       "isin": "CA3495531079",
       "sector": "UTILITIES",
       "mv": 110788871.8,
@@ -127,7 +141,7 @@
     {
       "t": "H",
       "n": "Hydro One Limited",
-      "weight": 4.87,
+      "weight": 4.869513048695129,
       "isin": "CA4488112083",
       "sector": "UTILITIES",
       "mv": 102810740.37,
@@ -136,7 +150,7 @@
     {
       "t": "KMI",
       "n": "Kinder Morgan, Inc.",
-      "weight": 4.23,
+      "weight": 4.2295770422957695,
       "isin": "US49456B1017",
       "sector": "ENERGY",
       "mv": 89136468.9,
@@ -145,16 +159,22 @@
     {
       "t": "NEE",
       "n": "NextEra Energy, Inc.",
-      "weight": 3.73,
+      "weight": 3.7296270372962694,
       "isin": "US65339F1012",
       "sector": "UTILITIES",
       "mv": 78612785.86,
       "shares": 730525
     },
     {
+      "t": "NEXTERA ENERGY INC CALL OPTIONS",
+      "n": "NEXTERA ENERGY INC CALL OPTIONS",
+      "weight": -0.009999000099989998,
+      "sector": "-"
+    },
+    {
       "t": "NPI",
       "n": "Northland Power Inc.",
-      "weight": 2.64,
+      "weight": 2.63973602639736,
       "isin": "CA6665111002",
       "sector": "UTILITIES",
       "mv": 55648653.35,
@@ -163,7 +183,7 @@
     {
       "t": "PPL",
       "n": "Pembina Pipeline Corporation",
-      "weight": 4.89,
+      "weight": 4.889511048895109,
       "isin": "CA7063271034",
       "sector": "ENERGY",
       "mv": 103093230.4,
@@ -172,7 +192,7 @@
     {
       "t": "SO",
       "n": "The Southern Company",
-      "weight": 3.84,
+      "weight": 3.8396160383961595,
       "isin": "US8425871071",
       "sector": "UTILITIES",
       "mv": 81053142.67,
@@ -181,7 +201,7 @@
     {
       "t": "SRE",
       "n": "Sempra",
-      "weight": 2.61,
+      "weight": 2.6097390260973894,
       "isin": "US8168511090",
       "sector": "UTILITIES",
       "mv": 55158907.09,
@@ -190,7 +210,7 @@
     {
       "t": "T",
       "n": "Telus Corporation",
-      "weight": 3.18,
+      "weight": 3.1796820317968195,
       "isin": "CA87971M1032",
       "sector": "COMMUNICATION SERVICES",
       "mv": 67121340,
@@ -199,7 +219,7 @@
     {
       "t": "T",
       "n": "AT&T Inc.",
-      "weight": 5.09,
+      "weight": 5.089491050894909,
       "isin": "US00206R1023",
       "sector": "COMMUNICATION SERVICES",
       "mv": 107378698.66,
@@ -208,7 +228,7 @@
     {
       "t": "TRP",
       "n": "TC Energy Corporation",
-      "weight": 5,
+      "weight": 4.9995000499949995,
       "isin": "CA87807B1076",
       "sector": "ENERGY",
       "mv": 105388615.99,
@@ -217,7 +237,7 @@
     {
       "t": "US92840M1027",
       "n": "Vistra Corp.",
-      "weight": 2.69,
+      "weight": 2.6897310268973094,
       "isin": "US92840M1027",
       "sector": "UTILITIES",
       "mv": 56705279.75,
@@ -226,7 +246,7 @@
     {
       "t": "VZ",
       "n": "Verizon Communications Inc.",
-      "weight": 5.33,
+      "weight": 5.329467053294669,
       "isin": "US92343V1044",
       "sector": "COMMUNICATION SERVICES",
       "mv": 112507967.38,
@@ -235,7 +255,7 @@
     {
       "t": "WMB",
       "n": "The Williams Companies, Inc.",
-      "weight": 4.74,
+      "weight": 4.73952604739526,
       "isin": "US9694571004",
       "sector": "ENERGY",
       "mv": 99998164.55,

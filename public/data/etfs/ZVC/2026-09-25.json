@@ -5,12 +5,12 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZVC_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "1e9a1a4c156626bce9e289c64a6bbdb8c8482f50d3ac8e6f924047cff9bbcb60",
+  "content_hash": "f341511927c9d0cce94ece4f4aef940a7f49f2221261d5e8658229cee0260399",
   "holdings": [
     {
       "t": "ABX",
       "n": "Barrick Mining Corporation",
-      "weight": 5.53,
+      "weight": 5.529447055294469,
       "isin": "CA06849F1080",
       "sector": "MATERIALS",
       "mv": 3195976.4,
@@ -19,7 +19,7 @@
     {
       "t": "ALA",
       "n": "Altagas Ltd.",
-      "weight": 0.52,
+      "weight": 0.5199480051994799,
       "isin": "CA0213611001",
       "sector": "UTILITIES",
       "mv": 301042.86,
@@ -28,7 +28,7 @@
     {
       "t": "ATD",
       "n": "Alimentation Couche-Tard Inc.",
-      "weight": 1.29,
+      "weight": 1.2898710128987096,
       "isin": "CA01626P1484",
       "sector": "CONSUMER STAPLES",
       "mv": 744651,
@@ -37,7 +37,7 @@
     {
       "t": "BCE",
       "n": "BCE Inc.",
-      "weight": 0.18,
+      "weight": 0.17998200179981994,
       "isin": "CA05534B7604",
       "sector": "COMMUNICATION SERVICES",
       "mv": 106319.89,
@@ -46,7 +46,7 @@
     {
       "t": "BMO",
       "n": "Bank of Montreal",
-      "weight": 6.12,
+      "weight": 6.119388061193878,
       "isin": "CA0636711016",
       "sector": "FINANCIALS",
       "mv": 3536101.18,
@@ -55,7 +55,7 @@
     {
       "t": "BNS",
       "n": "The Bank Of Nova Scotia",
-      "weight": 7.72,
+      "weight": 7.719228077192278,
       "isin": "CA0641491075",
       "sector": "FINANCIALS",
       "mv": 4457078.86,
@@ -64,7 +64,7 @@
     {
       "t": "CA1367178326",
       "n": "Canadian Utilities Limited",
-      "weight": 0.18,
+      "weight": 0.17998200179981994,
       "isin": "CA1367178326",
       "sector": "UTILITIES",
       "mv": 105479.1,
@@ -73,7 +73,7 @@
     {
       "t": "CA2918434077",
       "n": "Empire Company Limited",
-      "weight": 0.66,
+      "weight": 0.6599340065993399,
       "isin": "CA2918434077",
       "sector": "CONSUMER STAPLES",
       "mv": 382727.52,
@@ -82,7 +82,7 @@
     {
       "t": "CA7751092007",
       "n": "Rogers Communications Inc.",
-      "weight": 0.6,
+      "weight": 0.5999400059993998,
       "isin": "CA7751092007",
       "sector": "COMMUNICATION SERVICES",
       "mv": 344483.37,
@@ -91,16 +91,24 @@
     {
       "t": "CAE",
       "n": "Cae Inc.",
-      "weight": 0.37,
+      "weight": 0.3699630036996299,
       "isin": "CA1247651088",
       "sector": "INDUSTRIALS",
       "mv": 214431.49,
       "shares": 6097
     },
     {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.14998500149984995,
+      "sector": "-",
+      "mv": 87013.2,
+      "shares": 1
+    },
+    {
       "t": "CLS",
       "n": "Celestica Inc.",
-      "weight": 2.98,
+      "weight": 2.979702029797019,
       "isin": "CA15101Q2071",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 1720544.4,
@@ -109,7 +117,7 @@
     {
       "t": "CM",
       "n": "Canadian Imperial Bank Of Commerce",
-      "weight": 3.78,
+      "weight": 3.779622037796219,
       "isin": "CA1360691010",
       "sector": "FINANCIALS",
       "mv": 2182256.16,
@@ -118,7 +126,7 @@
     {
       "t": "CNQ",
       "n": "Canadian Natural Resources Limited",
-      "weight": 4.53,
+      "weight": 4.529547045295469,
       "isin": "CA1363851017",
       "sector": "ENERGY",
       "mv": 2614592.25,
@@ -127,7 +135,7 @@
     {
       "t": "CNR",
       "n": "Canadian National Railway Company",
-      "weight": 2.54,
+      "weight": 2.5397460253974593,
       "isin": "CA1363751027",
       "sector": "INDUSTRIALS",
       "mv": 1465809.3,
@@ -136,7 +144,7 @@
     {
       "t": "CP",
       "n": "Canadian Pacific Kansas City Limited",
-      "weight": 4.28,
+      "weight": 4.279572042795719,
       "isin": "CA13646K1084",
       "sector": "INDUSTRIALS",
       "mv": 2469921.3,
@@ -145,7 +153,7 @@
     {
       "t": "CTC/A",
       "n": "Canadian Tire Corporation, Limited",
-      "weight": 0.51,
+      "weight": 0.5099490050994899,
       "isin": "CA1366812024",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 295520.53,
@@ -154,7 +162,7 @@
     {
       "t": "CVE",
       "n": "Cenovus Energy Inc.",
-      "weight": 3.22,
+      "weight": 3.2196780321967795,
       "isin": "CA15135U1093",
       "sector": "ENERGY",
       "mv": 1861894.2,
@@ -163,7 +171,7 @@
     {
       "t": "EMA",
       "n": "Emera Incorporated",
-      "weight": 0.61,
+      "weight": 0.6099390060993898,
       "isin": "CA2908761018",
       "sector": "UTILITIES",
       "mv": 350423.64,
@@ -172,7 +180,7 @@
     {
       "t": "EQX",
       "n": "Equinox Gold Corp.",
-      "weight": 0.42,
+      "weight": 0.4199580041995799,
       "isin": "CA29446Y5020",
       "sector": "MATERIALS",
       "mv": 240211.93,
@@ -181,7 +189,7 @@
     {
       "t": "FFH",
       "n": "Fairfax Financial Holdings Limited",
-      "weight": 2.82,
+      "weight": 2.819718028197179,
       "isin": "CA3039011026",
       "sector": "FINANCIALS",
       "mv": 1630500.72,
@@ -190,7 +198,7 @@
     {
       "t": "FM",
       "n": "First Quantum Minerals Ltd.",
-      "weight": 0.89,
+      "weight": 0.8899110088991098,
       "isin": "CA3359341052",
       "sector": "MATERIALS",
       "mv": 513873.36,
@@ -199,7 +207,7 @@
     {
       "t": "FTS",
       "n": "Fortis Inc.",
-      "weight": 1.15,
+      "weight": 1.1498850114988497,
       "isin": "CA3495531079",
       "sector": "UTILITIES",
       "mv": 665911.7,
@@ -208,7 +216,7 @@
     {
       "t": "GIB/A",
       "n": "CGI Inc.",
-      "weight": 4.68,
+      "weight": 4.679532046795319,
       "isin": "CA12532H1047",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 2701058.72,
@@ -217,7 +225,7 @@
     {
       "t": "GIL",
       "n": "Gildan Activewear Inc.",
-      "weight": 0.29,
+      "weight": 0.2899710028997099,
       "isin": "CA3759161035",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 167127.18,
@@ -226,7 +234,7 @@
     {
       "t": "GWO",
       "n": "Great-West Lifeco Inc.",
-      "weight": 0.59,
+      "weight": 0.5899410058994098,
       "isin": "CA39138C1068",
       "sector": "FINANCIALS",
       "mv": 343024.5,
@@ -235,7 +243,7 @@
     {
       "t": "IAG",
       "n": "iA Financial Corporation Inc.",
-      "weight": 0.58,
+      "weight": 0.5799420057994198,
       "isin": "CA45075E1043",
       "sector": "FINANCIALS",
       "mv": 335969.85,
@@ -244,7 +252,7 @@
     {
       "t": "IGM",
       "n": "Igm Financial Inc.",
-      "weight": 0.21,
+      "weight": 0.20997900209978995,
       "isin": "CA4495861060",
       "sector": "FINANCIALS",
       "mv": 122178.24,
@@ -253,7 +261,7 @@
     {
       "t": "IMO",
       "n": "Imperial Oil Limited",
-      "weight": 0.73,
+      "weight": 0.7299270072992698,
       "isin": "CA4530384086",
       "sector": "ENERGY",
       "mv": 421145.76,
@@ -262,7 +270,7 @@
     {
       "t": "K",
       "n": "Kinross Gold Corporation",
-      "weight": 2.07,
+      "weight": 2.0697930206979294,
       "isin": "CA4969024047",
       "sector": "MATERIALS",
       "mv": 1194257.34,
@@ -271,7 +279,7 @@
     {
       "t": "LUN",
       "n": "Lundin Mining Corporation",
-      "weight": 0.66,
+      "weight": 0.6599340065993399,
       "isin": "CA5503721063",
       "sector": "MATERIALS",
       "mv": 380057.7,
@@ -280,7 +288,7 @@
     {
       "t": "MFC",
       "n": "Manulife Financial Corporation",
-      "weight": 6.16,
+      "weight": 6.159384061593839,
       "isin": "CA56501R1064",
       "sector": "FINANCIALS",
       "mv": 3558392.1,
@@ -289,7 +297,7 @@
     {
       "t": "MG",
       "n": "Magna International Inc.",
-      "weight": 2.24,
+      "weight": 2.2397760223977596,
       "isin": "CA5592224011",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 1294564.05,
@@ -298,7 +306,7 @@
     {
       "t": "NA",
       "n": "National Bank of Canada",
-      "weight": 1.58,
+      "weight": 1.5798420157984197,
       "isin": "CA6330671034",
       "sector": "FINANCIALS",
       "mv": 914074.61,
@@ -307,7 +315,7 @@
     {
       "t": "NTR",
       "n": "Nutrien Ltd.",
-      "weight": 3.37,
+      "weight": 3.369663033696629,
       "isin": "CA67077M1086",
       "sector": "MATERIALS",
       "mv": 1944675.7,
@@ -316,7 +324,7 @@
     {
       "t": "PAAS",
       "n": "Pan American Silver Corp.",
-      "weight": 0.77,
+      "weight": 0.7699230076992298,
       "isin": "CA6979001089",
       "sector": "MATERIALS",
       "mv": 447442.19,
@@ -325,7 +333,7 @@
     {
       "t": "POW",
       "n": "Power Corporation of Canada",
-      "weight": 2.01,
+      "weight": 2.009799020097989,
       "isin": "CA7392391016",
       "sector": "FINANCIALS",
       "mv": 1160586.8,
@@ -334,7 +342,7 @@
     {
       "t": "RBA",
       "n": "RB Global, Inc.",
-      "weight": 0.31,
+      "weight": 0.30996900309968994,
       "isin": "CA74935Q1072",
       "sector": "INDUSTRIALS",
       "mv": 180129.82,
@@ -343,7 +351,7 @@
     {
       "t": "SAP",
       "n": "Saputo Inc.",
-      "weight": 0.7,
+      "weight": 0.6999300069992997,
       "isin": "CA8029121057",
       "sector": "CONSUMER STAPLES",
       "mv": 403004.16,
@@ -352,7 +360,7 @@
     {
       "t": "SLF",
       "n": "Sun Life Financial Inc.",
-      "weight": 2.02,
+      "weight": 2.0197980201979795,
       "isin": "CA8667961053",
       "sector": "FINANCIALS",
       "mv": 1166931.5,
@@ -361,7 +369,7 @@
     {
       "t": "SU",
       "n": "Suncor Energy Inc.",
-      "weight": 6.03,
+      "weight": 6.029397060293968,
       "isin": "CA8672241079",
       "sector": "ENERGY",
       "mv": 3485404.44,
@@ -370,7 +378,7 @@
     {
       "t": "TD",
       "n": "The Toronto-Dominion Bank",
-      "weight": 8.07,
+      "weight": 8.069193080691928,
       "isin": "CA8911605092",
       "sector": "FINANCIALS",
       "mv": 4663421.49,
@@ -379,7 +387,7 @@
     {
       "t": "TECK/B",
       "n": "Teck Resources Limited",
-      "weight": 1.54,
+      "weight": 1.5398460153984597,
       "isin": "CA8787422044",
       "sector": "MATERIALS",
       "mv": 891513,
@@ -388,7 +396,7 @@
     {
       "t": "TFII",
       "n": "TFI International Inc.",
-      "weight": 0.4,
+      "weight": 0.3999600039995999,
       "isin": "CA87241L1094",
       "sector": "INDUSTRIALS",
       "mv": 232940.8,
@@ -397,7 +405,7 @@
     {
       "t": "TIH",
       "n": "Toromont Industries Ltd.",
-      "weight": 0.23,
+      "weight": 0.22997700229976994,
       "isin": "CA8911021050",
       "sector": "INDUSTRIALS",
       "mv": 132277.78,
@@ -406,7 +414,7 @@
     {
       "t": "TOU",
       "n": "Tourmaline Oil Corp.",
-      "weight": 1.19,
+      "weight": 1.1898810118988097,
       "isin": "CA89156V1067",
       "sector": "ENERGY",
       "mv": 686228.4,
@@ -415,7 +423,7 @@
     {
       "t": "WCP",
       "n": "Whitecap Resources Inc.",
-      "weight": 1.4,
+      "weight": 1.3998600139985995,
       "isin": "CA96467A2002",
       "sector": "ENERGY",
       "mv": 806232.3,
@@ -424,7 +432,7 @@
     {
       "t": "WN",
       "n": "George Weston Limited",
-      "weight": 0.51,
+      "weight": 0.5099490050994899,
       "isin": "CA9611485090",
       "sector": "CONSUMER STAPLES",
       "mv": 293489.68,
@@ -433,7 +441,7 @@
     {
       "t": "WSP",
       "n": "Wsp Global Inc.",
-      "weight": 0.62,
+      "weight": 0.6199380061993799,
       "isin": "CA92938W2022",
       "sector": "INDUSTRIALS",
       "mv": 357364.15,

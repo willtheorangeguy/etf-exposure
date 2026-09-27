@@ -5,8 +5,15 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFH_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "b42f64d2392e7e029b92ea612ef93463d047e782bce2d24ae48faf67cf6e8c8a",
+  "content_hash": "692491378e24c1bb82170f7b7b85a5276c27a5ba59bd8c4165dc3f3c26d88956",
   "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -5.36,
+      "sector": "-",
+      "mv": -14316834.6
+    },
     {
       "t": "CTB",
       "n": "Canada T Bill 0.01% 10/07/2026",
@@ -30,6 +37,48 @@
       "isin": "CA1350Z7FA77",
       "sector": "-",
       "mv": 114596236.8
+    },
+    {
+      "t": "S5106481 CREDIT DEFAULT SWAP 5.00% 06/20/2031",
+      "n": "S5106481 Credit Default Swap 5.00% 06/20/2031",
+      "weight": 0.22,
+      "sector": "-",
+      "mv": 597469.38
+    },
+    {
+      "t": "S5106485 CREDIT DEFAULT SWAP 5.00% 06/20/2031",
+      "n": "S5106485 Credit Default Swap 5.00% 06/20/2031",
+      "weight": 1.25,
+      "sector": "-",
+      "mv": 3337215.07
+    },
+    {
+      "t": "S5106857 CREDIT DEFAULT SWAP 5.00% 06/20/2031",
+      "n": "S5106857 Credit Default Swap 5.00% 06/20/2031",
+      "weight": 1.72,
+      "sector": "-",
+      "mv": 4600990.81
+    },
+    {
+      "t": "S5106858 CREDIT DEFAULT SWAP 5.00% 06/20/2031",
+      "n": "S5106858 Credit Default Swap 5.00% 06/20/2031",
+      "weight": 1.12,
+      "sector": "-",
+      "mv": 2993390.75
+    },
+    {
+      "t": "S5107453 CREDIT DEFAULT SWAP 5.00% 06/20/2031",
+      "n": "S5107453 Credit Default Swap 5.00% 06/20/2031",
+      "weight": 0.17,
+      "sector": "-",
+      "mv": 448102.03
+    },
+    {
+      "t": "S5107533 CREDIT DEFAULT SWAP 5.00% 06/20/2031",
+      "n": "S5107533 Credit Default Swap 5.00% 06/20/2031",
+      "weight": 2,
+      "sector": "-",
+      "mv": 5327816.56
     }
   ]
 }

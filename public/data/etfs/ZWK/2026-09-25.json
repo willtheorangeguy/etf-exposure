@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWK_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "90eb0286913f6563dbfd005adb2a7762f0be036759d70627fc65689e5e83ef29",
+  "content_hash": "13b4c3b2236995066b219ce8227e59bb9a7e6903d64cbdc6f80e9432e70f5ffd",
   "holdings": [
     {
       "t": "BAC",
@@ -35,6 +35,14 @@
       "shares": 100289
     },
     {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.52,
+      "sector": "-",
+      "mv": 1746263.37,
+      "shares": 1
+    },
+    {
       "t": "CFG",
       "n": "Citizens Financial Group, Inc.",
       "weight": 6.71,
@@ -42,6 +50,12 @@
       "sector": "FINANCIALS",
       "mv": 22461488.58,
       "shares": 242332
+    },
+    {
+      "t": "CITIZENS FINANCIAL GROUP INC CALL OPTIONS",
+      "n": "CITIZENS FINANCIAL GROUP INC CALL OPTIONS",
+      "weight": -0.01,
+      "sector": "-"
     },
     {
       "t": "FITB",
@@ -71,6 +85,12 @@
       "shares": 930452
     },
     {
+      "t": "HUNTINGTON BANCSHARES INC/OH CALL OPTIONS",
+      "n": "HUNTINGTON BANCSHARES INC/OH CALL OPTIONS",
+      "weight": -0.01,
+      "sector": "-"
+    },
+    {
       "t": "JPM",
       "n": "JPMorgan Chase & Co.",
       "weight": 6.96,
@@ -87,6 +107,18 @@
       "sector": "FINANCIALS",
       "mv": 21195293.17,
       "shares": 727066
+    },
+    {
+      "t": "KEYCORP CALL OPTIONS",
+      "n": "KEYCORP CALL OPTIONS",
+      "weight": -0.01,
+      "sector": "-"
+    },
+    {
+      "t": "M&T BANK CORP CALL OPTIONS",
+      "n": "M&T BANK CORP CALL OPTIONS",
+      "weight": -0.01,
+      "sector": "-"
     },
     {
       "t": "MS",
@@ -116,6 +148,18 @@
       "shares": 69310
     },
     {
+      "t": "PNC FINANCIAL SERVICES GROUP I CALL OPTIONS",
+      "n": "PNC FINANCIAL SERVICES GROUP I CALL OPTIONS",
+      "weight": -0.01,
+      "sector": "-"
+    },
+    {
+      "t": "REGIONS FINANCIAL CORP CALL OPTIONS",
+      "n": "REGIONS FINANCIAL CORP CALL OPTIONS",
+      "weight": -0.01,
+      "sector": "-"
+    },
+    {
       "t": "RF",
       "n": "Regions Financial Corporation",
       "weight": 6.54,
@@ -132,6 +176,12 @@
       "sector": "FINANCIALS",
       "mv": 20576981.17,
       "shares": 305239
+    },
+    {
+      "t": "TRUIST FINANCIAL CORP CALL OPTIONS",
+      "n": "TRUIST FINANCIAL CORP CALL OPTIONS",
+      "weight": -0.01,
+      "sector": "-"
     },
     {
       "t": "USB",

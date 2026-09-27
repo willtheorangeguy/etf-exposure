@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPL_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "2ed09cf48549ef650eefb666fc069e30d0bb7662c5df13d66ec997a13a36a359",
+  "content_hash": "3b494185d2f6017c2fb5921b77cdf7fb96b31cddd79517ac812975c402b7840b",
   "holdings": [
     {
       "t": "ALTA",
@@ -270,6 +270,13 @@
       "isin": "CA988477AA34",
       "sector": "PROVINCIAL BOND",
       "mv": 66888.07
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.02,
+      "sector": "-",
+      "mv": -46019.31
     },
     {
       "t": "MP",

@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "as_of_date": "2026-09-25",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLY_20260925.xlsx",
+  "created_at": "2026-09-27T03:41:31.904Z",
+  "partial": false,
+  "content_hash": "8dbc7c6253fa39ac50c9820ca57563d11169711ea2eec4baac4081a87ef68f60",
+  "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -1.54,
+      "sector": "-",
+      "mv": -162590.76,
+      "shares": 1
+    },
+    {
+      "t": "US81369Y4070",
+      "n": "STATE STREET CONSUMER DISCRETIONARY SELECT SECTOR SPDR ETF",
+      "weight": 101.54,
+      "isin": "US81369Y4070",
+      "sector": "-",
+      "mv": 10709167.8,
+      "shares": 68481
+    }
+  ]
+}

@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUT_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "67923c28c1399473e95140afa0f89fd61e9776266ef28a34cd144ca5b2a98546",
+  "content_hash": "e4f7e09ba3787b74d5f8f51d31105c84839bae256b0458707b26246962d50539",
   "holdings": [
     {
       "t": "ALA",
@@ -60,6 +60,14 @@
       "sector": "UTILITIES",
       "mv": 70828788.1,
       "shares": 1408127
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.18,
+      "sector": "-",
+      "mv": 1477256.44,
+      "shares": 1
     },
     {
       "t": "CPX",

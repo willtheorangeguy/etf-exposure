@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZIN_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "c00d0b306953b0e41561040a00d710923b17d092922d87a869770c06e1370439",
+  "content_hash": "335a02a9b7f846af06cfc2f24d2bd4fd501cecddc7d3612fe231c0585515a229",
   "holdings": [
     {
       "t": "AC",
@@ -141,6 +141,14 @@
       "sector": "INDUSTRIALS",
       "mv": 1743869.28,
       "shares": 49584
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.07,
+      "sector": "-",
+      "mv": 39982.57,
+      "shares": 1
     },
     {
       "t": "CJT",

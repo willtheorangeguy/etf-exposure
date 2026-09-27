@@ -5,12 +5,12 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZHC_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "b1f8a93f4d920d35a8d563636ac2c28ff1ebc7014055a346fcb068bb1a6a3a56",
+  "content_hash": "38f49ae480bca61518193f3b9f10350ddbf032170d676b8e8e16eabdd66ae3b5",
   "holdings": [
     {
       "t": "AAPL",
       "n": "Apple Inc.",
-      "weight": 8.96,
+      "weight": 8.957312806158154,
       "isin": "US0378331005",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 181392.35,
@@ -19,7 +19,7 @@
     {
       "t": "ABBV",
       "n": "AbbVie Inc.",
-      "weight": 1.53,
+      "weight": 1.5295411376587025,
       "isin": "US00287Y1091",
       "sector": "HEALTH CARE",
       "mv": 31033.34,
@@ -28,7 +28,7 @@
     {
       "t": "ACGL",
       "n": "ARCH CAPITAL GROUP LTD",
-      "weight": 0.14,
+      "weight": 0.13995801259622115,
       "isin": "BMG0450A1053",
       "sector": "FINANCIALS",
       "mv": 2811.73,
@@ -37,7 +37,7 @@
     {
       "t": "ADSK",
       "n": "Autodesk, Inc.",
-      "weight": 0.09,
+      "weight": 0.08997300809757072,
       "isin": "US0527691069",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 1777.11,
@@ -46,7 +46,7 @@
     {
       "t": "AMD",
       "n": "Advanced Micro Devices, Inc.",
-      "weight": 1.67,
+      "weight": 1.6694991502549235,
       "isin": "US0079031078",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 33895.79,
@@ -55,7 +55,7 @@
     {
       "t": "AWK",
       "n": "American Water Works Company, Inc.",
-      "weight": 0.21,
+      "weight": 0.2099370188943317,
       "isin": "US0304201033",
       "sector": "UTILITIES",
       "mv": 4258.81,
@@ -64,7 +64,7 @@
     {
       "t": "BAC",
       "n": "Bank of America Corporation",
-      "weight": 1.63,
+      "weight": 1.629511146656003,
       "isin": "US0605051046",
       "sector": "FINANCIALS",
       "mv": 32961.92,
@@ -73,7 +73,7 @@
     {
       "t": "BKNG",
       "n": "Booking Holdings Inc.",
-      "weight": 2.8,
+      "weight": 2.7991602519244223,
       "isin": "US09857L1089",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 56583.37,
@@ -82,7 +82,7 @@
     {
       "t": "BLDR",
       "n": "Builders FirstSource, Inc.",
-      "weight": 0.03,
+      "weight": 0.02999100269919024,
       "isin": "US12008R1077",
       "sector": "INDUSTRIALS",
       "mv": 585.85,
@@ -91,7 +91,7 @@
     {
       "t": "BR",
       "n": "Broadridge Financial Solutions, Inc.",
-      "weight": 0.08,
+      "weight": 0.07997600719784065,
       "isin": "US11133T1034",
       "sector": "INDUSTRIALS",
       "mv": 1621.51,
@@ -100,7 +100,7 @@
     {
       "t": "BRO",
       "n": "Brown & Brown, Inc.",
-      "weight": 0.08,
+      "weight": 0.07997600719784065,
       "isin": "US1152361010",
       "sector": "FINANCIALS",
       "mv": 1548.48,
@@ -109,7 +109,7 @@
     {
       "t": "BSX",
       "n": "Boston Scientific Corporation",
-      "weight": 0.26,
+      "weight": 0.2599220233929821,
       "isin": "US1011371077",
       "sector": "HEALTH CARE",
       "mv": 5218.3,
@@ -118,16 +118,24 @@
     {
       "t": "CAH",
       "n": "Cardinal Health, Inc.",
-      "weight": 0.17,
+      "weight": 0.1699490152954114,
       "isin": "US14149Y1082",
       "sector": "HEALTH CARE",
       "mv": 3426.39,
       "shares": 11
     },
     {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.5198440467859642,
+      "sector": "-",
+      "mv": 10530.25,
+      "shares": 1
+    },
+    {
       "t": "CBOE",
       "n": "Cboe Global Markets, Inc.",
-      "weight": 0.11,
+      "weight": 0.10996700989703088,
       "isin": "US12503M1080",
       "sector": "FINANCIALS",
       "mv": 2189.82,
@@ -136,7 +144,7 @@
     {
       "t": "CFG",
       "n": "Citizens Financial Group, Inc.",
-      "weight": 0.11,
+      "weight": 0.10996700989703088,
       "isin": "US1746101054",
       "sector": "FINANCIALS",
       "mv": 2317.22,
@@ -145,7 +153,7 @@
     {
       "t": "CIEN",
       "n": "Ciena Corporation",
-      "weight": 0.1,
+      "weight": 0.09997000899730081,
       "isin": "US1717793095",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 2019.33,
@@ -154,7 +162,7 @@
     {
       "t": "CME",
       "n": "CME Group Inc.",
-      "weight": 0.41,
+      "weight": 0.4098770368889333,
       "isin": "US12572Q1058",
       "sector": "FINANCIALS",
       "mv": 8230.06,
@@ -163,7 +171,7 @@
     {
       "t": "CMI",
       "n": "Cummins Inc.",
-      "weight": 0.37,
+      "weight": 0.369889033290013,
       "isin": "US2310211063",
       "sector": "INDUSTRIALS",
       "mv": 7426.71,
@@ -172,7 +180,7 @@
     {
       "t": "CNC",
       "n": "Centene Corporation",
-      "weight": 0.1,
+      "weight": 0.09997000899730081,
       "isin": "US15135B1017",
       "sector": "HEALTH CARE",
       "mv": 2011.15,
@@ -181,7 +189,7 @@
     {
       "t": "COST",
       "n": "Costco Wholesale Corporation",
-      "weight": 0.39,
+      "weight": 0.38988303508947314,
       "isin": "US22160K1051",
       "sector": "CONSUMER STAPLES",
       "mv": 7831.23,
@@ -190,7 +198,7 @@
     {
       "t": "CRDO",
       "n": "Credo Technology Group Holding Ltd",
-      "weight": 0.06,
+      "weight": 0.05998200539838048,
       "isin": "KYG254571055",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 1193.63,
@@ -199,7 +207,7 @@
     {
       "t": "CRM",
       "n": "Salesforce, Inc.",
-      "weight": 0.33,
+      "weight": 0.3299010296910927,
       "isin": "US79466L3024",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 6620.19,
@@ -208,7 +216,7 @@
     {
       "t": "CSCO",
       "n": "Cisco Systems, Inc.",
-      "weight": 0.76,
+      "weight": 0.7597720683794862,
       "isin": "US17275R1023",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 15394.03,
@@ -217,7 +225,7 @@
     {
       "t": "CSX",
       "n": "CSX Corporation",
-      "weight": 0.43,
+      "weight": 0.4298710386883935,
       "isin": "US1264081035",
       "sector": "INDUSTRIALS",
       "mv": 8800.34,
@@ -226,7 +234,7 @@
     {
       "t": "DAL",
       "n": "Delta Air Lines, Inc.",
-      "weight": 0.26,
+      "weight": 0.2599220233929821,
       "isin": "US2473617023",
       "sector": "INDUSTRIALS",
       "mv": 5166.17,
@@ -235,7 +243,7 @@
     {
       "t": "DD",
       "n": "DUPONT DE NEMOURS INC",
-      "weight": 0.11,
+      "weight": 0.10996700989703088,
       "isin": "US26614N2018",
       "sector": "INDUSTRIALS",
       "mv": 2235.57,
@@ -244,7 +252,7 @@
     {
       "t": "DHI",
       "n": "D.R. Horton, Inc.",
-      "weight": 0.9,
+      "weight": 0.8997300809757073,
       "isin": "US23331A1097",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 18214.45,
@@ -253,7 +261,7 @@
     {
       "t": "DIS",
       "n": "The Walt Disney Company",
-      "weight": 3.21,
+      "weight": 3.209037288813356,
       "isin": "US2546871060",
       "sector": "COMMUNICATION SERVICES",
       "mv": 65012.29,
@@ -262,7 +270,7 @@
     {
       "t": "DOW",
       "n": "Dow Inc.",
-      "weight": 0.13,
+      "weight": 0.12996101169649105,
       "isin": "US2605571031",
       "sector": "MATERIALS",
       "mv": 2576.14,
@@ -271,7 +279,7 @@
     {
       "t": "EBAY",
       "n": "eBay Inc.",
-      "weight": 0.05,
+      "weight": 0.049985004498650405,
       "isin": "US2786421030",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 1068.33,
@@ -280,7 +288,7 @@
     {
       "t": "ED",
       "n": "Consolidated Edison, Inc.",
-      "weight": 0.32,
+      "weight": 0.3199040287913626,
       "isin": "US2091151041",
       "sector": "UTILITIES",
       "mv": 6562.34,
@@ -289,7 +297,7 @@
     {
       "t": "EIX",
       "n": "Edison International",
-      "weight": 0.17,
+      "weight": 0.1699490152954114,
       "isin": "US2810201077",
       "sector": "UTILITIES",
       "mv": 3425.66,
@@ -298,7 +306,7 @@
     {
       "t": "ELV",
       "n": "Elevance Health, Inc.",
-      "weight": 0.28,
+      "weight": 0.2799160251924423,
       "isin": "US0367521038",
       "sector": "HEALTH CARE",
       "mv": 5602.5,
@@ -307,7 +315,7 @@
     {
       "t": "ETN",
       "n": "Eaton Corporation plc",
-      "weight": 0.83,
+      "weight": 0.8297510746775967,
       "isin": "IE00B8KQN827",
       "sector": "INDUSTRIALS",
       "mv": 16802.9,
@@ -316,7 +324,7 @@
     {
       "t": "EXPE",
       "n": "Expedia Group, Inc.",
-      "weight": 0.68,
+      "weight": 0.6797960611816456,
       "isin": "US30212P3038",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 13825.24,
@@ -325,7 +333,7 @@
     {
       "t": "F",
       "n": "Ford Motor Company",
-      "weight": 0.99,
+      "weight": 0.989703089073278,
       "isin": "US3453708600",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 20099.02,
@@ -334,7 +342,7 @@
     {
       "t": "FCX",
       "n": "Freeport-McMoRan Inc.",
-      "weight": 0.5,
+      "weight": 0.49985004498650404,
       "isin": "US35671D8570",
       "sector": "MATERIALS",
       "mv": 10023.33,
@@ -343,7 +351,7 @@
     {
       "t": "GE",
       "n": "General Electric Company",
-      "weight": 1.58,
+      "weight": 1.5795261421573528,
       "isin": "US3696043013",
       "sector": "INDUSTRIALS",
       "mv": 31923.02,
@@ -352,7 +360,7 @@
     {
       "t": "GEV",
       "n": "GE Vernova Inc.",
-      "weight": 1.34,
+      "weight": 1.339598120563831,
       "isin": "US36828A1016",
       "sector": "INDUSTRIALS",
       "mv": 27090.4,
@@ -361,7 +369,7 @@
     {
       "t": "GIS",
       "n": "General Mills, Inc.",
-      "weight": 0.02,
+      "weight": 0.019994001799460162,
       "isin": "US3703341046",
       "sector": "CONSUMER STAPLES",
       "mv": 333.07,
@@ -370,7 +378,7 @@
     {
       "t": "GOOGL",
       "n": "Alphabet Inc.",
-      "weight": 7.57,
+      "weight": 7.567729681095671,
       "isin": "US02079K3059",
       "sector": "COMMUNICATION SERVICES",
       "mv": 153234.16,
@@ -379,7 +387,7 @@
     {
       "t": "GRMN",
       "n": "Garmin Ltd.",
-      "weight": 0.1,
+      "weight": 0.09997000899730081,
       "isin": "CH0114405324",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 2080.23,
@@ -388,7 +396,7 @@
     {
       "t": "HLT",
       "n": "Hilton Worldwide Holdings Inc.",
-      "weight": 1.6,
+      "weight": 1.599520143956813,
       "isin": "US43300A2033",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 32417.89,
@@ -397,7 +405,7 @@
     {
       "t": "HON",
       "n": "HONEYWELL INTERNATIONAL INC",
-      "weight": 0.31,
+      "weight": 0.3099070278916325,
       "isin": "US4385162056",
       "sector": "INDUSTRIALS",
       "mv": 6313.47,
@@ -406,7 +414,7 @@
     {
       "t": "HONA",
       "n": "HONEYWELL AEROSPACE INC",
-      "weight": 0.23,
+      "weight": 0.22993102069379187,
       "isin": "US43849R1059",
       "sector": "INDUSTRIALS",
       "mv": 4716.31,
@@ -415,7 +423,7 @@
     {
       "t": "HPE",
       "n": "Hewlett Packard Enterprise Company",
-      "weight": 0.13,
+      "weight": 0.12996101169649105,
       "isin": "US42824C1099",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 2670.76,
@@ -424,7 +432,7 @@
     {
       "t": "HPQ",
       "n": "HP Inc.",
-      "weight": 0.05,
+      "weight": 0.049985004498650405,
       "isin": "US40434L1052",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 973.99,
@@ -433,7 +441,7 @@
     {
       "t": "IBM",
       "n": "International Business Machines Corporation",
-      "weight": 0.33,
+      "weight": 0.3299010296910927,
       "isin": "US4592001014",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 6698.43,
@@ -442,7 +450,7 @@
     {
       "t": "INTC",
       "n": "Intel Corporation",
-      "weight": 1.17,
+      "weight": 1.1696491052684195,
       "isin": "US4581401001",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 23660.92,
@@ -451,7 +459,7 @@
     {
       "t": "INTU",
       "n": "Intuit Inc.",
-      "weight": 0.13,
+      "weight": 0.12996101169649105,
       "isin": "US4612021034",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 2730.64,
@@ -460,7 +468,7 @@
     {
       "t": "JNJ",
       "n": "Johnson & Johnson",
-      "weight": 2.26,
+      "weight": 2.259322203338998,
       "isin": "US4781601046",
       "sector": "HEALTH CARE",
       "mv": 45651.63,
@@ -469,7 +477,7 @@
     {
       "t": "JPM",
       "n": "JPMorgan Chase & Co.",
-      "weight": 3.79,
+      "weight": 3.788863340997701,
       "isin": "US46625H1005",
       "sector": "FINANCIALS",
       "mv": 76668.11,
@@ -478,7 +486,7 @@
     {
       "t": "KLAC",
       "n": "KLA Corporation",
-      "weight": 0.39,
+      "weight": 0.38988303508947314,
       "isin": "US4824801009",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 7974.1,
@@ -487,7 +495,7 @@
     {
       "t": "L",
       "n": "Loews Corporation",
-      "weight": 0.08,
+      "weight": 0.07997600719784065,
       "isin": "US5404241086",
       "sector": "FINANCIALS",
       "mv": 1630.89,
@@ -496,7 +504,7 @@
     {
       "t": "LLY",
       "n": "Eli Lilly and Company",
-      "weight": 3.56,
+      "weight": 3.5589323203039087,
       "isin": "US5324571083",
       "sector": "HEALTH CARE",
       "mv": 71979.63,
@@ -505,7 +513,7 @@
     {
       "t": "LMT",
       "n": "Lockheed Martin Corporation",
-      "weight": 0.58,
+      "weight": 0.5798260521843447,
       "isin": "US5398301094",
       "sector": "INDUSTRIALS",
       "mv": 11758.27,
@@ -514,7 +522,7 @@
     {
       "t": "LRCX",
       "n": "Lam Research Corporation",
-      "weight": 0.68,
+      "weight": 0.6797960611816456,
       "isin": "US5128073062",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 13821.31,
@@ -523,7 +531,7 @@
     {
       "t": "LU1778762911",
       "n": "SPOTIFY TECHNOLOGY SA",
-      "weight": 0.21,
+      "weight": 0.2099370188943317,
       "isin": "LU1778762911",
       "sector": "COMMUNICATION SERVICES",
       "mv": 4328.3,
@@ -532,7 +540,7 @@
     {
       "t": "MA",
       "n": "Mastercard Incorporated",
-      "weight": 2.02,
+      "weight": 2.019394181745476,
       "isin": "US57636Q1040",
       "sector": "FINANCIALS",
       "mv": 40948.54,
@@ -541,7 +549,7 @@
     {
       "t": "MDLZ",
       "n": "Mondelez International, Inc.",
-      "weight": 0.07,
+      "weight": 0.06997900629811057,
       "isin": "US6092071058",
       "sector": "CONSUMER STAPLES",
       "mv": 1363.53,
@@ -550,7 +558,7 @@
     {
       "t": "MMM",
       "n": "3M Company",
-      "weight": 0.45,
+      "weight": 0.44986504048785364,
       "isin": "US88579Y1010",
       "sector": "INDUSTRIALS",
       "mv": 9113.16,
@@ -559,7 +567,7 @@
     {
       "t": "MNST",
       "n": "Monster Beverage Corporation",
-      "weight": 0.07,
+      "weight": 0.06997900629811057,
       "isin": "US61174X1090",
       "sector": "CONSUMER STAPLES",
       "mv": 1463.45,
@@ -568,7 +576,7 @@
     {
       "t": "MRVL",
       "n": "Marvell Technology, Inc.",
-      "weight": 0.4,
+      "weight": 0.39988003598920324,
       "isin": "US5738741041",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 8150.87,
@@ -577,7 +585,7 @@
     {
       "t": "MS",
       "n": "Morgan Stanley",
-      "weight": 1.21,
+      "weight": 1.2096371088673397,
       "isin": "US6174464486",
       "sector": "FINANCIALS",
       "mv": 24435.02,
@@ -586,7 +594,7 @@
     {
       "t": "MSCI",
       "n": "MSCI Inc.",
-      "weight": 0.08,
+      "weight": 0.07997600719784065,
       "isin": "US55354G1004",
       "sector": "FINANCIALS",
       "mv": 1559.74,
@@ -595,7 +603,7 @@
     {
       "t": "MSI",
       "n": "Motorola Solutions, Inc.",
-      "weight": 0.13,
+      "weight": 0.12996101169649105,
       "isin": "US6200763075",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 2584.94,
@@ -604,7 +612,7 @@
     {
       "t": "MU",
       "n": "Micron Technology, Inc.",
-      "weight": 1.74,
+      "weight": 1.739478156553034,
       "isin": "US5951121038",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 35209.11,
@@ -613,7 +621,7 @@
     {
       "t": "NDAQ",
       "n": "Nasdaq, Inc.",
-      "weight": 0.21,
+      "weight": 0.2099370188943317,
       "isin": "US6311031081",
       "sector": "FINANCIALS",
       "mv": 4234.3,
@@ -622,7 +630,7 @@
     {
       "t": "NOW",
       "n": "ServiceNow, Inc.",
-      "weight": 0.21,
+      "weight": 0.2099370188943317,
       "isin": "US81762P1021",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 4220.21,
@@ -631,7 +639,7 @@
     {
       "t": "NTRA",
       "n": "Natera, Inc.",
-      "weight": 0.17,
+      "weight": 0.1699490152954114,
       "isin": "US6323071042",
       "sector": "HEALTH CARE",
       "mv": 3501.27,
@@ -640,7 +648,7 @@
     {
       "t": "NUE",
       "n": "Nucor Corporation",
-      "weight": 0.26,
+      "weight": 0.2599220233929821,
       "isin": "US6703461052",
       "sector": "MATERIALS",
       "mv": 5245.84,
@@ -649,7 +657,7 @@
     {
       "t": "NVDA",
       "n": "NVIDIA Corporation",
-      "weight": 10.06,
+      "weight": 10.05698290512834,
       "isin": "US67066G1040",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 203744.17,
@@ -658,7 +666,7 @@
     {
       "t": "OXY",
       "n": "Occidental Petroleum Corporation",
-      "weight": 0.7,
+      "weight": 0.6997900629811056,
       "isin": "US6745991058",
       "sector": "ENERGY",
       "mv": 14074.48,
@@ -667,7 +675,7 @@
     {
       "t": "PG",
       "n": "The Procter & Gamble Company",
-      "weight": 0.31,
+      "weight": 0.3099070278916325,
       "isin": "US7427181091",
       "sector": "CONSUMER STAPLES",
       "mv": 6205.05,
@@ -676,7 +684,7 @@
     {
       "t": "PGR",
       "n": "The Progressive Corporation",
-      "weight": 0.5,
+      "weight": 0.49985004498650404,
       "isin": "US7433151039",
       "sector": "FINANCIALS",
       "mv": 10173.43,
@@ -685,7 +693,7 @@
     {
       "t": "PHM",
       "n": "PulteGroup, Inc.",
-      "weight": 0.52,
+      "weight": 0.5198440467859642,
       "isin": "US7458671010",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 10510.35,
@@ -694,7 +702,7 @@
     {
       "t": "PM",
       "n": "Philip Morris International Inc.",
-      "weight": 0.28,
+      "weight": 0.2799160251924423,
       "isin": "US7181721090",
       "sector": "CONSUMER STAPLES",
       "mv": 5657.91,
@@ -703,7 +711,7 @@
     {
       "t": "PWR",
       "n": "Quanta Services, Inc.",
-      "weight": 0.5,
+      "weight": 0.49985004498650404,
       "isin": "US74762E1029",
       "sector": "INDUSTRIALS",
       "mv": 10099.78,
@@ -712,7 +720,7 @@
     {
       "t": "RCL",
       "n": "Royal Caribbean Cruises Ltd.",
-      "weight": 1.34,
+      "weight": 1.339598120563831,
       "isin": "LR0008862868",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 27119.67,
@@ -721,7 +729,7 @@
     {
       "t": "SLB",
       "n": "SLB N.V.",
-      "weight": 0.96,
+      "weight": 0.9597120863740877,
       "isin": "AN8068571086",
       "sector": "ENERGY",
       "mv": 19391.6,
@@ -730,7 +738,7 @@
     {
       "t": "SRE",
       "n": "Sempra",
-      "weight": 0.44,
+      "weight": 0.43986803958812354,
       "isin": "US8168511090",
       "sector": "UTILITIES",
       "mv": 8818.25,
@@ -739,7 +747,7 @@
     {
       "t": "SYF",
       "n": "Synchrony Financial",
-      "weight": 0.11,
+      "weight": 0.10996700989703088,
       "isin": "US87165B1035",
       "sector": "FINANCIALS",
       "mv": 2166.57,
@@ -748,7 +756,7 @@
     {
       "t": "SYK",
       "n": "Stryker Corporation",
-      "weight": 0.36,
+      "weight": 0.3598920323902829,
       "isin": "US8636671013",
       "sector": "HEALTH CARE",
       "mv": 7319.55,
@@ -757,7 +765,7 @@
     {
       "t": "TEL",
       "n": "TE Connectivity plc",
-      "weight": 0.11,
+      "weight": 0.10996700989703088,
       "isin": "IE000IVNQZ81",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 2164.29,
@@ -766,7 +774,7 @@
     {
       "t": "TER",
       "n": "Teradyne, Inc.",
-      "weight": 0.11,
+      "weight": 0.10996700989703088,
       "isin": "US8807701029",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 2253.95,
@@ -775,7 +783,7 @@
     {
       "t": "TGT",
       "n": "Target Corporation",
-      "weight": 0.08,
+      "weight": 0.07997600719784065,
       "isin": "US87612E1064",
       "sector": "CONSUMER STAPLES",
       "mv": 1558.94,
@@ -784,7 +792,7 @@
     {
       "t": "TMUS",
       "n": "T-Mobile US, Inc.",
-      "weight": 3.14,
+      "weight": 3.1390582825152453,
       "isin": "US8725901040",
       "sector": "COMMUNICATION SERVICES",
       "mv": 63645.95,
@@ -793,7 +801,7 @@
     {
       "t": "TRV",
       "n": "The Travelers Companies, Inc.",
-      "weight": 0.33,
+      "weight": 0.3299010296910927,
       "isin": "US89417E1091",
       "sector": "FINANCIALS",
       "mv": 6675.53,
@@ -802,7 +810,7 @@
     {
       "t": "TTD",
       "n": "The Trade Desk, Inc.",
-      "weight": 0.11,
+      "weight": 0.10996700989703088,
       "isin": "US88339J1051",
       "sector": "COMMUNICATION SERVICES",
       "mv": 2138.65,
@@ -811,7 +819,7 @@
     {
       "t": "US00846U1016",
       "n": "Agilent Technologies, Inc.",
-      "weight": 0.13,
+      "weight": 0.12996101169649105,
       "isin": "US00846U1016",
       "sector": "HEALTH CARE",
       "mv": 2688.43,
@@ -820,7 +828,7 @@
     {
       "t": "US02043Q1076",
       "n": "Alnylam Pharmaceuticals, Inc.",
-      "weight": 0.11,
+      "weight": 0.10996700989703088,
       "isin": "US02043Q1076",
       "sector": "HEALTH CARE",
       "mv": 2172.26,
@@ -829,7 +837,7 @@
     {
       "t": "US0231351067",
       "n": "Amazon.com, Inc.",
-      "weight": 2.32,
+      "weight": 2.3193042087373787,
       "isin": "US0231351067",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 46968.38,
@@ -838,7 +846,7 @@
     {
       "t": "US0258161092",
       "n": "American Express Company",
-      "weight": 0.84,
+      "weight": 0.8397480755773268,
       "isin": "US0258161092",
       "sector": "FINANCIALS",
       "mv": 17039.47,
@@ -847,7 +855,7 @@
     {
       "t": "US0404132054",
       "n": "Arista Networks Inc",
-      "weight": 0.45,
+      "weight": 0.44986504048785364,
       "isin": "US0404132054",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 9056.79,
@@ -856,7 +864,7 @@
     {
       "t": "US05464C1018",
       "n": "Axon Enterprise, Inc.",
-      "weight": 0.15,
+      "weight": 0.1499550134959512,
       "isin": "US05464C1018",
       "sector": "INDUSTRIALS",
       "mv": 3041.85,
@@ -865,7 +873,7 @@
     {
       "t": "US1273871087",
       "n": "Cadence Design Systems, Inc.",
-      "weight": 0.16,
+      "weight": 0.1599520143956813,
       "isin": "US1273871087",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 3229.06,
@@ -874,7 +882,7 @@
     {
       "t": "US21037T1097",
       "n": "Constellation Energy Corporation",
-      "weight": 0.81,
+      "weight": 0.8097570728781366,
       "isin": "US21037T1097",
       "sector": "UTILITIES",
       "mv": 16384.82,
@@ -883,7 +891,7 @@
     {
       "t": "US22052L1044",
       "n": "Corteva, Inc.",
-      "weight": 0.27,
+      "weight": 0.2699190242927122,
       "isin": "US22052L1044",
       "sector": "MATERIALS",
       "mv": 5442.07,
@@ -892,7 +900,7 @@
     {
       "t": "US22788C1053",
       "n": "CrowdStrike Holdings, Inc.",
-      "weight": 0.42,
+      "weight": 0.4198740377886634,
       "isin": "US22788C1053",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 8559.01,
@@ -901,7 +909,7 @@
     {
       "t": "US2441991054",
       "n": "Deere & Company",
-      "weight": 0.92,
+      "weight": 0.9197240827751675,
       "isin": "US2441991054",
       "sector": "INDUSTRIALS",
       "mv": 18555.8,
@@ -910,7 +918,7 @@
     {
       "t": "US29476L1070",
       "n": "VIVMARK RESIDENTIAL",
-      "weight": 0.24,
+      "weight": 0.23992802159352192,
       "isin": "US29476L1070",
       "sector": "REAL ESTATE",
       "mv": 4785.16,
@@ -919,7 +927,7 @@
     {
       "t": "US3032501047",
       "n": "Fair Isaac Corporation",
-      "weight": 0.06,
+      "weight": 0.05998200539838048,
       "isin": "US3032501047",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 1220.8,
@@ -928,7 +936,7 @@
     {
       "t": "US30609A1097",
       "n": "ONEOK INC",
-      "weight": 0.74,
+      "weight": 0.739778066580026,
       "isin": "US30609A1097",
       "sector": "-",
       "mv": 15043.52,
@@ -937,7 +945,7 @@
     {
       "t": "US36266G1076",
       "n": "GE HealthCare Technologies Inc.",
-      "weight": 0.1,
+      "weight": 0.09997000899730081,
       "isin": "US36266G1076",
       "sector": "HEALTH CARE",
       "mv": 2073.39,
@@ -946,7 +954,7 @@
     {
       "t": "US3848021040",
       "n": "W.W. Grainger, Inc.",
-      "weight": 0.26,
+      "weight": 0.2599220233929821,
       "isin": "US3848021040",
       "sector": "INDUSTRIALS",
       "mv": 5274.78,
@@ -955,7 +963,7 @@
     {
       "t": "US4228061093",
       "n": "HEICO Corporation",
-      "weight": 0.19,
+      "weight": 0.18994301709487155,
       "isin": "US4228061093",
       "sector": "INDUSTRIALS",
       "mv": 3927.6,
@@ -964,7 +972,7 @@
     {
       "t": "US45784P1012",
       "n": "Insulet Corporation",
-      "weight": 0.04,
+      "weight": 0.039988003598920324,
       "isin": "US45784P1012",
       "sector": "HEALTH CARE",
       "mv": 770.2,
@@ -973,7 +981,7 @@
     {
       "t": "US46187W1071",
       "n": "Invitation Homes Inc.",
-      "weight": 0.16,
+      "weight": 0.1599520143956813,
       "isin": "US46187W1071",
       "sector": "REAL ESTATE",
       "mv": 3275.78,
@@ -982,7 +990,7 @@
     {
       "t": "US46266C1053",
       "n": "IQVIA Holdings Inc.",
-      "weight": 0.13,
+      "weight": 0.12996101169649105,
       "isin": "US46266C1053",
       "sector": "HEALTH CARE",
       "mv": 2676.97,
@@ -991,7 +999,7 @@
     {
       "t": "US46982L1089",
       "n": "Jacobs Solutions Inc.",
-      "weight": 0.08,
+      "weight": 0.07997600719784065,
       "isin": "US46982L1089",
       "sector": "INDUSTRIALS",
       "mv": 1565.74,
@@ -1000,7 +1008,7 @@
     {
       "t": "US49338L1035",
       "n": "Keysight Technologies, Inc.",
-      "weight": 0.13,
+      "weight": 0.12996101169649105,
       "isin": "US49338L1035",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 2561.22,
@@ -1009,7 +1017,7 @@
     {
       "t": "US58733R1023",
       "n": "MERCADOLIBRE INC",
-      "weight": 0.12,
+      "weight": 0.11996401079676096,
       "isin": "US58733R1023",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 2478.98,
@@ -1018,7 +1026,7 @@
     {
       "t": "US60744M1062",
       "n": "MOBILITY GLOBAL INC",
-      "weight": 0.01,
+      "weight": 0.009997000899730081,
       "isin": "US60744M1062",
       "sector": "INDUSTRIALS",
       "mv": 202.21,
@@ -1027,7 +1035,7 @@
     {
       "t": "US64110L1061",
       "n": "Netflix, Inc.",
-      "weight": 0.56,
+      "weight": 0.5598320503848846,
       "isin": "US64110L1061",
       "sector": "COMMUNICATION SERVICES",
       "mv": 11270.68,
@@ -1036,7 +1044,7 @@
     {
       "t": "US74340W1036",
       "n": "Prologis Inc",
-      "weight": 1.28,
+      "weight": 1.2796161151654504,
       "isin": "US74340W1036",
       "sector": "REAL ESTATE",
       "mv": 25970.58,
@@ -1045,7 +1053,7 @@
     {
       "t": "US75734B1008",
       "n": "Reddit, Inc.",
-      "weight": 0.04,
+      "weight": 0.039988003598920324,
       "isin": "US75734B1008",
       "sector": "COMMUNICATION SERVICES",
       "mv": 847.76,
@@ -1054,7 +1062,7 @@
     {
       "t": "US77311W1018",
       "n": "Rocket Companies, Inc.",
-      "weight": 0.12,
+      "weight": 0.11996401079676096,
       "isin": "US77311W1018",
       "sector": "FINANCIALS",
       "mv": 2513.22,
@@ -1063,7 +1071,7 @@
     {
       "t": "US78409V1044",
       "n": "S&P Global Inc.",
-      "weight": 0.23,
+      "weight": 0.22993102069379187,
       "isin": "US78409V1044",
       "sector": "FINANCIALS",
       "mv": 4563.58,
@@ -1072,7 +1080,7 @@
     {
       "t": "US83406F1021",
       "n": "SoFi Technologies, Inc.",
-      "weight": 0.08,
+      "weight": 0.07997600719784065,
       "isin": "US83406F1021",
       "sector": "FINANCIALS",
       "mv": 1524.35,
@@ -1081,7 +1089,7 @@
     {
       "t": "US8716071076",
       "n": "Synopsys, Inc.",
-      "weight": 0.15,
+      "weight": 0.1499550134959512,
       "isin": "US8716071076",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 3011.08,
@@ -1090,7 +1098,7 @@
     {
       "t": "US88262P1021",
       "n": "Texas Pacific Land Corporation",
-      "weight": 0.1,
+      "weight": 0.09997000899730081,
       "isin": "US88262P1021",
       "sector": "ENERGY",
       "mv": 1929.71,
@@ -1099,7 +1107,7 @@
     {
       "t": "US8962391004",
       "n": "Trimble Inc.",
-      "weight": 0.04,
+      "weight": 0.039988003598920324,
       "isin": "US8962391004",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 900.09,
@@ -1108,7 +1116,7 @@
     {
       "t": "US9291601097",
       "n": "Vulcan Materials Company",
-      "weight": 0.15,
+      "weight": 0.1499550134959512,
       "isin": "US9291601097",
       "sector": "MATERIALS",
       "mv": 3118.86,
@@ -1117,7 +1125,7 @@
     {
       "t": "VLO",
       "n": "Valero Energy Corporation",
-      "weight": 1.38,
+      "weight": 1.379586124162751,
       "isin": "US91913Y1001",
       "sector": "ENERGY",
       "mv": 27929.98,
@@ -1126,7 +1134,7 @@
     {
       "t": "VZ",
       "n": "Verizon Communications Inc.",
-      "weight": 3.42,
+      "weight": 3.4189743077076877,
       "isin": "US92343V1044",
       "sector": "COMMUNICATION SERVICES",
       "mv": 69256,
@@ -1135,7 +1143,7 @@
     {
       "t": "WMT",
       "n": "Walmart Inc.",
-      "weight": 0.78,
+      "weight": 0.7797660701789463,
       "isin": "US9311421039",
       "sector": "CONSUMER STAPLES",
       "mv": 15884.16,

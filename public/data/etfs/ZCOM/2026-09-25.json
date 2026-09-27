@@ -4,22 +4,734 @@
   "source": "url",
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCOM_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
-  "partial": true,
-  "content_hash": "9b871c1cdaa970cf9911ca6bf03a8ac1440fd8ff9e5899946d56fb94b0f3d5bd",
+  "partial": false,
+  "content_hash": "6a5124ed60f111023dbcbab05ceb18a4629d415d28c1a77843970ae711ffc517",
   "holdings": [
+    {
+      "t": "24446678 TOTAL RETURN SWAP",
+      "n": "24446678 Total Return Swap",
+      "weight": 2.148710773535879,
+      "sector": "-",
+      "mv": 14697637.08,
+      "shares": 72000
+    },
+    {
+      "t": "24446678 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24446678 Total Return Swap 10/31/2026",
+      "weight": -2.098740755546672,
+      "sector": "-",
+      "mv": -14396185.58,
+      "shares": 10178323
+    },
+    {
+      "t": "24451641 TOTAL RETURN SWAP",
+      "n": "24451641 Total Return Swap",
+      "weight": 14.981011393164104,
+      "sector": "-",
+      "mv": 102679325.73,
+      "shares": 503000
+    },
+    {
+      "t": "24451641 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24451641 Total Return Swap 10/31/2026",
+      "weight": -14.671197281631024,
+      "sector": "-",
+      "mv": -100573352.08,
+      "shares": 71106897
+    },
+    {
+      "t": "24451642 TOTAL RETURN SWAP",
+      "n": "24451642 Total Return Swap",
+      "weight": 5.446731960823507,
+      "sector": "-",
+      "mv": 37356494.25,
+      "shares": 183000
+    },
+    {
+      "t": "24451642 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24451642 Total Return Swap 10/31/2026",
+      "weight": -5.3367979212472525,
+      "sector": "-",
+      "mv": -36590305.03,
+      "shares": 25869905
+    },
+    {
+      "t": "24467738 TOTAL RETURN SWAP",
+      "n": "24467738 Total Return Swap",
+      "weight": 0.7395562662402559,
+      "sector": "-",
+      "mv": 5103346.21,
+      "shares": 25000
+    },
+    {
+      "t": "24467738 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24467738 Total Return Swap 10/31/2026",
+      "weight": -0.7295622626424146,
+      "sector": "-",
+      "mv": -4998675.52,
+      "shares": 3534140
+    },
+    {
+      "t": "24682191 TOTAL RETURN SWAP",
+      "n": "24682191 Total Return Swap",
+      "weight": 0.7195682590445733,
+      "sector": "-",
+      "mv": 4899212.36,
+      "shares": 24000
+    },
+    {
+      "t": "24682191 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24682191 Total Return Swap 10/31/2026",
+      "weight": -0.6995802518488907,
+      "sector": "-",
+      "mv": -4798728.54,
+      "shares": 3392774
+    },
+    {
+      "t": "24697495 TOTAL RETURN SWAP",
+      "n": "24697495 Total Return Swap",
+      "weight": 0.3397961223266041,
+      "sector": "-",
+      "mv": 2296505.8,
+      "shares": 11250
+    },
+    {
+      "t": "24697495 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24697495 Total Return Swap 10/31/2026",
+      "weight": -0.3298021187287628,
+      "sector": "-",
+      "mv": -2249404.01,
+      "shares": 1590363
+    },
+    {
+      "t": "24721865 TOTAL RETURN SWAP",
+      "n": "24721865 Total Return Swap",
+      "weight": 0.36977813312012797,
+      "sector": "-",
+      "mv": 2521053.03,
+      "shares": 12350
+    },
+    {
+      "t": "24721865 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24721865 Total Return Swap 10/31/2026",
+      "weight": -0.35978412952228667,
+      "sector": "-",
+      "mv": -2469345.73,
+      "shares": 1745865
+    },
+    {
+      "t": "24758062 TOTAL RETURN SWAP",
+      "n": "24758062 Total Return Swap",
+      "weight": 10.063961623026186,
+      "sector": "-",
+      "mv": 68997240.75,
+      "shares": 338000
+    },
+    {
+      "t": "24758062 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24758062 Total Return Swap 10/31/2026",
+      "weight": -9.854087547471519,
+      "sector": "-",
+      "mv": -67582093.42,
+      "shares": 47781573
+    },
+    {
+      "t": "24817740 TOTAL RETURN SWAP",
+      "n": "24817740 Total Return Swap",
+      "weight": 0.6695982410553669,
+      "sector": "-",
+      "mv": 4593011.59,
+      "shares": 22500
+    },
+    {
+      "t": "24817740 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24817740 Total Return Swap 10/31/2026",
+      "weight": -0.6596042374575256,
+      "sector": "-",
+      "mv": -4498808,
+      "shares": 3180726
+    },
+    {
+      "t": "24826454 TOTAL RETURN SWAP",
+      "n": "24826454 Total Return Swap",
+      "weight": 6.62602438536878,
+      "sector": "-",
+      "mv": 45419781.26,
+      "shares": 222500
+    },
+    {
+      "t": "24826454 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24826454 Total Return Swap 10/31/2026",
+      "weight": -6.486108334999002,
+      "sector": "-",
+      "mv": -44488212.39,
+      "shares": 31453846
+    },
+    {
+      "t": "24826455 TOTAL RETURN SWAP",
+      "n": "24826455 Total Return Swap",
+      "weight": 6.62602438536878,
+      "sector": "-",
+      "mv": 45419781.26,
+      "shares": 222500
+    },
+    {
+      "t": "24826455 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24826455 Total Return Swap 10/31/2026",
+      "weight": -6.486108334999002,
+      "sector": "-",
+      "mv": -44488212.39,
+      "shares": 31453846
+    },
+    {
+      "t": "24844119 TOTAL RETURN SWAP",
+      "n": "24844119 Total Return Swap",
+      "weight": 7.9652208674795135,
+      "sector": "-",
+      "mv": 54605804.44,
+      "shares": 267500
+    },
+    {
+      "t": "24844119 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24844119 Total Return Swap 10/31/2026",
+      "weight": -7.805316809914053,
+      "sector": "-",
+      "mv": -53485828.38,
+      "shares": 37815298
+    },
+    {
+      "t": "24844120 TOTAL RETURN SWAP",
+      "n": "24844120 Total Return Swap",
+      "weight": 7.9652208674795135,
+      "sector": "-",
+      "mv": 54605804.44,
+      "shares": 267500
+    },
+    {
+      "t": "24844120 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24844120 Total Return Swap 10/31/2026",
+      "weight": -7.805316809914053,
+      "sector": "-",
+      "mv": -53485828.38,
+      "shares": 37815298
+    },
+    {
+      "t": "24844240 TOTAL RETURN SWAP",
+      "n": "24844240 Total Return Swap",
+      "weight": 7.9652208674795135,
+      "sector": "-",
+      "mv": 54605804.44,
+      "shares": 267500
+    },
+    {
+      "t": "24844240 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24844240 Total Return Swap 10/31/2026",
+      "weight": -7.805316809914053,
+      "sector": "-",
+      "mv": -53485828.38,
+      "shares": 37815298
+    },
+    {
+      "t": "24855612 TOTAL RETURN SWAP",
+      "n": "24855612 Total Return Swap",
+      "weight": 1.1892864281431144,
+      "sector": "-",
+      "mv": 8165353.93,
+      "shares": 40000
+    },
+    {
+      "t": "24855612 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24855612 Total Return Swap 10/31/2026",
+      "weight": -1.1692984209474317,
+      "sector": "-",
+      "mv": -7997880.87,
+      "shares": 5654624
+    },
+    {
+      "t": "24900579 TOTAL RETURN SWAP",
+      "n": "24900579 Total Return Swap",
+      "weight": 1.1892864281431144,
+      "sector": "-",
+      "mv": 8165353.93,
+      "shares": 40000
+    },
+    {
+      "t": "24900579 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24900579 Total Return Swap 10/31/2026",
+      "weight": -1.1692984209474317,
+      "sector": "-",
+      "mv": -7997880.87,
+      "shares": 5654624
+    },
+    {
+      "t": "24908301 TOTAL RETURN SWAP",
+      "n": "24908301 Total Return Swap",
+      "weight": 3.577853288027184,
+      "sector": "-",
+      "mv": 24496061.8,
+      "shares": 120000
+    },
+    {
+      "t": "24908301 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24908301 Total Return Swap 10/31/2026",
+      "weight": -3.497901259244454,
+      "sector": "-",
+      "mv": -23993642.65,
+      "shares": 16963872
+    },
+    {
+      "t": "24982794 TOTAL RETURN SWAP",
+      "n": "24982794 Total Return Swap",
+      "weight": 1.0993403957625427,
+      "sector": "-",
+      "mv": 7552952.39,
+      "shares": 37000
+    },
+    {
+      "t": "24982794 TOTAL RETURN SWAP 10/31/2026",
+      "n": "24982794 Total Return Swap 10/31/2026",
+      "weight": -1.07935238856686,
+      "sector": "-",
+      "mv": -7398039.84,
+      "shares": 5230527
+    },
+    {
+      "t": "25162849 TOTAL RETURN SWAP",
+      "n": "25162849 Total Return Swap",
+      "weight": 1.519088546871877,
+      "sector": "-",
+      "mv": 10410826.27,
+      "shares": 51000
+    },
+    {
+      "t": "25162849 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25162849 Total Return Swap 10/31/2026",
+      "weight": -1.4891065360783533,
+      "sector": "-",
+      "mv": -10197298.13,
+      "shares": 7209646
+    },
+    {
+      "t": "25173747 TOTAL RETURN SWAP",
+      "n": "25173747 Total Return Swap",
+      "weight": 1.8488906656006399,
+      "sector": "-",
+      "mv": 12656298.6,
+      "shares": 62000
+    },
+    {
+      "t": "25173747 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25173747 Total Return Swap 10/31/2026",
+      "weight": -1.8089146512092746,
+      "sector": "-",
+      "mv": -12396715.34,
+      "shares": 8764667
+    },
+    {
+      "t": "25256396 TOTAL RETURN SWAP",
+      "n": "25256396 Total Return Swap",
+      "weight": 1.2392564461323208,
+      "sector": "-",
+      "mv": 8471554.71,
+      "shares": 41500
+    },
+    {
+      "t": "25256396 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25256396 Total Return Swap 10/31/2026",
+      "weight": -1.209274435338797,
+      "sector": "-",
+      "mv": -8297801.44,
+      "shares": 5866672
+    },
+    {
+      "t": "25303890 TOTAL RETURN SWAP",
+      "n": "25303890 Total Return Swap",
+      "weight": 0.5496701978812714,
+      "sector": "-",
+      "mv": 3776476.19,
+      "shares": 18500
+    },
+    {
+      "t": "25303890 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25303890 Total Return Swap 10/31/2026",
+      "weight": -0.53967619428343,
+      "sector": "-",
+      "mv": -3699019.92,
+      "shares": 2615264
+    },
+    {
+      "t": "25438420 TOTAL RETURN SWAP",
+      "n": "25438420 Total Return Swap",
+      "weight": 2.3785728562862287,
+      "sector": "-",
+      "mv": 16330707.87,
+      "shares": 80000
+    },
+    {
+      "t": "25438420 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25438420 Total Return Swap 10/31/2026",
+      "weight": -2.328602838297022,
+      "sector": "-",
+      "mv": -15995761.77,
+      "shares": 11309248
+    },
+    {
+      "t": "25494933 TOTAL RETURN SWAP",
+      "n": "25494933 Total Return Swap",
+      "weight": 1.249250449730162,
+      "sector": "-",
+      "mv": 8573621.63,
+      "shares": 42000
+    },
+    {
+      "t": "25494933 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25494933 Total Return Swap 10/31/2026",
+      "weight": -1.2292624425344796,
+      "sector": "-",
+      "mv": -8397774.94,
+      "shares": 5937355
+    },
+    {
+      "t": "25525500 TOTAL RETURN SWAP",
+      "n": "25525500 Total Return Swap",
+      "weight": 0.269838097141715,
+      "sector": "-",
+      "mv": 1878031.41,
+      "shares": 9200
+    },
+    {
+      "t": "25525500 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25525500 Total Return Swap 10/31/2026",
+      "weight": -0.269838097141715,
+      "sector": "-",
+      "mv": -1839512.6,
+      "shares": 1300564
+    },
+    {
+      "t": "25531382 TOTAL RETURN SWAP",
+      "n": "25531382 Total Return Swap",
+      "weight": 1.0993403957625427,
+      "sector": "-",
+      "mv": 7552952.39,
+      "shares": 37000
+    },
+    {
+      "t": "25531382 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25531382 Total Return Swap 10/31/2026",
+      "weight": -1.07935238856686,
+      "sector": "-",
+      "mv": -7398039.84,
+      "shares": 5230527
+    },
+    {
+      "t": "25637028 TOTAL RETURN SWAP",
+      "n": "25637028 Total Return Swap",
+      "weight": 0.2998201079352389,
+      "sector": "-",
+      "mv": 2041338.48,
+      "shares": 10000
+    },
+    {
+      "t": "25637028 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25637028 Total Return Swap 10/31/2026",
+      "weight": -0.2898261043373976,
+      "sector": "-",
+      "mv": -1999470.23,
+      "shares": 1413656
+    },
+    {
+      "t": "25712681 TOTAL RETURN SWAP",
+      "n": "25712681 Total Return Swap",
+      "weight": 0.2998201079352389,
+      "sector": "-",
+      "mv": 2041338.48,
+      "shares": 10000
+    },
+    {
+      "t": "25712681 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25712681 Total Return Swap 10/31/2026",
+      "weight": -0.2898261043373976,
+      "sector": "-",
+      "mv": -1999470.23,
+      "shares": 1413656
+    },
+    {
+      "t": "25760261 TOTAL RETURN SWAP",
+      "n": "25760261 Total Return Swap",
+      "weight": 1.209274435338797,
+      "sector": "-",
+      "mv": 8267420.86,
+      "shares": 40500
+    },
+    {
+      "t": "25760261 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25760261 Total Return Swap 10/31/2026",
+      "weight": -1.179292424545273,
+      "sector": "-",
+      "mv": -8097854.39,
+      "shares": 5725307
+    },
+    {
+      "t": "25765998 TOTAL RETURN SWAP",
+      "n": "25765998 Total Return Swap",
+      "weight": 0.2998201079352389,
+      "sector": "-",
+      "mv": 2041338.48,
+      "shares": 10000
+    },
+    {
+      "t": "25765998 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25765998 Total Return Swap 10/31/2026",
+      "weight": -0.2898261043373976,
+      "sector": "-",
+      "mv": -1999470.23,
+      "shares": 1413656
+    },
+    {
+      "t": "25792323 TOTAL RETURN SWAP",
+      "n": "25792323 Total Return Swap",
+      "weight": 0.3397961223266041,
+      "sector": "-",
+      "mv": 2347539.26,
+      "shares": 11500
+    },
+    {
+      "t": "25792323 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25792323 Total Return Swap 10/31/2026",
+      "weight": -0.3397961223266041,
+      "sector": "-",
+      "mv": -2299390.74,
+      "shares": 1625704
+    },
+    {
+      "t": "25806679 TOTAL RETURN SWAP",
+      "n": "25806679 Total Return Swap",
+      "weight": 1.209274435338797,
+      "sector": "-",
+      "mv": 8267420.86,
+      "shares": 40500
+    },
+    {
+      "t": "25806679 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25806679 Total Return Swap 10/31/2026",
+      "weight": -1.179292424545273,
+      "sector": "-",
+      "mv": -8097854.39,
+      "shares": 5725307
+    },
+    {
+      "t": "25841681 TOTAL RETURN SWAP",
+      "n": "25841681 Total Return Swap",
+      "weight": 0.3397961223266041,
+      "sector": "-",
+      "mv": 2347539.26,
+      "shares": 11500
+    },
+    {
+      "t": "25841681 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25841681 Total Return Swap 10/31/2026",
+      "weight": -0.3397961223266041,
+      "sector": "-",
+      "mv": -2299415.39,
+      "shares": 1625704
+    },
+    {
+      "t": "25863815 TOTAL RETURN SWAP",
+      "n": "25863815 Total Return Swap",
+      "weight": 0.8894663202078754,
+      "sector": "-",
+      "mv": 6124015.45,
+      "shares": 30000
+    },
+    {
+      "t": "25863815 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25863815 Total Return Swap 10/31/2026",
+      "weight": -0.8794723166100341,
+      "sector": "-",
+      "mv": -5998490.93,
+      "shares": 4240968
+    },
+    {
+      "t": "25867564 TOTAL RETURN SWAP",
+      "n": "25867564 Total Return Swap",
+      "weight": 0.5996402158704778,
+      "sector": "-",
+      "mv": 4082676.97,
+      "shares": 20000
+    },
+    {
+      "t": "25867564 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25867564 Total Return Swap 10/31/2026",
+      "weight": -0.5796522086747952,
+      "sector": "-",
+      "mv": -3999010.01,
+      "shares": 2827312
+    },
+    {
+      "t": "25873088 TOTAL RETURN SWAP",
+      "n": "25873088 Total Return Swap",
+      "weight": 0.2998201079352389,
+      "sector": "-",
+      "mv": 2041338.48,
+      "shares": 10000
+    },
+    {
+      "t": "25873088 TOTAL RETURN SWAP 10/31/2026",
+      "n": "25873088 Total Return Swap 10/31/2026",
+      "weight": -0.2898261043373976,
+      "sector": "-",
+      "mv": -1999496.98,
+      "shares": 1413656
+    },
+    {
+      "t": "26231712 TOTAL RETURN SWAP",
+      "n": "26231712 Total Return Swap",
+      "weight": 0.4797121726963822,
+      "sector": "-",
+      "mv": 3266141.57,
+      "shares": 16000
+    },
+    {
+      "t": "26231712 TOTAL RETURN SWAP 10/31/2026",
+      "n": "26231712 Total Return Swap 10/31/2026",
+      "weight": -0.4697181690985409,
+      "sector": "-",
+      "mv": -3199233.91,
+      "shares": 2261850
+    },
+    {
+      "t": "26269567 TOTAL RETURN SWAP",
+      "n": "26269567 Total Return Swap",
+      "weight": 0.6096342194683191,
+      "sector": "-",
+      "mv": 4184743.89,
+      "shares": 20500
+    },
+    {
+      "t": "26269567 TOTAL RETURN SWAP 10/31/2026",
+      "n": "26269567 Total Return Swap 10/31/2026",
+      "weight": -0.5996402158704778,
+      "sector": "-",
+      "mv": -4099046.29,
+      "shares": 2897995
+    },
+    {
+      "t": "26298125 TOTAL RETURN SWAP",
+      "n": "26298125 Total Return Swap",
+      "weight": 0.9194483310013993,
+      "sector": "-",
+      "mv": 6328149.3,
+      "shares": 31000
+    },
+    {
+      "t": "26298125 TOTAL RETURN SWAP 10/31/2026",
+      "n": "26298125 Total Return Swap 10/31/2026",
+      "weight": -0.8994603238057167,
+      "sector": "-",
+      "mv": -6198505.71,
+      "shares": 4382334
+    },
+    {
+      "t": "26329803 TOTAL RETURN SWAP",
+      "n": "26329803 Total Return Swap",
+      "weight": 0.2998201079352389,
+      "sector": "-",
+      "mv": 2041338.48,
+      "shares": 10000
+    },
+    {
+      "t": "26329803 TOTAL RETURN SWAP 10/31/2026",
+      "n": "26329803 Total Return Swap 10/31/2026",
+      "weight": -0.2998201079352389,
+      "sector": "-",
+      "mv": -2026217.71,
+      "shares": 1432565
+    },
+    {
+      "t": "26401981 TOTAL RETURN SWAP",
+      "n": "26401981 Total Return Swap",
+      "weight": 0.6596042374575256,
+      "sector": "-",
+      "mv": 4490944.66,
+      "shares": 22000
+    },
+    {
+      "t": "26401981 TOTAL RETURN SWAP 10/31/2026",
+      "n": "26401981 Total Return Swap 10/31/2026",
+      "weight": -0.6596042374575256,
+      "sector": "-",
+      "mv": -4511269.95,
+      "shares": 3189498
+    },
+    {
+      "t": "26425106 TOTAL RETURN SWAP",
+      "n": "26425106 Total Return Swap",
+      "weight": 0.2398560863481911,
+      "sector": "-",
+      "mv": 1633070.79,
+      "shares": 8000
+    },
+    {
+      "t": "26425106 TOTAL RETURN SWAP 10/31/2026",
+      "n": "26425106 Total Return Swap 10/31/2026",
+      "weight": -0.2398560863481911,
+      "sector": "-",
+      "mv": -1664857.56,
+      "shares": 1177064
+    },
+    {
+      "t": "26452418 TOTAL RETURN SWAP",
+      "n": "26452418 Total Return Swap",
+      "weight": 0.5996402158704778,
+      "sector": "-",
+      "mv": 4082676.97,
+      "shares": 20000
+    },
+    {
+      "t": "26452418 TOTAL RETURN SWAP 10/31/2026",
+      "n": "26452418 Total Return Swap 10/31/2026",
+      "weight": -0.5996402158704778,
+      "sector": "-",
+      "mv": -4107943.26,
+      "shares": 2904336
+    },
+    {
+      "t": "26483401 TOTAL RETURN SWAP",
+      "n": "26483401 Total Return Swap",
+      "weight": 0.2998201079352389,
+      "sector": "-",
+      "mv": 2041338.48,
+      "shares": 10000
+    },
+    {
+      "t": "26483401 TOTAL RETURN SWAP 10/31/2026",
+      "n": "26483401 Total Return Swap 10/31/2026",
+      "weight": -0.2998201079352389,
+      "sector": "-",
+      "mv": -2080610.65,
+      "shares": 1470994
+    },
     {
       "t": "CA05586U2039",
       "n": "BMO ULTRA SHORT-TERM US BOND ETF",
-      "weight": 8.76,
+      "weight": 8.754747151708976,
       "isin": "CA05586U2039",
       "sector": "-",
       "mv": 60005067,
       "shares": 685200
     },
     {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.049970017989206486,
+      "sector": "-",
+      "mv": 351636.36,
+      "shares": 1
+    },
+    {
       "t": "US002824BF69",
       "n": "Abbott Laboratories 3.75% 11/30/2026",
-      "weight": 0.42,
+      "weight": 0.41974815110933444,
       "isin": "US002824BF69",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2860765.81,
@@ -28,7 +740,7 @@
     {
       "t": "US00287YDR71",
       "n": "AbbVie Inc. 4.80% 03/15/2027",
-      "weight": 0.41,
+      "weight": 0.40975414751149314,
       "isin": "US00287YDR71",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2836426.19,
@@ -37,7 +749,7 @@
     {
       "t": "US02079KAJ60",
       "n": "Alphabet Inc. 0.80% 08/15/2027",
-      "weight": 1.9,
+      "weight": 1.8988606835898463,
       "isin": "US02079KAJ60",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 13010923.95,
@@ -46,7 +758,7 @@
     {
       "t": "US023135BC96",
       "n": "Amazon.com Inc. 3.15% 08/22/2027",
-      "weight": 2.77,
+      "weight": 2.768338996602039,
       "isin": "US023135BC96",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 18945323.91,
@@ -55,7 +767,7 @@
     {
       "t": "US023135CF19",
       "n": "Amazon.com Inc. 3.30% 04/13/2027",
-      "weight": 1.44,
+      "weight": 1.4391365180891467,
       "isin": "US023135CF19",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 9839870.11,
@@ -64,7 +776,7 @@
     {
       "t": "US025816CM94",
       "n": "American Express Co. 1.65% 11/04/2026",
-      "weight": 1.26,
+      "weight": 1.2592444533280034,
       "isin": "US025816CM94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8660030.9,
@@ -73,7 +785,7 @@
     {
       "t": "US025816CS64",
       "n": "American Express Co. 2.55% 03/04/2027",
-      "weight": 1.44,
+      "weight": 1.4391365180891467,
       "isin": "US025816CS64",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 9836852.06,
@@ -82,7 +794,7 @@
     {
       "t": "US025816DP17",
       "n": "American Express Co. 5.10% 02/16/2028",
-      "weight": 0.62,
+      "weight": 0.6196282230661604,
       "isin": "US025816DP17",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4270792.06,
@@ -91,7 +803,7 @@
     {
       "t": "US037833CJ77",
       "n": "Apple Inc. 3.35% 02/09/2027",
-      "weight": 1.14,
+      "weight": 1.1393164101539077,
       "isin": "US037833CJ77",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7783537.71,
@@ -100,7 +812,7 @@
     {
       "t": "US037833CR93",
       "n": "Apple Inc. 3.20% 05/11/2027",
-      "weight": 1.64,
+      "weight": 1.6390165900459726,
       "isin": "US037833CR93",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 11218874.45,
@@ -109,7 +821,7 @@
     {
       "t": "US037833CX61",
       "n": "Apple Inc. 3.00% 06/20/2027",
-      "weight": 0.41,
+      "weight": 0.40975414751149314,
       "isin": "US037833CX61",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2820636.35,
@@ -118,7 +830,7 @@
     {
       "t": "US06051GGF00",
       "n": "Bank of America Corp. 3.82% 01/20/2028",
-      "weight": 0.62,
+      "weight": 0.6196282230661604,
       "isin": "US06051GGF00",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4259479.68,
@@ -127,7 +839,7 @@
     {
       "t": "US06051GGL77",
       "n": "Bank of America Corp. 3.71% 04/24/2028",
-      "weight": 0.62,
+      "weight": 0.6196282230661604,
       "isin": "US06051GGL77",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4280260.21,
@@ -136,7 +848,7 @@
     {
       "t": "US06051GGR48",
       "n": "Bank of America Corp. 3.59% 07/21/2028",
-      "weight": 0.41,
+      "weight": 0.40975414751149314,
       "isin": "US06051GGR48",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2815971.89,
@@ -145,7 +857,7 @@
     {
       "t": "US06051GKJ75",
       "n": "Bank of America Corp. 2.55% 02/04/2028",
-      "weight": 2.47,
+      "weight": 2.4685188886668006,
       "isin": "US06051GKJ75",
       "sector": "Financials",
       "mv": 16899251.64,
@@ -154,7 +866,7 @@
     {
       "t": "US06051GKP36",
       "n": "Bank of America Corp. 4.38% 04/27/2028",
-      "weight": 0.57,
+      "weight": 0.5696582050769539,
       "isin": "US06051GKP36",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3870927.31,
@@ -163,7 +875,7 @@
     {
       "t": "US06406RAB33",
       "n": "Bank of New York Mellon Corp. 3.44% 02/07/2028",
-      "weight": 1.13,
+      "weight": 1.1293224065560665,
       "isin": "US06406RAB33",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7774075.73,
@@ -172,7 +884,7 @@
     {
       "t": "US125523CB40",
       "n": "The Cigna Group 3.40% 03/01/2027",
-      "weight": 1.24,
+      "weight": 1.2392564461323208,
       "isin": "US125523CB40",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8460979.76,
@@ -181,7 +893,7 @@
     {
       "t": "US13607PVP60",
       "n": "Canadian Imperial Bank Of Commerce 4.86% 01/13/2028",
-      "weight": 0.63,
+      "weight": 0.6296222266640017,
       "isin": "US13607PVP60",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4284948.79,
@@ -190,7 +902,7 @@
     {
       "t": "US17325FBN78",
       "n": "Citibank, N.A. 4.58% 05/29/2027",
-      "weight": 0.21,
+      "weight": 0.20987407555466722,
       "isin": "US17325FBN78",
       "sector": "Financials",
       "mv": 1435470.94,
@@ -199,7 +911,7 @@
     {
       "t": "US191216CU25",
       "n": "Coca-Cola Co. (The) 1.45% 06/01/2027",
-      "weight": 0.41,
+      "weight": 0.40975414751149314,
       "isin": "US191216CU25",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2782866.19,
@@ -208,7 +920,7 @@
     {
       "t": "US22160KAN54",
       "n": "Costco Wholesale Corp. 1.38% 06/20/2027",
-      "weight": 0.18,
+      "weight": 0.17989206476114333,
       "isin": "US22160KAN54",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 1248869.65,
@@ -217,7 +929,7 @@
     {
       "t": "US29379VCE11",
       "n": "Enterprise Products Operating LLC 4.60% 01/11/2027",
-      "weight": 1.46,
+      "weight": 1.4591245252848293,
       "isin": "US29379VCE11",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 9993354.05,
@@ -226,7 +938,7 @@
     {
       "t": "US30303M8G02",
       "n": "Meta Platforms Inc. 3.50% 08/15/2027",
-      "weight": 2.68,
+      "weight": 2.6783929642214677,
       "isin": "US30303M8G02",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 18326079.63,
@@ -235,7 +947,7 @@
     {
       "t": "US375558BM47",
       "n": "Gilead Sciences Inc. 2.95% 03/01/2027",
-      "weight": 0.21,
+      "weight": 0.20987407555466722,
       "isin": "US375558BM47",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 1408036.15,
@@ -244,7 +956,7 @@
     {
       "t": "US404280CX53",
       "n": "HSBC Holdings plc 2.25% 11/22/2027",
-      "weight": 1.04,
+      "weight": 1.0393763741754949,
       "isin": "US404280CX53",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7096877.34,
@@ -253,7 +965,7 @@
     {
       "t": "US42809HAG20",
       "n": "Hess Corp. 4.30% 04/01/2027",
-      "weight": 0.42,
+      "weight": 0.41974815110933444,
       "isin": "US42809HAG20",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2882862.91,
@@ -262,7 +974,7 @@
     {
       "t": "US438516BL94",
       "n": "Honeywell International Inc. 2.50% 11/01/2026",
-      "weight": 0.21,
+      "weight": 0.20987407555466722,
       "isin": "US438516BL94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 1425726.19,
@@ -271,7 +983,7 @@
     {
       "t": "US459200KH39",
       "n": "International Business Machines Corp. 1.70% 05/15/2027",
-      "weight": 0.92,
+      "weight": 0.9194483310013993,
       "isin": "US459200KH39",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6286652.01,
@@ -280,7 +992,7 @@
     {
       "t": "US46625HRV41",
       "n": "JPMorgan Chase & Co. 2.95% 10/01/2026",
-      "weight": 0.21,
+      "weight": 0.20987407555466722,
       "isin": "US46625HRV41",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 1434503.33,
@@ -289,7 +1001,7 @@
     {
       "t": "US46625HRY89",
       "n": "JPMorgan Chase & Co. 3.78% 02/01/2028",
-      "weight": 2.48,
+      "weight": 2.4785128922646416,
       "isin": "US46625HRY89",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 17007800.47,
@@ -298,7 +1010,7 @@
     {
       "t": "US46647PBR64",
       "n": "JPMorgan Chase & Co. 2.18% 06/01/2028",
-      "weight": 0.61,
+      "weight": 0.6096342194683191,
       "isin": "US46647PBR64",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4195716.05,
@@ -307,7 +1019,7 @@
     {
       "t": "US46647PCW41",
       "n": "JPMorgan Chase & Co. 2.95% 02/24/2028",
-      "weight": 0.41,
+      "weight": 0.40975414751149314,
       "isin": "US46647PCW41",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2814102.35,
@@ -316,7 +1028,7 @@
     {
       "t": "US46647PDA12",
       "n": "JPMorgan Chase & Co. 4.32% 04/26/2028",
-      "weight": 0.63,
+      "weight": 0.6296222266640017,
       "isin": "US46647PDA12",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4304563.92,
@@ -325,7 +1037,7 @@
     {
       "t": "US46647PEA03",
       "n": "JPMorgan Chase & Co. 5.04% 01/23/2028",
-      "weight": 1.25,
+      "weight": 1.249250449730162,
       "isin": "US46647PEA03",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8567647.34,
@@ -334,7 +1046,7 @@
     {
       "t": "US53944YAD58",
       "n": "Lloyds Banking Group plc 3.75% 01/11/2027",
-      "weight": 0.37,
+      "weight": 0.36977813312012797,
       "isin": "US53944YAD58",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2560630.37,
@@ -343,7 +1055,7 @@
     {
       "t": "US53944YAZ60",
       "n": "Lloyds Banking Group plc 5.46% 01/05/2028",
-      "weight": 3.06,
+      "weight": 3.0581651009394366,
       "isin": "US53944YAZ60",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 20939717.17,
@@ -352,7 +1064,7 @@
     {
       "t": "US58933YBC84",
       "n": "Merck & Co., Inc. 1.70% 06/10/2027",
-      "weight": 1.93,
+      "weight": 1.9288426943833703,
       "isin": "US58933YBC84",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 13223291.87,
@@ -361,7 +1073,7 @@
     {
       "t": "US594918BY93",
       "n": "Microsoft Corp. 3.30% 02/06/2027",
-      "weight": 1.16,
+      "weight": 1.1593044173495903,
       "isin": "US594918BY93",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7929195.3,
@@ -370,7 +1082,7 @@
     {
       "t": "US606822BZ65",
       "n": "MITSUBISHI UFJ FINANCIAL GROUP INC 1.64% 10/13/2027",
-      "weight": 2.18,
+      "weight": 2.1786927843294026,
       "isin": "US606822BZ65",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 14940837.05,
@@ -379,7 +1091,7 @@
     {
       "t": "US606822CC61",
       "n": "MITSUBISHI UFJ FINANCIAL GROUP INC 2.34% 01/19/2028",
-      "weight": 1.44,
+      "weight": 1.4391365180891467,
       "isin": "US606822CC61",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 9863647.11,
@@ -388,7 +1100,7 @@
     {
       "t": "US61690U8A11",
       "n": "Morgan Stanley Bank N.A. 4.95% 01/14/2028",
-      "weight": 1.46,
+      "weight": 1.4591245252848293,
       "isin": "US61690U8A11",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 10002362.38,
@@ -397,7 +1109,7 @@
     {
       "t": "US61746BEF94",
       "n": "Morgan Stanley 3.63% 01/20/2027",
-      "weight": 1.56,
+      "weight": 1.5590645612632423,
       "isin": "US61746BEF94",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 10654016.15,
@@ -406,7 +1118,7 @@
     {
       "t": "US61747YEK73",
       "n": "MORGAN STANLEY 2.48% 01/21/2028",
-      "weight": 0.93,
+      "weight": 0.9294423345992406,
       "isin": "US61747YEK73",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6344496.45,
@@ -415,7 +1127,7 @@
     {
       "t": "US61747YER27",
       "n": "Morgan Stanley 4.21% 04/20/2028",
-      "weight": 0.65,
+      "weight": 0.6496102338596843,
       "isin": "US61747YER27",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4443400.55,
@@ -424,7 +1136,7 @@
     {
       "t": "US63254ABE73",
       "n": "National Australia Bank Ltd. (New York Branch) 3.91% 06/09/2027",
-      "weight": 0.57,
+      "weight": 0.5696582050769539,
       "isin": "US63254ABE73",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 3912754.66,
@@ -433,7 +1145,7 @@
     {
       "t": "US66989HAQ11",
       "n": "Novartis Capital Corporation 2.00% 02/14/2027",
-      "weight": 0.21,
+      "weight": 0.20987407555466722,
       "isin": "US66989HAQ11",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 1404474.45,
@@ -442,7 +1154,7 @@
     {
       "t": "US693475BV67",
       "n": "PNC Financial Services Group Inc. (The) 5.30% 01/21/2028",
-      "weight": 0.63,
+      "weight": 0.6296222266640017,
       "isin": "US693475BV67",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4292192.18,
@@ -451,7 +1163,7 @@
     {
       "t": "US70450YAD58",
       "n": "PayPal Holdings Inc. 2.65% 10/01/2026",
-      "weight": 0.63,
+      "weight": 0.6296222266640017,
       "isin": "US70450YAD58",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4298310,
@@ -460,7 +1172,7 @@
     {
       "t": "US717081EA70",
       "n": "Pfizer Inc. 3.00% 12/15/2026",
-      "weight": 0.62,
+      "weight": 0.6196282230661604,
       "isin": "US717081EA70",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4267297.13,
@@ -469,7 +1181,7 @@
     {
       "t": "US742718EV74",
       "n": "Procter & Gamble Co. 2.85% 08/11/2027",
-      "weight": 0.41,
+      "weight": 0.40975414751149314,
       "isin": "US742718EV74",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2797239.25,
@@ -478,7 +1190,7 @@
     {
       "t": "US747525AU71",
       "n": "Qualcomm Inc. 3.25% 05/20/2027",
-      "weight": 1.66,
+      "weight": 1.6590045972416552,
       "isin": "US747525AU71",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 11347358.19,
@@ -487,7 +1199,7 @@
     {
       "t": "US78016FZS63",
       "n": "Royal Bank of Canada 4.24% 08/03/2027",
-      "weight": 0.62,
+      "weight": 0.6196282230661604,
       "isin": "US78016FZS63",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4251905,
@@ -496,7 +1208,7 @@
     {
       "t": "US78016HZT03",
       "n": "Royal Bank of Canada 4.88% 01/19/2027",
-      "weight": 1.04,
+      "weight": 1.0393763741754949,
       "isin": "US78016HZT03",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 7145973.19,
@@ -505,7 +1217,7 @@
     {
       "t": "US808513BY05",
       "n": "Charles Schwab Corp. 2.45% 03/03/2027",
-      "weight": 1.23,
+      "weight": 1.2292624425344796,
       "isin": "US808513BY05",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8427150.55,
@@ -514,7 +1226,7 @@
     {
       "t": "US86562MAK62",
       "n": "SUMITOMO MITSUI FINANCIAL GROUP INC 3.01% 10/19/2026",
-      "weight": 1.25,
+      "weight": 1.249250449730162,
       "isin": "US86562MAK62",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8589740.79,
@@ -523,7 +1235,7 @@
     {
       "t": "US86562MAR16",
       "n": "SUMITOMO MITSUI FINANCIAL GROUP INC 3.36% 07/12/2027",
-      "weight": 1.28,
+      "weight": 1.279232460523686,
       "isin": "US86562MAR16",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 8801365.4,
@@ -532,7 +1244,7 @@
     {
       "t": "US87612EBM75",
       "n": "Target Corp. 1.95% 01/15/2027",
-      "weight": 0.41,
+      "weight": 0.40975414751149314,
       "isin": "US87612EBM75",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2819052.05,
@@ -541,7 +1253,7 @@
     {
       "t": "US883556CZ38",
       "n": "Thermo Fisher Scientific Inc. 5.00% 12/05/2026",
-      "weight": 0.42,
+      "weight": 0.41974815110933444,
       "isin": "US883556CZ38",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 2874265.52,
@@ -550,7 +1262,7 @@
     {
       "t": "US89115A2C54",
       "n": "The Toronto-Dominion Bank 4.11% 06/08/2027",
-      "weight": 0.42,
+      "weight": 0.41974815110933444,
       "isin": "US89115A2C54",
       "sector": "Financials",
       "mv": 2852528.65,
@@ -559,7 +1271,7 @@
     {
       "t": "US89236TJZ93",
       "n": "Toyota Motor Credit Corp. 3.05% 03/22/2027",
-      "weight": 0.62,
+      "weight": 0.6196282230661604,
       "isin": "US89236TJZ93",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 4214448.83,
@@ -568,7 +1280,7 @@
     {
       "t": "US89236TLD53",
       "n": "Toyota Motor Credit Corp. 5.40% 11/20/2026",
-      "weight": 0.21,
+      "weight": 0.20987407555466722,
       "isin": "US89236TLD53",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 1443272.46,
@@ -577,7 +1289,7 @@
     {
       "t": "US91159HHR49",
       "n": "U.S. Bancorp 3.15% 04/27/2027",
-      "weight": 3.33,
+      "weight": 3.3280031980811517,
       "isin": "US91159HHR49",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 22837948.35,
@@ -586,7 +1298,7 @@
     {
       "t": "US91159HJF82",
       "n": "U.S. Bancorp 4.55% 07/22/2028",
-      "weight": 0.83,
+      "weight": 0.8295022986208276,
       "isin": "US91159HJF82",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5683741.09,
@@ -595,7 +1307,7 @@
     {
       "t": "US912797SA68",
       "n": "Treasury Bill 0.01% 10/01/2026",
-      "weight": 1.58,
+      "weight": 1.579052568458925,
       "isin": "US912797SA68",
       "sector": "-",
       "mv": 10817148.11,
@@ -604,7 +1316,7 @@
     {
       "t": "US912797SU23",
       "n": "Treasury Bill 0.01% 11/27/2026",
-      "weight": 7.08,
+      "weight": 7.075754547271638,
       "isin": "US912797SU23",
       "sector": "-",
       "mv": 48473278.93,
@@ -613,7 +1325,7 @@
     {
       "t": "US912797UX34",
       "n": "Treasury Bill 0.01% 05/13/2027",
-      "weight": 6.55,
+      "weight": 6.546072356586049,
       "isin": "US912797UX34",
       "sector": "-",
       "mv": 44899957.22,
@@ -622,7 +1334,7 @@
     {
       "t": "US912797VS30",
       "n": "Treasury Bill 0.01% 01/07/2027",
-      "weight": 4.08,
+      "weight": 4.077553467919249,
       "isin": "US912797VS30",
       "sector": "-",
       "mv": 27963404.64,
@@ -631,7 +1343,7 @@
     {
       "t": "US92826CAL63",
       "n": "Visa Inc. 1.90% 04/15/2027",
-      "weight": 0.82,
+      "weight": 0.8195082950229863,
       "isin": "US92826CAL63",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 5625515.35,
@@ -640,7 +1352,7 @@
     {
       "t": "US961214DF70",
       "n": "Westpac Banking Corporation 4.32% 11/23/2031",
-      "weight": 3.53,
+      "weight": 3.5278832700379774,
       "isin": "US961214DF70",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 24207875.06,

@@ -17,6 +17,24 @@ export async function fetchIssuerSource(url: string): Promise<FetchResult> {
         const result = await fetchSource(candidate, 20000, true);
         if (result.source.kind !== "xlsx") throw new Error("Expected BMO workbook");
         const rows = xlsxRows(result.source.buffer);
+        // Cash, physical assets, and options can have no ISIN. Keep these rows:
+        // negative cash/option weights offset holdings that individually exceed 100%.
+        const headerIndex = rows.findIndex((row) => row.includes("ISIN") && row.includes("Name"));
+        if (headerIndex >= 0) {
+          const header = rows[headerIndex];
+          const isinIndex = header.indexOf("ISIN");
+          const nameIndex = header.indexOf("Name");
+          const currencyIndex = header.indexOf("Currency");
+          for (let i = headerIndex + 1; i < rows.length; i++) {
+            const row = rows[i];
+            const name = String(row[nameIndex] ?? "").trim();
+            const currency = String(row[currencyIndex] ?? "").trim();
+            const identifier = String(row[isinIndex] ?? "").trim()
+              || (/^cash$/i.test(name) && currency ? `CASH.${currency}` : name);
+            rows[i] = [identifier, ...row];
+          }
+          rows[headerIndex] = ["Ticker", ...header];
+        }
         const ticker = /_([A-Z0-9.]+)_\d{8}\.xlsx/i.exec(candidate)?.[1];
         return { ...result, source: { kind: "csv", text: Papa.unparse([
           [`BMO ${ticker}`], [`ETF ticker: ${ticker}`], [`As of ${date.toISOString().slice(0,10)}`], ...rows,

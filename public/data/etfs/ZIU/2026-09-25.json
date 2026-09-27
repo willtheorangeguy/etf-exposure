@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZIU_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "40f4bc686591b87850719a304d1c75d5677fa428d2fd27d1f5fd07cce57c8209",
+  "content_hash": "61b27f7e41a94d33c171786d3f45fca5f48b0028c4c4567d0e120e6073b9478f",
   "holdings": [
     {
       "t": "ABX",
@@ -114,6 +114,14 @@
       "sector": "INDUSTRIALS",
       "mv": 823048.34,
       "shares": 23402
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.16,
+      "sector": "-",
+      "mv": 466105.06,
+      "shares": 1
     },
     {
       "t": "CCO",

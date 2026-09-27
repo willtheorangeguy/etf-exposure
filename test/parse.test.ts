@@ -12,6 +12,27 @@ describe("parseSheet pipeline", () => {
     expect(t.partial).toBe(true);
   });
 
+  it("corrects small overruns before hashing and keeps relative weights", () => {
+    const source = { kind: "csv" as const, text: "Ticker,Name,% weight\nA,Alpha,60.3\nB,Beta,40.2" };
+    const parsed = parseSheet(source);
+    expect(parsed.holdings.reduce((sum, h) => sum + h.weight, 0)).toBeLessThanOrEqual(100);
+    expect(parsed.holdings[0].weight).toBeCloseTo(60, 10);
+    expect(parsed.holdings[1].weight).toBeCloseTo(40, 10);
+    expect(parsed.partial).toBe(false);
+    expect(parsed.contentHash).toBe(parseSheet(source).contentHash);
+  });
+
+  it("rejects overruns beyond half a percentage point", () => {
+    expect(() => parseSheet({ kind: "csv", text: "Ticker,Name,% weight\nA,Alpha,60\nB,Beta,40.5001" }))
+      .toThrow(/100.5% rounding limit/);
+  });
+
+  it("retains holdings above 100% when negative offsets balance them", () => {
+    const parsed = parseSheet({ kind: "csv", text: "Ticker,Name,% weight\nA,Alpha,109.49\nOPT,Option,-9.36\nCASH,Cash,-0.13" });
+    expect(parsed.holdings.find((h) => h.t === "A")?.weight).toBeCloseTo(109.49, 10);
+    expect(parsed.holdings.reduce((sum, h) => sum + h.weight, 0)).toBeCloseTo(100, 10);
+  });
+
   it("does not treat market values as percentage weights", () => {
     expect(() => parseSheet({ kind: "csv", text: "Ticker,Name,Market value\nA,Alpha,12345" })).toThrow(ParseError);
   });

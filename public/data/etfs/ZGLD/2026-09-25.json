@@ -1,0 +1,27 @@
+{
+  "id": 1,
+  "as_of_date": "2026-09-25",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGLD_20260925.xlsx",
+  "created_at": "2026-09-27T03:41:31.904Z",
+  "partial": false,
+  "content_hash": "29d203aaa5b8ed32dc370d8ac9ccbb739d4b0554ad69db8035a370bd22e7f7bb",
+  "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.03,
+      "sector": "-",
+      "mv": -538647.66,
+      "shares": 1
+    },
+    {
+      "t": "SPOT PHYSICAL GOLD",
+      "n": "SPOT PHYSICAL GOLD",
+      "weight": 100.03,
+      "sector": "-",
+      "mv": 1791724804.98,
+      "shares": 297281
+    }
+  ]
+}

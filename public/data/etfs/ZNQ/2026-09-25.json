@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZNQ_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "157348c328195e4764688447a4c9c6ef946c34ac38bb372a3d3d34a179266190",
+  "content_hash": "66ed5d7f036ac5b9a5b209960e72b700da0b23649e500594e31b0c0060a6b3b8",
   "holdings": [
     {
       "t": "AAPL",
@@ -123,6 +123,14 @@
       "sector": "ENERGY",
       "mv": 6080182.44,
       "shares": 74332
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.04,
+      "sector": "-",
+      "mv": -1060166.94,
+      "shares": 1
     },
     {
       "t": "CCEP",

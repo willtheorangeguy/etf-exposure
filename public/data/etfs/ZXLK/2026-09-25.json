@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "as_of_date": "2026-09-25",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLK_20260925.xlsx",
+  "created_at": "2026-09-27T03:41:31.904Z",
+  "partial": false,
+  "content_hash": "58bbb70b259dae8ea6eb043946344f73476dc33afc68fb83beade714eec4c9bc",
+  "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.55,
+      "sector": "-",
+      "mv": -283585.31,
+      "shares": 1
+    },
+    {
+      "t": "US81369Y8030",
+      "n": "STATE STREET TECHNOLOGY SELECT SECTOR SPDR ETF",
+      "weight": 100.55,
+      "isin": "US81369Y8030",
+      "sector": "-",
+      "mv": 51604297.27,
+      "shares": 185885
+    }
+  ]
+}

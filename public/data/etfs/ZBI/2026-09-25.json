@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBI_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "06edb0bcf3e55da602fda41e1ef05c6f0db620784d5e95957dc8e6d2b0b709da",
+  "content_hash": "184931683680c5b04dbda09a9392b89398ada948ab97749b50a948e21efe279b",
   "holdings": [
     {
       "t": "BMO",
@@ -758,6 +758,13 @@
       "isin": "CA89117GLM73",
       "sector": "CORPORATE BONDS & DEBENTURES",
       "mv": 6774749.21
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.01,
+      "sector": "-",
+      "mv": -17207.21
     },
     {
       "t": "CM",

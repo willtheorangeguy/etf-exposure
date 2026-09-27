@@ -5,12 +5,12 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZRR_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "670688e73199bea865f2dfa3697156f77cbbf5302784ecf89dc95abcc71c852c",
+  "content_hash": "0dd9afcbd1451dbc0d1d671eda4d3b0920a17da82220b9ffbc4ea803fb7d7a03",
   "holdings": [
     {
       "t": "CA135087B949",
       "n": "Gov. of Canada REAL RETURN BOND 1.25% 12/01/2047",
-      "weight": 13.12,
+      "weight": 13.11868813118688,
       "isin": "CA135087B949",
       "sector": "GOVERNMENT BONDS",
       "mv": 12761421.52
@@ -18,7 +18,7 @@
     {
       "t": "CA135087G997",
       "n": "Gov. of Canada REAL RETURN BOND . 0.50% 12/01/2050",
-      "weight": 10.45,
+      "weight": 10.448955104489551,
       "isin": "CA135087G997",
       "sector": "GOVERNMENT BONDS",
       "mv": 10167106.97
@@ -26,7 +26,7 @@
     {
       "t": "CA135087M433",
       "n": "Gov. of Canada RRB . 0.25% 12/01/2054",
-      "weight": 2.4,
+      "weight": 2.3997600239976,
       "isin": "CA135087M433",
       "sector": "-",
       "mv": 2335834.79
@@ -34,7 +34,7 @@
     {
       "t": "CA135087VS05",
       "n": "Gov. of Canada REAL RETURN BOND 4.25% 12/01/2026",
-      "weight": 13.72,
+      "weight": 13.718628137186283,
       "isin": "CA135087VS05",
       "sector": "GOVERNMENT BONDS",
       "mv": 13345490.23
@@ -42,7 +42,7 @@
     {
       "t": "CA135087WV25",
       "n": "Gov. of Canada REAL RETURN BOND 4.00% 12/01/2031",
-      "weight": 16.56,
+      "weight": 16.55834416558344,
       "isin": "CA135087WV25",
       "sector": "GOVERNMENT BONDS",
       "mv": 16107989.26
@@ -50,7 +50,7 @@
     {
       "t": "CA135087XQ21",
       "n": "Gov. of Canada REAL RETURN BOND 3.00% 12/01/2036",
-      "weight": 14.71,
+      "weight": 14.708529147085292,
       "isin": "CA135087XQ21",
       "sector": "GOVERNMENT BONDS",
       "mv": 14314454.15
@@ -58,7 +58,7 @@
     {
       "t": "CA135087YK42",
       "n": "Gov. of Canada REAL RETURN BOND 2.00% 12/01/2041",
-      "weight": 14.16,
+      "weight": 14.158584141585841,
       "isin": "CA135087YK42",
       "sector": "GOVERNMENT BONDS",
       "mv": 13780252.57
@@ -66,10 +66,17 @@
     {
       "t": "CA135087ZH04",
       "n": "Gov. of Canada REAL RETURN BOND 1.50% 12/01/2044",
-      "weight": 14.87,
+      "weight": 14.86851314868513,
       "isin": "CA135087ZH04",
       "sector": "GOVERNMENT BONDS",
       "mv": 14471839.13
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.019998000199980003,
+      "sector": "-",
+      "mv": 14690.17
     }
   ]
 }

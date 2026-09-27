@@ -1,0 +1,37 @@
+{
+  "id": 1,
+  "as_of_date": "2026-09-25",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDH_20260925.xlsx",
+  "created_at": "2026-09-27T03:41:31.904Z",
+  "partial": false,
+  "content_hash": "3ce055da24a8f982861b772112832da45072bffa01e96a3147afdcbb04d8fb01",
+  "holdings": [
+    {
+      "t": "CA09658Q1081",
+      "n": "BMO International Dividend ETF",
+      "weight": 100.52,
+      "isin": "CA09658Q1081",
+      "sector": "Financials",
+      "mv": 242863327.67,
+      "shares": 7385750
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.54,
+      "sector": "-",
+      "mv": -1301344.81,
+      "shares": 1
+    },
+    {
+      "t": "CTB",
+      "n": "Canada T Bill 0.01% 11/04/2026",
+      "weight": 0.02,
+      "isin": "CA1350Z7EM25",
+      "sector": "-",
+      "mv": 49874.77,
+      "shares": 50000
+    }
+  ]
+}

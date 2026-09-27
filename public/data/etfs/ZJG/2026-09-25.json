@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZJG_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "f70ef2a0490181a6700e91496c4cecb2638099249e84c12e206331d237b825c5",
+  "content_hash": "48981c9c7ca3e303c32b202d45e9242bcef34f294fb19218e0f98afee944db18",
   "holdings": [
     {
       "t": "AAUC",
@@ -267,6 +267,14 @@
       "sector": "Materials",
       "mv": 411892.37,
       "shares": 53530
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.06,
+      "sector": "-",
+      "mv": -126459.29,
+      "shares": 1
     },
     {
       "t": "CDE",

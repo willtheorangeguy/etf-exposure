@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPR_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "9703e38e7481d15d5d6c4513c118538481317610551c4a23d1d51c6019568fda",
+  "content_hash": "c264078f8c2c0fd8e8d3efed9555dd98db3e373fad2755113ca9f4dc490035a9",
   "holdings": [
     {
       "t": "BMG160231061",
@@ -878,6 +878,13 @@
       "isin": "CA89346D7687",
       "sector": "UTILITIES",
       "mv": 22586081.68
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.56,
+      "sector": "-",
+      "mv": 9414333.8
     }
   ]
 }

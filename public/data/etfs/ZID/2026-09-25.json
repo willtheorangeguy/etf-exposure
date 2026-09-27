@@ -5,12 +5,20 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZID_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "954489174804a5ed67fe5d2eb67b1600cdc3713cbb2fe0eb630ca81d805c673c",
+  "content_hash": "7b7235c8edb36a11786391f1b149dcb828256b57843797e4f400e9b85729fd6e",
   "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.25997400259973996,
+      "sector": "-",
+      "mv": -406347.02,
+      "shares": 1
+    },
     {
       "t": "INE002A01018",
       "n": "Reliance Industries Ltd",
-      "weight": 16.34,
+      "weight": 16.338366163383657,
       "isin": "INE002A01018",
       "sector": "ENERGY",
       "mv": 25866944.88,
@@ -19,7 +27,7 @@
     {
       "t": "INE003A01024",
       "n": "SIEMENS LTD",
-      "weight": 0.71,
+      "weight": 0.7099290070992899,
       "isin": "INE003A01024",
       "sector": "INDUSTRIALS",
       "mv": 1115871.18,
@@ -28,7 +36,7 @@
     {
       "t": "INE009A01021",
       "n": "INFOSYS LTD",
-      "weight": 7.07,
+      "weight": 7.069293070692929,
       "isin": "INE009A01021",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 11186912.74,
@@ -37,7 +45,7 @@
     {
       "t": "INE016A01026",
       "n": "DABUR INDIA LTD",
-      "weight": 0.39,
+      "weight": 0.38996100389960997,
       "isin": "INE016A01026",
       "sector": "CONSUMER STAPLES",
       "mv": 615011.65,
@@ -46,7 +54,7 @@
     {
       "t": "INE021A01026",
       "n": "ASIAN PAINTS LTD",
-      "weight": 2.17,
+      "weight": 2.1697830216978296,
       "isin": "INE021A01026",
       "sector": "MATERIALS",
       "mv": 3438354.89,
@@ -55,7 +63,7 @@
     {
       "t": "INE027H01010",
       "n": "MAX HEALTHCARE INSTITUTE LTD",
-      "weight": 1.66,
+      "weight": 1.6598340165983396,
       "isin": "INE027H01010",
       "sector": "HEALTH CARE",
       "mv": 2631253.49,
@@ -64,7 +72,7 @@
     {
       "t": "INE030A01027",
       "n": "HINDUSTAN UNILEVER LTD",
-      "weight": 3.18,
+      "weight": 3.1796820317968195,
       "isin": "INE030A01027",
       "sector": "CONSUMER STAPLES",
       "mv": 5030106.25,
@@ -73,7 +81,7 @@
     {
       "t": "INE038A01020",
       "n": "HINDALCO INDUSTRIES LTD",
-      "weight": 2.92,
+      "weight": 2.9197080291970794,
       "isin": "INE038A01020",
       "sector": "MATERIALS",
       "mv": 4626161.38,
@@ -82,7 +90,7 @@
     {
       "t": "INE040H01021",
       "n": "SUZLON ENERGY LTD",
-      "weight": 0.98,
+      "weight": 0.9799020097990199,
       "isin": "INE040H01021",
       "sector": "INDUSTRIALS",
       "mv": 1543623.23,
@@ -91,7 +99,7 @@
     {
       "t": "INE047A01021",
       "n": "GRASIM INDUSTRIES LTD",
-      "weight": 2.01,
+      "weight": 2.0097990200979896,
       "isin": "INE047A01021",
       "sector": "MATERIALS",
       "mv": 3187263.22,
@@ -100,7 +108,7 @@
     {
       "t": "INE053A01029",
       "n": "INDIAN HOTELS CO LTD/THE",
-      "weight": 1.38,
+      "weight": 1.3798620137986197,
       "isin": "INE053A01029",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 2185749.86,
@@ -109,7 +117,7 @@
     {
       "t": "INE059A01026",
       "n": "CIPLA LTD/INDIA",
-      "weight": 1.64,
+      "weight": 1.6398360163983596,
       "isin": "INE059A01026",
       "sector": "HEALTH CARE",
       "mv": 2597158.1,
@@ -118,7 +126,7 @@
     {
       "t": "INE066A01021",
       "n": "EICHER MOTORS LTD",
-      "weight": 2.35,
+      "weight": 2.3497650234976497,
       "isin": "INE066A01021",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 3711922.63,
@@ -127,7 +135,7 @@
     {
       "t": "INE070A01015",
       "n": "SHREE CEMENT LTD",
-      "weight": 0.43,
+      "weight": 0.42995700429956996,
       "isin": "INE070A01015",
       "sector": "MATERIALS",
       "mv": 686674.51,
@@ -136,7 +144,7 @@
     {
       "t": "INE101A01026",
       "n": "MAHINDRA & MAHINDRA LTD",
-      "weight": 6.12,
+      "weight": 6.119388061193879,
       "isin": "INE101A01026",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 9688687.07,
@@ -145,7 +153,7 @@
     {
       "t": "INE117A01022",
       "n": "ABB INDIA LTD",
-      "weight": 0.75,
+      "weight": 0.7499250074992498,
       "isin": "INE117A01022",
       "sector": "INDUSTRIALS",
       "mv": 1180170.37,
@@ -154,7 +162,7 @@
     {
       "t": "INE129A01019",
       "n": "GAIL (India) Limited",
-      "weight": 0.92,
+      "weight": 0.9199080091990799,
       "isin": "INE129A01019",
       "sector": "UTILITIES",
       "mv": 1458949.51,
@@ -163,7 +171,7 @@
     {
       "t": "INE169A01031",
       "n": "COROMANDEL INTERNATIONAL LTD",
-      "weight": 0.53,
+      "weight": 0.5299470052994699,
       "isin": "INE169A01031",
       "sector": "MATERIALS",
       "mv": 842923.97,
@@ -172,7 +180,7 @@
     {
       "t": "INE176B01034",
       "n": "HAVELLS INDIA LTD",
-      "weight": 0.52,
+      "weight": 0.5199480051994799,
       "isin": "INE176B01034",
       "sector": "INDUSTRIALS",
       "mv": 822326.91,
@@ -181,7 +189,7 @@
     {
       "t": "INE192A01025",
       "n": "TATA CONSUMER PRODUCTS LTD",
-      "weight": 1.24,
+      "weight": 1.2398760123987598,
       "isin": "INE192A01025",
       "sector": "CONSUMER STAPLES",
       "mv": 1967167.57,
@@ -190,7 +198,7 @@
     {
       "t": "INE195A01028",
       "n": "SUPREME INDUSTRIES LTD",
-      "weight": 0.52,
+      "weight": 0.5199480051994799,
       "isin": "INE195A01028",
       "sector": "INDUSTRIALS",
       "mv": 828466.18,
@@ -199,7 +207,7 @@
     {
       "t": "INE196A01026",
       "n": "MARICO LTD",
-      "weight": 0.99,
+      "weight": 0.9899010098990099,
       "isin": "INE196A01026",
       "sector": "CONSUMER STAPLES",
       "mv": 1563082.65,
@@ -208,7 +216,7 @@
     {
       "t": "INE205A01025",
       "n": "VEDANTA LTD",
-      "weight": 0.85,
+      "weight": 0.8499150084991499,
       "isin": "INE205A01025",
       "sector": "MATERIALS",
       "mv": 1338684.56,
@@ -217,7 +225,7 @@
     {
       "t": "INE208A01029",
       "n": "ASHOK LEYLAND LTD",
-      "weight": 1.03,
+      "weight": 1.02989701029897,
       "isin": "INE208A01029",
       "sector": "INDUSTRIALS",
       "mv": 1628835.46,
@@ -226,7 +234,7 @@
     {
       "t": "INE216A01030",
       "n": "BRITANNIA INDUSTRIES LTD",
-      "weight": 1.24,
+      "weight": 1.2398760123987598,
       "isin": "INE216A01030",
       "sector": "CONSUMER STAPLES",
       "mv": 1967905.11,
@@ -235,7 +243,7 @@
     {
       "t": "INE220G01021",
       "n": "JINDAL STAINLESS LTD",
-      "weight": 0.5,
+      "weight": 0.49995000499949993,
       "isin": "INE220G01021",
       "sector": "MATERIALS",
       "mv": 791296.79,
@@ -244,7 +252,7 @@
     {
       "t": "INE226A01021",
       "n": "VOLTAS LTD",
-      "weight": 0.52,
+      "weight": 0.5199480051994799,
       "isin": "INE226A01021",
       "sector": "INDUSTRIALS",
       "mv": 815082.08,
@@ -253,7 +261,7 @@
     {
       "t": "INE237A01036",
       "n": "KOTAK MAHINDRA BANK LTD",
-      "weight": 5.12,
+      "weight": 5.119488051194879,
       "isin": "INE237A01036",
       "sector": "FINANCIALS",
       "mv": 8107105.11,
@@ -262,7 +270,7 @@
     {
       "t": "INE238A01034",
       "n": "AXIS BANK LTD",
-      "weight": 6.53,
+      "weight": 6.52934706529347,
       "isin": "INE238A01034",
       "sector": "FINANCIALS",
       "mv": 10335887.24,
@@ -271,7 +279,7 @@
     {
       "t": "INE239A01024",
       "n": "NESTLE INDIA LTD",
-      "weight": 1.83,
+      "weight": 1.82981701829817,
       "isin": "INE239A01024",
       "sector": "CONSUMER STAPLES",
       "mv": 2891910.64,
@@ -280,7 +288,7 @@
     {
       "t": "INE259A01022",
       "n": "COLGATE-PALMOLIVE INDIA LTD",
-      "weight": 0.5,
+      "weight": 0.49995000499949993,
       "isin": "INE259A01022",
       "sector": "CONSUMER STAPLES",
       "mv": 788242.15,
@@ -289,7 +297,7 @@
     {
       "t": "INE318A01026",
       "n": "PIDILITE INDUSTRIES LTD",
-      "weight": 0.99,
+      "weight": 0.9899010098990099,
       "isin": "INE318A01026",
       "sector": "MATERIALS",
       "mv": 1561511.07,
@@ -298,7 +306,7 @@
     {
       "t": "INE347G01014",
       "n": "PETRONET LNG LTD",
-      "weight": 0.5,
+      "weight": 0.49995000499949993,
       "isin": "INE347G01014",
       "sector": "ENERGY",
       "mv": 787607.44,
@@ -307,7 +315,7 @@
     {
       "t": "INE481G01011",
       "n": "UltraTech Cement Limited",
-      "weight": 2.67,
+      "weight": 2.6697330266973296,
       "isin": "INE481G01011",
       "sector": "MATERIALS",
       "mv": 4222015.45,
@@ -316,7 +324,7 @@
     {
       "t": "INE494B01023",
       "n": "TVS MOTOR CO LTD",
-      "weight": 2.3,
+      "weight": 2.2997700229976994,
       "isin": "INE494B01023",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 3632498.96,
@@ -325,7 +333,7 @@
     {
       "t": "INE603J01030",
       "n": "PI INDUSTRIES LTD",
-      "weight": 0.38,
+      "weight": 0.37996200379962,
       "isin": "INE603J01030",
       "sector": "MATERIALS",
       "mv": 600901.37,
@@ -334,7 +342,7 @@
     {
       "t": "INE628A01036",
       "n": "UPL Limited",
-      "weight": 0.65,
+      "weight": 0.6499350064993499,
       "isin": "INE628A01036",
       "sector": "MATERIALS",
       "mv": 1021995.57,
@@ -343,7 +351,7 @@
     {
       "t": "INE646L01027",
       "n": "INTERGLOBE AVIATION LTD",
-      "weight": 2.17,
+      "weight": 2.1697830216978296,
       "isin": "INE646L01027",
       "sector": "INDUSTRIALS",
       "mv": 3437429.96,
@@ -352,7 +360,7 @@
     {
       "t": "INE663F01032",
       "n": "INFO EDGE INDIA LTD",
-      "weight": 0.99,
+      "weight": 0.9899010098990099,
       "isin": "INE663F01032",
       "sector": "COMMUNICATION SERVICES",
       "mv": 1568394.17,
@@ -361,7 +369,7 @@
     {
       "t": "INE702C01027",
       "n": "APL APOLLO TUBES LTD",
-      "weight": 0.93,
+      "weight": 0.9299070092990699,
       "isin": "INE702C01027",
       "sector": "MATERIALS",
       "mv": 1466354.5,
@@ -370,7 +378,7 @@
     {
       "t": "INE726G01019",
       "n": "ICICI PRUDENTIAL LIFE INSURANCE CO LTD",
-      "weight": 0.39,
+      "weight": 0.38996100389960997,
       "isin": "INE726G01019",
       "sector": "FINANCIALS",
       "mv": 616278.81,
@@ -379,7 +387,7 @@
     {
       "t": "INE752E01010",
       "n": "POWER GRID CORP OF INDIA LTD",
-      "weight": 2.62,
+      "weight": 2.6197380261973797,
       "isin": "INE752E01010",
       "sector": "UTILITIES",
       "mv": 4140648.18,
@@ -388,7 +396,7 @@
     {
       "t": "INE758T01015",
       "n": "ETERNAL LTD",
-      "weight": 3.72,
+      "weight": 3.7196280371962795,
       "isin": "INE758T01015",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 5881632.25,
@@ -397,7 +405,7 @@
     {
       "t": "INE776C01039",
       "n": "GMR AIRPORTS LTD",
-      "weight": 0.66,
+      "weight": 0.65993400659934,
       "isin": "INE776C01039",
       "sector": "INDUSTRIALS",
       "mv": 1044804.47,
@@ -406,7 +414,7 @@
     {
       "t": "INE795G01014",
       "n": "HDFC LIFE INSURANCE CO LTD",
-      "weight": 1.2,
+      "weight": 1.1998800119987998,
       "isin": "INE795G01014",
       "sector": "FINANCIALS",
       "mv": 1905725.64,
@@ -415,7 +423,7 @@
     {
       "t": "INE813H01021",
       "n": "TORRENT POWER LTD",
-      "weight": 0.51,
+      "weight": 0.5099490050994899,
       "isin": "INE813H01021",
       "sector": "UTILITIES",
       "mv": 812968.81,
@@ -424,7 +432,7 @@
     {
       "t": "INE848E01016",
       "n": "NHPC LTD",
-      "weight": 0.58,
+      "weight": 0.5799420057994199,
       "isin": "INE848E01016",
       "sector": "UTILITIES",
       "mv": 912729.22,
@@ -433,7 +441,7 @@
     {
       "t": "INE849A01020",
       "n": "TRENT LTD",
-      "weight": 1.65,
+      "weight": 1.6498350164983497,
       "isin": "INE849A01020",
       "sector": "CONSUMER DISCRETIONARY",
       "mv": 2616606.53,
@@ -442,7 +450,7 @@
     {
       "t": "INE860A01027",
       "n": "HCL TECHNOLOGIES LTD",
-      "weight": 2.58,
+      "weight": 2.5797420257974197,
       "isin": "INE860A01027",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 4078100.66,
@@ -451,7 +459,7 @@
     {
       "t": "INE881D01027",
       "n": "ORACLE FINANCIAL SERVICES SOFTWARE LTD",
-      "weight": 0.53,
+      "weight": 0.5299470052994699,
       "isin": "INE881D01027",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 844682.71,
@@ -460,7 +468,7 @@
     {
       "t": "INE949L01017",
       "n": "AU SMALL FINANCE BANK LTD",
-      "weight": 1.31,
+      "weight": 1.3098690130986899,
       "isin": "INE949L01017",
       "sector": "FINANCIALS",
       "mv": 2073581.73,

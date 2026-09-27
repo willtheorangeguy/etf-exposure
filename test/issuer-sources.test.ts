@@ -1,5 +1,8 @@
 import { afterEach, describe, expect, it, vi } from "vitest";
 import { fetchIssuerSource } from "../src/lib/issuer-sources";
+import * as XLSX from "xlsx";
+import { parseSheet } from "../src/lib/parse";
+import { ImportSchema } from "../src/lib/import-validation";
 
 vi.mock("../src/lib/public-url", () => ({ assertPublicUrl: vi.fn(async () => undefined) }));
 
@@ -45,5 +48,45 @@ describe("Vanguard product adapter", () => {
     mockFetch("<html><h1>Vanguard Fund Without Ticker</h1></html>",
       [{ ticker: "RY", marketValuePercentage: 1, effectiveDate: "2026-08-31" }], "Vanguard Fund");
     await expect(fetchIssuerSource("https://www.vanguard.ca/en/product/etf/equity/9561/some-fund")).rejects.toThrow(/ticker/i);
+  });
+});
+
+describe("BMO holdings adapter", () => {
+  function workbookResponse(rows: (string | number)[][]) {
+    const workbook = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(workbook, XLSX.utils.aoa_to_sheet(rows), "Holdings");
+    const buffer = XLSX.write(workbook, { type: "array", bookType: "xlsx" }) as ArrayBuffer;
+    vi.stubGlobal("fetch", vi.fn(async () => new Response(buffer, {
+      headers: { "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" },
+    })));
+  }
+
+  it("keeps negative cash and option offsets without ISINs", async () => {
+    workbookResponse([
+      ["Weight (%)", "Name", "ISIN", "Currency", "Asset Class"],
+      [109.49, "Equity Core", "US78462F1030", "USD", "Equity"],
+      [-0.13, "Cash", "", "CAD", "Cash"],
+      [-9.36, "733140062 BMOMOOTC PUT OPTIONS", "", "CAD", "Derivatives"],
+    ]);
+    const result = await fetchIssuerSource("https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZAPR_20260925.xlsx");
+    const parsed = parseSheet(result.source, { ticker: "ZAPR" });
+    expect(parsed.holdings).toHaveLength(3);
+    expect(parsed.holdings.find((h) => h.t === "CASH.CAD")?.weight).toBeCloseTo(-0.13, 10);
+    expect(parsed.holdings.find((h) => h.t === "733140062 BMOMOOTC PUT OPTIONS")?.weight).toBeCloseTo(-9.36, 10);
+    expect(parsed.holdings.find((h) => h.isin === "US78462F1030")?.weight).toBeCloseTo(109.49, 10);
+    expect(ImportSchema.safeParse({ ...parsed, source: "url" }).success).toBe(true);
+  });
+
+  it("retains physical gold without an ISIN and its cash offset", async () => {
+    workbookResponse([
+      ["Weight (%)", "Name", "ISIN", "Currency"],
+      [100.03, "SPOT PHYSICAL GOLD", "", "USD"],
+      [-0.03, "Cash", "", "CAD"],
+    ]);
+    const result = await fetchIssuerSource("https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGLD_20260925.xlsx");
+    const parsed = parseSheet(result.source, { ticker: "ZGLD" });
+    expect(parsed.holdings.find((h) => h.t === "SPOT PHYSICAL GOLD")?.weight).toBeCloseTo(100.03, 10);
+    expect(parsed.holdings.find((h) => h.t === "CASH.CAD")?.weight).toBeCloseTo(-0.03, 10);
+    expect(parsed.partial).toBe(false);
   });
 });

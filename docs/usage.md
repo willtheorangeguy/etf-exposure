@@ -22,6 +22,8 @@ The calculator uses each selected ETF's latest available holdings date. Open its
 
 A partial snapshot is not scaled to 100%. Reported exposure can be less than your invested amount. The initial XEQT snapshot is marked partial because its positive reported weights total less than 98%.
 
+Small net weight totals above 100%, up to 100.5%, are adjusted proportionally to 100% during import. Larger overruns are rejected. Negative cash and derivative positions are retained; individual positive holdings can exceed 100% when offset by those negative positions.
+
 ## Portfolio privacy
 
 Personal amounts remain in the browser. The site publishes issuer holdings, not your portfolio. Refreshing or closing the page can discard calculator input.

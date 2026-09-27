@@ -5,12 +5,12 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCLN_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "aa658f5cc11df3a5b6d447703d3c5069f540a1f22dde580893efa04fc97ddf5c",
+  "content_hash": "b8b06fdf4d4555870f0600d36b6a4e93b77d6a63284c4d926c01860836e93961",
   "holdings": [
     {
       "t": "112610",
       "n": "CS WIND CORP",
-      "weight": 0.84,
+      "weight": 0.8397480755773267,
       "isin": "KR7112610001",
       "sector": "INDUSTRIALS",
       "mv": 633323.64,
@@ -19,7 +19,7 @@
     {
       "t": "336260",
       "n": "DOOSAN FUEL CELL CO LTD",
-      "weight": 1.34,
+      "weight": 1.3395981205638308,
       "isin": "KR7336260005",
       "sector": "INDUSTRIALS",
       "mv": 1002778.85,
@@ -28,7 +28,7 @@
     {
       "t": "9502",
       "n": "CHUBU ELECTRIC POWER CO INC",
-      "weight": 2.73,
+      "weight": 2.729181245626312,
       "isin": "JP3526600006",
       "sector": "UTILITIES",
       "mv": 2044476.44,
@@ -37,7 +37,7 @@
     {
       "t": "9519",
       "n": "RENOVA INC",
-      "weight": 0.24,
+      "weight": 0.2399280215935219,
       "isin": "JP3981200003",
       "sector": "UTILITIES",
       "mv": 179744.38,
@@ -46,7 +46,7 @@
     {
       "t": "ANE",
       "n": "CORP ACCIONA ENERGIAS RENOVABLES SA",
-      "weight": 0.33,
+      "weight": 0.32990102969109264,
       "isin": "ES0105563003",
       "sector": "UTILITIES",
       "mv": 251212.87,
@@ -55,7 +55,7 @@
     {
       "t": "BE",
       "n": "Bloom Energy Corporation",
-      "weight": 10.06,
+      "weight": 10.05698290512846,
       "isin": "US0937121079",
       "sector": "INDUSTRIALS",
       "mv": 7545931.34,
@@ -64,7 +64,7 @@
     {
       "t": "BEPC",
       "n": "Brookfield Renewable Corporation",
-      "weight": 0.46,
+      "weight": 0.4598620413875837,
       "isin": "CA11285B1085",
       "sector": "UTILITIES",
       "mv": 341393.45,
@@ -73,7 +73,7 @@
     {
       "t": "BRAUREACNOR9",
       "n": "AUREN ENERGIA SA",
-      "weight": 0.43,
+      "weight": 0.42987103868839344,
       "isin": "BRAUREACNOR9",
       "sector": "UTILITIES",
       "mv": 323408.36,
@@ -82,7 +82,7 @@
     {
       "t": "BRCPFEACNOR0",
       "n": "CPFL Energia S.A.",
-      "weight": 0.93,
+      "weight": 0.9297210836748975,
       "isin": "BRCPFEACNOR0",
       "sector": "UTILITIES",
       "mv": 698259.73,
@@ -91,7 +91,7 @@
     {
       "t": "BREGIEACNOR9",
       "n": "ENGIE BRASIL ENERGIA SA",
-      "weight": 0.62,
+      "weight": 0.619814055783265,
       "isin": "BREGIEACNOR9",
       "sector": "UTILITIES",
       "mv": 464035.64,
@@ -100,7 +100,7 @@
     {
       "t": "BRENGICDAM16",
       "n": "ENERGISA S/A",
-      "weight": 1.51,
+      "weight": 1.509547135859242,
       "isin": "BRENGICDAM16",
       "sector": "UTILITIES",
       "mv": 1132615.09,
@@ -109,7 +109,7 @@
     {
       "t": "BREQTLACNOR0",
       "n": "EQUATORIAL SA",
-      "weight": 3.45,
+      "weight": 3.448965310406878,
       "isin": "BREQTLACNOR0",
       "sector": "UTILITIES",
       "mv": 2586359.01,
@@ -118,16 +118,24 @@
     {
       "t": "CA1366351098",
       "n": "Canadian Solar Inc.",
-      "weight": 0.48,
+      "weight": 0.4798560431870438,
       "isin": "CA1366351098",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 358605.51,
       "shares": 23475
     },
     {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.22993102069379184,
+      "sector": "-",
+      "mv": 173798.88,
+      "shares": 1
+    },
+    {
       "t": "CEN",
       "n": "CONTACT ENERGY LTD",
-      "weight": 0.3,
+      "weight": 0.2999100269919024,
       "isin": "NZCENE0001S6",
       "sector": "UTILITIES",
       "mv": 225001.33,
@@ -136,7 +144,7 @@
     {
       "t": "CLP371861061",
       "n": "ENEL AMERICAS SA",
-      "weight": 0.31,
+      "weight": 0.3099070278916325,
       "isin": "CLP371861061",
       "sector": "UTILITIES",
       "mv": 229698,
@@ -145,7 +153,7 @@
     {
       "t": "CNE0000000K1",
       "n": "CECEP SOLAR ENERGY CO LTD",
-      "weight": 0.18,
+      "weight": 0.17994601619514142,
       "isin": "CNE0000000K1",
       "sector": "UTILITIES",
       "mv": 137770.41,
@@ -154,7 +162,7 @@
     {
       "t": "CNE000000271",
       "n": "GREEN DEVELOPMENT ELECTRICITY GROUP OF TIANJIN CO LTD",
-      "weight": 0.17,
+      "weight": 0.16994901529541137,
       "isin": "CNE000000271",
       "sector": "UTILITIES",
       "mv": 127447.29,
@@ -163,7 +171,7 @@
     {
       "t": "CNE0000003H1",
       "n": "NYOCOR CO LTD",
-      "weight": 0.13,
+      "weight": 0.12996101169649105,
       "isin": "CNE0000003H1",
       "sector": "UTILITIES",
       "mv": 96736.45,
@@ -172,7 +180,7 @@
     {
       "t": "CNE000000BQ0",
       "n": "SICHUAN CHUANTOU ENERGY CO LTD",
-      "weight": 0.9,
+      "weight": 0.8997300809757072,
       "isin": "CNE000000BQ0",
       "sector": "UTILITIES",
       "mv": 678306.84,
@@ -181,7 +189,7 @@
     {
       "t": "CNE000000LN6",
       "n": "SHANGHAI AIKO SOLAR ENERGY CO LTD",
-      "weight": 0.26,
+      "weight": 0.2599220233929821,
       "isin": "CNE000000LN6",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 198450.96,
@@ -190,7 +198,7 @@
     {
       "t": "CNE000000SN1",
       "n": "CHONGQING THREE GORGES WATER CONSERVANCY & ELECTRIC POWER CO LTD",
-      "weight": 0.13,
+      "weight": 0.12996101169649105,
       "isin": "CNE000000SN1",
       "sector": "UTILITIES",
       "mv": 97997.9,
@@ -199,7 +207,7 @@
     {
       "t": "CNE0000011Y9",
       "n": "GUANGXI GUIGUAN ELECTRIC POWER CO LTD",
-      "weight": 0.42,
+      "weight": 0.41987403778866333,
       "isin": "CNE0000011Y9",
       "sector": "UTILITIES",
       "mv": 312547,
@@ -208,7 +216,7 @@
     {
       "t": "CNE0000014Z0",
       "n": "SICHUAN NEW ENERGY POWER CO LTD",
-      "weight": 0.23,
+      "weight": 0.22993102069379184,
       "isin": "CNE0000014Z0",
       "sector": "UTILITIES",
       "mv": 172314.18,
@@ -217,7 +225,7 @@
     {
       "t": "CNE000001G87",
       "n": "CHINA YANGTZE POWER CO LTD",
-      "weight": 7.93,
+      "weight": 7.927621713485953,
       "isin": "CNE000001G87",
       "sector": "UTILITIES",
       "mv": 5947430.03,
@@ -226,7 +234,7 @@
     {
       "t": "CNE000001JD9",
       "n": "YUNNAN WENSHAN ELECTRIC POWER CO LTD",
-      "weight": 0.43,
+      "weight": 0.42987103868839344,
       "isin": "CNE000001JD9",
       "sector": "UTILITIES",
       "mv": 324615.9,
@@ -235,7 +243,7 @@
     {
       "t": "CNE1000000B8",
       "n": "TCL ZHONGHUAN RENEWABLE ENERGY TECHNOLOGY CO LTD",
-      "weight": 0.43,
+      "weight": 0.42987103868839344,
       "isin": "CNE1000000B8",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 321799.49,
@@ -244,7 +252,7 @@
     {
       "t": "CNE100000HD4",
       "n": "CHINA LONGYUAN POWER GROUP CORP LTD",
-      "weight": 1.19,
+      "weight": 1.1896431070678795,
       "isin": "CNE100000HD4",
       "sector": "UTILITIES",
       "mv": 894227.63,
@@ -253,7 +261,7 @@
     {
       "t": "CNE100000PP1",
       "n": "GOLDWIND SCIENCE & TECHNOLOGY CO LTD",
-      "weight": 0.82,
+      "weight": 0.8197540737778665,
       "isin": "CNE100000PP1",
       "sector": "INDUSTRIALS",
       "mv": 616456.95,
@@ -262,7 +270,7 @@
     {
       "t": "CNE100000SD1",
       "n": "JA SOLAR TECHNOLOGY CO LTD",
-      "weight": 0.25,
+      "weight": 0.249925022493252,
       "isin": "CNE100000SD1",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 188500.92,
@@ -271,7 +279,7 @@
     {
       "t": "CNE100000T73",
       "n": "RISEN ENERGY CO LTD",
-      "weight": 0.12,
+      "weight": 0.11996401079676094,
       "isin": "CNE100000T73",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 87108.5,
@@ -280,7 +288,7 @@
     {
       "t": "CNE100000VV7",
       "n": "DAJIN HEAVY INDUSTRY CO LTD",
-      "weight": 0.29,
+      "weight": 0.2899130260921723,
       "isin": "CNE100000VV7",
       "sector": "INDUSTRIALS",
       "mv": 215276.63,
@@ -289,7 +297,7 @@
     {
       "t": "CNE100000WL6",
       "n": "CECEP ENVIRONMENTAL PROTECTION CO LTD",
-      "weight": 0.14,
+      "weight": 0.13995801259622112,
       "isin": "CNE100000WL6",
       "sector": "INDUSTRIALS",
       "mv": 103838.11,
@@ -298,7 +306,7 @@
     {
       "t": "CNE100000WW3",
       "n": "GCL SYSTEM INTEGRATION TECHNOLOGY CO LTD",
-      "weight": 0.16,
+      "weight": 0.15995201439568127,
       "isin": "CNE100000WW3",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 117555.45,
@@ -307,7 +315,7 @@
     {
       "t": "CNE100000X69",
       "n": "CHINA DATANG CORP RENEWABLE POWER CO LTD",
-      "weight": 0.11,
+      "weight": 0.10996700989703087,
       "isin": "CNE100000X69",
       "sector": "UTILITIES",
       "mv": 79820.68,
@@ -316,7 +324,7 @@
     {
       "t": "CNE100000YH0",
       "n": "TITAN WIND ENERGY SUZHOU CO LTD",
-      "weight": 0.15,
+      "weight": 0.1499550134959512,
       "isin": "CNE100000YH0",
       "sector": "INDUSTRIALS",
       "mv": 113451.3,
@@ -325,7 +333,7 @@
     {
       "t": "CNE100001FR6",
       "n": "LONGI GREEN ENERGY TECHNOLOGY CO LTD",
-      "weight": 0.96,
+      "weight": 0.9597120863740876,
       "isin": "CNE100001FR6",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 723545.62,
@@ -334,7 +342,7 @@
     {
       "t": "CNE100001T15",
       "n": "CECEP WIND-POWER CORP",
-      "weight": 0.24,
+      "weight": 0.2399280215935219,
       "isin": "CNE100001T15",
       "sector": "UTILITIES",
       "mv": 180678.35,
@@ -343,7 +351,7 @@
     {
       "t": "CNE100001Z66",
       "n": "JINLEI TECHNOLOGY CO LTD",
-      "weight": 0.07,
+      "weight": 0.06997900629811056,
       "isin": "CNE100001Z66",
       "sector": "INDUSTRIALS",
       "mv": 54446.36,
@@ -352,7 +360,7 @@
     {
       "t": "CNE1000021Q2",
       "n": "JOLYWOOD SUZHOU SUNWATT CO LTD",
-      "weight": 0.07,
+      "weight": 0.06997900629811056,
       "isin": "CNE1000021Q2",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 55379.32,
@@ -361,7 +369,7 @@
     {
       "t": "CNE100002QL4",
       "n": "HAINAN DRINDA NEW ENERGY TECHNOLOGY CO LTD",
-      "weight": 0.1,
+      "weight": 0.0999700089973008,
       "isin": "CNE100002QL4",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 73447.96,
@@ -370,7 +378,7 @@
     {
       "t": "CNE100002T71",
       "n": "HUANENG LANCANG RIVER HYDROPOWER INC",
-      "weight": 1.04,
+      "weight": 1.0396880935719284,
       "isin": "CNE100002T71",
       "sector": "UTILITIES",
       "mv": 783506.6,
@@ -379,7 +387,7 @@
     {
       "t": "CNE100002WN8",
       "n": "JIAZE RENEWABLES CO LTD",
-      "weight": 0.13,
+      "weight": 0.12996101169649105,
       "isin": "CNE100002WN8",
       "sector": "UTILITIES",
       "mv": 96763.66,
@@ -388,7 +396,7 @@
     {
       "t": "CNE100003FS0",
       "n": "SUZHOU MAXWELL TECHNOLOGIES CO LTD",
-      "weight": 0.63,
+      "weight": 0.629811056682995,
       "isin": "CNE100003FS0",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 473003.8,
@@ -397,7 +405,7 @@
     {
       "t": "CNE100003G91",
       "n": "SHENZHEN SC NEW ENERGY TECHNOLOGY CORP",
-      "weight": 0.22,
+      "weight": 0.21993401979406174,
       "isin": "CNE100003G91",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 165522.66,
@@ -406,7 +414,7 @@
     {
       "t": "CNE100003HQ0",
       "n": "MING YANG SMART ENERGY GROUP LTD",
-      "weight": 0.25,
+      "weight": 0.249925022493252,
       "isin": "CNE100003HQ0",
       "sector": "INDUSTRIALS",
       "mv": 185109.77,
@@ -415,7 +423,7 @@
     {
       "t": "CNE100003JZ7",
       "n": "GINLONG TECHNOLOGIES CO LTD",
-      "weight": 0.24,
+      "weight": 0.2399280215935219,
       "isin": "CNE100003JZ7",
       "sector": "INDUSTRIALS",
       "mv": 179669.27,
@@ -424,7 +432,7 @@
     {
       "t": "CNE100003KD2",
       "n": "WINDEY ENERGY TECHNOLOGY GROUP CO LTD",
-      "weight": 0.08,
+      "weight": 0.07997600719784063,
       "isin": "CNE100003KD2",
       "sector": "INDUSTRIALS",
       "mv": 63267.07,
@@ -433,7 +441,7 @@
     {
       "t": "CNE100003ZR0",
       "n": "TRINA SOLAR CO LTD",
-      "weight": 0.29,
+      "weight": 0.2899130260921723,
       "isin": "CNE100003ZR0",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 216564.79,
@@ -442,7 +450,7 @@
     {
       "t": "CNE100004017",
       "n": "WUXI AUTOWELL TECHNOLOGY CO LTD",
-      "weight": 0.16,
+      "weight": 0.15995201439568127,
       "isin": "CNE100004017",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 117533.52,
@@ -451,7 +459,7 @@
     {
       "t": "CNE100004363",
       "n": "GOODWE TECHNOLOGIES CO LTD",
-      "weight": 0.16,
+      "weight": 0.15995201439568127,
       "isin": "CNE100004363",
       "sector": "INDUSTRIALS",
       "mv": 117256.85,
@@ -460,7 +468,7 @@
     {
       "t": "CNE100004YQ3",
       "n": "JIANGSU HAILI WIND POWER EQUIPMENT TECHNOLOGY CO LTD",
-      "weight": 0.11,
+      "weight": 0.10996700989703087,
       "isin": "CNE100004YQ3",
       "sector": "INDUSTRIALS",
       "mv": 79772.98,
@@ -469,7 +477,7 @@
     {
       "t": "CNE1000051F2",
       "n": "CHINA THREE GORGES RENEWABLES GROUP CO LTD",
-      "weight": 1.19,
+      "weight": 1.1896431070678795,
       "isin": "CNE1000051F2",
       "sector": "UTILITIES",
       "mv": 890324.96,
@@ -478,7 +486,7 @@
     {
       "t": "CNE1000051S5",
       "n": "ZHEJIANG PROVINCIAL NEW ENERGY INVESTMENT GROUP CO LTD",
-      "weight": 0.14,
+      "weight": 0.13995801259622112,
       "isin": "CNE1000051S5",
       "sector": "UTILITIES",
       "mv": 103471.76,
@@ -487,7 +495,7 @@
     {
       "t": "CNE1000055R8",
       "n": "HOYMILES POWER ELECTRONICS INC",
-      "weight": 0.1,
+      "weight": 0.0999700089973008,
       "isin": "CNE1000055R8",
       "sector": "INDUSTRIALS",
       "mv": 72231.59,
@@ -496,7 +504,7 @@
     {
       "t": "CNE100005QJ1",
       "n": "SANY RENEWABLE ENERGY CO LTD",
-      "weight": 0.15,
+      "weight": 0.1499550134959512,
       "isin": "CNE100005QJ1",
       "sector": "INDUSTRIALS",
       "mv": 109402.96,
@@ -505,7 +513,7 @@
     {
       "t": "CNE100005R96",
       "n": "JINKO SOLAR CO LTD",
-      "weight": 0.44,
+      "weight": 0.4398680395881235,
       "isin": "CNE100005R96",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 330587.2,
@@ -514,7 +522,7 @@
     {
       "t": "CNE100006KH6",
       "n": "CSI SOLAR CO LTD",
-      "weight": 0.35,
+      "weight": 0.3498950314905528,
       "isin": "CNE100006KH6",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 260534.25,
@@ -523,7 +531,7 @@
     {
       "t": "CWEN",
       "n": "Clearway Energy, Inc.",
-      "weight": 1.86,
+      "weight": 1.859442167349795,
       "isin": "US18539C2044",
       "sector": "UTILITIES",
       "mv": 1396475.57,
@@ -532,7 +540,7 @@
     {
       "t": "DORL",
       "n": "DORAL GROUP RENEWABLE ENERGY RESOURCES LTD",
-      "weight": 0.49,
+      "weight": 0.4898530440867739,
       "isin": "IL0011667685",
       "sector": "UTILITIES",
       "mv": 365504.97,
@@ -541,7 +549,7 @@
     {
       "t": "EDP",
       "n": "EDP SA",
-      "weight": 3,
+      "weight": 2.999100269919024,
       "isin": "PTEDP0AM0009",
       "sector": "UTILITIES",
       "mv": 2250563.53,
@@ -550,7 +558,7 @@
     {
       "t": "EDPR",
       "n": "EDP RENEWABLES SA",
-      "weight": 0.82,
+      "weight": 0.8197540737778665,
       "isin": "ES0127797019",
       "sector": "UTILITIES",
       "mv": 611578.68,
@@ -559,7 +567,7 @@
     {
       "t": "ENLT",
       "n": "ENLIGHT RENEWABLE ENERGY LTD",
-      "weight": 1.86,
+      "weight": 1.859442167349795,
       "isin": "IL0007200111",
       "sector": "UTILITIES",
       "mv": 1394034.78,
@@ -568,7 +576,7 @@
     {
       "t": "ENRG",
       "n": "ENERGIX-RENEWABLE ENERGIES LTD",
-      "weight": 0.27,
+      "weight": 0.2699190242927122,
       "isin": "IL0011233553",
       "sector": "UTILITIES",
       "mv": 200454.02,
@@ -577,7 +585,7 @@
     {
       "t": "ERG",
       "n": "ERG S.p.A.",
-      "weight": 0.38,
+      "weight": 0.37988603418974304,
       "isin": "IT0001157020",
       "sector": "UTILITIES",
       "mv": 287626.59,
@@ -586,7 +594,7 @@
     {
       "t": "FSLR",
       "n": "First Solar, Inc.",
-      "weight": 7.03,
+      "weight": 7.027891632510246,
       "isin": "US3364331070",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 5270305.16,
@@ -595,7 +603,7 @@
     {
       "t": "GB00BG5KQW09",
       "n": "CERES POWER HOLDINGS PLC",
-      "weight": 0.66,
+      "weight": 0.6598020593821853,
       "isin": "GB00BG5KQW09",
       "sector": "INDUSTRIALS",
       "mv": 495392.7,
@@ -604,7 +612,7 @@
     {
       "t": "GB00BNQMPN80",
       "n": "ReNew Energy Global Plc",
-      "weight": 0.26,
+      "weight": 0.2599220233929821,
       "isin": "GB00BNQMPN80",
       "sector": "UTILITIES",
       "mv": 198730.85,
@@ -613,7 +621,7 @@
     {
       "t": "GPRE",
       "n": "Green Plains Inc.",
-      "weight": 1,
+      "weight": 0.999700089973008,
       "isin": "US3932221043",
       "sector": "ENERGY",
       "mv": 747932.48,
@@ -622,7 +630,7 @@
     {
       "t": "ID1000198500",
       "n": "BARITO RENEWABLES ENERGY TBK PT",
-      "weight": 0.4,
+      "weight": 0.3998800359892032,
       "isin": "ID1000198500",
       "sector": "UTILITIES",
       "mv": 296826.8,
@@ -631,7 +639,7 @@
     {
       "t": "INE002L01015",
       "n": "SJVN LTD",
-      "weight": 0.17,
+      "weight": 0.16994901529541137,
       "isin": "INE002L01015",
       "sector": "UTILITIES",
       "mv": 129521.35,
@@ -640,7 +648,7 @@
     {
       "t": "INE040H01021",
       "n": "SUZLON ENERGY LTD",
-      "weight": 1.79,
+      "weight": 1.7894631610516842,
       "isin": "INE040H01021",
       "sector": "INDUSTRIALS",
       "mv": 1340006.31,
@@ -649,7 +657,7 @@
     {
       "t": "INE066P01011",
       "n": "INOX WIND LTD",
-      "weight": 0.56,
+      "weight": 0.5598320503848845,
       "isin": "INE066P01011",
       "sector": "INDUSTRIALS",
       "mv": 421735.06,
@@ -658,7 +666,7 @@
     {
       "t": "INE0BS701011",
       "n": "PREMIER ENERGIES LTD",
-      "weight": 0.72,
+      "weight": 0.7197840647805657,
       "isin": "INE0BS701011",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 539852.42,
@@ -667,7 +675,7 @@
     {
       "t": "INE0ONG01011",
       "n": "NTPC GREEN ENERGY LTD",
-      "weight": 0.27,
+      "weight": 0.2699190242927122,
       "isin": "INE0ONG01011",
       "sector": "UTILITIES",
       "mv": 205487.35,
@@ -676,7 +684,7 @@
     {
       "t": "INE377N01017",
       "n": "WAAREE ENERGIES LTD",
-      "weight": 0.79,
+      "weight": 0.7897630710786764,
       "isin": "INE377N01017",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 593899.7,
@@ -685,7 +693,7 @@
     {
       "t": "INE848E01016",
       "n": "NHPC LTD",
-      "weight": 0.75,
+      "weight": 0.749775067479756,
       "isin": "INE848E01016",
       "sector": "UTILITIES",
       "mv": 560123.3,
@@ -694,7 +702,7 @@
     {
       "t": "MEL",
       "n": "MERIDIAN ENERGY LTD",
-      "weight": 0.21,
+      "weight": 0.20993701889433167,
       "isin": "NZMELE0002S7",
       "sector": "UTILITIES",
       "mv": 159233.93,
@@ -703,7 +711,7 @@
     {
       "t": "NDX1",
       "n": "NORDEX SE",
-      "weight": 1.53,
+      "weight": 1.5295411376587023,
       "isin": "DE000A0D6554",
       "sector": "INDUSTRIALS",
       "mv": 1146216.57,
@@ -712,7 +720,7 @@
     {
       "t": "NOFR",
       "n": "OY NOFAR ENERGY LTD",
-      "weight": 0.25,
+      "weight": 0.249925022493252,
       "isin": "IL0011708778",
       "sector": "UTILITIES",
       "mv": 189252.07,
@@ -721,7 +729,7 @@
     {
       "t": "NXT",
       "n": "Nextracker Inc.",
-      "weight": 6.53,
+      "weight": 6.5280415875237425,
       "isin": "US65290E1010",
       "sector": "INDUSTRIALS",
       "mv": 4900481.12,
@@ -730,7 +738,7 @@
     {
       "t": "ORSTED",
       "n": "ORSTED AS",
-      "weight": 1.58,
+      "weight": 1.5795261421573528,
       "isin": "DK0060094928",
       "sector": "UTILITIES",
       "mv": 1186536.56,
@@ -739,7 +747,7 @@
     {
       "t": "PLUG",
       "n": "Plug Power Inc.",
-      "weight": 2.66,
+      "weight": 2.6592022393282013,
       "isin": "US72919P2020",
       "sector": "INDUSTRIALS",
       "mv": 1995337.32,
@@ -748,7 +756,7 @@
     {
       "t": "REX",
       "n": "REX American Resources Corporation",
-      "weight": 0.36,
+      "weight": 0.35989203239028283,
       "isin": "US7616241052",
       "sector": "ENERGY",
       "mv": 273526,
@@ -757,7 +765,7 @@
     {
       "t": "S92",
       "n": "SMA SOLAR TECHNOLOGY AG",
-      "weight": 0.38,
+      "weight": 0.37988603418974304,
       "isin": "DE000A0DJ6J9",
       "sector": "INDUSTRIALS",
       "mv": 286544.13,
@@ -766,7 +774,7 @@
     {
       "t": "SLR",
       "n": "SOLARIA ENERGIA Y MEDIO AMBIENTE SA",
-      "weight": 1.06,
+      "weight": 1.0596820953713886,
       "isin": "ES0165386014",
       "sector": "UTILITIES",
       "mv": 797435.58,
@@ -775,7 +783,7 @@
     {
       "t": "TE",
       "n": "T1 Energy Inc.",
-      "weight": 0.77,
+      "weight": 0.7697690692792162,
       "isin": "US35834F1049",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 574515.81,
@@ -784,7 +792,7 @@
     {
       "t": "TH3545010011",
       "n": "ENERGY ABSOLUTE PCL",
-      "weight": 0.24,
+      "weight": 0.2399280215935219,
       "isin": "TH3545010011",
       "sector": "UTILITIES",
       "mv": 183287.16,
@@ -793,7 +801,7 @@
     {
       "t": "TRAZOREN91L8",
       "n": "ZORLU ENERJI ELEKTRIK URETIM AS",
-      "weight": 0.08,
+      "weight": 0.07997600719784063,
       "isin": "TRAZOREN91L8",
       "sector": "UTILITIES",
       "mv": 56766.53,
@@ -802,7 +810,7 @@
     {
       "t": "TRECWEN00012",
       "n": "CW ENERJI MUHENDISLIK TICARET VE SANAYI AS",
-      "weight": 0.13,
+      "weight": 0.12996101169649105,
       "isin": "TRECWEN00012",
       "sector": "INDUSTRIALS",
       "mv": 100844.86,
@@ -811,7 +819,7 @@
     {
       "t": "TREMARN00027",
       "n": "MARGUN ENERJI URETIM SANAYI VE TICARET AS",
-      "weight": 0.23,
+      "weight": 0.22993102069379184,
       "isin": "TREMARN00027",
       "sector": "UTILITIES",
       "mv": 169916.42,
@@ -820,7 +828,7 @@
     {
       "t": "TW0003576005",
       "n": "UNITED RENEWABLE ENERGY CO LTD/TAIWAN",
-      "weight": 0.8,
+      "weight": 0.7997600719784064,
       "isin": "TW0003576005",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 601017.14,
@@ -829,7 +837,7 @@
     {
       "t": "TW0006244007",
       "n": "MOTECH INDUSTRIES INC",
-      "weight": 0.27,
+      "weight": 0.2699190242927122,
       "isin": "TW0006244007",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 205153.03,
@@ -838,7 +846,7 @@
     {
       "t": "TW0006443005",
       "n": "TSEC CORP",
-      "weight": 0.43,
+      "weight": 0.42987103868839344,
       "isin": "TW0006443005",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 326222.92,
@@ -847,7 +855,7 @@
     {
       "t": "TW0009958009",
       "n": "CENTURY IRON & STEEL INDUSTRIAL CO LTD",
-      "weight": 0.28,
+      "weight": 0.27991602519244224,
       "isin": "TW0009958009",
       "sector": "MATERIALS",
       "mv": 213396.09,
@@ -856,7 +864,7 @@
     {
       "t": "US04271T1007",
       "n": "Array Technologies, Inc.",
-      "weight": 0.59,
+      "weight": 0.5898230530840747,
       "isin": "US04271T1007",
       "sector": "INDUSTRIALS",
       "mv": 445211.04,
@@ -865,7 +873,7 @@
     {
       "t": "US29355A1079",
       "n": "Enphase Energy, Inc.",
-      "weight": 4.11,
+      "weight": 4.108767369789063,
       "isin": "US29355A1079",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 3080982.71,
@@ -874,7 +882,7 @@
     {
       "t": "US47759T1007",
       "n": "JinkoSolar Holding Co., Ltd.",
-      "weight": 0.29,
+      "weight": 0.2899130260921723,
       "isin": "US47759T1007",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 215096.01,
@@ -883,7 +891,7 @@
     {
       "t": "US82489W1071",
       "n": "Shoals Technologies Group, Inc.",
-      "weight": 1.21,
+      "weight": 1.2096371088673397,
       "isin": "US82489W1071",
       "sector": "INDUSTRIALS",
       "mv": 906811.36,
@@ -892,7 +900,7 @@
     {
       "t": "US83417M1045",
       "n": "SOLAREDGE TECHNOLOGIES INC",
-      "weight": 1.92,
+      "weight": 1.9194241727481751,
       "isin": "US83417M1045",
       "sector": "INFORMATION TECHNOLOGY",
       "mv": 1437665.88,
@@ -901,7 +909,7 @@
     {
       "t": "VBK",
       "n": "VERBIO SE",
-      "weight": 0.34,
+      "weight": 0.33989803059082274,
       "isin": "DE000A0JL9W6",
       "sector": "ENERGY",
       "mv": 252263.46,
@@ -910,7 +918,7 @@
     {
       "t": "VER",
       "n": "VERBUND AG",
-      "weight": 0.63,
+      "weight": 0.629811056682995,
       "isin": "AT0000746409",
       "sector": "UTILITIES",
       "mv": 469039.74,
@@ -919,7 +927,7 @@
     {
       "t": "VWS",
       "n": "VESTAS WIND SYSTEMS A/S",
-      "weight": 4.25,
+      "weight": 4.248725382385284,
       "isin": "DK0061539921",
       "sector": "Industrials",
       "mv": 3184622.96,

@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEB_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "a66472da4dcbeb9cd36c186a353c34f07fcf88af2532cc305db406b92a82a716",
+  "content_hash": "d306eff1750ec06aceb27c1ee317efcc75d7a8756d8aa13ecfb206310fdb347e",
   "holdings": [
     {
       "t": "BMO",
@@ -24,6 +24,14 @@
       "sector": "FINANCIALS",
       "mv": 1321340127.9,
       "shares": 9984435
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.06,
+      "sector": "-",
+      "mv": -4667809.12,
+      "shares": 1
     },
     {
       "t": "CM",

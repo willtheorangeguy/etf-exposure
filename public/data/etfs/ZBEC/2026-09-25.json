@@ -5,7 +5,7 @@
   "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBEC_20260925.xlsx",
   "created_at": "2026-09-27T03:16:16.962Z",
   "partial": false,
-  "content_hash": "7d212dd9ec7ceac145e2828450dab2d02514c79d0fbeca3e2580ed2e8e135c05",
+  "content_hash": "b0ddb6b9f8aaddba0897d70b4ad248be947a5f931ce55d4c62a99e16f820b237",
   "holdings": [
     {
       "t": "AAPL",
@@ -105,6 +105,14 @@
       "sector": "MATERIALS",
       "mv": 813863.28,
       "shares": 8648
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 1.31,
+      "sector": "-",
+      "mv": 1229064.31,
+      "shares": 1
     },
     {
       "t": "CCO",

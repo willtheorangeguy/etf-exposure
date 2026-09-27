@@ -5,6 +5,7 @@ import { cleanNumber, normalizeName, cleanTicker, extractAsOf, todayISO } from "
 import { xlsxRows } from "./xlsx";
 import { csvRows } from "./csv";
 import { extractTable } from "./html";
+import { holdingsTotal, MAX_HOLDINGS_TOTAL, normalizeWeightRounding, WEIGHT_SUM_EPSILON } from "../holding-weights";
 
 export class ParseError extends Error {
   constructor(message: string, public details?: unknown) {
@@ -133,16 +134,16 @@ export function parseSheet(src: ParseSource, ctx: ParseContext = {}): ParsedShee
         })();
 
   if (result.holdings.length < 1) throw new ParseError("no valid holdings rows extracted");
-  const weightTotal = result.holdings.reduce((sum, h) => sum + h.weight, 0);
-  if (result.holdings.some((h) => h.weight > 100) || weightTotal > 105) {
-    throw new ParseError("Holdings weights exceed 100%. Check the weight column and percentage format.");
+  const weightTotal = holdingsTotal(result.holdings);
+  if (!Number.isFinite(weightTotal) || weightTotal > MAX_HOLDINGS_TOTAL + WEIGHT_SUM_EPSILON) {
+    throw new ParseError(`Holdings total ${weightTotal.toFixed(4)}% exceeds the 100.5% rounding limit. Check for missing offsets, repeated tables, or incompatible weights.`);
   }
 
   const detectedDate = ctx.asOf ?? extractAsOf(ctx.bannerText ?? result.banner);
   const asOf = detectedDate ?? todayISO();
-  const holdingsSorted = result.holdings
+  const holdingsSorted = normalizeWeightRounding(result.holdings
     .map((h) => ({ ...h, t: h.t, n: h.n }))
-    .sort((a, b) => a.t.localeCompare(b.t));
+    .sort((a, b) => a.t.localeCompare(b.t)));
   const contentHash = createHash("sha256").update(JSON.stringify(holdingsSorted)).digest("hex");
 
   const combined = `${result.header}\n${result.banner}`;
