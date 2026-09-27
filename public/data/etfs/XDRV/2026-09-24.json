@@ -1,0 +1,419 @@
+{
+  "id": 1,
+  "as_of_date": "2026-09-24",
+  "source": "url",
+  "source_url": "https://www.blackrock.com/ca/investors/en/products/330880/fund/1464253357814.ajax?fileType=csv&fileName=XDRV_holdings&dataType=fund",
+  "created_at": "2026-09-27T11:42:45.577Z",
+  "partial": false,
+  "content_hash": "f797dde06c0afd973ea65cd45731608dac42015708a5703563c608fee153f827",
+  "holdings": [
+    {
+      "t": "1211",
+      "n": "BYD H",
+      "weight": 2.94,
+      "sector": "Consumer Discretionary",
+      "mv": 167682.58,
+      "shares": 11700
+    },
+    {
+      "t": "1316",
+      "n": "NEXTEER AUTOMOTIVE GROUP LTD",
+      "weight": 0.13,
+      "sector": "Consumer Discretionary",
+      "mv": 7617.51,
+      "shares": 9000
+    },
+    {
+      "t": "1585",
+      "n": "YADEA GROUP HOLDINGS",
+      "weight": 0.32,
+      "sector": "Consumer Discretionary",
+      "mv": 17966.18,
+      "shares": 12000
+    },
+    {
+      "t": "1772",
+      "n": "GANFENG LITHIUM LTD H",
+      "weight": 0.4,
+      "sector": "Materials",
+      "mv": 22656.93,
+      "shares": 4000
+    },
+    {
+      "t": "1810",
+      "n": "XIAOMI",
+      "weight": 2.29,
+      "sector": "Information Technology",
+      "mv": 130334.34,
+      "shares": 27200
+    },
+    {
+      "t": "2015",
+      "n": "LI AUTO CLASS A",
+      "weight": 1.85,
+      "sector": "Consumer Discretionary",
+      "mv": 105370.61,
+      "shares": 12500
+    },
+    {
+      "t": "2382",
+      "n": "SUNNY OPTICAL TECHNOLOGY LTD",
+      "weight": 1.44,
+      "sector": "Information Technology",
+      "mv": 82277.41,
+      "shares": 7000
+    },
+    {
+      "t": "2498",
+      "n": "ROBOSENSE TECHNOLOGY LTD",
+      "weight": 0.18,
+      "sector": "Information Technology",
+      "mv": 10253.13,
+      "shares": 3500
+    },
+    {
+      "t": "2525",
+      "n": "HESAI GROUP CLASS B",
+      "weight": 0.42,
+      "sector": "Consumer Discretionary",
+      "mv": 24178.16,
+      "shares": 8320
+    },
+    {
+      "t": "2533",
+      "n": "BLACK SESAME INTERNATIONAL HOLDING",
+      "weight": 0.13,
+      "sector": "Information Technology",
+      "mv": 7369.63,
+      "shares": 4000
+    },
+    {
+      "t": "3750",
+      "n": "CONTEMPORARY AMPEREX TECHNOLOGY CL",
+      "weight": 2.18,
+      "sector": "Industrials",
+      "mv": 124375.17,
+      "shares": 1400
+    },
+    {
+      "t": "3931",
+      "n": "CALB CLASS H LTD H",
+      "weight": 0.27,
+      "sector": "Consumer Discretionary",
+      "mv": 15591.06,
+      "shares": 4900
+    },
+    {
+      "t": "666",
+      "n": "REPT BATTERO ENERGY H",
+      "weight": 0.15,
+      "sector": "Industrials",
+      "mv": 8823.37,
+      "shares": 5600
+    },
+    {
+      "t": "6723",
+      "n": "RENESAS ELECTRONICS CORP",
+      "weight": 6.05,
+      "sector": "Information Technology",
+      "mv": 344689.33,
+      "shares": 11100
+    },
+    {
+      "t": "6976",
+      "n": "TAIYO YUDEN LTD",
+      "weight": 1.53,
+      "sector": "Information Technology",
+      "mv": 87451.38,
+      "shares": 1100
+    },
+    {
+      "t": "6981",
+      "n": "MURATA MANUFACTURING",
+      "weight": 8.43,
+      "sector": "Information Technology",
+      "mv": 480288.14,
+      "shares": 6900
+    },
+    {
+      "t": "9660",
+      "n": "HORIZON ROBOTICS",
+      "weight": 1.08,
+      "sector": "Information Technology",
+      "mv": 61796.75,
+      "shares": 82800
+    },
+    {
+      "t": "9696",
+      "n": "TIANQI LITHIUM CLASS H H",
+      "weight": 0.13,
+      "sector": "Materials",
+      "mv": 7369.63,
+      "shares": 1400
+    },
+    {
+      "t": "9863",
+      "n": "ZHEJIANG LEAPMOTOR TECHNOLOGY LTD",
+      "weight": 0.85,
+      "sector": "Consumer Discretionary",
+      "mv": 48720.34,
+      "shares": 7600
+    },
+    {
+      "t": "9866",
+      "n": "NIO CLASS A",
+      "weight": 1.9,
+      "sector": "Consumer Discretionary",
+      "mv": 108283.85,
+      "shares": 21150
+    },
+    {
+      "t": "9868",
+      "n": "XPENG CLASS A INC",
+      "weight": 1.88,
+      "sector": "Consumer Discretionary",
+      "mv": 107309.64,
+      "shares": 14800
+    },
+    {
+      "t": "ACHR",
+      "n": "ARCHER AVIATION CLASS A",
+      "weight": 0.72,
+      "sector": "Industrials",
+      "mv": 41132.36,
+      "shares": 5095
+    },
+    {
+      "t": "ADI",
+      "n": "ANALOG DEVICES",
+      "weight": 5.09,
+      "sector": "Information Technology",
+      "mv": 289950.89,
+      "shares": 536
+    },
+    {
+      "t": "ALB",
+      "n": "ALBEMARLE CORP",
+      "weight": 3.15,
+      "sector": "Materials",
+      "mv": 179373.74,
+      "shares": 1172
+    },
+    {
+      "t": "APTV",
+      "n": "APTIV PLC",
+      "weight": 2.09,
+      "sector": "Consumer Discretionary",
+      "mv": 119164.54,
+      "shares": 1934
+    },
+    {
+      "t": "AUD",
+      "n": "AUD CASH",
+      "weight": 0.07,
+      "sector": "Cash and/or Derivatives",
+      "mv": 4189.78,
+      "shares": 4220
+    },
+    {
+      "t": "AUR",
+      "n": "AURORA INNOVATION CLASS A",
+      "weight": 1.81,
+      "sector": "Information Technology",
+      "mv": 103097.91,
+      "shares": 12033
+    },
+    {
+      "t": "AVAV",
+      "n": "AEROVIRONMENT",
+      "weight": 1.63,
+      "sector": "Industrials",
+      "mv": 92804.69,
+      "shares": 414
+    },
+    {
+      "t": "CAD",
+      "n": "CAD CASH",
+      "weight": -0.01,
+      "sector": "Cash and/or Derivatives",
+      "mv": -546.3,
+      "shares": -546
+    },
+    {
+      "t": "EUR",
+      "n": "EUR CASH",
+      "weight": 0.01,
+      "sector": "Cash and/or Derivatives",
+      "mv": 768.32,
+      "shares": 478
+    },
+    {
+      "t": "FR",
+      "n": "VALEO",
+      "weight": 0.89,
+      "sector": "Consumer Discretionary",
+      "mv": 50984.18,
+      "shares": 2185
+    },
+    {
+      "t": "HKD",
+      "n": "HKD CASH",
+      "weight": 0.04,
+      "sector": "Cash and/or Derivatives",
+      "mv": 2262.1,
+      "shares": 12548
+    },
+    {
+      "t": "IFX",
+      "n": "INFINEON TECHNOLOGIES AG",
+      "weight": 5.41,
+      "sector": "Information Technology",
+      "mv": 308601.48,
+      "shares": 3411
+    },
+    {
+      "t": "IGO",
+      "n": "IGO",
+      "weight": 0.85,
+      "sector": "Materials",
+      "mv": 48448.24,
+      "shares": 7284
+    },
+    {
+      "t": "JOBY",
+      "n": "JOBY AVIATION CLASS A",
+      "weight": 1,
+      "sector": "Industrials",
+      "mv": 56890.64,
+      "shares": 6387
+    },
+    {
+      "t": "LAC",
+      "n": "LITHIUM AMERICAS",
+      "weight": 0.21,
+      "sector": "Materials",
+      "mv": 11804,
+      "shares": 2951
+    },
+    {
+      "t": "MELE",
+      "n": "MELEXIS NV",
+      "weight": 0.38,
+      "sector": "Information Technology",
+      "mv": 21666.75,
+      "shares": 202
+    },
+    {
+      "t": "MIN",
+      "n": "MINERAL RESOURCES",
+      "weight": 1.61,
+      "sector": "Materials",
+      "mv": 91974.69,
+      "shares": 1710
+    },
+    {
+      "t": "NXPI",
+      "n": "NXP SEMICONDUCTORS NV",
+      "weight": 3.72,
+      "sector": "Information Technology",
+      "mv": 212168.44,
+      "shares": 652
+    },
+    {
+      "t": "ON",
+      "n": "ON SEMICONDUCTOR CORP",
+      "weight": 4.79,
+      "sector": "Information Technology",
+      "mv": 273243.9,
+      "shares": 2642
+    },
+    {
+      "t": "PLS",
+      "n": "PLS GROUP LTD",
+      "weight": 2.46,
+      "sector": "Materials",
+      "mv": 140359.69,
+      "shares": 35885
+    },
+    {
+      "t": "RIVN",
+      "n": "RIVIAN AUTOMOTIVE INC CLASS A",
+      "weight": 3.4,
+      "sector": "Consumer Discretionary",
+      "mv": 193565.48,
+      "shares": 8954
+    },
+    {
+      "t": "S63",
+      "n": "SINGAPORE TECHNOLOGIES ENGINEERING",
+      "weight": 3.72,
+      "sector": "Industrials",
+      "mv": 212239.81,
+      "shares": 17700
+    },
+    {
+      "t": "SGD",
+      "n": "SGD CASH",
+      "weight": 0.04,
+      "sector": "Cash and/or Derivatives",
+      "mv": 2198.69,
+      "shares": 1991
+    },
+    {
+      "t": "ST",
+      "n": "SENSATA TECHNOLOGIES HOLDING PLC",
+      "weight": 1.55,
+      "sector": "Industrials",
+      "mv": 88588.39,
+      "shares": 1526
+    },
+    {
+      "t": "STMPA",
+      "n": "STMICROELECTRONICS",
+      "weight": 7.3,
+      "sector": "Information Technology",
+      "mv": 416072.22,
+      "shares": 5765
+    },
+    {
+      "t": "TEL",
+      "n": "TE CONNECTIVITY PLC",
+      "weight": 3.38,
+      "sector": "Information Technology",
+      "mv": 192738.1,
+      "shares": 638
+    },
+    {
+      "t": "TSLA",
+      "n": "TESLA INC",
+      "weight": 3.33,
+      "sector": "Consumer Discretionary",
+      "mv": 189694.42,
+      "shares": 355
+    },
+    {
+      "t": "TXN",
+      "n": "TEXAS INSTRUMENT INC",
+      "weight": 5.56,
+      "sector": "Information Technology",
+      "mv": 316841.24,
+      "shares": 828
+    },
+    {
+      "t": "UMI",
+      "n": "UMICORE SA",
+      "weight": 1.12,
+      "sector": "Materials",
+      "mv": 63913.74,
+      "shares": 1889
+    },
+    {
+      "t": "USD",
+      "n": "USD CASH",
+      "weight": 0.08,
+      "sector": "Cash and/or Derivatives",
+      "mv": 4642.52,
+      "shares": 3284
+    }
+  ]
+}

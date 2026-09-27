@@ -1,0 +1,339 @@
+{
+  "id": 1,
+  "as_of_date": "2026-09-24",
+  "source": "url",
+  "source_url": "https://www.blackrock.com/ca/investors/en/products/239498/ishares-canadian-value-index-etf/1464253357814.ajax?fileType=csv&fileName=XCV_holdings&dataType=fund",
+  "created_at": "2026-09-27T11:42:45.577Z",
+  "partial": false,
+  "content_hash": "f83c5a79e69d0484cac9ce7698f2080123297c8aeb3b0f26c93a2bc7c5a55c37",
+  "holdings": [
+    {
+      "t": "ATRL",
+      "n": "ATKINSREALIS GROUP INC",
+      "weight": 0.54,
+      "sector": "Industrials",
+      "mv": 1302374.38,
+      "shares": 15086
+    },
+    {
+      "t": "BAM",
+      "n": "BROOKFIELD ASSET MANAGEMENT VOTING",
+      "weight": 0.93,
+      "sector": "Financials",
+      "mv": 2226269.32,
+      "shares": 35332
+    },
+    {
+      "t": "BCE",
+      "n": "BCE INC",
+      "weight": 1.1,
+      "sector": "Communication",
+      "mv": 2636255.7,
+      "shares": 87438
+    },
+    {
+      "t": "BMO",
+      "n": "BANK OF MONTREAL",
+      "weight": 6.64,
+      "sector": "Financials",
+      "mv": 15897705.18,
+      "shares": 65674
+    },
+    {
+      "t": "BN",
+      "n": "BROOKFIELD CLASS A",
+      "weight": 4.34,
+      "sector": "Financials",
+      "mv": 10380528.65,
+      "shares": 200435
+    },
+    {
+      "t": "BNS",
+      "n": "BANK OF NOVA SCOTIA",
+      "weight": 6.23,
+      "sector": "Financials",
+      "mv": 14905670.83,
+      "shares": 114281
+    },
+    {
+      "t": "CAD",
+      "n": "CAD CASH",
+      "weight": 0.24,
+      "sector": "Cash and/or Derivatives",
+      "mv": 570262.79,
+      "shares": 570263
+    },
+    {
+      "t": "CM",
+      "n": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "weight": 5.63,
+      "sector": "Financials",
+      "mv": 13477158.86,
+      "shares": 85591
+    },
+    {
+      "t": "CNQ",
+      "n": "CANADIAN NATURAL RESOURCES LTD",
+      "weight": 5.48,
+      "sector": "Energy",
+      "mv": 13114895.96,
+      "shares": 193378
+    },
+    {
+      "t": "CNR",
+      "n": "CANADIAN NATIONAL RAILWAY",
+      "weight": 3.65,
+      "sector": "Industrials",
+      "mv": 8740485.65,
+      "shares": 51545
+    },
+    {
+      "t": "EMA",
+      "n": "EMERA INC",
+      "weight": 0.81,
+      "sector": "Utilities",
+      "mv": 1944288,
+      "shares": 28800
+    },
+    {
+      "t": "ENB",
+      "n": "ENBRIDGE",
+      "weight": 5.73,
+      "sector": "Energy",
+      "mv": 13718547.15,
+      "shares": 204785
+    },
+    {
+      "t": "FFH",
+      "n": "FAIRFAX FINANCIAL HOLDINGS SUB VOT",
+      "weight": 1.67,
+      "sector": "Financials",
+      "mv": 3999630.96,
+      "shares": 1803
+    },
+    {
+      "t": "FTS",
+      "n": "FORTIS",
+      "weight": 1.5,
+      "sector": "Utilities",
+      "mv": 3594491.04,
+      "shares": 47901
+    },
+    {
+      "t": "GWO",
+      "n": "GREAT WEST LIFECO INC",
+      "weight": 0.94,
+      "sector": "Financials",
+      "mv": 2243947.72,
+      "shares": 24322
+    },
+    {
+      "t": "H",
+      "n": "HYDRO ONE",
+      "weight": 0.63,
+      "sector": "Utilities",
+      "mv": 1519430.9,
+      "shares": 29822
+    },
+    {
+      "t": "IAG",
+      "n": "IA FINANCIAL INC",
+      "weight": 0.73,
+      "sector": "Financials",
+      "mv": 1742761.44,
+      "shares": 8233
+    },
+    {
+      "t": "IFC",
+      "n": "INTACT FINANCIAL CORP",
+      "weight": 1.73,
+      "sector": "Financials",
+      "mv": 4144959.78,
+      "shares": 16523
+    },
+    {
+      "t": "IGM",
+      "n": "IGM FINANCIAL INC",
+      "weight": 0.26,
+      "sector": "Financials",
+      "mv": 621968.88,
+      "shares": 7338
+    },
+    {
+      "t": "IMO",
+      "n": "IMPERIAL OIL LTD",
+      "weight": 1.04,
+      "sector": "Energy",
+      "mv": 2478389.67,
+      "shares": 14057
+    },
+    {
+      "t": "KEY",
+      "n": "KEYERA",
+      "weight": 0.61,
+      "sector": "Energy",
+      "mv": 1461268.54,
+      "shares": 27514
+    },
+    {
+      "t": "MFC",
+      "n": "MANULIFE FINANCIAL",
+      "weight": 4,
+      "sector": "Financials",
+      "mv": 9583360.5,
+      "shares": 155827
+    },
+    {
+      "t": "MG",
+      "n": "MAGNA INTERNATIONAL",
+      "weight": 0.87,
+      "sector": "Consumer Discretionary",
+      "mv": 2077537.56,
+      "shares": 23646
+    },
+    {
+      "t": "MLPFT",
+      "n": "CASH COLLATERAL CAD MLPFT",
+      "weight": 0.02,
+      "sector": "Cash and/or Derivatives",
+      "mv": 40000,
+      "shares": 40000
+    },
+    {
+      "t": "NA",
+      "n": "NATIONAL BANK OF CANADA",
+      "weight": 3.15,
+      "sector": "Financials",
+      "mv": 7536724.8,
+      "shares": 35992
+    },
+    {
+      "t": "NTR",
+      "n": "NUTRIEN LTD",
+      "weight": 1.96,
+      "sector": "Materials",
+      "mv": 4694658.84,
+      "shares": 44852
+    },
+    {
+      "t": "POW",
+      "n": "POWER CORPORATION OF CANADA",
+      "weight": 1.9,
+      "sector": "Financials",
+      "mv": 4552985.7,
+      "shares": 48878
+    },
+    {
+      "t": "PPL",
+      "n": "PEMBINA PIPELINE",
+      "weight": 1.46,
+      "sector": "Energy",
+      "mv": 3502621.76,
+      "shares": 54524
+    },
+    {
+      "t": "QBR.B",
+      "n": "QUEBECOR CLASS B",
+      "weight": 0.37,
+      "sector": "Communication",
+      "mv": 883765.83,
+      "shares": 13911
+    },
+    {
+      "t": "RCI.B",
+      "n": "ROGERS COMMUNICATIONS NON-VOTING I",
+      "weight": 0.69,
+      "sector": "Communication",
+      "mv": 1652624.4,
+      "shares": 36210
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA",
+      "weight": 9.93,
+      "sector": "Financials",
+      "mv": 23767767.5,
+      "shares": 84250
+    },
+    {
+      "t": "SAP",
+      "n": "SAPUTO",
+      "weight": 0.37,
+      "sector": "Consumer Staples",
+      "mv": 889403.22,
+      "shares": 22086
+    },
+    {
+      "t": "SLF",
+      "n": "SUN LIFE FINANCIAL INC",
+      "weight": 2.45,
+      "sector": "Financials",
+      "mv": 5870253.47,
+      "shares": 52259
+    },
+    {
+      "t": "SU",
+      "n": "SUNCOR ENERGY INC",
+      "weight": 4.45,
+      "sector": "Energy",
+      "mv": 10638989.69,
+      "shares": 109669
+    },
+    {
+      "t": "T",
+      "n": "TELUS",
+      "weight": 0.74,
+      "sector": "Communication",
+      "mv": 1776085.14,
+      "shares": 147638
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO DOMINION",
+      "weight": 10.16,
+      "sector": "Financials",
+      "mv": 24321109.32,
+      "shares": 144202
+    },
+    {
+      "t": "TECK.B",
+      "n": "TECK RESOURCES SUBORDINATE VOTING",
+      "weight": 1.78,
+      "sector": "Materials",
+      "mv": 4258242.58,
+      "shares": 45286
+    },
+    {
+      "t": "TOU",
+      "n": "TOURMALINE OIL CORP",
+      "weight": 0.89,
+      "sector": "Energy",
+      "mv": 2126114.72,
+      "shares": 34616
+    },
+    {
+      "t": "TRP",
+      "n": "TC ENERGY",
+      "weight": 3.44,
+      "sector": "Energy",
+      "mv": 8232370.52,
+      "shares": 97702
+    },
+    {
+      "t": "USD",
+      "n": "USD CASH",
+      "weight": 0.02,
+      "sector": "Cash and/or Derivatives",
+      "mv": 53866.33,
+      "shares": 38099
+    },
+    {
+      "t": "WCP",
+      "n": "WHITECAP RESOURCES INC",
+      "weight": 0.88,
+      "sector": "Energy",
+      "mv": 2112234.7,
+      "shares": 113990
+    }
+  ]
+}

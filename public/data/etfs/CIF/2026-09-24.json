@@ -1,0 +1,515 @@
+{
+  "id": 1,
+  "as_of_date": "2026-09-24",
+  "source": "url",
+  "source_url": "https://www.blackrock.com/ca/investors/en/products/239554/ishares-global-infrastructure-index-fund/1464253357814.ajax?fileType=csv&fileName=CIF_holdings&dataType=fund",
+  "created_at": "2026-09-27T11:42:45.577Z",
+  "partial": false,
+  "content_hash": "ab7b65a80ed0f1260b3bd31b7db1aa3268c51390c33ddda92a103ddb56b9b5ae",
+  "holdings": [
+    {
+      "t": "ACO.X",
+      "n": "ATCO CLASS I",
+      "weight": 5.09,
+      "sector": "Utilities",
+      "mv": 78483219.15,
+      "shares": 1067073
+    },
+    {
+      "t": "AGX",
+      "n": "ARGAN",
+      "weight": 1.42,
+      "sector": "Industrials",
+      "mv": 21884478.27,
+      "shares": 42870
+    },
+    {
+      "t": "ASR",
+      "n": "GRUPO AEROPORTUARIO ADR REPRESENTI",
+      "weight": 0.54,
+      "sector": "Industrials",
+      "mv": 8269375.65,
+      "shares": 24544
+    },
+    {
+      "t": "ATRL",
+      "n": "ATKINSREALIS GROUP INC",
+      "weight": 2.94,
+      "sector": "Industrials",
+      "mv": 45321696.06,
+      "shares": 524982
+    },
+    {
+      "t": "BDGI",
+      "n": "BADGER INFRASTRUCTURE SOLUTIONS LT",
+      "weight": 2.06,
+      "sector": "Industrials",
+      "mv": 31728100.95,
+      "shares": 345735
+    },
+    {
+      "t": "BDT",
+      "n": "BIRD CONSTRUCTION",
+      "weight": 2.36,
+      "sector": "Industrials",
+      "mv": 36341483.5,
+      "shares": 455350
+    },
+    {
+      "t": "CAAP",
+      "n": "CORPORACION AMERICA AIRPORTS SA",
+      "weight": 0.5,
+      "sector": "Industrials",
+      "mv": 7693545.65,
+      "shares": 231064
+    },
+    {
+      "t": "CAD",
+      "n": "CAD CASH",
+      "weight": -0.17,
+      "sector": "Cash and/or Derivatives",
+      "mv": -2606524.17,
+      "shares": -2606524
+    },
+    {
+      "t": "CAT",
+      "n": "CATERPILLAR INC",
+      "weight": 4,
+      "sector": "Industrials",
+      "mv": 61741002.1,
+      "shares": 54230
+    },
+    {
+      "t": "CIG",
+      "n": "COMPANHIA ENERGETICA MINAS GERAIS",
+      "weight": 2.39,
+      "sector": "Utilities",
+      "mv": 36874589.93,
+      "shares": 12599506
+    },
+    {
+      "t": "CPX",
+      "n": "CAPITAL POWER CORP",
+      "weight": 2.19,
+      "sector": "Utilities",
+      "mv": 33754679.88,
+      "shares": 544606
+    },
+    {
+      "t": "CU",
+      "n": "CANADIAN UTILITIES LTD CLASS A",
+      "weight": 3.62,
+      "sector": "Utilities",
+      "mv": 55829509.79,
+      "shares": 1101391
+    },
+    {
+      "t": "DY",
+      "n": "DYCOM INDUSTRIES INC",
+      "weight": 0.48,
+      "sector": "Industrials",
+      "mv": 7369477.65,
+      "shares": 19156
+    },
+    {
+      "t": "ED",
+      "n": "CONSOLIDATED EDISON",
+      "weight": 3.01,
+      "sector": "Utilities",
+      "mv": 46472775.92,
+      "shares": 320024
+    },
+    {
+      "t": "EIX",
+      "n": "EDISON INTERNATIONAL",
+      "weight": 4.77,
+      "sector": "Utilities",
+      "mv": 73610743.15,
+      "shares": 990941
+    },
+    {
+      "t": "ELPC",
+      "n": "COMPANHIA PARANAENSE DE ENERGIA CO",
+      "weight": 0.62,
+      "sector": "Utilities",
+      "mv": 9497222.48,
+      "shares": 556066
+    },
+    {
+      "t": "EME",
+      "n": "EMCOR GROUP",
+      "weight": 1.35,
+      "sector": "Industrials",
+      "mv": 20799635.75,
+      "shares": 19564
+    },
+    {
+      "t": "ENB",
+      "n": "ENBRIDGE",
+      "weight": 0.49,
+      "sector": "Energy",
+      "mv": 7583602.95,
+      "shares": 113205
+    },
+    {
+      "t": "ENIC",
+      "n": "ENEL CHILE ADR REPRESENTING SA",
+      "weight": 3.44,
+      "sector": "Utilities",
+      "mv": 53114909.18,
+      "shares": 8860276
+    },
+    {
+      "t": "ES",
+      "n": "EVERSOURCE ENERGY",
+      "weight": 0.48,
+      "sector": "Utilities",
+      "mv": 7358631.73,
+      "shares": 81578
+    },
+    {
+      "t": "EXC",
+      "n": "EXELON CORP",
+      "weight": 0.69,
+      "sector": "Utilities",
+      "mv": 10597670.46,
+      "shares": 186458
+    },
+    {
+      "t": "FRO",
+      "n": "FRONTLINE PLC",
+      "weight": 1.54,
+      "sector": "Energy",
+      "mv": 23722710.18,
+      "shares": 349777
+    },
+    {
+      "t": "FTS",
+      "n": "FORTIS",
+      "weight": 0.71,
+      "sector": "Utilities",
+      "mv": 10968596.8,
+      "shares": 146170
+    },
+    {
+      "t": "GEI",
+      "n": "GIBSON ENERGY",
+      "weight": 2.71,
+      "sector": "Energy",
+      "mv": 41773279.35,
+      "shares": 1332481
+    },
+    {
+      "t": "GEV",
+      "n": "GE VERNOVA",
+      "weight": 1.29,
+      "sector": "Industrials",
+      "mv": 19889673.07,
+      "shares": 14730
+    },
+    {
+      "t": "H",
+      "n": "HYDRO ONE",
+      "weight": 0.5,
+      "sector": "Utilities",
+      "mv": 7719077.85,
+      "shares": 151503
+    },
+    {
+      "t": "INIO",
+      "n": "INNIO N V NV",
+      "weight": 0.6,
+      "sector": "Industrials",
+      "mv": 9322172.5,
+      "shares": 346842
+    },
+    {
+      "t": "KEN",
+      "n": "KENON HOLDINGS LTD",
+      "weight": 0.89,
+      "sector": "Utilities",
+      "mv": 13671705.55,
+      "shares": 151660
+    },
+    {
+      "t": "KEP",
+      "n": "KOREA ELECTRIC POWER ADR REP",
+      "weight": 1.27,
+      "sector": "Utilities",
+      "mv": 19613642.89,
+      "shares": 1278572
+    },
+    {
+      "t": "KEY",
+      "n": "KEYERA",
+      "weight": 3.06,
+      "sector": "Energy",
+      "mv": 47155200.58,
+      "shares": 887878
+    },
+    {
+      "t": "MDU",
+      "n": "MDU RESOURCES GROUP",
+      "weight": 0.49,
+      "sector": "Utilities",
+      "mv": 7594453.09,
+      "shares": 288169
+    },
+    {
+      "t": "MLPFT",
+      "n": "CASH COLLATERAL USD MLPFT",
+      "weight": 0.03,
+      "sector": "Cash and/or Derivatives",
+      "mv": 459501.25,
+      "shares": 325000
+    },
+    {
+      "t": "NEE",
+      "n": "NEXTERA ENERGY",
+      "weight": 0.47,
+      "sector": "Utilities",
+      "mv": 7221596.44,
+      "shares": 67545
+    },
+    {
+      "t": "NFG",
+      "n": "NATIONAL FUEL GAS",
+      "weight": 0.55,
+      "sector": "Utilities",
+      "mv": 8465389.83,
+      "shares": 75810
+    },
+    {
+      "t": "NGG",
+      "n": "NATIONAL GRID ADR REPSG PLC",
+      "weight": 1.83,
+      "sector": "Utilities",
+      "mv": 28260046.75,
+      "shares": 265692
+    },
+    {
+      "t": "NRG",
+      "n": "NRG ENERGY INC",
+      "weight": 1.28,
+      "sector": "Utilities",
+      "mv": 19731902.39,
+      "shares": 142628
+    },
+    {
+      "t": "NXT",
+      "n": "NEXTPOWER INC",
+      "weight": 0.49,
+      "sector": "Industrials",
+      "mv": 7541022.22,
+      "shares": 66696
+    },
+    {
+      "t": "OGE",
+      "n": "OGE ENERGY",
+      "weight": 0.51,
+      "sector": "Utilities",
+      "mv": 7861532.57,
+      "shares": 125573
+    },
+    {
+      "t": "OKE",
+      "n": "ONEOK",
+      "weight": 2.22,
+      "sector": "Energy",
+      "mv": 34256670.15,
+      "shares": 265731
+    },
+    {
+      "t": "OTTR",
+      "n": "OTTER TAIL",
+      "weight": 1.9,
+      "sector": "Utilities",
+      "mv": 29311951.24,
+      "shares": 234897
+    },
+    {
+      "t": "PAC",
+      "n": "GRUPO AEROPORTUARIO DEL PACIFICO A",
+      "weight": 0.6,
+      "sector": "Industrials",
+      "mv": 9241154.02,
+      "shares": 30917
+    },
+    {
+      "t": "PNW",
+      "n": "PINNACLE WEST",
+      "weight": 0.49,
+      "sector": "Utilities",
+      "mv": 7620813.24,
+      "shares": 59180
+    },
+    {
+      "t": "POR",
+      "n": "PORTLAND GENERAL ELECTRIC",
+      "weight": 0.51,
+      "sector": "Utilities",
+      "mv": 7826824.48,
+      "shares": 118820
+    },
+    {
+      "t": "PSIX",
+      "n": "POWER SOLUTIONS INTERNATIONAL",
+      "weight": 0.59,
+      "sector": "Industrials",
+      "mv": 9168192.07,
+      "shares": 139333
+    },
+    {
+      "t": "RGSI",
+      "n": "ROCKPOINT GAS STORAGE CLASS A",
+      "weight": 1.58,
+      "sector": "Energy",
+      "mv": 24334092.26,
+      "shares": 1032418
+    },
+    {
+      "t": "SBS",
+      "n": "COMPANHIA DE SANEAMENTO BASICO DO",
+      "weight": 3.64,
+      "sector": "Utilities",
+      "mv": 56160201.84,
+      "shares": 7712907
+    },
+    {
+      "t": "SO",
+      "n": "SOUTHERN",
+      "weight": 0.5,
+      "sector": "Utilities",
+      "mv": 7706093.21,
+      "shares": 65755
+    },
+    {
+      "t": "SPB",
+      "n": "SUPERIOR PLUS",
+      "weight": 1.02,
+      "sector": "Utilities",
+      "mv": 15799208.11,
+      "shares": 2191291
+    },
+    {
+      "t": "STN",
+      "n": "STANTEC",
+      "weight": 3.13,
+      "sector": "Industrials",
+      "mv": 48320687.58,
+      "shares": 499026
+    },
+    {
+      "t": "STNG",
+      "n": "SCORPIO TANKERS",
+      "weight": 3.81,
+      "sector": "Energy",
+      "mv": 58705129.57,
+      "shares": 512864
+    },
+    {
+      "t": "STRL",
+      "n": "STERLING INFRASTRUCTURE",
+      "weight": 2.88,
+      "sector": "Industrials",
+      "mv": 44387778.84,
+      "shares": 61113
+    },
+    {
+      "t": "TA",
+      "n": "TRANSALTA",
+      "weight": 1.9,
+      "sector": "Utilities",
+      "mv": 29256581.12,
+      "shares": 1758208
+    },
+    {
+      "t": "TLN",
+      "n": "TALEN ENERGY",
+      "weight": 0.64,
+      "sector": "Utilities",
+      "mv": 9811456.34,
+      "shares": 23131
+    },
+    {
+      "t": "TNK",
+      "n": "TEEKAY TANKERS LTD CLASS A",
+      "weight": 0.96,
+      "sector": "Energy",
+      "mv": 14843011.73,
+      "shares": 111589
+    },
+    {
+      "t": "TRGP",
+      "n": "TARGA RESOURCES",
+      "weight": 4.7,
+      "sector": "Energy",
+      "mv": 72534085.93,
+      "shares": 181185
+    },
+    {
+      "t": "UGI",
+      "n": "UGI",
+      "weight": 3.25,
+      "sector": "Utilities",
+      "mv": 50036114.71,
+      "shares": 973054
+    },
+    {
+      "t": "UGP",
+      "n": "ULTRAPAR PARTICIPACOES ADR REPRESE",
+      "weight": 0.72,
+      "sector": "Consumer Discretionary",
+      "mv": 11097493.19,
+      "shares": 1047948
+    },
+    {
+      "t": "USD",
+      "n": "USD CASH",
+      "weight": 0.6,
+      "sector": "Cash and/or Derivatives",
+      "mv": 9182746.44,
+      "shares": 6494852
+    },
+    {
+      "t": "VRT",
+      "n": "VERTIV HOLDINGS CLASS A",
+      "weight": 1.22,
+      "sector": "Industrials",
+      "mv": 18813110.13,
+      "shares": 54245
+    },
+    {
+      "t": "VST",
+      "n": "VISTRA",
+      "weight": 0.48,
+      "sector": "Utilities",
+      "mv": 7367904.97,
+      "shares": 37779
+    },
+    {
+      "t": "WMB",
+      "n": "WILLIAMS",
+      "weight": 0.6,
+      "sector": "Energy",
+      "mv": 9259670.35,
+      "shares": 92792
+    },
+    {
+      "t": "WSP",
+      "n": "WSP GLOBAL INC",
+      "weight": 0.51,
+      "sector": "Industrials",
+      "mv": 7806108.2,
+      "shares": 43430
+    },
+    {
+      "t": "WTE",
+      "n": "WESTSHORE TERMINALS INVESTMENT",
+      "weight": 1.06,
+      "sector": "Industrials",
+      "mv": 16337439.68,
+      "shares": 389729
+    }
+  ]
+}

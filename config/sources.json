@@ -17,7 +17,17 @@
     "id": "ishares-xeqt",
     "label": "iShares — XEQT",
     "issuer": "iShares",
-    "url": "https://www.blackrock.com/ca/investors/en/products/309480/fund/1464253357814.ajax?fileType=csv&fileName=XEQT_holdings&dataType=fund"
+    "url": "https://www.blackrock.com/ca/investors/en/products/309480/fund/1464253357814.ajax?fileType=csv&fileName=XEQT_holdings&dataType=fund",
+    "ticker": "XEQT",
+    "name": "iShares Core Equity ETF Portfolio"
+  },
+  {
+    "id": "ishares-cmr",
+    "label": "iShares Canada — CMR",
+    "issuer": "iShares",
+    "ticker": "CMR",
+    "name": "iShares Premium Money Market ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239414/ishares-premium-money-market-etf/1464253357814.ajax?fileType=csv&fileName=CMR_holdings&dataType=fund"
   },
   {
     "id": "vanguard-vxe",
@@ -1545,5 +1555,1205 @@
     "ticker": "ZXLY",
     "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLY_20260924.xlsx",
     "name": "BMO SPDR Consumer Discretionary Select Sector Index ETF"
+  },
+  {
+    "id": "ishares-cbh",
+    "label": "iShares Canada — CBH",
+    "issuer": "iShares",
+    "ticker": "CBH",
+    "name": "iShares 1-10 Year Laddered Corporate Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239416/ishares-110-year-laddered-corporate-bond-index-fund/1464253357814.ajax?fileType=csv&fileName=CBH_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-cbo",
+    "label": "iShares Canada — CBO",
+    "issuer": "iShares",
+    "ticker": "CBO",
+    "name": "iShares 1-5 Year Laddered Corporate Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239420/ishares-15-year-laddered-corporate-bond-index-fund/1464253357814.ajax?fileType=csv&fileName=CBO_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-cdz",
+    "label": "iShares Canada — CDZ",
+    "issuer": "iShares",
+    "ticker": "CDZ",
+    "name": "iShares S&P/TSX Canadian Dividend Aristocrats Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239834/ishares-sptsx-canadian-dividend-aristocrats-index-fund/1464253357814.ajax?fileType=csv&fileName=CDZ_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-cew",
+    "label": "iShares Canada — CEW",
+    "issuer": "iShares",
+    "ticker": "CEW",
+    "name": "iShares Equal Weight Banc & Lifeco ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239532/ishares-equal-weight-banc-lifeco-etf/1464253357814.ajax?fileType=csv&fileName=CEW_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-cgr",
+    "label": "iShares Canada — CGR",
+    "issuer": "iShares",
+    "ticker": "CGR",
+    "name": "iShares Global Real Estate Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239558/ishares-global-real-estate-index-fund/1464253357814.ajax?fileType=csv&fileName=CGR_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-cie",
+    "label": "iShares Canada — CIE",
+    "issuer": "iShares",
+    "ticker": "CIE",
+    "name": "iShares International Fundamental Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239569/ishares-international-fundamental-index-fund/1464253357814.ajax?fileType=csv&fileName=CIE_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-cif",
+    "label": "iShares Canada — CIF",
+    "issuer": "iShares",
+    "ticker": "CIF",
+    "name": "iShares Global Infrastructure Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239554/ishares-global-infrastructure-index-fund/1464253357814.ajax?fileType=csv&fileName=CIF_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-cjp",
+    "label": "iShares Canada — CJP",
+    "issuer": "iShares",
+    "ticker": "CJP",
+    "name": "iShares Japan Fundamental Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239576/ishares-japan-fundamental-index-fund-cadhedged-fund/1464253357814.ajax?fileType=csv&fileName=CJP_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-clf",
+    "label": "iShares Canada — CLF",
+    "issuer": "iShares",
+    "ticker": "CLF",
+    "name": "iShares 1-5 Year Laddered Government Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239422/ishares-15-year-laddered-government-bond-index-fund/1464253357814.ajax?fileType=csv&fileName=CLF_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-clg",
+    "label": "iShares Canada — CLG",
+    "issuer": "iShares",
+    "ticker": "CLG",
+    "name": "iShares 1-10 Year Laddered Government Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239418/ishares-110-year-laddered-government-bond-index-fund/1464253357814.ajax?fileType=csv&fileName=CLG_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-clu",
+    "label": "iShares Canada — CLU",
+    "issuer": "iShares",
+    "ticker": "CLU",
+    "name": "iShares US Fundamental Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239863/ishares-us-fundamental-index-fund/1464253357814.ajax?fileType=csv&fileName=CLU_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-clu-c",
+    "label": "iShares Canada — CLU.C",
+    "issuer": "iShares",
+    "ticker": "CLU.C",
+    "name": "iShares US Fundamental Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239860/ishares-us-fundamental-index-fund/1464253357814.ajax?fileType=csv&fileName=CLUC_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-cow",
+    "label": "iShares Canada — COW",
+    "issuer": "iShares",
+    "ticker": "COW",
+    "name": "iShares Global Agriculture Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239548/ishares-global-agriculture-index-fund/1464253357814.ajax?fileType=csv&fileName=COW_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-cpd",
+    "label": "iShares Canada — CPD",
+    "issuer": "iShares",
+    "ticker": "CPD",
+    "name": "iShares S&P/TSX Canadian Preferred Share Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239836/ishares-sptsx-canadian-preferred-share-index-fund/1464253357814.ajax?fileType=csv&fileName=CPD_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-crq",
+    "label": "iShares Canada — CRQ",
+    "issuer": "iShares",
+    "ticker": "CRQ",
+    "name": "iShares Canadian Fundamental Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239478/ishares-canadian-fundamental-index-fund/1464253357814.ajax?fileType=csv&fileName=CRQ_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-cud",
+    "label": "iShares Canada — CUD",
+    "issuer": "iShares",
+    "ticker": "CUD",
+    "name": "iShares US Dividend Growers Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239828/ishares-sp-us-dividend-growers-index-fund-cadhedged-fund/1464253357814.ajax?fileType=csv&fileName=CUD_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-cvd",
+    "label": "iShares Canada — CVD",
+    "issuer": "iShares",
+    "ticker": "CVD",
+    "name": "iShares Convertible Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239435/ishares-convertible-bond-index-etf/1464253357814.ajax?fileType=csv&fileName=CVD_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-cwo",
+    "label": "iShares Canada — CWO",
+    "issuer": "iShares",
+    "ticker": "CWO",
+    "name": "iShares Emerging Markets Fundamental Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239474/ishares-emerging-markets-fundamental-index-etf/1464253357814.ajax?fileType=csv&fileName=CWO_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-cww",
+    "label": "iShares Canada — CWW",
+    "issuer": "iShares",
+    "ticker": "CWW",
+    "name": "iShares Global Water Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239755/ishares-sp-global-water-index-fund/1464253357814.ajax?fileType=csv&fileName=CWW_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-cyh",
+    "label": "iShares Canada — CYH",
+    "issuer": "iShares",
+    "ticker": "CYH",
+    "name": "iShares Global Monthly Dividend Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239556/ishares-global-monthly-dividend-index-etf/1464253357814.ajax?fileType=csv&fileName=CYH_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-fie",
+    "label": "iShares Canada — FIE",
+    "issuer": "iShares",
+    "ticker": "FIE",
+    "name": "iShares Canadian Financial Monthly Income ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239476/ishares-canadian-financial-monthly-income-etf/1464253357814.ajax?fileType=csv&fileName=FIE_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-gbal",
+    "label": "iShares Canada — GBAL",
+    "issuer": "iShares",
+    "ticker": "GBAL",
+    "name": "iShares ESG Balanced ETF Portfolio",
+    "url": "https://www.blackrock.com/ca/investors/en/products/315672/fund/1464253357814.ajax?fileType=csv&fileName=GBAL_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-gcns",
+    "label": "iShares Canada — GCNS",
+    "issuer": "iShares",
+    "ticker": "GCNS",
+    "name": "iShares ESG Conservative Balanced ETF Portfolio",
+    "url": "https://www.blackrock.com/ca/investors/en/products/315670/fund/1464253357814.ajax?fileType=csv&fileName=GCNS_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-geqt",
+    "label": "iShares Canada — GEQT",
+    "issuer": "iShares",
+    "ticker": "GEQT",
+    "name": "iShares ESG Equity ETF Portfolio",
+    "url": "https://www.blackrock.com/ca/investors/en/products/315678/fund/1464253357814.ajax?fileType=csv&fileName=GEQT_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-ggro",
+    "label": "iShares Canada — GGRO",
+    "issuer": "iShares",
+    "ticker": "GGRO",
+    "name": "iShares ESG Growth ETF Portfolio",
+    "url": "https://www.blackrock.com/ca/investors/en/products/315676/fund/1464253357814.ajax?fileType=csv&fileName=GGRO_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-ibit",
+    "label": "iShares Canada — IBIT",
+    "issuer": "iShares",
+    "ticker": "IBIT",
+    "name": "iShares Bitcoin ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/340780/fund/1464253357814.ajax?fileType=csv&fileName=IBIT_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-ibqt",
+    "label": "iShares Canada — IBQT",
+    "issuer": "iShares",
+    "ticker": "IBQT",
+    "name": "iShares Equity + Bitcoin ETF Portfolio",
+    "url": "https://www.blackrock.com/ca/investors/en/products/352417/fund/1464253357814.ajax?fileType=csv&fileName=IBQT_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xad",
+    "label": "iShares Canada — XAD",
+    "issuer": "iShares",
+    "ticker": "XAD",
+    "name": "iShares U.S. Aerospace & Defense Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/332752/fund/1464253357814.ajax?fileType=csv&fileName=XAD_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xagg",
+    "label": "iShares Canada — XAGG",
+    "issuer": "iShares",
+    "ticker": "XAGG",
+    "name": "iShares U.S. Aggregate Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/320095/fund/1464253357814.ajax?fileType=csv&fileName=XAGG_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xagh",
+    "label": "iShares Canada — XAGH",
+    "issuer": "iShares",
+    "ticker": "XAGH",
+    "name": "iShares U.S. Aggregate Bond Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/320099/fund/1464253357814.ajax?fileType=csv&fileName=XAGH_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xaw",
+    "label": "iShares Canada — XAW",
+    "issuer": "iShares",
+    "ticker": "XAW",
+    "name": "iShares Core MSCI All Country World ex Canada Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/272108/ishares-core-sp-us-total-market-index-etf/1464253357814.ajax?fileType=csv&fileName=XAW_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xbal",
+    "label": "iShares Canada — XBAL",
+    "issuer": "iShares",
+    "ticker": "XBAL",
+    "name": "iShares Core Balanced ETF Portfolio",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239449/ishares-balanced-income-coreportfoliotm-fund/1464253357814.ajax?fileType=csv&fileName=XBAL_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xbb",
+    "label": "iShares Canada — XBB",
+    "issuer": "iShares",
+    "ticker": "XBB",
+    "name": "iShares Core Canadian Universe Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239493/ishares-canadian-universe-bond-index-etf/1464253357814.ajax?fileType=csv&fileName=XBB_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xbm",
+    "label": "iShares Canada — XBM",
+    "issuer": "iShares",
+    "ticker": "XBM",
+    "name": "iShares S&P/TSX Global Base Metals Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239847/ishares-sptsx-global-base-metals-index-etf/1464253357814.ajax?fileType=csv&fileName=XBM_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xcb",
+    "label": "iShares Canada — XCB",
+    "issuer": "iShares",
+    "ticker": "XCB",
+    "name": "iShares Core Canadian Corporate Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239485/ishares-canadian-corporate-bond-index-etf/1464253357814.ajax?fileType=csv&fileName=XCB_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xcbg",
+    "label": "iShares Canada — XCBG",
+    "issuer": "iShares",
+    "ticker": "XCBG",
+    "name": "iShares ESG Advanced Canadian Corporate Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/320096/fund/1464253357814.ajax?fileType=csv&fileName=XCBG_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xcbu",
+    "label": "iShares Canada — XCBU",
+    "issuer": "iShares",
+    "ticker": "XCBU",
+    "name": "iShares U.S. IG Corporate Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/319677/fund/1464253357814.ajax?fileType=csv&fileName=XCBU_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xcd",
+    "label": "iShares Canada — XCD",
+    "issuer": "iShares",
+    "ticker": "XCD",
+    "name": "iShares S&P Global Consumer Discretionary Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/251242/ishares-sp-global-consumer-discretionary-index-etf-cadhedged-fund/1464253357814.ajax?fileType=csv&fileName=XCD_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xcg",
+    "label": "iShares Canada — XCG",
+    "issuer": "iShares",
+    "ticker": "XCG",
+    "name": "iShares Canadian Growth Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239497/ishares-canadian-growth-index-etf/1464253357814.ajax?fileType=csv&fileName=XCG_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xch",
+    "label": "iShares Canada — XCH",
+    "issuer": "iShares",
+    "ticker": "XCH",
+    "name": "iShares China Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239481/ishares-china-index-etf/1464253357814.ajax?fileType=csv&fileName=XCH_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xchp",
+    "label": "iShares Canada — XCHP",
+    "issuer": "iShares",
+    "ticker": "XCHP",
+    "name": "iShares Semiconductor Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/332756/fund/1464253357814.ajax?fileType=csv&fileName=XCHP_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xcln",
+    "label": "iShares Canada — XCLN",
+    "issuer": "iShares",
+    "ticker": "XCLN",
+    "name": "iShares Global Clean Energy Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/327373/fund/1464253357814.ajax?fileType=csv&fileName=XCLN_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xcns",
+    "label": "iShares Canada — XCNS",
+    "issuer": "iShares",
+    "ticker": "XCNS",
+    "name": "iShares Core Conservative Balanced ETF Portfolio",
+    "url": "https://www.blackrock.com/ca/investors/en/products/309484/fund/1464253357814.ajax?fileType=csv&fileName=XCNS_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xcs",
+    "label": "iShares Canada — XCS",
+    "issuer": "iShares",
+    "ticker": "XCS",
+    "name": "iShares S&P/TSX SmallCap Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239852/ishares-sptsx-small-cap-index-etf/1464253357814.ajax?fileType=csv&fileName=XCS_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xcsr",
+    "label": "iShares Canada — XCSR",
+    "issuer": "iShares",
+    "ticker": "XCSR",
+    "name": "iShares ESG Advanced MSCI Canada Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/313580/fund/1464253357814.ajax?fileType=csv&fileName=XCSR_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xcv",
+    "label": "iShares Canada — XCV",
+    "issuer": "iShares",
+    "ticker": "XCV",
+    "name": "iShares Canadian Value Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239498/ishares-canadian-value-index-etf/1464253357814.ajax?fileType=csv&fileName=XCV_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xdg",
+    "label": "iShares Canada — XDG",
+    "issuer": "iShares",
+    "ticker": "XDG",
+    "name": "iShares Core MSCI Global Quality Dividend Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/287839/fund/1464253357814.ajax?fileType=csv&fileName=XDG_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xdgh",
+    "label": "iShares Canada — XDGH",
+    "issuer": "iShares",
+    "ticker": "XDGH",
+    "name": "iShares Core MSCI Global Quality Dividend Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/287841/fund/1464253357814.ajax?fileType=csv&fileName=XDGH_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xdiv",
+    "label": "iShares Canada — XDIV",
+    "issuer": "iShares",
+    "ticker": "XDIV",
+    "name": "iShares Core MSCI Canadian Quality Dividend Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/287823/fund/1464253357814.ajax?fileType=csv&fileName=XDIV_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xdna",
+    "label": "iShares Canada — XDNA",
+    "issuer": "iShares",
+    "ticker": "XDNA",
+    "name": "iShares Genomics Immunology and Healthcare Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/327372/fund/1464253357814.ajax?fileType=csv&fileName=XDNA_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xdrv",
+    "label": "iShares Canada — XDRV",
+    "issuer": "iShares",
+    "ticker": "XDRV",
+    "name": "iShares Global Electric and Autonomous Vehicles Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/330880/fund/1464253357814.ajax?fileType=csv&fileName=XDRV_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xdsr",
+    "label": "iShares Canada — XDSR",
+    "issuer": "iShares",
+    "ticker": "XDSR",
+    "name": "iShares ESG Advanced MSCI EAFE Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/313746/fund/1464253357814.ajax?fileType=csv&fileName=XDSR_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xdu",
+    "label": "iShares Canada — XDU",
+    "issuer": "iShares",
+    "ticker": "XDU",
+    "name": "iShares Core MSCI US Quality Dividend Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/287834/fund/1464253357814.ajax?fileType=csv&fileName=XDU_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xduh",
+    "label": "iShares Canada — XDUH",
+    "issuer": "iShares",
+    "ticker": "XDUH",
+    "name": "iShares Core MSCI US Quality Dividend Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/287836/fund/1464253357814.ajax?fileType=csv&fileName=XDUH_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xdv",
+    "label": "iShares Canada — XDV",
+    "issuer": "iShares",
+    "ticker": "XDV",
+    "name": "iShares Canadian Select Dividend Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239496/ishares-canadian-select-dividend-index-etf/1464253357814.ajax?fileType=csv&fileName=XDV_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xeb",
+    "label": "iShares Canada — XEB",
+    "issuer": "iShares",
+    "ticker": "XEB",
+    "name": "iShares J.P. Morgan USD Emerging Markets Bond Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239573/ishares-jp-morgan-usd-emerging-markets-bond-index-etf-cadhedged-fund/1464253357814.ajax?fileType=csv&fileName=XEB_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xec",
+    "label": "iShares Canada — XEC",
+    "issuer": "iShares",
+    "ticker": "XEC",
+    "name": "iShares Core MSCI Emerging Markets IMI Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/251423/ishares-msci-emerging-markets-imi-index-etf/1464253357814.ajax?fileType=csv&fileName=XEC_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xef",
+    "label": "iShares Canada — XEF",
+    "issuer": "iShares",
+    "ticker": "XEF",
+    "name": "iShares Core MSCI EAFE IMI Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/251421/ishares-msci-eafe-imi-index-etf/1464253357814.ajax?fileType=csv&fileName=XEF_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xeg",
+    "label": "iShares Canada — XEG",
+    "issuer": "iShares",
+    "ticker": "XEG",
+    "name": "iShares S&P/TSX Capped Energy Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239839/ishares-sptsx-capped-energy-index-etf/1464253357814.ajax?fileType=csv&fileName=XEG_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xeh",
+    "label": "iShares Canada — XEH",
+    "issuer": "iShares",
+    "ticker": "XEH",
+    "name": "iShares MSCI Europe IMI Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/262832/ishares-msci-europe-imi-index-etf-cadhedged-fund/1464253357814.ajax?fileType=csv&fileName=XEH_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xei",
+    "label": "iShares Canada — XEI",
+    "issuer": "iShares",
+    "ticker": "XEI",
+    "name": "iShares S&P/TSX Composite High Dividend Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239846/ishares-sptsx-equity-income-index-etf/1464253357814.ajax?fileType=csv&fileName=XEI_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xem",
+    "label": "iShares Canada — XEM",
+    "issuer": "iShares",
+    "ticker": "XEM",
+    "name": "iShares MSCI Emerging Markets Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239636/ishares-msci-emerging-markets-index-etf/1464253357814.ajax?fileType=csv&fileName=XEM_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xemc",
+    "label": "iShares Canada — XEMC",
+    "issuer": "iShares",
+    "ticker": "XEMC",
+    "name": "iShares MSCI Emerging Markets ex China Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/330878/fund/1464253357814.ajax?fileType=csv&fileName=XEMC_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xen",
+    "label": "iShares Canada — XEN",
+    "issuer": "iShares",
+    "ticker": "XEN",
+    "name": "iShares Jantzi Social Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239574/ishares-jantzi-social-index-etf/1464253357814.ajax?fileType=csv&fileName=XEN_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xesg",
+    "label": "iShares Canada — XESG",
+    "issuer": "iShares",
+    "ticker": "XESG",
+    "name": "iShares ESG Aware MSCI Canada Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/307298/fund/1464253357814.ajax?fileType=csv&fileName=XESG_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xetm",
+    "label": "iShares Canada — XETM",
+    "issuer": "iShares",
+    "ticker": "XETM",
+    "name": "iShares S&P/TSX Energy Transition Materials Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/332757/ishares-s-p-tsx-energy-transition-materials-index-etf/1464253357814.ajax?fileType=csv&fileName=XETM_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xeu",
+    "label": "iShares Canada — XEU",
+    "issuer": "iShares",
+    "ticker": "XEU",
+    "name": "iShares MSCI Europe IMI Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/262831/ishares-msci-europe-imi-index-etf/1464253357814.ajax?fileType=csv&fileName=XEU_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xexp",
+    "label": "iShares Canada — XEXP",
+    "issuer": "iShares",
+    "ticker": "XEXP",
+    "name": "iShares Exponential Technologies Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/327374/fund/1464253357814.ajax?fileType=csv&fileName=XEXP_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xfh",
+    "label": "iShares Canada — XFH",
+    "issuer": "iShares",
+    "ticker": "XFH",
+    "name": "iShares Core MSCI EAFE IMI Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/272102/ishares-core-msci-eafe-imi-index/1464253357814.ajax?fileType=csv&fileName=XFH_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xflb",
+    "label": "iShares Canada — XFLB",
+    "issuer": "iShares",
+    "ticker": "XFLB",
+    "name": "iShares Core Canadian 15+ Year Federal Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/330862/fund/1464253357814.ajax?fileType=csv&fileName=XFLB_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xfli",
+    "label": "iShares Canada — XFLI",
+    "issuer": "iShares",
+    "ticker": "XFLI",
+    "name": "iShares Flexible Monthly Income ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/339049/fund/1464253357814.ajax?fileType=csv&fileName=XFLI_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xflx",
+    "label": "iShares Canada — XFLX",
+    "issuer": "iShares",
+    "ticker": "XFLX",
+    "name": "iShares Flexible Monthly Income ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/339051/fund/1464253357814.ajax?fileType=csv&fileName=XFLX_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xfn",
+    "label": "iShares Canada — XFN",
+    "issuer": "iShares",
+    "ticker": "XFN",
+    "name": "iShares S&P/TSX Capped Financials Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239840/ishares-sptsx-capped-financials-index-etf/1464253357814.ajax?fileType=csv&fileName=XFN_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xfr",
+    "label": "iShares Canada — XFR",
+    "issuer": "iShares",
+    "ticker": "XFR",
+    "name": "iShares Floating Rate Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239487/ishares-floating-rate-index-etf/1464253357814.ajax?fileType=csv&fileName=XFR_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xgb",
+    "label": "iShares Canada — XGB",
+    "issuer": "iShares",
+    "ticker": "XGB",
+    "name": "iShares Core Canadian Government Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239486/ishares-canadian-government-bond-index-etf/1464253357814.ajax?fileType=csv&fileName=XGB_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xgd",
+    "label": "iShares Canada — XGD",
+    "issuer": "iShares",
+    "ticker": "XGD",
+    "name": "iShares S&P/TSX Global Gold Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239848/ishares-sptsx-global-gold-index-etf/1464253357814.ajax?fileType=csv&fileName=XGD_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xggb",
+    "label": "iShares Canada — XGGB",
+    "issuer": "iShares",
+    "ticker": "XGGB",
+    "name": "iShares Global Government Bond Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/308044/fund/1464253357814.ajax?fileType=csv&fileName=XGGB_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xgi",
+    "label": "iShares Canada — XGI",
+    "issuer": "iShares",
+    "ticker": "XGI",
+    "name": "iShares S&P Global Industrials Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/251243/ishares-sp-global-industrials-index-etf-cadhedged-fund/1464253357814.ajax?fileType=csv&fileName=XGI_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xgro",
+    "label": "iShares Canada — XGRO",
+    "issuer": "iShares",
+    "ticker": "XGRO",
+    "name": "iShares Core Growth ETF Portfolio",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239447/ishares-balanced-growth-coreportfoliotm-fund/1464253357814.ajax?fileType=csv&fileName=XGRO_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xhak",
+    "label": "iShares Canada — XHAK",
+    "issuer": "iShares",
+    "ticker": "XHAK",
+    "name": "iShares Cybersecurity and Tech Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/327371/fund/1464253357814.ajax?fileType=csv&fileName=XHAK_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xhb",
+    "label": "iShares Canada — XHB",
+    "issuer": "iShares",
+    "ticker": "XHB",
+    "name": "iShares Canadian HYBrid Corporate Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239488/ishares-canadian-hybrid-corporate-bond-index-etf/1464253357814.ajax?fileType=csv&fileName=XHB_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xhc",
+    "label": "iShares Canada — XHC",
+    "issuer": "iShares",
+    "ticker": "XHC",
+    "name": "iShares Global Healthcare Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239743/ishares-global-healthcare-index-etf-cadhedged-fund/1464253357814.ajax?fileType=csv&fileName=XHC_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xhd",
+    "label": "iShares Canada — XHD",
+    "issuer": "iShares",
+    "ticker": "XHD",
+    "name": "iShares U.S. High Dividend Equity Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239857/ishares-us-high-dividend-equity-index-etf-cadhedged-fund/1464253357814.ajax?fileType=csv&fileName=XHD_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xhu",
+    "label": "iShares Canada — XHU",
+    "issuer": "iShares",
+    "ticker": "XHU",
+    "name": "iShares U.S. High Dividend Equity Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/272110/ishares-us-high-dividend-equity-index-etf/1464253357814.ajax?fileType=csv&fileName=XHU_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xhy",
+    "label": "iShares Canada — XHY",
+    "issuer": "iShares",
+    "ticker": "XHY",
+    "name": "iShares U.S. High Yield Bond Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239858/ishares-us-high-yield-bond-index-etf-cadhedged-fund/1464253357814.ajax?fileType=csv&fileName=XHY_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xic",
+    "label": "iShares Canada — XIC",
+    "issuer": "iShares",
+    "ticker": "XIC",
+    "name": "iShares Core S&P/TSX Capped Composite Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239837/ishares-sptsx-capped-composite-index-etf/1464253357814.ajax?fileType=csv&fileName=XIC_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xid",
+    "label": "iShares Canada — XID",
+    "issuer": "iShares",
+    "ticker": "XID",
+    "name": "iShares India Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239732/ishares-india-index-etf/1464253357814.ajax?fileType=csv&fileName=XID_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xig",
+    "label": "iShares Canada — XIG",
+    "issuer": "iShares",
+    "ticker": "XIG",
+    "name": "iShares U.S. IG Corporate Bond Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239859/ishares-us-ig-corporate-bond-index-etf-cadhedged-fund/1464253357814.ajax?fileType=csv&fileName=XIG_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xigs",
+    "label": "iShares Canada — XIGS",
+    "issuer": "iShares",
+    "ticker": "XIGS",
+    "name": "iShares 1-5 Year U.S. IG Corporate Bond Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/319673/fund/1464253357814.ajax?fileType=csv&fileName=XIGS_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xin",
+    "label": "iShares Canada — XIN",
+    "issuer": "iShares",
+    "ticker": "XIN",
+    "name": "iShares MSCI EAFE Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239624/ishares-msci-eafe-index-etf-cadhedged-fund/1464253357814.ajax?fileType=csv&fileName=XIN_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xinc",
+    "label": "iShares Canada — XINC",
+    "issuer": "iShares",
+    "ticker": "XINC",
+    "name": "iShares Core Income Balanced ETF Portfolio",
+    "url": "https://www.blackrock.com/ca/investors/en/products/309482/fund/1464253357814.ajax?fileType=csv&fileName=XINC_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xint",
+    "label": "iShares Canada — XINT",
+    "issuer": "iShares",
+    "ticker": "XINT",
+    "name": "iShares Core MSCI All-International Equity Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/352415/fund/1464253357814.ajax?fileType=csv&fileName=XINT_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xit",
+    "label": "iShares Canada — XIT",
+    "issuer": "iShares",
+    "ticker": "XIT",
+    "name": "iShares S&P/TSX Capped Information Technology Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239841/ishares-sptsx-capped-information-technology-index-etf/1464253357814.ajax?fileType=csv&fileName=XIT_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xiu",
+    "label": "iShares Canada — XIU",
+    "issuer": "iShares",
+    "ticker": "XIU",
+    "name": "iShares S&P/TSX 60 Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239832/ishares-sptsx-60-index-etf/1464253357814.ajax?fileType=csv&fileName=XIU_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xlb",
+    "label": "iShares Canada — XLB",
+    "issuer": "iShares",
+    "ticker": "XLB",
+    "name": "iShares Core Canadian Long Term Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239489/ishares-canadian-long-term-bond-index-etf/1464253357814.ajax?fileType=csv&fileName=XLB_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xma",
+    "label": "iShares Canada — XMA",
+    "issuer": "iShares",
+    "ticker": "XMA",
+    "name": "iShares S&P/TSX Capped Materials Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239842/ishares-sptsx-capped-materials-index-etf/1464253357814.ajax?fileType=csv&fileName=XMA_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xmc",
+    "label": "iShares Canada — XMC",
+    "issuer": "iShares",
+    "ticker": "XMC",
+    "name": "iShares S&P U.S. Mid-Cap Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/275746/ishares-sp-us-mid-cap-index-etf/1464253357814.ajax?fileType=csv&fileName=XMC_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xmd",
+    "label": "iShares Canada — XMD",
+    "issuer": "iShares",
+    "ticker": "XMD",
+    "name": "iShares S&P/TSX Completion Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239845/ishares-sptsx-completion-index-etf/1464253357814.ajax?fileType=csv&fileName=XMD_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xmh",
+    "label": "iShares Canada — XMH",
+    "issuer": "iShares",
+    "ticker": "XMH",
+    "name": "iShares S&P U.S. Mid-Cap Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/275749/ishares-sp-us-mid-cap-index-etf-ca-hedged/1464253357814.ajax?fileType=csv&fileName=XMH_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xmi",
+    "label": "iShares Canada — XMI",
+    "issuer": "iShares",
+    "ticker": "XMI",
+    "name": "iShares MSCI Min Vol EAFE Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239625/ishares-msci-eafe-minimum-volatility-index-etf/1464253357814.ajax?fileType=csv&fileName=XMI_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xml",
+    "label": "iShares Canada — XML",
+    "issuer": "iShares",
+    "ticker": "XML",
+    "name": "iShares MSCI Min Vol EAFE Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/283151/fund/1464253357814.ajax?fileType=csv&fileName=XML_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xmm",
+    "label": "iShares Canada — XMM",
+    "issuer": "iShares",
+    "ticker": "XMM",
+    "name": "iShares MSCI Min Vol Emerging Markets Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239640/ishares-msci-emerging-markets-minimum-volatility-index-etf/1464253357814.ajax?fileType=csv&fileName=XMM_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xms",
+    "label": "iShares Canada — XMS",
+    "issuer": "iShares",
+    "ticker": "XMS",
+    "name": "iShares MSCI Min Vol USA Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/283153/fund/1464253357814.ajax?fileType=csv&fileName=XMS_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xmtm",
+    "label": "iShares Canada — XMTM",
+    "issuer": "iShares",
+    "ticker": "XMTM",
+    "name": "iShares MSCI USA Momentum Factor Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/309728/fund/1464253357814.ajax?fileType=csv&fileName=XMTM_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xmu",
+    "label": "iShares Canada — XMU",
+    "issuer": "iShares",
+    "ticker": "XMU",
+    "name": "iShares MSCI Min Vol USA Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239694/ishares-msci-usa-minimum-volatility-index-etf/1464253357814.ajax?fileType=csv&fileName=XMU_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xmv",
+    "label": "iShares Canada — XMV",
+    "issuer": "iShares",
+    "ticker": "XMV",
+    "name": "iShares MSCI Min Vol Canada Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239616/ishares-msci-canada-minimum-volatility-index-etf/1464253357814.ajax?fileType=csv&fileName=XMV_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xmw",
+    "label": "iShares Canada — XMW",
+    "issuer": "iShares",
+    "ticker": "XMW",
+    "name": "iShares MSCI Min Vol Global Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239604/ishares-msci-all-country-world-minimum-volatility-index-etf/1464253357814.ajax?fileType=csv&fileName=XMW_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xmy",
+    "label": "iShares Canada — XMY",
+    "issuer": "iShares",
+    "ticker": "XMY",
+    "name": "iShares MSCI Min Vol Global Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/283155/fund/1464253357814.ajax?fileType=csv&fileName=XMY_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xpf",
+    "label": "iShares Canada — XPF",
+    "issuer": "iShares",
+    "ticker": "XPF",
+    "name": "iShares S&P/TSX North American Preferred Stock Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239851/ishares-sptsx-north-american-preferred-stock-index-etf-cadhedged-fund/1464253357814.ajax?fileType=csv&fileName=XPF_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xqb",
+    "label": "iShares Canada — XQB",
+    "issuer": "iShares",
+    "ticker": "XQB",
+    "name": "iShares High Quality Canadian Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239433/ishares-high-quality-canadian-bond-index-etf/1464253357814.ajax?fileType=csv&fileName=XQB_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xqlt",
+    "label": "iShares Canada — XQLT",
+    "issuer": "iShares",
+    "ticker": "XQLT",
+    "name": "iShares MSCI USA Quality Factor Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/309726/fund/1464253357814.ajax?fileType=csv&fileName=XQLT_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xqq",
+    "label": "iShares Canada — XQQ",
+    "issuer": "iShares",
+    "ticker": "XQQ",
+    "name": "iShares NASDAQ 100 Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239698/ishares-nasdaq-100-index-etf-cadhedged-fund/1464253357814.ajax?fileType=csv&fileName=XQQ_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xqqu",
+    "label": "iShares Canada — XQQU",
+    "issuer": "iShares",
+    "ticker": "XQQU",
+    "name": "iShares NASDAQ 100 Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/332751/fund/1464253357814.ajax?fileType=csv&fileName=XQQU_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xrb",
+    "label": "iShares Canada — XRB",
+    "issuer": "iShares",
+    "ticker": "XRB",
+    "name": "iShares Canadian Real Return Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239490/ishares-canadian-real-return-bond-index-etf/1464253357814.ajax?fileType=csv&fileName=XRB_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xre",
+    "label": "iShares Canada — XRE",
+    "issuer": "iShares",
+    "ticker": "XRE",
+    "name": "iShares S&P/TSX Capped REIT Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239843/ishares-sptsx-capped-reit-index-etf/1464253357814.ajax?fileType=csv&fileName=XRE_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xsab",
+    "label": "iShares Canada — XSAB",
+    "issuer": "iShares",
+    "ticker": "XSAB",
+    "name": "iShares ESG Aware Canadian Aggregate Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/307306/fund/1464253357814.ajax?fileType=csv&fileName=XSAB_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xsb",
+    "label": "iShares Canada — XSB",
+    "issuer": "iShares",
+    "ticker": "XSB",
+    "name": "iShares Core Canadian Short Term Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239491/ishares-canadian-short-term-bond-index-etf/1464253357814.ajax?fileType=csv&fileName=XSB_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xsc",
+    "label": "iShares Canada — XSC",
+    "issuer": "iShares",
+    "ticker": "XSC",
+    "name": "iShares Conservative Short Term Strategic Fixed Income ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/275742/ishares-short-term-conservative-strategic-fixed-income-etf/1464253357814.ajax?fileType=csv&fileName=XSC_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xse",
+    "label": "iShares Canada — XSE",
+    "issuer": "iShares",
+    "ticker": "XSE",
+    "name": "iShares Conservative Strategic Fixed Income ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/275744/ishares-conservative-strategic-fixed-income-etf/1464253357814.ajax?fileType=csv&fileName=XSE_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xsea",
+    "label": "iShares Canada — XSEA",
+    "issuer": "iShares",
+    "ticker": "XSEA",
+    "name": "iShares ESG Aware MSCI EAFE Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/307302/fund/1464253357814.ajax?fileType=csv&fileName=XSEA_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xsem",
+    "label": "iShares Canada — XSEM",
+    "issuer": "iShares",
+    "ticker": "XSEM",
+    "name": "iShares ESG Aware MSCI Emerging Markets Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/307304/fund/1464253357814.ajax?fileType=csv&fileName=XSEM_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xsh",
+    "label": "iShares Canada — XSH",
+    "issuer": "iShares",
+    "ticker": "XSH",
+    "name": "iShares Core Canadian Short Term Corporate Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239492/ishares-canadian-short-term-corporate-maple-bond-index-etf/1464253357814.ajax?fileType=csv&fileName=XSH_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xshg",
+    "label": "iShares Canada — XSHG",
+    "issuer": "iShares",
+    "ticker": "XSHG",
+    "name": "iShares ESG Advanced 1-5 Year Canadian Corporate Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/320097/fund/1464253357814.ajax?fileType=csv&fileName=XSHG_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xshu",
+    "label": "iShares Canada — XSHU",
+    "issuer": "iShares",
+    "ticker": "XSHU",
+    "name": "iShares 1-5 Year U.S. IG Corporate Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/319674/fund/1464253357814.ajax?fileType=csv&fileName=XSHU_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xsi",
+    "label": "iShares Canada — XSI",
+    "issuer": "iShares",
+    "ticker": "XSI",
+    "name": "iShares Short Term Strategic Fixed Income ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/271493/ishares-short-term-strategic-fixed-income-etf/1464253357814.ajax?fileType=csv&fileName=XSI_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xsmb",
+    "label": "iShares Canada — XSMB",
+    "issuer": "iShares",
+    "ticker": "XSMB",
+    "name": "iShares Core Canadian 1-10 Year Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/343593/fund/1464253357814.ajax?fileType=csv&fileName=XSMB_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xsmc",
+    "label": "iShares Canada — XSMC",
+    "issuer": "iShares",
+    "ticker": "XSMC",
+    "name": "iShares S&P U.S. Small-Cap Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/309732/fund/1464253357814.ajax?fileType=csv&fileName=XSMC_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xsmh",
+    "label": "iShares Canada — XSMH",
+    "issuer": "iShares",
+    "ticker": "XSMH",
+    "name": "iShares S&P U.S. Small-Cap Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/309734/fund/1464253357814.ajax?fileType=csv&fileName=XSMH_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xsp",
+    "label": "iShares Canada — XSP",
+    "issuer": "iShares",
+    "ticker": "XSP",
+    "name": "iShares Core S&P 500 Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239727/ishares-sp-500-index-etf-cadhedged-fund/1464253357814.ajax?fileType=csv&fileName=XSP_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xspc",
+    "label": "iShares Canada — XSPC",
+    "issuer": "iShares",
+    "ticker": "XSPC",
+    "name": "iShares S&P 500 3% Capped Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/337897/fund/1464253357814.ajax?fileType=csv&fileName=XSPC_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xst",
+    "label": "iShares Canada — XST",
+    "issuer": "iShares",
+    "ticker": "XST",
+    "name": "iShares S&P/TSX Capped Consumer Staples Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239838/ishares-sptsx-capped-consumer-staples-index-etf/1464253357814.ajax?fileType=csv&fileName=XST_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xstb",
+    "label": "iShares Canada — XSTB",
+    "issuer": "iShares",
+    "ticker": "XSTB",
+    "name": "iShares ESG Aware Canadian Short Term Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/307308/fund/1464253357814.ajax?fileType=csv&fileName=XSTB_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xsth",
+    "label": "iShares Canada — XSTH",
+    "issuer": "iShares",
+    "ticker": "XSTH",
+    "name": "iShares 0-5 Year TIPS Bond Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/319670/fund/1464253357814.ajax?fileType=csv&fileName=XSTH_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xstp",
+    "label": "iShares Canada — XSTP",
+    "issuer": "iShares",
+    "ticker": "XSTP",
+    "name": "iShares 0-5 Year TIPS Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/319672/fund/1464253357814.ajax?fileType=csv&fileName=XSTP_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xsu",
+    "label": "iShares Canada — XSU",
+    "issuer": "iShares",
+    "ticker": "XSU",
+    "name": "iShares U.S. Small Cap Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239711/ishares-us-small-cap-index-etf-cadhedged-fund/1464253357814.ajax?fileType=csv&fileName=XSU_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xsus",
+    "label": "iShares Canada — XSUS",
+    "issuer": "iShares",
+    "ticker": "XSUS",
+    "name": "iShares ESG Aware MSCI USA Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/307300/fund/1464253357814.ajax?fileType=csv&fileName=XSUS_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xtlh",
+    "label": "iShares Canada — XTLH",
+    "issuer": "iShares",
+    "ticker": "XTLH",
+    "name": "iShares 20+ Year U.S. Treasury Bond Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/330870/fund/1464253357814.ajax?fileType=csv&fileName=XTLH_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xtlt",
+    "label": "iShares Canada — XTLT",
+    "issuer": "iShares",
+    "ticker": "XTLT",
+    "name": "iShares 20+ Year U.S. Treasury Bond Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/330866/fund/1464253357814.ajax?fileType=csv&fileName=XTLT_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xtoh",
+    "label": "iShares Canada — XTOH",
+    "issuer": "iShares",
+    "ticker": "XTOH",
+    "name": "iShares Core S&P Total U.S. Stock Market Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/343570/fund/1464253357814.ajax?fileType=csv&fileName=XTOH_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xtot",
+    "label": "iShares Canada — XTOT",
+    "issuer": "iShares",
+    "ticker": "XTOT",
+    "name": "iShares Core S&P Total U.S. Stock Market Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/343519/fund/1464253357814.ajax?fileType=csv&fileName=XTOT_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xtr",
+    "label": "iShares Canada — XTR",
+    "issuer": "iShares",
+    "ticker": "XTR",
+    "name": "iShares Diversified Monthly Income ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239495/ishares-diversified-monthly-income-etf/1464253357814.ajax?fileType=csv&fileName=XTR_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xuh",
+    "label": "iShares Canada — XUH",
+    "issuer": "iShares",
+    "ticker": "XUH",
+    "name": "iShares Core S&P U.S. Total Market Index ETF (CAD-Hedged)",
+    "url": "https://www.blackrock.com/ca/investors/en/products/272106/ishares-core-sp-us-total-market-index-etf/1464253357814.ajax?fileType=csv&fileName=XUH_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xus",
+    "label": "iShares Canada — XUS",
+    "issuer": "iShares",
+    "ticker": "XUS",
+    "name": "iShares Core S&P 500 Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/251422/ishares-sp-500-index-etf/1464253357814.ajax?fileType=csv&fileName=XUS_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xusc",
+    "label": "iShares Canada — XUSC",
+    "issuer": "iShares",
+    "ticker": "XUSC",
+    "name": "iShares S&P 500 3% Capped Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/337895/fund/1464253357814.ajax?fileType=csv&fileName=XUSC_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xusf",
+    "label": "iShares Canada — XUSF",
+    "issuer": "iShares",
+    "ticker": "XUSF",
+    "name": "iShares S&P U.S. Financials Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/332753/fund/1464253357814.ajax?fileType=csv&fileName=XUSF_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xusr",
+    "label": "iShares Canada — XUSR",
+    "issuer": "iShares",
+    "ticker": "XUSR",
+    "name": "iShares ESG Advanced MSCI USA Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/313743/fund/1464253357814.ajax?fileType=csv&fileName=XUSR_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xut",
+    "label": "iShares Canada — XUT",
+    "issuer": "iShares",
+    "ticker": "XUT",
+    "name": "iShares S&P/TSX Capped Utilities Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239844/ishares-sptsx-capped-utilities-index-etf/1464253357814.ajax?fileType=csv&fileName=XUT_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xuu",
+    "label": "iShares Canada — XUU",
+    "issuer": "iShares",
+    "ticker": "XUU",
+    "name": "iShares Core S&P U.S. Total Market Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/272104/ishares-core-sp-us-total-market-index-etf/1464253357814.ajax?fileType=csv&fileName=XUU_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xvlu",
+    "label": "iShares Canada — XVLU",
+    "issuer": "iShares",
+    "ticker": "XVLU",
+    "name": "iShares MSCI USA Value Factor Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/309730/fund/1464253357814.ajax?fileType=csv&fileName=XVLU_holdings&dataType=fund"
+  },
+  {
+    "id": "ishares-xwd",
+    "label": "iShares Canada — XWD",
+    "issuer": "iShares",
+    "ticker": "XWD",
+    "name": "iShares MSCI World Index ETF",
+    "url": "https://www.blackrock.com/ca/investors/en/products/239697/ishares-msci-world-index-etf/1464253357814.ajax?fileType=csv&fileName=XWD_holdings&dataType=fund"
   }
 ]

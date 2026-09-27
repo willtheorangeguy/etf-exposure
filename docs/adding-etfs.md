@@ -54,6 +54,8 @@ This existing VCN entry is the reference shape:
 
 For a new fund, substitute only values verified on its own issuer page. Append the object to the existing array. Keep all unrelated sources and generated history. Use a stable lowercase ID such as the issuer name followed by the verified ticker.
 
+For iShares Canada, open each product page from BlackRock's Canadian directory and use its **Download Holdings** CSV link. Verify the unit currency on the page before including a CAD fund; the directory also lists USD unit classes. Set both `ticker` and the verified full `name` explicitly. A download filename may omit punctuation: CLU.C uses `fileName=CLUC_holdings`, so its configured ticker must remain `CLU.C`. Gold and silver bullion pages without holdings downloads cannot be imported from their performance or NAV tables.
+
 Set `ticker` explicitly for a single fund. Do not set one fund's ticker on a directory containing several funds. Configuration can override detected metadata, so a wrong configured ticker can label another fund's holdings incorrectly. Cross-check the issuer page and generated name.
 
 If the holdings download omits the fund's full name, set `name` to the name verified on its product page. BMO's ZCN source uses `"name": "BMO S&P/TSX Capped Composite Index ETF"`. This updates the catalog name on refresh even when no holdings have changed. Use this override only for a single fund.
