@@ -123,7 +123,6 @@ export default function CalculatorPage() {
                 <th className="py-1 pr-3">Name</th>
                 <th className="py-1 pr-3 text-right">Exposure</th>
                 <th className="py-1 pr-3 text-right">% of total</th>
-                <th className="py-1 pr-3">From ETFs</th>
               </tr>
             </thead>
             <tbody>
@@ -133,7 +132,6 @@ export default function CalculatorPage() {
                   <td className="py-1 pr-3">{r.name}</td>
                   <td className="py-1 pr-3 text-right">{money(r.exposure)}</td>
                   <td className="py-1 pr-3 text-right">{fmtPct(r.pctOfTotal)}</td>
-                  <td className="py-1 pr-3 text-xs">{r.byEtf.map((e) => `${e.etfTicker}: ${money(e.contribution)}`).join(", ")}</td>
                 </tr>
               ))}
             </tbody>
