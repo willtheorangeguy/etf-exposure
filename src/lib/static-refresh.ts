@@ -77,11 +77,13 @@ export async function refreshCatalog(previous: StaticCatalog, config: z.infer<ty
         const latestDate = etf.snapshots[0]?.as_of_date;
         if (!latestDate || input.asOfDate >= latestDate) { etf.name = input.name; etf.issuer = input.issuer ?? etf.issuer; }
         const existing = etf.snapshots.find((s) => s.as_of_date === input.asOfDate);
-        if (existing?.content_hash === hash && existing.partial === input.partial) { report.unchanged++; continue; }
+        if (existing?.content_hash === hash && existing.partial === input.partial
+          && existing.date_basis === fetched.dateBasis) { report.unchanged++; continue; }
         const file = `etfs/${ticker}/${input.asOfDate}.json`;
         const snapshot: StaticSnapshot = { id: existing?.id ?? Math.max(0,...etf.snapshots.map((s) => s.id)) + 1,
           as_of_date: input.asOfDate, source: "url", source_url: fetched.finalUrl, created_at: existing?.created_at ?? now,
-          partial: input.partial, content_hash: hash, holdings };
+          partial: input.partial, content_hash: hash, holdings,
+          ...(fetched.dateBasis ? { date_basis: fetched.dateBasis } : {}) };
         await storage.write(file, snapshot);
         const { holdings: unused, ...summary } = snapshot;
         void unused;

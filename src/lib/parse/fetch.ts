@@ -5,6 +5,7 @@ import { assertPublicUrl } from "../public-url";
 const MAX_BYTES = 10 * 1024 * 1024;
 
 export interface FetchResult {
+  dateBasis?: "retrieved";
   source: ParseSource;
   contentType: string;
   finalUrl: string;

@@ -21,7 +21,7 @@ export default function Etfs() {
       <thead><tr className="border-b"><th className="p-2">Ticker</th><th className="p-2">Name</th><th className="p-2">Issuer</th><th className="p-2">Holdings date</th></tr></thead>
       <tbody>{rows?.map((e) => <tr className="border-b" key={e.id}>
         <td className="p-2 font-mono"><Link className="underline" href={`/etfs/${e.id}`}>{e.ticker}</Link></td>
-        <td className="p-2">{e.name}</td><td className="p-2">{e.issuer}</td><td className="p-2">{e.snapshots[0]?.as_of_date ?? "—"}</td>
+        <td className="p-2">{e.name}</td><td className="p-2">{e.issuer}</td><td className="p-2">{e.snapshots[0]?.date_basis === "retrieved" ? "Retrieved " : ""}{e.snapshots[0]?.as_of_date ?? "—"}</td>
       </tr>)}</tbody>
     </table>
     {rows?.length === 0 && <p className="mt-4">No matching ETFs.</p>}

@@ -4,6 +4,28 @@ import { fetchSource, type FetchResult } from "./parse/fetch";
 import { xlsxRows } from "./parse/xlsx";
 import { assertPublicUrl } from "./public-url";
 
+/** TD publishes names and percentages, but no holdings date or security codes. */
+export function tdHoldingsCsv(html: string, retrievedDate: string): string {
+  const $ = cheerio.load(html);
+  const ticker = $('meta[name="fundCode"]').attr("content")?.trim();
+  const name = $("[data-fund-title]").attr("data-fund-title")?.trim();
+  if (!ticker || !/^[A-Z][A-Z0-9.\-]{0,19}$/.test(ticker) || !name) {
+    throw new Error("TD fund identity was not found on its product page.");
+  }
+  // This is the modal's full published list, not the ten visible preview rows.
+  const raw = $("[data-top-ten-table]").first().attr("data-top-ten-table");
+  const rows: unknown = JSON.parse(raw ?? "null");
+  if (!Array.isArray(rows) || !rows.length) throw new Error("TD returned no holdings.");
+  const holdings = rows.map((row) => {
+    if (!row || typeof row.label !== "string" || !row.label.trim()
+      || !["string", "number"].includes(typeof row.value) || String(row.value).trim() === ""
+      || !Number.isFinite(Number(row.value))) throw new Error("TD returned an invalid holding.");
+    return [row.label, row.label, Number(row.value)];
+  });
+  return Papa.unparse([[name], [`ETF ticker: ${ticker}`], [`Retrieved as of ${retrievedDate}`],
+    ["Ticker", "Holding name", "Weight (%)"], ...holdings]);
+}
+
 /** Known issuer adapters use published identifiers; they do not guess fund names. */
 export async function fetchIssuerSource(url: string): Promise<FetchResult> {
   const parsed = new URL(url);
@@ -46,6 +68,12 @@ export async function fetchIssuerSource(url: string): Promise<FetchResult> {
     throw new Error("BMO has no available holdings file in the last 14 days; existing snapshots were kept.");
   }
   const result = await fetchSource(url, 20000, true);
+  if (parsed.hostname === "www.td.com"
+    && /^\/ca\/en\/asset-management\/funds\/solutions\/etfs\/fundcard\/?$/i.test(parsed.pathname)) {
+    if (result.source.kind !== "html") throw new Error("Expected TD product page HTML.");
+    return { ...result, dateBasis: "retrieved", source: { kind: "csv",
+      text: tdHoldingsCsv(result.source.text, new Date().toISOString().slice(0, 10)) } };
+  }
   if (parsed.hostname.endsWith("blackrock.com") && result.source.kind === "csv") {
     const ticker = /^([A-Z0-9.]+)_holdings$/i.exec(parsed.searchParams.get("fileName") ?? "")?.[1];
     if (ticker) return { ...result, source: { kind: "csv", text: `iShares ${ticker}\n${result.source.text}` } };

@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "as_of_date": "2026-09-27",
+  "source": "url",
+  "source_url": "https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6903",
+  "created_at": "2026-09-27T12:22:18.991Z",
+  "partial": false,
+  "content_hash": "268b90a9f324be5efef7ce893a36bf58b5b3a1e3aaf807187426473d7d3a1999",
+  "holdings": [
+    {
+      "t": "CAD CURRENCY",
+      "n": "CAD Currency",
+      "weight": -2.21
+    },
+    {
+      "t": "CASH",
+      "n": "CASH",
+      "weight": 1.8
+    },
+    {
+      "t": "TD U.S. EQUITY INDEX ETF (TPU)",
+      "n": "TD U.S. Equity Index ETF (TPU)",
+      "weight": 100.31
+    },
+    {
+      "t": "USD CURRENCY",
+      "n": "USD Currency",
+      "weight": 0.1
+    }
+  ],
+  "date_basis": "retrieved"
+}

@@ -2,6 +2,7 @@ import type { Holding } from "@/lib/types";
 import { getCatalog, getStaticSnapshot } from "@/lib/catalog-client";
 
 export interface EtfLite {
+  latest_date_basis?: "retrieved";
   id: number;
   ticker: string;
   name: string;
@@ -11,6 +12,7 @@ export interface EtfLite {
 }
 
 export interface SnapSummary {
+  date_basis?: "retrieved";
   id: number;
   as_of_date: string;
   source: string;
@@ -21,6 +23,7 @@ export interface SnapSummary {
 }
 
 export interface SnapFull {
+  date_basis?: "retrieved";
   id: number;
   as_of_date: string;
   source: string;
@@ -34,7 +37,7 @@ export interface SnapFull {
 export async function apiGet<T>(path: string): Promise<T> {
   const url = new URL(path,"https://catalog.local");
   const catalog = await getCatalog();
-  const lite = (e: typeof catalog.etfs[number]): EtfLite => ({id:e.id,ticker:e.ticker,name:e.name,issuer:e.issuer,snapshot_count:e.snapshots.length,latest_as_of:e.snapshots[0]?.as_of_date ?? null});
+  const lite = (e: typeof catalog.etfs[number]): EtfLite => ({id:e.id,ticker:e.ticker,name:e.name,issuer:e.issuer,snapshot_count:e.snapshots.length,latest_as_of:e.snapshots[0]?.as_of_date ?? null,latest_date_basis:e.snapshots[0]?.date_basis});
   if (url.pathname === "/api/etfs") {
     const q = (url.searchParams.get("q") ?? "").trim().toLowerCase();
     return {etfs:catalog.etfs.filter((e)=>`${e.ticker} ${e.name}`.toLowerCase().includes(q)).map(lite)} as T;

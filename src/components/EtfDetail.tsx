@@ -73,7 +73,10 @@ export default function EtfDetailPage({ etfId }: { etfId: number }) {
       )}
       {snap && (
         <div className="mt-6">
-          <h2 className="font-medium">Holdings as of {snap.as_of_date}</h2>
+          <h2 className="font-medium">Holdings {snap.date_basis === "retrieved" ? "retrieved on" : "as of"} {snap.as_of_date}</h2>
+          {snap.date_basis === "retrieved" && (
+            <p className="mt-1 text-sm text-zinc-500">TD does not publish a holdings date. This is the date we fetched its latest published list. Holding names serve as IDs and may not combine with ticker-based holdings from other issuers.</p>
+          )}
           {snap.partial && (
             <p className="mt-1 rounded bg-amber-50 px-3 py-2 text-amber-800 dark:bg-amber-950 dark:text-amber-200">
               Partial sheet — some holdings missing.

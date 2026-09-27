@@ -1,0 +1,37 @@
+{
+  "id": 1,
+  "as_of_date": "2026-09-27",
+  "source": "url",
+  "source_url": "https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=7149",
+  "created_at": "2026-09-27T12:22:18.991Z",
+  "partial": false,
+  "content_hash": "de4ba5d43f2128c3c2a447f4f50ef1cc0fc2aac0169157ddea52d6b85df93bf6",
+  "holdings": [
+    {
+      "t": "CASH",
+      "n": "CASH",
+      "weight": 0.09
+    },
+    {
+      "t": "TD CANADIAN AGGREGATE BOND INDEX ETF (TDB)",
+      "n": "TD Canadian Aggregate Bond Index ETF (TDB)",
+      "weight": 59.73
+    },
+    {
+      "t": "TD CANADIAN EQUITY INDEX ETF (TTP)",
+      "n": "TD Canadian Equity Index ETF (TTP)",
+      "weight": 14.85
+    },
+    {
+      "t": "TD INTERNATIONAL EQUITY INDEX ETF (TPE)",
+      "n": "TD International Equity Index ETF (TPE)",
+      "weight": 9.93
+    },
+    {
+      "t": "TD U.S. EQUITY INDEX ETF (TPU)",
+      "n": "TD U.S. Equity Index ETF (TPU)",
+      "weight": 15.39
+    }
+  ],
+  "date_basis": "retrieved"
+}

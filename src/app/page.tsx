@@ -68,7 +68,7 @@ export default function CalculatorPage() {
           <div key={r.etf.id} className="grid grid-cols-1 gap-2 sm:grid-cols-[1fr_10rem_4rem] items-center">
             <span>
               <b>{r.etf.ticker}</b> — {r.etf.name}
-              {r.etf.latest_as_of && <span className="text-xs text-zinc-400"> (as of {r.etf.latest_as_of})</span>}
+              {r.etf.latest_as_of && <span className="text-xs text-zinc-400"> ({r.etf.latest_date_basis === "retrieved" ? "retrieved" : "as of"} {r.etf.latest_as_of})</span>}
             </span>
             <input
               type="number"
@@ -198,7 +198,7 @@ function EtfAdder({ onPick }: { onPick: (etf: EtfLite, amount: string) => void }
             {results.map((r) => (
               <li key={r.id}><button type="button" onMouseDown={(e) => e.preventDefault()} onClick={() => pick(r)} className="w-full px-3 py-2 text-left hover:bg-zinc-100 dark:hover:bg-zinc-800">
                 <b>{r.ticker}</b> — {r.name}{" "}
-                {r.latest_as_of && <span className="text-zinc-400">as of {r.latest_as_of}</span>}
+                {r.latest_as_of && <span className="text-zinc-400">{r.latest_date_basis === "retrieved" ? "retrieved" : "as of"} {r.latest_as_of}</span>}
               </button></li>
             ))}
           </ul>

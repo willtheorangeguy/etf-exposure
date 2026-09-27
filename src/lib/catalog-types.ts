@@ -1,6 +1,7 @@
 import type { Holding } from "./types";
 
 export interface CatalogSnapshot {
+  date_basis?: "retrieved";
   id: number;
   as_of_date: string;
   source: "url";

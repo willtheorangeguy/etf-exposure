@@ -2,6 +2,12 @@
 
 Add one issuer source to `config/sources.json`, run a refresh, and verify the generated catalog before adding more funds. You add ETFs here, not the individual stocks inside them. The issuer download supplies those holdings.
 
+## TD automatic refresh
+
+TD product pages are supported by an issuer adapter that reads the embedded list used by the full holdings modal. Set the verified ticker and full name explicitly. Both CAD and USD unit classes are configured.
+
+TD's published list has no verified holdings date. The accepted TD-specific exception uses the UTC retrieval date and stores `date_basis: "retrieved"`. The detail page identifies this as a retrieval date. Other sources still require an issuer holdings date. Holding names serve as IDs because TD does not supply security tickers or ISINs, so cross-issuer aggregation may be incomplete. Weight validation and partial status still apply. See [TD coverage](internal/td-coverage.md) for the inspected product pages and refresh behavior.
+
 ## Choose the source type
 
 | Source | Use when | Existing support |
