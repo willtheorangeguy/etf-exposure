@@ -5,7 +5,7 @@
   "source_url": "https://www.vanguard.ca/en/product/etf/equity/9742/vanguard-ftse-developed-ex-north-america-high-dividend-yield-index-etf",
   "created_at": "2026-09-26T13:21:27.636Z",
   "partial": false,
-  "content_hash": "38d82a70f1a795019565e2b186f62f866e3d4a45ef5799e147fe59be5c3353b0",
+  "content_hash": "9ebc736d5dd31b6aefffadb03b96bb87697947cc5fef30a6ebe68247b4d43c12",
   "holdings": [
     {
       "t": "000270",
@@ -2354,6 +2354,21 @@
       "region": "AU"
     },
     {
+      "t": "AUD",
+      "n": "AUD/USD FWD 20260916",
+      "weight": -0.01338
+    },
+    {
+      "t": "AUD",
+      "n": "AUD/USD FWD 20260916",
+      "weight": -0.0382
+    },
+    {
+      "t": "AUD",
+      "n": "AUD/USD FWD 20260916",
+      "weight": -0.08729
+    },
+    {
       "t": "AV/",
       "n": "Aviva PLC",
       "weight": 0.22744,
@@ -2686,6 +2701,56 @@
       "weight": 0.00178
     },
     {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.00177
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.01038
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.05156
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.06153
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.06153
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.17428
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.18503
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.26396
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260901",
+      "weight": -0.34525
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.45498
+    },
+    {
       "t": "CAP",
       "n": "Capgemini SE",
       "weight": 0.14758,
@@ -2767,6 +2832,11 @@
       "n": "Swiss Franc",
       "weight": 0.00078,
       "region": "CH"
+    },
+    {
+      "t": "CHF",
+      "n": "CHF/USD FWD 20260916",
+      "weight": -0.06583
     },
     {
       "t": "CLI",
@@ -2938,6 +3008,11 @@
       "n": "Danish Krone",
       "weight": 0.0028,
       "region": "DK"
+    },
+    {
+      "t": "DKK",
+      "n": "DKK/USD FWD 20260916",
+      "weight": -0.00183
     },
     {
       "t": "DLAS",
@@ -3235,6 +3310,11 @@
       "weight": 0.0046
     },
     {
+      "t": "EUR",
+      "n": "EUR/USD FWD 20260916",
+      "weight": -0.117
+    },
+    {
       "t": "EVK",
       "n": "Evonik Industries AG",
       "weight": 0.04204,
@@ -3474,6 +3554,16 @@
       "region": "GB"
     },
     {
+      "t": "GBP",
+      "n": "GBP/USD FWD 20260916",
+      "weight": -0.05084
+    },
+    {
+      "t": "GBP",
+      "n": "GBP/USD FWD 20260916",
+      "weight": -0.28962
+    },
+    {
       "t": "GENS",
       "n": "Genting Singapore Ltd",
       "weight": 0.02138,
@@ -3571,6 +3661,11 @@
       "n": "Hong Kong Dollar",
       "weight": 0.0018,
       "region": "HK"
+    },
+    {
+      "t": "HKD",
+      "n": "HKD/USD FWD 20260916",
+      "weight": -0.00994
     },
     {
       "t": "HKL",
@@ -3691,6 +3786,11 @@
       "region": "IL"
     },
     {
+      "t": "ILS",
+      "n": "ILS/USD FWD 20260916",
+      "weight": -0.01345
+    },
+    {
       "t": "IMB",
       "n": "Imperial Brands PLC",
       "weight": 0.19529,
@@ -3797,6 +3897,16 @@
       "region": "JP"
     },
     {
+      "t": "JPY",
+      "n": "JPY/USD FWD 20260916",
+      "weight": -0.09179
+    },
+    {
+      "t": "JPY",
+      "n": "JPY/USD FWD 20260916",
+      "weight": -0.10191
+    },
+    {
       "t": "KBC",
       "n": "KBC Group NV",
       "weight": 0.2577,
@@ -3870,6 +3980,11 @@
       "t": "KRW",
       "n": "KRW/USD FWD 20260901",
       "weight": 0.00854
+    },
+    {
+      "t": "KRW",
+      "n": "KRW/USD FWD 20260916",
+      "weight": -0.03278
     },
     {
       "t": "LEG",
@@ -4143,6 +4258,11 @@
       "n": "Norwegian Krone",
       "weight": 0.00331,
       "region": "NO"
+    },
+    {
+      "t": "NOK",
+      "n": "NOK/USD FWD 20260916",
+      "weight": -0.00053
     },
     {
       "t": "NOVN",
@@ -4658,10 +4778,25 @@
       "region": "SE"
     },
     {
+      "t": "SEK",
+      "n": "SEK/USD FWD 20260916",
+      "weight": -0.02342
+    },
+    {
       "t": "SGD",
       "n": "Singapore Dollar",
       "weight": 0.02352,
       "region": "SG"
+    },
+    {
+      "t": "SGD",
+      "n": "SGD/USD FWD 20260901",
+      "weight": -0.01092
+    },
+    {
+      "t": "SGD",
+      "n": "SGD/USD FWD 20260916",
+      "weight": -0.01743
     },
     {
       "t": "SGO",
@@ -5211,6 +5346,136 @@
       "t": "USD",
       "n": "USD/NOK FWD 20260916",
       "weight": 0.00052
+    },
+    {
+      "t": "USD",
+      "n": "USD/NZD FWD 20260901",
+      "weight": -0.00045
+    },
+    {
+      "t": "USD",
+      "n": "USD/PLN FWD 20260901",
+      "weight": -0.00222
+    },
+    {
+      "t": "USD",
+      "n": "USD/NOK FWD 20260901",
+      "weight": -0.00369
+    },
+    {
+      "t": "USD",
+      "n": "USD/EUR FWD 20260916",
+      "weight": -0.00452
+    },
+    {
+      "t": "USD",
+      "n": "USD/DKK FWD 20260901",
+      "weight": -0.00633
+    },
+    {
+      "t": "USD",
+      "n": "USD/SEK FWD 20260901",
+      "weight": -0.00769
+    },
+    {
+      "t": "USD",
+      "n": "USD/HKD FWD 20260901",
+      "weight": -0.00775
+    },
+    {
+      "t": "USD",
+      "n": "USD/KRW FWD 20260901",
+      "weight": -0.00851
+    },
+    {
+      "t": "USD",
+      "n": "USD/EUR FWD 20260916",
+      "weight": -0.02859
+    },
+    {
+      "t": "USD",
+      "n": "USD/GBP FWD 20260916",
+      "weight": -0.02946
+    },
+    {
+      "t": "USD",
+      "n": "USD/AUD FWD 20260916",
+      "weight": -0.03252
+    },
+    {
+      "t": "USD",
+      "n": "USD/AUD FWD 20260916",
+      "weight": -0.03734
+    },
+    {
+      "t": "USD",
+      "n": "USD/AUD FWD 20260901",
+      "weight": -0.0382
+    },
+    {
+      "t": "USD",
+      "n": "USD/EUR FWD 20260916",
+      "weight": -0.03947
+    },
+    {
+      "t": "USD",
+      "n": "USD/CHF FWD 20260901",
+      "weight": -0.04236
+    },
+    {
+      "t": "USD",
+      "n": "USD/GBP FWD 20260916",
+      "weight": -0.04388
+    },
+    {
+      "t": "USD",
+      "n": "USD/JPY FWD 20260916",
+      "weight": -0.04732
+    },
+    {
+      "t": "USD",
+      "n": "USD/EUR FWD 20260916",
+      "weight": -0.05239
+    },
+    {
+      "t": "USD",
+      "n": "USD/AUD FWD 20260916",
+      "weight": -0.05601
+    },
+    {
+      "t": "USD",
+      "n": "USD/GBP FWD 20260902",
+      "weight": -0.0569
+    },
+    {
+      "t": "USD",
+      "n": "USD/JPY FWD 20260901",
+      "weight": -0.05887
+    },
+    {
+      "t": "USD",
+      "n": "USD/JPY FWD 20260916",
+      "weight": -0.06653
+    },
+    {
+      "t": "USD",
+      "n": "USD/JPY FWD 20260916",
+      "weight": -0.08406
+    },
+    {
+      "t": "USD",
+      "n": "USD/EUR FWD 20260901",
+      "weight": -0.11237
+    },
+    {
+      "t": "USD",
+      "n": "USD/GBP FWD 20260916",
+      "weight": -0.13472
+    },
+    {
+      "t": "USD",
+      "n": "USD/GBP FWD 20260916",
+      "weight": -0.13818
     },
     {
       "t": "UU/",

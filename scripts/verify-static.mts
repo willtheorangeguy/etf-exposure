@@ -15,7 +15,7 @@ for (const etf of catalog.etfs) {
     const snapshot: StaticSnapshot = JSON.parse(await readFile(`out/data/${summary.file}`, "utf8"));
     assert.equal(snapshot.holdings.length, summary.holdings_count);
     assert.equal(snapshot.content_hash, summary.content_hash);
-    assert(snapshot.holdings.every((h) => h.weight > 0 && Number.isFinite(h.weight)));
+    assert(snapshot.holdings.every((h) => h.weight !== 0 && Number.isFinite(h.weight)));
   }
   holdings[etf.id] = JSON.parse(await readFile(`out/data/${etf.snapshots[0].file}`, "utf8")).holdings;
   positions.push({ etfId: etf.id, etfTicker: etf.ticker, amount: 1000, asOf: etf.snapshots[0].as_of_date, partial: etf.snapshots[0].partial });

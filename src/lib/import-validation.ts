@@ -14,7 +14,7 @@ export const ImportSchema = z.object({
   holdings: z.array(z.object({
     t: z.string().trim().min(1).max(100),
     n: z.string().trim().min(1).max(500),
-    weight: z.number().positive().max(100),
+    weight: z.number().max(100).refine((v) => v !== 0, "weight must be non-zero"),
     isin: z.string().regex(/^[A-Z]{2}[A-Z0-9]{10}$/).optional(),
     sector: z.string().nullish().transform((v) => v ?? undefined),
     region: z.string().nullish().transform((v) => v ?? undefined),

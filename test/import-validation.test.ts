@@ -13,3 +13,17 @@ it("rejects impossible calendar dates", () => {
 it("rejects totals above the rounding tolerance", () => {
   expect(ImportSchema.safeParse({ ...input, holdings: [...input.holdings, { t: "TD", n: "TD", weight: 10 }] }).success).toBe(false);
 });
+it("accepts negative-weight (short hedge) rows that net to 100%", () => {
+  const parsed = ImportSchema.parse({ ...input, holdings: [
+    { t: "EQ", n: "Equity Core", weight: 98.94 },
+    { t: "USD", n: "USD Forward", weight: 1.42 },
+    { t: "EUR", n: "EUR Forward", weight: -0.36 },
+  ]});
+  expect(parsed.holdings[2].weight).toBeCloseTo(-0.36, 4);
+});
+it("rejects zero weights", () => {
+  expect(ImportSchema.safeParse({ ...input, holdings: [{ t: "RY", n: "Royal Bank", weight: 0 }] }).success).toBe(false);
+});
+it("rejects single weights above 100", () => {
+  expect(ImportSchema.safeParse({ ...input, holdings: [{ t: "RY", n: "Royal Bank", weight: 101 }] }).success).toBe(false);
+});

@@ -5,7 +5,7 @@
   "source_url": "https://www.vanguard.ca/en/product/etf/equity/9549/vanguard-ftse-developed-europe-all-cap-index-etf",
   "created_at": "2026-09-26T13:21:27.636Z",
   "partial": false,
-  "content_hash": "382488acaa1b6a4958afff3876f38d2b47760c2a68aa0305f58e7ac009f8893d",
+  "content_hash": "977f93c1f940911dc463c11e71319ebd64479a363af6e50c021f3c1d3a6b5b26",
   "holdings": [
     {
       "t": "1COV",
@@ -1866,6 +1866,51 @@
       "weight": 0.007
     },
     {
+      "t": "CAD",
+      "n": "CAD/GBP FWD 20260916",
+      "weight": -0.00706
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260901",
+      "weight": -0.02907
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/EUR FWD 20260916",
+      "weight": -0.04596
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.05458
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.05978
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.07187
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.07325
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.07807
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.095
+    },
+    {
       "t": "CADLR",
       "n": "Cadeler A/S",
       "weight": 0.00764,
@@ -2070,6 +2115,16 @@
       "n": "Swiss Franc",
       "weight": 0.01026,
       "region": "CH"
+    },
+    {
+      "t": "CHF",
+      "n": "CHF/USD FWD 20260902",
+      "weight": -0.00748
+    },
+    {
+      "t": "CHF",
+      "n": "CHF/USD FWD 20260916",
+      "weight": -0.17041
     },
     {
       "t": "CHG",
@@ -2620,6 +2675,16 @@
       "n": "Danish Krone",
       "weight": 0.01129,
       "region": "DK"
+    },
+    {
+      "t": "DKK",
+      "n": "DKK/USD FWD 20260902",
+      "weight": -0.00939
+    },
+    {
+      "t": "DKK",
+      "n": "DKK/USD FWD 20260916",
+      "weight": -0.01822
     },
     {
       "t": "DKSH",
@@ -3338,6 +3403,21 @@
       "region": "XE"
     },
     {
+      "t": "EUR",
+      "n": "EUR/USD FWD 20260916",
+      "weight": -0.14004
+    },
+    {
+      "t": "EUR",
+      "n": "EUR/USD FWD 20260916",
+      "weight": -0.26584
+    },
+    {
+      "t": "EUR",
+      "n": "EUR/USD FWD 20260916",
+      "weight": -0.71811
+    },
+    {
       "t": "EUZ",
       "n": "Eckert & Ziegler SE",
       "weight": 0.00397,
@@ -3886,6 +3966,31 @@
       "n": "British Pound Sterling",
       "weight": 0.00825,
       "region": "GB"
+    },
+    {
+      "t": "GBP",
+      "n": "GBP/USD FWD 20260916",
+      "weight": -0.03075
+    },
+    {
+      "t": "GBP",
+      "n": "GBP/USD FWD 20260916",
+      "weight": -0.0323
+    },
+    {
+      "t": "GBP",
+      "n": "GBP/USD FWD 20260916",
+      "weight": -0.04044
+    },
+    {
+      "t": "GBP",
+      "n": "GBP/USD FWD 20260916",
+      "weight": -0.04813
+    },
+    {
+      "t": "GBP",
+      "n": "GBP/USD FWD 20260916",
+      "weight": -0.05446
     },
     {
       "t": "GDWN",
@@ -6350,6 +6455,11 @@
       "region": "NO"
     },
     {
+      "t": "NOK",
+      "n": "NOK/USD FWD 20260916",
+      "weight": -0.00077
+    },
+    {
       "t": "NOKIA",
       "n": "Nokia Oyj",
       "weight": 0.3107,
@@ -6818,6 +6928,11 @@
       "n": "Polish Zloty",
       "weight": 0.00128,
       "region": "PL"
+    },
+    {
+      "t": "PLN",
+      "n": "PLN/USD FWD 20260916",
+      "weight": -0.00263
     },
     {
       "t": "PLNW",
@@ -7800,6 +7915,11 @@
       "n": "Swedish Krona",
       "weight": 0.00623,
       "region": "SE"
+    },
+    {
+      "t": "SEK",
+      "n": "SEK/USD FWD 20260916",
+      "weight": -0.0035
     },
     {
       "t": "SEM",
@@ -9234,6 +9354,46 @@
       "t": "USD",
       "n": "USD/NOK FWD 20260916",
       "weight": 0.00076
+    },
+    {
+      "t": "USD",
+      "n": "USD/GBP FWD 20260916",
+      "weight": -0.01628
+    },
+    {
+      "t": "USD",
+      "n": "USD/EUR FWD 20260916",
+      "weight": -0.02621
+    },
+    {
+      "t": "USD",
+      "n": "USD/GBP FWD 20260916",
+      "weight": -0.06358
+    },
+    {
+      "t": "USD",
+      "n": "USD/EUR FWD 20260916",
+      "weight": -0.06922
+    },
+    {
+      "t": "USD",
+      "n": "USD/EUR FWD 20260916",
+      "weight": -0.11721
+    },
+    {
+      "t": "USD",
+      "n": "USD/EUR FWD 20260916",
+      "weight": -0.27538
+    },
+    {
+      "t": "USD",
+      "n": "USD/EUR FWD 20260916",
+      "weight": -0.43352
+    },
+    {
+      "t": "USD",
+      "n": "USD/EUR FWD 20260916",
+      "weight": -0.73203
     },
     {
       "t": "UTDI",
