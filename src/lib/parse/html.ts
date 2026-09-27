@@ -51,7 +51,7 @@ export function extractTable($: cheerio.CheerioAPI, url?: string): { header: str
       if (!r[ti]) continue;
       const ticker = cleanTicker(r[ti]);
       const weight = cleanNumber(r[wi]);
-      if (!ticker || weight == null || weight <= 0) continue;
+      if (!ticker || weight == null || weight === 0) continue;
       const h: Holding = {
         t: ticker,
         n: ni >= 0 ? normalizeName(r[ni]) : ticker,

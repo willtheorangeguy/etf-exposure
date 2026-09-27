@@ -5,7 +5,7 @@
   "source_url": "https://www.vanguard.ca/en/product/etf/equity/9569/vanguard-ftse-developed-all-cap-ex-north-america-index-etf",
   "created_at": "2026-09-26T13:21:27.636Z",
   "partial": false,
-  "content_hash": "0b4e0626bfe2bfff27ae0fcfcd47770ed3a6c679b0f77057e3c5c2560a26faa1",
+  "content_hash": "0a41868a6de408f6dd893b3db3341b3d33984d6e91ba676ce679460422a69dfc",
   "holdings": [
     {
       "t": "000070",
@@ -16766,6 +16766,21 @@
       "region": "AU"
     },
     {
+      "t": "AUD",
+      "n": "AUD/USD FWD 20260902",
+      "weight": -0.00854
+    },
+    {
+      "t": "AUD",
+      "n": "AUD/USD FWD 20260916",
+      "weight": -0.01136
+    },
+    {
+      "t": "AUD",
+      "n": "AUD/USD FWD 20260916",
+      "weight": -0.01593
+    },
+    {
       "t": "AURA",
       "n": "Aura Investments Ltd",
       "weight": 0.00308,
@@ -17890,6 +17905,81 @@
       "weight": 0.01216
     },
     {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.01192
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.03988
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.04048
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.04365
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.04603
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260901",
+      "weight": -0.05962
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.07777
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.088
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.09847
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.11587
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.12575
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.12706
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.14065
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.18553
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20260916",
+      "weight": -0.24647
+    },
+    {
       "t": "CADLR",
       "n": "Cadeler A/S",
       "weight": 0.00443,
@@ -18211,6 +18301,11 @@
       "n": "Swiss Franc",
       "weight": 0.00172,
       "region": "CH"
+    },
+    {
+      "t": "CHF",
+      "n": "CHF/USD FWD 20260916",
+      "weight": -0.1057
     },
     {
       "t": "CHG",
@@ -19095,6 +19190,11 @@
       "n": "Danish Krone",
       "weight": 0.00599,
       "region": "DK"
+    },
+    {
+      "t": "DKK",
+      "n": "DKK/USD FWD 20260916",
+      "weight": -0.01177
     },
     {
       "t": "DKSH",
@@ -20050,6 +20150,11 @@
       "weight": 0.00806
     },
     {
+      "t": "EUR",
+      "n": "EUR/USD FWD 20260916",
+      "weight": -0.10538
+    },
+    {
       "t": "EUZ",
       "n": "Eckert & Ziegler SE",
       "weight": 0.00213,
@@ -20829,6 +20934,16 @@
       "region": "GB"
     },
     {
+      "t": "GBP",
+      "n": "GBP/USD FWD 20260916",
+      "weight": -0.04055
+    },
+    {
+      "t": "GBP",
+      "n": "GBP/USD FWD 20260916",
+      "weight": -0.05471
+    },
+    {
       "t": "GCT",
       "n": "G City Ltd",
       "weight": 0.00109,
@@ -21552,6 +21667,11 @@
       "n": "Hong Kong Dollar",
       "weight": 0.00405,
       "region": "HK"
+    },
+    {
+      "t": "HKD",
+      "n": "HKD/USD FWD 20260916",
+      "weight": -0.00173
     },
     {
       "t": "HKL",
@@ -22581,6 +22701,16 @@
       "weight": 0.0088
     },
     {
+      "t": "JPY",
+      "n": "JPY/USD FWD 20260916",
+      "weight": -0.00846
+    },
+    {
+      "t": "JPY",
+      "n": "JPY/USD FWD 20260916",
+      "weight": -0.15737
+    },
+    {
       "t": "JSW",
       "n": "Jastrzebska Spolka Weglowa SA",
       "weight": 0.00148,
@@ -22917,6 +23047,11 @@
       "n": "Korean Won",
       "weight": 0.0298,
       "region": "KR"
+    },
+    {
+      "t": "KRW",
+      "n": "KRW/USD FWD 20260916",
+      "weight": -0.04804
     },
     {
       "t": "KSB3",
@@ -26538,6 +26673,11 @@
       "region": "SE"
     },
     {
+      "t": "SEK",
+      "n": "SEK/USD FWD 20260916",
+      "weight": -0.01051
+    },
+    {
       "t": "SEM",
       "n": "Semapa-Sociedade de Investimento e Gestao",
       "weight": 0.00127,
@@ -26614,6 +26754,11 @@
       "n": "Singapore Dollar",
       "weight": 0.01665,
       "region": "SG"
+    },
+    {
+      "t": "SGD",
+      "n": "SGD/USD FWD 20260916",
+      "weight": -0.02001
     },
     {
       "t": "SGE",
@@ -28519,6 +28664,51 @@
       "t": "USD",
       "n": "USD/HKD FWD 20260916",
       "weight": 0.00174
+    },
+    {
+      "t": "USD",
+      "n": "USD/GBP FWD 20260916",
+      "weight": -0.00753
+    },
+    {
+      "t": "USD",
+      "n": "USD/SEK FWD 20260916",
+      "weight": -0.00777
+    },
+    {
+      "t": "USD",
+      "n": "USD/EUR FWD 20260916",
+      "weight": -0.00791
+    },
+    {
+      "t": "USD",
+      "n": "USD/JPY FWD 20260916",
+      "weight": -0.00861
+    },
+    {
+      "t": "USD",
+      "n": "USD/CHF FWD 20260916",
+      "weight": -0.02012
+    },
+    {
+      "t": "USD",
+      "n": "USD/GBP FWD 20260916",
+      "weight": -0.02629
+    },
+    {
+      "t": "USD",
+      "n": "USD/JPY FWD 20260916",
+      "weight": -0.03193
+    },
+    {
+      "t": "USD",
+      "n": "USD/KRW FWD 20260916",
+      "weight": -0.09055
+    },
+    {
+      "t": "USD",
+      "n": "USD/JPY FWD 20260916",
+      "weight": -0.09975
     },
     {
       "t": "UTDI",

@@ -40,7 +40,7 @@ function mapRow(row: Row, ti: number, wi: number, ni: number, si: number, ri: nu
   const ticker = cleanTicker(String(tickRaw));
   if (!ticker) return null;
   const weight = cleanNumber(row[wi]);
-  if (weight == null || weight <= 0) return null;
+  if (weight == null || weight === 0) return null;
   const h: Holding = {
     t: ticker,
     n: ni >= 0 ? normalizeName(String(row[ni] ?? ticker)) : ticker,

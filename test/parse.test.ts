@@ -59,6 +59,16 @@ describe("parseSheet pipeline", () => {
     expect(t.holdings.find((h) => h.t === "TD")!.n).toBe("The Toronto-Dominion Bank");
   });
 
+  it("keeps negative-weight (short hedge) rows that net to 100%", () => {
+    const csv = "Ticker,Name,% weight\nEQ,Equity Core,99.0\nUSD,USD Forward Long,-0.42\nCAD,CAD Forward Long,1.42\nEUR,FX Forward Short,-0.12\nCAD,CAD Forward Long,0.12\n";
+    const t = parseSheet({ kind: "csv", text: csv });
+    expect(t.holdings.length).toBe(5);
+    expect(t.holdings.find((h) => h.t === "EUR")!.weight).toBeCloseTo(-0.12, 4);
+    const total = t.holdings.reduce((s, h) => s + h.weight, 0);
+    expect(total).toBeCloseTo(100, 3);
+    expect(t.partial).toBe(false);
+  });
+
   it("rejects input without a recognizable header", () => {
     expect(() => parseSheet({ kind: "csv", text: "a,b,c\n1,2,3\n" })).toThrow(ParseError);
   });
