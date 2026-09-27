@@ -8872,8 +8872,13 @@
       "last_checked_at": "2026-09-27T12:22:18.991Z",
       "last_success_at": "2026-09-27T12:22:18.991Z",
       "imported": 0,
-      "unchanged": 1,
-      "errors": []
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGRO_20260924.xlsx",
+          "error": "fetch failed: fetch returned HTTP 502"
+        }
+      ]
     },
     {
       "id": "bmo-zhc",
