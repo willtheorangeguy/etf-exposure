@@ -1,0 +1,290 @@
+{
+  "id": 1,
+  "as_of_date": "2026-09-25",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPAY_20260925.xlsx",
+  "created_at": "2026-09-27T03:16:16.962Z",
+  "partial": true,
+  "content_hash": "17c3fbfc53244559dae2674543157eb3c2dc64d9f4ab773308a165b9f125cc2a",
+  "holdings": [
+    {
+      "t": "AAPL",
+      "n": "Apple Inc.",
+      "weight": 3.64,
+      "isin": "US0378331005",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 20551367.26,
+      "shares": 42600
+    },
+    {
+      "t": "ACN",
+      "n": "Accenture plc",
+      "weight": 0.69,
+      "isin": "IE00B4BNMY34",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 3885941.12,
+      "shares": 15600
+    },
+    {
+      "t": "ADP",
+      "n": "Automatic Data Processing, Inc.",
+      "weight": 1.7,
+      "isin": "US0530151036",
+      "sector": "INDUSTRIALS",
+      "mv": 9606395.4,
+      "shares": 25758
+    },
+    {
+      "t": "AMAT",
+      "n": "Applied Materials, Inc.",
+      "weight": 0.55,
+      "isin": "US0382221051",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 3087037.13,
+      "shares": 4500
+    },
+    {
+      "t": "APH",
+      "n": "Amphenol Corporation",
+      "weight": 0.35,
+      "isin": "US0320951017",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 1974422.27,
+      "shares": 16600
+    },
+    {
+      "t": "BLK",
+      "n": "BlackRock, Inc.",
+      "weight": 0.57,
+      "isin": "US09290D1019",
+      "sector": "FINANCIALS",
+      "mv": 3226715.48,
+      "shares": 2100
+    },
+    {
+      "t": "BMY",
+      "n": "Bristol-Myers Squibb Company",
+      "weight": 0.54,
+      "isin": "US1101221083",
+      "sector": "HEALTH CARE",
+      "mv": 3040801.58,
+      "shares": 34200
+    },
+    {
+      "t": "COST",
+      "n": "Costco Wholesale Corporation",
+      "weight": 2.71,
+      "isin": "US22160K1051",
+      "sector": "CONSUMER STAPLES",
+      "mv": 15270897.97,
+      "shares": 11700
+    },
+    {
+      "t": "CSCO",
+      "n": "Cisco Systems, Inc.",
+      "weight": 0.48,
+      "isin": "US17275R1023",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 2731684.85,
+      "shares": 18100
+    },
+    {
+      "t": "GOOGL",
+      "n": "Alphabet Inc.",
+      "weight": 2.71,
+      "isin": "US02079K3059",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 15274770.02,
+      "shares": 31400
+    },
+    {
+      "t": "INTU",
+      "n": "Intuit Inc.",
+      "weight": 0.41,
+      "isin": "US4612021034",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 2301537.88,
+      "shares": 5900
+    },
+    {
+      "t": "JNJ",
+      "n": "Johnson & Johnson",
+      "weight": 0.84,
+      "isin": "US4781601046",
+      "sector": "HEALTH CARE",
+      "mv": 4756976.4,
+      "shares": 12400
+    },
+    {
+      "t": "KO",
+      "n": "The Coca-Cola Company",
+      "weight": 0.45,
+      "isin": "US1912161007",
+      "sector": "CONSUMER STAPLES",
+      "mv": 2546158.52,
+      "shares": 20500
+    },
+    {
+      "t": "LIN",
+      "n": "Linde plc",
+      "weight": 1.54,
+      "isin": "IE000S9YS762",
+      "sector": "MATERIALS",
+      "mv": 8673498.63,
+      "shares": 13050
+    },
+    {
+      "t": "LLY",
+      "n": "Eli Lilly and Company",
+      "weight": 2.73,
+      "isin": "US5324571083",
+      "sector": "HEALTH CARE",
+      "mv": 15400293.98,
+      "shares": 9200
+    },
+    {
+      "t": "LMT",
+      "n": "Lockheed Martin Corporation",
+      "weight": 1.88,
+      "isin": "US5398301094",
+      "sector": "INDUSTRIALS",
+      "mv": 10582439.65,
+      "shares": 14400
+    },
+    {
+      "t": "MA",
+      "n": "Mastercard Incorporated",
+      "weight": 1.49,
+      "isin": "US57636Q1040",
+      "sector": "FINANCIALS",
+      "mv": 8390436.07,
+      "shares": 10450
+    },
+    {
+      "t": "META",
+      "n": "Meta Platforms, Inc.",
+      "weight": 2.57,
+      "isin": "US30303M1027",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 14501850.05,
+      "shares": 13640
+    },
+    {
+      "t": "MRK",
+      "n": "Merck & Co., Inc.",
+      "weight": 1.12,
+      "isin": "US58933Y1055",
+      "sector": "HEALTH CARE",
+      "mv": 6313256.13,
+      "shares": 30000
+    },
+    {
+      "t": "MSFT",
+      "n": "Microsoft Corporation",
+      "weight": 5.29,
+      "isin": "US5949181045",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 29860953.26,
+      "shares": 40900
+    },
+    {
+      "t": "NVDA",
+      "n": "NVIDIA Corporation",
+      "weight": 1.49,
+      "isin": "US67066G1040",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 8404446.91,
+      "shares": 26400
+    },
+    {
+      "t": "PEP",
+      "n": "PepsiCo, Inc.",
+      "weight": 0.91,
+      "isin": "US7134481081",
+      "sector": "CONSUMER STAPLES",
+      "mv": 5130727.84,
+      "shares": 28200
+    },
+    {
+      "t": "PG",
+      "n": "The Procter & Gamble Company",
+      "weight": 1.18,
+      "isin": "US7427181091",
+      "sector": "CONSUMER STAPLES",
+      "mv": 6680771.26,
+      "shares": 32300
+    },
+    {
+      "t": "TJX",
+      "n": "The TJX Companies, Inc.",
+      "weight": 1.83,
+      "isin": "US8725401090",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 10338741.23,
+      "shares": 56200
+    },
+    {
+      "t": "TXN",
+      "n": "Texas Instruments Incorporated",
+      "weight": 0.6,
+      "isin": "US8825081040",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 3382518.56,
+      "shares": 8600
+    },
+    {
+      "t": "UNP",
+      "n": "Union Pacific Corporation",
+      "weight": 1.58,
+      "isin": "US9078181081",
+      "sector": "INDUSTRIALS",
+      "mv": 8907032.11,
+      "shares": 23000
+    },
+    {
+      "t": "US46120E6023",
+      "n": "Intuitive Surgical, Inc.",
+      "weight": 0.9,
+      "isin": "US46120E6023",
+      "sector": "HEALTH CARE",
+      "mv": 5100650.97,
+      "shares": 8900
+    },
+    {
+      "t": "US912797TC16",
+      "n": "Treasury Bill 0.01% 12/24/2026",
+      "weight": 1.74,
+      "isin": "US912797TC16",
+      "sector": "-",
+      "mv": 9803645.95,
+      "shares": 7000000
+    },
+    {
+      "t": "US92532F1003",
+      "n": "Vertex Pharmaceuticals Incorporated",
+      "weight": 0.3,
+      "isin": "US92532F1003",
+      "sector": "HEALTH CARE",
+      "mv": 1674606.25,
+      "shares": 2250
+    },
+    {
+      "t": "V",
+      "n": "Visa Inc.",
+      "weight": 2.68,
+      "isin": "US92826C8394",
+      "sector": "FINANCIALS",
+      "mv": 15121542.66,
+      "shares": 29100
+    },
+    {
+      "t": "WMT",
+      "n": "Walmart Inc.",
+      "weight": 1.95,
+      "isin": "US9311421039",
+      "sector": "CONSUMER STAPLES",
+      "mv": 10981453.16,
+      "shares": 71900
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1,
+  "as_of_date": "2026-09-25",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMI_20260925.xlsx",
+  "created_at": "2026-09-27T03:16:16.962Z",
+  "partial": false,
+  "content_hash": "90047ba00def160f55247aaa5b378393a1eff1e4fc90c0e8f4206e1838bdf639",
+  "holdings": [
+    {
+      "t": "CA05575W1032",
+      "n": "BMO Mid-Term US IG Corporate Bond Hedged to CAD Index ETF",
+      "weight": 10.06,
+      "isin": "CA05575W1032",
+      "sector": "Financials",
+      "mv": 26620447.46,
+      "shares": 2231619
+    },
+    {
+      "t": "CA05575X1197",
+      "n": "BMO US Dividend ETF",
+      "weight": 20.86,
+      "isin": "CA05575X1197",
+      "sector": "Financials",
+      "mv": 55188177.17,
+      "shares": 932208
+    },
+    {
+      "t": "CA05585M1032",
+      "n": "BMO Corporate Bond Index ETF",
+      "weight": 24.28,
+      "isin": "CA05585M1032",
+      "sector": "-",
+      "mv": 64225252.3,
+      "shares": 1381732
+    },
+    {
+      "t": "CA05590R1055",
+      "n": "BMO Canadian Dividend ETF",
+      "weight": 13.46,
+      "isin": "CA05590R1055",
+      "sector": "Financials",
+      "mv": 35602159.62,
+      "shares": 1079394
+    },
+    {
+      "t": "CA05600A3082",
+      "n": "BMO Premium Yield ETF",
+      "weight": 5.14,
+      "isin": "CA05600A3082",
+      "sector": "-",
+      "mv": 13605806.91,
+      "shares": 458998
+    },
+    {
+      "t": "CA05600B1085",
+      "n": "BMO Global High Dividend Covered Call ETF",
+      "weight": 15.02,
+      "isin": "CA05600B1085",
+      "sector": "-",
+      "mv": 39730630.13,
+      "shares": 1068936
+    },
+    {
+      "t": "CA09658Q1081",
+      "n": "BMO International Dividend ETF",
+      "weight": 6.32,
+      "isin": "CA09658Q1081",
+      "sector": "Financials",
+      "mv": 16709042.98,
+      "shares": 508141
+    },
+    {
+      "t": "CA09661J1093",
+      "n": "BMO US Preferred Share Hedged to CAD Index ETF",
+      "weight": 4.81,
+      "isin": "CA09661J1093",
+      "sector": "Financials",
+      "mv": 12728924.92,
+      "shares": 819404
+    }
+  ]
+}

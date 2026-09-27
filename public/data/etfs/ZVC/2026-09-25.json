@@ -1,0 +1,443 @@
+{
+  "id": 1,
+  "as_of_date": "2026-09-25",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZVC_20260925.xlsx",
+  "created_at": "2026-09-27T03:16:16.962Z",
+  "partial": false,
+  "content_hash": "1e9a1a4c156626bce9e289c64a6bbdb8c8482f50d3ac8e6f924047cff9bbcb60",
+  "holdings": [
+    {
+      "t": "ABX",
+      "n": "Barrick Mining Corporation",
+      "weight": 5.53,
+      "isin": "CA06849F1080",
+      "sector": "MATERIALS",
+      "mv": 3195976.4,
+      "shares": 52652
+    },
+    {
+      "t": "ALA",
+      "n": "Altagas Ltd.",
+      "weight": 0.52,
+      "isin": "CA0213611001",
+      "sector": "UTILITIES",
+      "mv": 301042.86,
+      "shares": 5766
+    },
+    {
+      "t": "ATD",
+      "n": "Alimentation Couche-Tard Inc.",
+      "weight": 1.29,
+      "isin": "CA01626P1484",
+      "sector": "CONSUMER STAPLES",
+      "mv": 744651,
+      "shares": 9486
+    },
+    {
+      "t": "BCE",
+      "n": "BCE Inc.",
+      "weight": 0.18,
+      "isin": "CA05534B7604",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 106319.89,
+      "shares": 3581
+    },
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 6.12,
+      "isin": "CA0636711016",
+      "sector": "FINANCIALS",
+      "mv": 3536101.18,
+      "shares": 14494
+    },
+    {
+      "t": "BNS",
+      "n": "The Bank Of Nova Scotia",
+      "weight": 7.72,
+      "isin": "CA0641491075",
+      "sector": "FINANCIALS",
+      "mv": 4457078.86,
+      "shares": 33679
+    },
+    {
+      "t": "CA1367178326",
+      "n": "Canadian Utilities Limited",
+      "weight": 0.18,
+      "isin": "CA1367178326",
+      "sector": "UTILITIES",
+      "mv": 105479.1,
+      "shares": 2097
+    },
+    {
+      "t": "CA2918434077",
+      "n": "Empire Company Limited",
+      "weight": 0.66,
+      "isin": "CA2918434077",
+      "sector": "CONSUMER STAPLES",
+      "mv": 382727.52,
+      "shares": 7947
+    },
+    {
+      "t": "CA7751092007",
+      "n": "Rogers Communications Inc.",
+      "weight": 0.6,
+      "isin": "CA7751092007",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 344483.37,
+      "shares": 7623
+    },
+    {
+      "t": "CAE",
+      "n": "Cae Inc.",
+      "weight": 0.37,
+      "isin": "CA1247651088",
+      "sector": "INDUSTRIALS",
+      "mv": 214431.49,
+      "shares": 6097
+    },
+    {
+      "t": "CLS",
+      "n": "Celestica Inc.",
+      "weight": 2.98,
+      "isin": "CA15101Q2071",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 1720544.4,
+      "shares": 3330
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank Of Commerce",
+      "weight": 3.78,
+      "isin": "CA1360691010",
+      "sector": "FINANCIALS",
+      "mv": 2182256.16,
+      "shares": 13578
+    },
+    {
+      "t": "CNQ",
+      "n": "Canadian Natural Resources Limited",
+      "weight": 4.53,
+      "isin": "CA1363851017",
+      "sector": "ENERGY",
+      "mv": 2614592.25,
+      "shares": 38925
+    },
+    {
+      "t": "CNR",
+      "n": "Canadian National Railway Company",
+      "weight": 2.54,
+      "isin": "CA1363751027",
+      "sector": "INDUSTRIALS",
+      "mv": 1465809.3,
+      "shares": 8577
+    },
+    {
+      "t": "CP",
+      "n": "Canadian Pacific Kansas City Limited",
+      "weight": 4.28,
+      "isin": "CA13646K1084",
+      "sector": "INDUSTRIALS",
+      "mv": 2469921.3,
+      "shares": 20097
+    },
+    {
+      "t": "CTC/A",
+      "n": "Canadian Tire Corporation, Limited",
+      "weight": 0.51,
+      "isin": "CA1366812024",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 295520.53,
+      "shares": 1567
+    },
+    {
+      "t": "CVE",
+      "n": "Cenovus Energy Inc.",
+      "weight": 3.22,
+      "isin": "CA15135U1093",
+      "sector": "ENERGY",
+      "mv": 1861894.2,
+      "shares": 42509
+    },
+    {
+      "t": "EMA",
+      "n": "Emera Incorporated",
+      "weight": 0.61,
+      "isin": "CA2908761018",
+      "sector": "UTILITIES",
+      "mv": 350423.64,
+      "shares": 5193
+    },
+    {
+      "t": "EQX",
+      "n": "Equinox Gold Corp.",
+      "weight": 0.42,
+      "isin": "CA29446Y5020",
+      "sector": "MATERIALS",
+      "mv": 240211.93,
+      "shares": 14239
+    },
+    {
+      "t": "FFH",
+      "n": "Fairfax Financial Holdings Limited",
+      "weight": 2.82,
+      "isin": "CA3039011026",
+      "sector": "FINANCIALS",
+      "mv": 1630500.72,
+      "shares": 732
+    },
+    {
+      "t": "FM",
+      "n": "First Quantum Minerals Ltd.",
+      "weight": 0.89,
+      "isin": "CA3359341052",
+      "sector": "MATERIALS",
+      "mv": 513873.36,
+      "shares": 11284
+    },
+    {
+      "t": "FTS",
+      "n": "Fortis Inc.",
+      "weight": 1.15,
+      "isin": "CA3495531079",
+      "sector": "UTILITIES",
+      "mv": 665911.7,
+      "shares": 8867
+    },
+    {
+      "t": "GIB/A",
+      "n": "CGI Inc.",
+      "weight": 4.68,
+      "isin": "CA12532H1047",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 2701058.72,
+      "shares": 28183
+    },
+    {
+      "t": "GIL",
+      "n": "Gildan Activewear Inc.",
+      "weight": 0.29,
+      "isin": "CA3759161035",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 167127.18,
+      "shares": 2882
+    },
+    {
+      "t": "GWO",
+      "n": "Great-West Lifeco Inc.",
+      "weight": 0.59,
+      "isin": "CA39138C1068",
+      "sector": "FINANCIALS",
+      "mv": 343024.5,
+      "shares": 3675
+    },
+    {
+      "t": "IAG",
+      "n": "iA Financial Corporation Inc.",
+      "weight": 0.58,
+      "isin": "CA45075E1043",
+      "sector": "FINANCIALS",
+      "mv": 335969.85,
+      "shares": 1601
+    },
+    {
+      "t": "IGM",
+      "n": "Igm Financial Inc.",
+      "weight": 0.21,
+      "isin": "CA4495861060",
+      "sector": "FINANCIALS",
+      "mv": 122178.24,
+      "shares": 1432
+    },
+    {
+      "t": "IMO",
+      "n": "Imperial Oil Limited",
+      "weight": 0.73,
+      "isin": "CA4530384086",
+      "sector": "ENERGY",
+      "mv": 421145.76,
+      "shares": 2424
+    },
+    {
+      "t": "K",
+      "n": "Kinross Gold Corporation",
+      "weight": 2.07,
+      "isin": "CA4969024047",
+      "sector": "MATERIALS",
+      "mv": 1194257.34,
+      "shares": 33679
+    },
+    {
+      "t": "LUN",
+      "n": "Lundin Mining Corporation",
+      "weight": 0.66,
+      "isin": "CA5503721063",
+      "sector": "MATERIALS",
+      "mv": 380057.7,
+      "shares": 10865
+    },
+    {
+      "t": "MFC",
+      "n": "Manulife Financial Corporation",
+      "weight": 6.16,
+      "isin": "CA56501R1064",
+      "sector": "FINANCIALS",
+      "mv": 3558392.1,
+      "shares": 57301
+    },
+    {
+      "t": "MG",
+      "n": "Magna International Inc.",
+      "weight": 2.24,
+      "isin": "CA5592224011",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 1294564.05,
+      "shares": 14079
+    },
+    {
+      "t": "NA",
+      "n": "National Bank of Canada",
+      "weight": 1.58,
+      "isin": "CA6330671034",
+      "sector": "FINANCIALS",
+      "mv": 914074.61,
+      "shares": 4307
+    },
+    {
+      "t": "NTR",
+      "n": "Nutrien Ltd.",
+      "weight": 3.37,
+      "isin": "CA67077M1086",
+      "sector": "MATERIALS",
+      "mv": 1944675.7,
+      "shares": 19030
+    },
+    {
+      "t": "PAAS",
+      "n": "Pan American Silver Corp.",
+      "weight": 0.77,
+      "isin": "CA6979001089",
+      "sector": "MATERIALS",
+      "mv": 447442.19,
+      "shares": 6581
+    },
+    {
+      "t": "POW",
+      "n": "Power Corporation of Canada",
+      "weight": 2.01,
+      "isin": "CA7392391016",
+      "sector": "FINANCIALS",
+      "mv": 1160586.8,
+      "shares": 12310
+    },
+    {
+      "t": "RBA",
+      "n": "RB Global, Inc.",
+      "weight": 0.31,
+      "isin": "CA74935Q1072",
+      "sector": "INDUSTRIALS",
+      "mv": 180129.82,
+      "shares": 1543
+    },
+    {
+      "t": "SAP",
+      "n": "Saputo Inc.",
+      "weight": 0.7,
+      "isin": "CA8029121057",
+      "sector": "CONSUMER STAPLES",
+      "mv": 403004.16,
+      "shares": 9936
+    },
+    {
+      "t": "SLF",
+      "n": "Sun Life Financial Inc.",
+      "weight": 2.02,
+      "isin": "CA8667961053",
+      "sector": "FINANCIALS",
+      "mv": 1166931.5,
+      "shares": 10325
+    },
+    {
+      "t": "SU",
+      "n": "Suncor Energy Inc.",
+      "weight": 6.03,
+      "isin": "CA8672241079",
+      "sector": "ENERGY",
+      "mv": 3485404.44,
+      "shares": 36092
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 8.07,
+      "isin": "CA8911605092",
+      "sector": "FINANCIALS",
+      "mv": 4663421.49,
+      "shares": 27321
+    },
+    {
+      "t": "TECK/B",
+      "n": "Teck Resources Limited",
+      "weight": 1.54,
+      "isin": "CA8787422044",
+      "sector": "MATERIALS",
+      "mv": 891513,
+      "shares": 9540
+    },
+    {
+      "t": "TFII",
+      "n": "TFI International Inc.",
+      "weight": 0.4,
+      "isin": "CA87241L1094",
+      "sector": "INDUSTRIALS",
+      "mv": 232940.8,
+      "shares": 1360
+    },
+    {
+      "t": "TIH",
+      "n": "Toromont Industries Ltd.",
+      "weight": 0.23,
+      "isin": "CA8911021050",
+      "sector": "INDUSTRIALS",
+      "mv": 132277.78,
+      "shares": 586
+    },
+    {
+      "t": "TOU",
+      "n": "Tourmaline Oil Corp.",
+      "weight": 1.19,
+      "isin": "CA89156V1067",
+      "sector": "ENERGY",
+      "mv": 686228.4,
+      "shares": 11180
+    },
+    {
+      "t": "WCP",
+      "n": "Whitecap Resources Inc.",
+      "weight": 1.4,
+      "isin": "CA96467A2002",
+      "sector": "ENERGY",
+      "mv": 806232.3,
+      "shares": 44445
+    },
+    {
+      "t": "WN",
+      "n": "George Weston Limited",
+      "weight": 0.51,
+      "isin": "CA9611485090",
+      "sector": "CONSUMER STAPLES",
+      "mv": 293489.68,
+      "shares": 2872
+    },
+    {
+      "t": "WSP",
+      "n": "Wsp Global Inc.",
+      "weight": 0.62,
+      "isin": "CA92938W2022",
+      "sector": "INDUSTRIALS",
+      "mv": 357364.15,
+      "shares": 1963
+    }
+  ]
+}

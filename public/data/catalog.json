@@ -1,7 +1,178 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T02:40:50.553Z",
+  "generated_at": "2026-09-27T03:16:16.962Z",
   "etfs": [
+    {
+      "id": 47,
+      "ticker": "COMM",
+      "name": "BMO COMM",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_COMM_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "54b7ce1ca2588833b2f78503791163ad2ee07cc7e8231094f1631e8c2ea89c0c",
+          "holdings_count": 70,
+          "file": "etfs/COMM/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "ticker": "DISC",
+      "name": "BMO DISC",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_DISC_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "552acc084b73654e2796d5e3c52392819fb21733638656de0a509c4a45e0a8a0",
+          "holdings_count": 251,
+          "file": "etfs/DISC/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "ticker": "ESGA",
+      "name": "BMO ESGA",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGA_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "17627cbef1257a9e26ebc43f01f67bcfa839ae46fbeb795fd3ed9be9b6714bf7",
+          "holdings_count": 39,
+          "file": "etfs/ESGA/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "ticker": "ESGB",
+      "name": "BMO ESGB",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGB_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "8b64ae5fb23c54b3171aa256906fa2158bf9277181a3675cfecfb7c608e0bfdb",
+          "holdings_count": 593,
+          "file": "etfs/ESGB/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "ticker": "ESGE",
+      "name": "BMO ESGE",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGE_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "8d06a70e4c512201f33f4db3e9d7d2ab58859eba8bab241e5304660e15d36d99",
+          "holdings_count": 346,
+          "file": "etfs/ESGE/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "ticker": "ESGF",
+      "name": "BMO ESGF",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGF_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "9f49f3e7aacd4395d86809543ada3261fc9a8a1cfffe018943e939a3f8e0f7c0",
+          "holdings_count": 734,
+          "file": "etfs/ESGF/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "ticker": "ESGG",
+      "name": "BMO ESGG",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGG_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "74a008831a9ffab3f63e6b49cd2222ee825762e95139b13c0d8322e2bc890423",
+          "holdings_count": 3,
+          "file": "etfs/ESGG/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "ticker": "ESGY",
+      "name": "BMO ESGY",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGY_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "7eaaa3b0c66dc70ec219aa088d7b7a686411a39c44814adae16c40cfc2913e8e",
+          "holdings_count": 249,
+          "file": "etfs/ESGY/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "ticker": "STPL",
+      "name": "BMO STPL",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_STPL_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "9a8c8f172f55741846994d430007dda753cf131c961f787bafa93416ed989a3c",
+          "holdings_count": 127,
+          "file": "etfs/STPL/2026-09-25.json"
+        }
+      ]
+    },
     {
       "id": 7,
       "ticker": "VA",
@@ -820,6 +991,348 @@
       ]
     },
     {
+      "id": 54,
+      "ticker": "ZAAA",
+      "name": "BMO ZAAA",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZAAA_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "8b3905f6ecec23c28515e9a3346ca5c2221b0b4d596dcee544bf5678a1dc6814",
+          "holdings_count": 156,
+          "file": "etfs/ZAAA/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "ticker": "ZABS",
+      "name": "BMO ZABS",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZABS_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "6404219d21101640982e8454c0fae585cb39fc55b9ebba8aa24e3fdbbafecf17",
+          "holdings_count": 19,
+          "file": "etfs/ZABS/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "ticker": "ZAG",
+      "name": "BMO ZAG",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZAG_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "ae5f89499d0dd8c54920ec7daca8acba54a2c87a0abc62f36e5259df8f63e8bd",
+          "holdings_count": 1666,
+          "file": "etfs/ZAG/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "ticker": "ZBAL",
+      "name": "BMO ZBAL",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBAL_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "f905c5040ab21419fff4f0e3687842f40074331da5593d6e7bda1366d8a5d719",
+          "holdings_count": 8,
+          "file": "etfs/ZBAL/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "ticker": "ZBBZ",
+      "name": "BMO ZBBZ",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBBZ_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "513a07b0842a0a9afcedc39c361f0472274f5c96558f89b3e1504c30cbbfd893",
+          "holdings_count": 95,
+          "file": "etfs/ZBBZ/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "ticker": "ZBCB",
+      "name": "BMO ZBCB",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBCB_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "3a8be8311b3eb089df70e058798db4af772b4c975077df641260a5d65182a3ee",
+          "holdings_count": 62,
+          "file": "etfs/ZBCB/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "ticker": "ZBDU",
+      "name": "BMO ZBDU",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBDU_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "270feb825c6cbe960f5047d88c16abaead76c54cc9c1709e1ac8e8508abc16f6",
+          "holdings_count": 48,
+          "file": "etfs/ZBDU/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "ticker": "ZBEC",
+      "name": "BMO ZBEC",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBEC_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "7d212dd9ec7ceac145e2828450dab2d02514c79d0fbeca3e2580ed2e8e135c05",
+          "holdings_count": 54,
+          "file": "etfs/ZBEC/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "ticker": "ZBEU",
+      "name": "BMO ZBEU",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBEU_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "f06c0e083c118ff1481c4a4eb016e016f911d6dffa244eefea164af255906f5b",
+          "holdings_count": 53,
+          "file": "etfs/ZBEU/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "ticker": "ZBI",
+      "name": "BMO ZBI",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBI_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "06edb0bcf3e55da602fda41e1ef05c6f0db620784d5e95957dc8e6d2b0b709da",
+          "holdings_count": 166,
+          "file": "etfs/ZBI/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "ticker": "ZBK",
+      "name": "BMO ZBK",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBK_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "013f717ca861d9588136627dd5263ee8f7066a5a673e58f206e0361e283c2e8c",
+          "holdings_count": 23,
+          "file": "etfs/ZBK/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "ticker": "ZBVU",
+      "name": "BMO ZBVU",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBVU_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "bab16d381c8d1c9358bab8d0a77834c53a93c5202e94909bcd4459095ce5f59b",
+          "holdings_count": 56,
+          "file": "etfs/ZBVU/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "ticker": "ZCB",
+      "name": "BMO ZCB",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCB_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "c361e32fd9c5d65bbb91cf609db1836de2b324b1b576743170e7cb50b19041dc",
+          "holdings_count": 1200,
+          "file": "etfs/ZCB/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "ticker": "ZCDB",
+      "name": "BMO ZCDB",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCDB_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "21bc15248ef21b8a7620f7baa6afbe04b9ef9ffb877c124fe27ab39b085fae83",
+          "holdings_count": 76,
+          "file": "etfs/ZCDB/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "ticker": "ZCDX",
+      "name": "BMO ZCDX",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCDX_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": true,
+          "content_hash": "cd6a3eae8a623d26fde23005e4fa17cc592e4818cf3fc48e570e081fd5c2e724",
+          "holdings_count": 21,
+          "file": "etfs/ZCDX/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "ticker": "ZCH",
+      "name": "BMO ZCH",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCH_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "ca36264519e2446f38263e1a0e5a2032599355b205b725d205106a663a813d66",
+          "holdings_count": 179,
+          "file": "etfs/ZCH/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "ticker": "ZCLN",
+      "name": "BMO ZCLN",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCLN_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "aa658f5cc11df3a5b6d447703d3c5069f540a1f22dde580893efa04fc97ddf5c",
+          "holdings_count": 102,
+          "file": "etfs/ZCLN/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "ticker": "ZCM",
+      "name": "BMO ZCM",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCM_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "ef6f55d78b0fed40c808a6d1c3ad438d05b4c743892084d0584d7951213260f5",
+          "holdings_count": 295,
+          "file": "etfs/ZCM/2026-09-25.json"
+        }
+      ]
+    },
+    {
       "id": 2,
       "ticker": "ZCN",
       "name": "BMO ZCN",
@@ -848,6 +1361,1887 @@
           "file": "etfs/ZCN/2026-09-24.json"
         }
       ]
+    },
+    {
+      "id": 72,
+      "ticker": "ZCOM",
+      "name": "BMO ZCOM",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCOM_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": true,
+          "content_hash": "9b871c1cdaa970cf9911ca6bf03a8ac1440fd8ff9e5899946d56fb94b0f3d5bd",
+          "holdings_count": 71,
+          "file": "etfs/ZCOM/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "ticker": "ZCON",
+      "name": "BMO ZCON",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCON_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "bcf58463a51a6701847f666f5c4f25b96552dde41e5003684ddf11e4a889018c",
+          "holdings_count": 8,
+          "file": "etfs/ZCON/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "ticker": "ZCS",
+      "name": "BMO ZCS",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCS_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "effa667a6cef90c62957ee953569d43e47180c07d8e76e4e4ac791ef826d1374",
+          "holdings_count": 630,
+          "file": "etfs/ZCS/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "ticker": "ZDB",
+      "name": "BMO ZDB",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDB_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "e61149c0110ef1ab19fa03a192bacab1793d8a1a6f10b419564ad96e58c0f2d2",
+          "holdings_count": 275,
+          "file": "etfs/ZDB/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "ticker": "ZDI",
+      "name": "BMO ZDI",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDI_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "a7728344b8e7606cff20584912b7670fab5a87bd5a8cb8ed977f1851d823c582",
+          "holdings_count": 117,
+          "file": "etfs/ZDI/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "ticker": "ZDIV",
+      "name": "BMO ZDIV",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDIV_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "dc0bed11706c2ed3d5789919ffcb8fbbaf2ff748f5fe0ffa51999a506cd43e21",
+          "holdings_count": 48,
+          "file": "etfs/ZDIV/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "ticker": "ZDJ",
+      "name": "BMO ZDJ",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDJ_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "71af11c9aa9ccc5c5b565810dcc41cd361991545e9ae383f561cffc8cedf7b27",
+          "holdings_count": 30,
+          "file": "etfs/ZDJ/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "ticker": "ZDV",
+      "name": "BMO ZDV",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDV_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "2db421a9a990e263c4958e2d48408770cd38cb36840bf1a0f294476644523db4",
+          "holdings_count": 61,
+          "file": "etfs/ZDV/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "ticker": "ZDY",
+      "name": "BMO ZDY",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDY_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "aabc8e9ba88358d5015d85e7d0081d879da721a911ea189738126fb90d85ab5a",
+          "holdings_count": 96,
+          "file": "etfs/ZDY/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "ticker": "ZEA",
+      "name": "BMO ZEA",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEA_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "b6b88ad8bfa6e2e679c2e4bc61e9082f7f202bf70a39f75e01a3832d1691e4c1",
+          "holdings_count": 659,
+          "file": "etfs/ZEA/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "ticker": "ZEB",
+      "name": "BMO ZEB",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEB_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "a66472da4dcbeb9cd36c186a353c34f07fcf88af2532cc305db406b92a82a716",
+          "holdings_count": 6,
+          "file": "etfs/ZEB/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "ticker": "ZEF",
+      "name": "BMO ZEF",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEF_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "eabb27f41185c524d77aa9d57c98853f2b728469a0d76d60c645cc7a3d9e6428",
+          "holdings_count": 59,
+          "file": "etfs/ZEF/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "ticker": "ZEM",
+      "name": "BMO ZEM",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEM_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "b061f8ba941f1824fb696ac8abc1830c8e10af29a86519bfd53634a5e952be9c",
+          "holdings_count": 825,
+          "file": "etfs/ZEM/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "ticker": "ZEO",
+      "name": "BMO ZEO",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEO_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "38dbe8b06b2f30a847527d49c47b2d82ade36a07a796078e9471ac7006bcf07e",
+          "holdings_count": 11,
+          "file": "etfs/ZEO/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "ticker": "ZEQ",
+      "name": "BMO ZEQ",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEQ_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "86027d0a4587b57e1ada7295d3d89dd49a0748121eafaa5140214132fb27c439",
+          "holdings_count": 121,
+          "file": "etfs/ZEQ/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "ticker": "ZEQL",
+      "name": "BMO ZEQL",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEQL_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "10cc9fb3a94b406d8b6ab209561c2b5a07bd3fe55d3b9121a9052aaaeee99296",
+          "holdings_count": 513,
+          "file": "etfs/ZEQL/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "ticker": "ZEQT",
+      "name": "BMO ZEQT",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEQT_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "7cd7dd8e320a9e63bbf8720bbe91f3dca00906e3afb4662ea62448898e9a58fd",
+          "holdings_count": 6,
+          "file": "etfs/ZEQT/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "ticker": "ZESG",
+      "name": "BMO ZESG",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZESG_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "86ef32646ea60d6eb5872bc3f9736359957fc3babd8b82e1f81c9600c7c8c112",
+          "holdings_count": 6,
+          "file": "etfs/ZESG/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "ticker": "ZESM",
+      "name": "BMO ZESM",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZESM_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "84971bf1a4d479d81f73804950d20b4ac60e7ff2e564d6b82450fdca90bc29dd",
+          "holdings_count": 1873,
+          "file": "etfs/ZESM/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "ticker": "ZFH",
+      "name": "BMO ZFH",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFH_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "b42f64d2392e7e029b92ea612ef93463d047e782bce2d24ae48faf67cf6e8c8a",
+          "holdings_count": 3,
+          "file": "etfs/ZFH/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "ticker": "ZFL",
+      "name": "BMO ZFL",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFL_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "e693f4b73727dbeb1c754c4552bf312124d786ac7ea229348eab435b9f97fc49",
+          "holdings_count": 23,
+          "file": "etfs/ZFL/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "ticker": "ZFM",
+      "name": "BMO ZFM",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFM_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "c77c7b071888fdb0b6a7a732f28214406831a35ee56203274907480f76d1a7ce",
+          "holdings_count": 39,
+          "file": "etfs/ZFM/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "ticker": "ZFS",
+      "name": "BMO ZFS",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFS_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "46a6653b8b47ecd29042e6b483debd1387fa82373ec4d63eb58a9425c4e3d735",
+          "holdings_count": 63,
+          "file": "etfs/ZFS/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "ticker": "ZGB",
+      "name": "BMO ZGB",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGB_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "f795bbee75edb8a3d512accee780892afd2a28000e003f43ff7be02443f9c13c",
+          "holdings_count": 421,
+          "file": "etfs/ZGB/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "ticker": "ZGD",
+      "name": "BMO ZGD",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGD_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "ce9aaedf615174c952b2d0479995a6ddaee9199f9d213ee92fc235fbf5fdfdf0",
+          "holdings_count": 52,
+          "file": "etfs/ZGD/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "ticker": "ZGI",
+      "name": "BMO ZGI",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGI_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "d9073da8012ee39587d31b9ae3b2815283c154df024b2f81faa5a18a989fc476",
+          "holdings_count": 50,
+          "file": "etfs/ZGI/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "ticker": "ZGQ",
+      "name": "BMO ZGQ",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGQ_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "62cfd51bd220aa323bc4e760436d9eabe18de6036da611fcbe4ff2bac50553fe",
+          "holdings_count": 439,
+          "file": "etfs/ZGQ/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "ticker": "ZGRO",
+      "name": "BMO ZGRO",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGRO_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "94ae818387775bef139d9a4d8c0b671c1652c60272c98fa875b0ccef3ae2322f",
+          "holdings_count": 8,
+          "file": "etfs/ZGRO/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "ticker": "ZHC",
+      "name": "BMO ZHC",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZHC_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "b1f8a93f4d920d35a8d563636ac2c28ff1ebc7014055a346fcb068bb1a6a3a56",
+          "holdings_count": 126,
+          "file": "etfs/ZHC/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "ticker": "ZHU",
+      "name": "BMO ZHU",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZHU_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "bc46a955c148db2d581dfbeadbfcb180b05faf53d18b6862a0b241cee09cd765",
+          "holdings_count": 91,
+          "file": "etfs/ZHU/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "ticker": "ZIC",
+      "name": "BMO ZIC",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZIC_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "125b1050abce27cfd0270039555ae0d68082a851a483f0b9a6c343ba294c2b05",
+          "holdings_count": 719,
+          "file": "etfs/ZIC/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "ticker": "ZID",
+      "name": "BMO ZID",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZID_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "954489174804a5ed67fe5d2eb67b1600cdc3713cbb2fe0eb630ca81d805c673c",
+          "holdings_count": 51,
+          "file": "etfs/ZID/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "ticker": "ZIN",
+      "name": "BMO ZIN",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZIN_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "c00d0b306953b0e41561040a00d710923b17d092922d87a869770c06e1370439",
+          "holdings_count": 35,
+          "file": "etfs/ZIN/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "ticker": "ZIQ",
+      "name": "BMO ZIQ",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZIQ_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "3839550e1145708c128de68d2dc1741b8048334ab8ac92d6fb14e1956325a834",
+          "holdings_count": 218,
+          "file": "etfs/ZIQ/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "ticker": "ZIU",
+      "name": "BMO ZIU",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZIU_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "40f4bc686591b87850719a304d1c75d5677fa428d2fd27d1f5fd07cce57c8209",
+          "holdings_count": 60,
+          "file": "etfs/ZIU/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "ticker": "ZJG",
+      "name": "BMO ZJG",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZJG_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "f70ef2a0490181a6700e91496c4cecb2638099249e84c12e206331d237b825c5",
+          "holdings_count": 54,
+          "file": "etfs/ZJG/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "ticker": "ZJK",
+      "name": "BMO ZJK",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZJK_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "f449f6d4e619a4089da5612d0a509f014e437c5a9f619b3ab5e8acaaf57b65f1",
+          "holdings_count": 1039,
+          "file": "etfs/ZJK/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "ticker": "ZJPN",
+      "name": "BMO ZJPN",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZJPN_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "047993976899ece1f73a4d790381808c60bfd541aed817f246256d49897e798c",
+          "holdings_count": 303,
+          "file": "etfs/ZJPN/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "ticker": "ZLB",
+      "name": "BMO ZLB",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLB_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "83ba6da0193a0e3cd4f5a78f5e9da82959d427e5b84dcffc2d66ca4b878c2ee9",
+          "holdings_count": 53,
+          "file": "etfs/ZLB/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "ticker": "ZLC",
+      "name": "BMO ZLC",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLC_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "b05e85de9ad2a59874ec350ead4c0876e11433d47972bd7a3382cb7cc03ca190",
+          "holdings_count": 404,
+          "file": "etfs/ZLC/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "ticker": "ZLE",
+      "name": "BMO ZLE",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLE_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "3c22110aa604449ce86186517630ce52ebe7f360ece18b258206b5e7ead34aed",
+          "holdings_count": 258,
+          "file": "etfs/ZLE/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "ticker": "ZLI",
+      "name": "BMO ZLI",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLI_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "d2873f8e0e80575a5c0fa92c467b1525a4cd6670db05efe45397557a0dfec785",
+          "holdings_count": 101,
+          "file": "etfs/ZLI/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "ticker": "ZLSC",
+      "name": "BMO ZLSC",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLSC_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "70522155b5957ad12eb06e08131e71cd629289d54684040207ec5cd659aea160",
+          "holdings_count": 126,
+          "file": "etfs/ZLSC/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "ticker": "ZLSU",
+      "name": "BMO ZLSU",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLSU_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "656cce5771ac697d64528cf7381203ca3290f40223944d2a5d5d0b816c1637f5",
+          "holdings_count": 190,
+          "file": "etfs/ZLSU/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "ticker": "ZLU",
+      "name": "BMO ZLU",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLU_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "8ad9e8dc62eaa1c4c018a2bc94075c36b078170130a89c3c1122a150b5dac129",
+          "holdings_count": 100,
+          "file": "etfs/ZLU/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "ticker": "ZMBS",
+      "name": "BMO ZMBS",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMBS_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "f57afa9f6748f40bac3753fddff8f5e192f269dc7f339e1da511b22f94b1358b",
+          "holdings_count": 34,
+          "file": "etfs/ZMBS/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "ticker": "ZMI",
+      "name": "BMO ZMI",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMI_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "90047ba00def160f55247aaa5b378393a1eff1e4fc90c0e8f4206e1838bdf639",
+          "holdings_count": 8,
+          "file": "etfs/ZMI/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "ticker": "ZMID",
+      "name": "BMO ZMID",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMID_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "0bbfb1b4000364bb91217f1545193c93c4ff9f3f5cd5a49bff88be3440278a66",
+          "holdings_count": 400,
+          "file": "etfs/ZMID/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "ticker": "ZMLG",
+      "name": "BMO ZMLG",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMLG_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "6a53853d0a90e8cf6241a2f784ab758948ba8e8d7bbb70debf9cbc55e2c9ca1b",
+          "holdings_count": 124,
+          "file": "etfs/ZMLG/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "ticker": "ZMP",
+      "name": "BMO ZMP",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMP_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "27c41928ea39560ed572e030dd52dff8e7f5a27d38552a7c32e2ab646af256e5",
+          "holdings_count": 85,
+          "file": "etfs/ZMP/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "ticker": "ZMPC",
+      "name": "BMO ZMPC",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMPC_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "d8ecf597193da863843c2cf032bfca704f365e426ac8f707bfec2a419e0e2864",
+          "holdings_count": 81,
+          "file": "etfs/ZMPC/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "ticker": "ZMPG",
+      "name": "BMO ZMPG",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMPG_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "d9aedc74a0e2f1f06e531b13b92cbda35136609c3fae38ea4a88fe2a0c23ff33",
+          "holdings_count": 160,
+          "file": "etfs/ZMPG/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "ticker": "ZMPU",
+      "name": "BMO ZMPU",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMPU_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "f191d06d713a0952d7acd7a890812a2a20402bce12c4651fb1c243165c31396e",
+          "holdings_count": 103,
+          "file": "etfs/ZMPU/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "ticker": "ZMPW",
+      "name": "BMO ZMPW",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMPW_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "3912fbb06dd88e205f94fdebc2dbd8635761114ac7f209a6df9f8a6bc8245142",
+          "holdings_count": 161,
+          "file": "etfs/ZMPW/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "ticker": "ZMT",
+      "name": "BMO ZMT",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMT_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "f7ccc84881368e0c322f114d25c98b164eac228cf8199923241d3d84af88afaf",
+          "holdings_count": 43,
+          "file": "etfs/ZMT/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "ticker": "ZNQ",
+      "name": "BMO ZNQ",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZNQ_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "157348c328195e4764688447a4c9c6ef946c34ac38bb372a3d3d34a179266190",
+          "holdings_count": 101,
+          "file": "etfs/ZNQ/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "ticker": "ZPAY",
+      "name": "BMO ZPAY",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPAY_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": true,
+          "content_hash": "17c3fbfc53244559dae2674543157eb3c2dc64d9f4ab773308a165b9f125cc2a",
+          "holdings_count": 31,
+          "file": "etfs/ZPAY/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "ticker": "ZPL",
+      "name": "BMO ZPL",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPL_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "2ed09cf48549ef650eefb666fc069e30d0bb7662c5df13d66ec997a13a36a359",
+          "holdings_count": 124,
+          "file": "etfs/ZPL/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "ticker": "ZPR",
+      "name": "BMO ZPR",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPR_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "9703e38e7481d15d5d6c4513c118538481317610551c4a23d1d51c6019568fda",
+          "holdings_count": 109,
+          "file": "etfs/ZPR/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "ticker": "ZPS",
+      "name": "BMO ZPS",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPS_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "f7ac6b4de5fc52dcfc65e2597785ae7e28d7b042437da85596a258585d3a1be7",
+          "holdings_count": 80,
+          "file": "etfs/ZPS/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "ticker": "ZPW",
+      "name": "BMO ZPW",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPW_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": true,
+          "content_hash": "a78c1db3f9d1a8f4d40bb63ff58ea1a6e2a0204e8e2117ba7cf3da1ec66c0089",
+          "holdings_count": 21,
+          "file": "etfs/ZPW/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "ticker": "ZQB",
+      "name": "BMO ZQB",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZQB_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "bb8cd285697d5b1f196e12be7a5183298436f08fa191a1f99da718f9a704cf3a",
+          "holdings_count": 394,
+          "file": "etfs/ZQB/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "ticker": "ZQQ",
+      "name": "BMO ZQQ",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZQQ_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "e5013f83fecca387f5a8d29fb3853c54037732355828d7d821ba96a22fbf570f",
+          "holdings_count": 101,
+          "file": "etfs/ZQQ/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "ticker": "ZRE",
+      "name": "BMO ZRE",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZRE_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "feea4ed38a15895db7cb3b4ad07da6b5b67d659a9f0609ac9bad107500b80910",
+          "holdings_count": 18,
+          "file": "etfs/ZRE/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "ticker": "ZRR",
+      "name": "BMO ZRR",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZRR_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "670688e73199bea865f2dfa3697156f77cbbf5302784ecf89dc95abcc71c852c",
+          "holdings_count": 8,
+          "file": "etfs/ZRR/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "ticker": "ZSB",
+      "name": "BMO ZSB",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZSB_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "69c4030464dc2d86ad478b5ddf85b3e39667b1ccc11fb831dee862c0e6e52bab",
+          "holdings_count": 739,
+          "file": "etfs/ZSB/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "ticker": "ZSDB",
+      "name": "BMO ZSDB",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZSDB_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "3472140439dfca6986a328ec00e918085b24412e9ec9a5622786a1a23461893c",
+          "holdings_count": 84,
+          "file": "etfs/ZSDB/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "ticker": "ZSML",
+      "name": "BMO ZSML",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZSML_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "81e0bb1be4dd357a1f388475c25ca3849122ab2b326fce6ef39faa86d5ec8e4d",
+          "holdings_count": 603,
+          "file": "etfs/ZSML/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "ticker": "ZSP",
+      "name": "BMO ZSP",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZSP_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "4be9046bb25215b9f3b4aa1dce226e8e3cd9dc571a2c4aae4b07bcabe952c40a",
+          "holdings_count": 503,
+          "file": "etfs/ZSP/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "ticker": "ZST",
+      "name": "BMO ZST",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZST_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "39014778ee3f95b4b60a857cd21cf8901444f35ecf677445f8bf36f3ad2eab7d",
+          "holdings_count": 41,
+          "file": "etfs/ZST/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "ticker": "ZSU",
+      "name": "BMO ZSU",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZSU_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "16d0534899b01f05742292d364caef3da58cade0f05ca99d36ee2fedb4a5cfed",
+          "holdings_count": 569,
+          "file": "etfs/ZSU/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "ticker": "ZTIP",
+      "name": "BMO ZTIP",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZTIP_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "948db278e94f5f1a2df0d87d69b8aad80e3897fc7e79a03cfc057195fdfe6b09",
+          "holdings_count": 25,
+          "file": "etfs/ZTIP/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "ticker": "ZTL",
+      "name": "BMO ZTL",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZTL_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "bb50203a94462415106a76ca4166e3103defedd9c67fe82732aa42249ee8f211",
+          "holdings_count": 40,
+          "file": "etfs/ZTL/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "ticker": "ZTM",
+      "name": "BMO ZTM",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZTM_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "35208005c5c9a4181b41626a6fc03ac61352a3eec68655b8f906aaf0b3b6325d",
+          "holdings_count": 45,
+          "file": "etfs/ZTM/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "ticker": "ZTS",
+      "name": "BMO ZTS",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZTS_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "3955165a6331c105c6a40c3343df7f26a2995b08e5ccc14f051b10ce0b95021a",
+          "holdings_count": 153,
+          "file": "etfs/ZTS/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "ticker": "ZUAG",
+      "name": "BMO ZUAG",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUAG_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": true,
+          "content_hash": "32920bd1704f0f4565c061b92b16d8e297626cbf29eca1998509be57628af4c6",
+          "holdings_count": 1977,
+          "file": "etfs/ZUAG/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "ticker": "ZUCM",
+      "name": "BMO ZUCM",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUCM_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "36309567d16f448a7adb708572c200715997465309bd8f810655d86f95e663f8",
+          "holdings_count": 12,
+          "file": "etfs/ZUCM/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "ticker": "ZUH",
+      "name": "BMO ZUH",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUH_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "e33c77a64ba94a09f130f37dcd654fdac031071ee2961ef3077d80ae3843c78b",
+          "holdings_count": 91,
+          "file": "etfs/ZUH/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "ticker": "ZUP",
+      "name": "BMO ZUP",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUP_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "80e006fe6691240cf3e785207a285e3b13ab8740fe39fcafdd56ad3c67e68a65",
+          "holdings_count": 156,
+          "file": "etfs/ZUP/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "ticker": "ZUQ",
+      "name": "BMO ZUQ",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUQ_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "0a219edf1b96dd69d9029c01d35a86aeb68d7338237ade1a84db4f17eaa80bc1",
+          "holdings_count": 119,
+          "file": "etfs/ZUQ/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "ticker": "ZUT",
+      "name": "BMO ZUT",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUT_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "67923c28c1399473e95140afa0f89fd61e9776266ef28a34cd144ca5b2a98546",
+          "holdings_count": 12,
+          "file": "etfs/ZUT/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "ticker": "ZVC",
+      "name": "BMO ZVC",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZVC_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "1e9a1a4c156626bce9e289c64a6bbdb8c8482f50d3ac8e6f924047cff9bbcb60",
+          "holdings_count": 48,
+          "file": "etfs/ZVC/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "ticker": "ZVU",
+      "name": "BMO ZVU",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZVU_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "91e422c0da817c693c404c9e7e35e5258b7f8c649e7bcd434dd209780fe82189",
+          "holdings_count": 146,
+          "file": "etfs/ZVU/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "ticker": "ZWA",
+      "name": "BMO ZWA",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWA_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "8d779fb7c2db5eee5aeac17647ec067257c6829e56007f16a341950883e63bc5",
+          "holdings_count": 30,
+          "file": "etfs/ZWA/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "ticker": "ZWB",
+      "name": "BMO ZWB",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWB_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "3ec3baa04dac3eb75d747f095126629eb25685d591ee3abc6862f0ea2deff70d",
+          "holdings_count": 7,
+          "file": "etfs/ZWB/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "ticker": "ZWC",
+      "name": "BMO ZWC",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWC_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "17b03a757d292a12482765b147dbf67625cf4bc7ab79a0b82672bddeb4123e64",
+          "holdings_count": 40,
+          "file": "etfs/ZWC/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "ticker": "ZWE",
+      "name": "BMO ZWE",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWE_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "d83a2e8b97bc7ae306810ca6cc9655a6a8dd695197e7b8ac93382b06d0d6119d",
+          "holdings_count": 1,
+          "file": "etfs/ZWE/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "ticker": "ZWEN",
+      "name": "BMO ZWEN",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWEN_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "9ddd8dcfd03da843eba39fd52334ae2ff0a77d2d3758532b04da87fa25a4c26d",
+          "holdings_count": 20,
+          "file": "etfs/ZWEN/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "ticker": "ZWG",
+      "name": "BMO ZWG",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWG_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "10bd8815fc685da9b99cd5cc04797cd3d3aed451931ec5b8e9f01abcb91d390b",
+          "holdings_count": 40,
+          "file": "etfs/ZWG/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "ticker": "ZWGD",
+      "name": "BMO ZWGD",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWGD_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "f792b03c1d49d833f4fdcb354d656d3887d02e433a3d5f9779f8cb06457555ab",
+          "holdings_count": 1,
+          "file": "etfs/ZWGD/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "ticker": "ZWH",
+      "name": "BMO ZWH",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWH_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "d8822fb72ae129aa35989f06636773e03578a89eadff91bba4e6aa580cb1791b",
+          "holdings_count": 40,
+          "file": "etfs/ZWH/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "ticker": "ZWHC",
+      "name": "BMO ZWHC",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWHC_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "1228533119fdca0c35e4de456fd9c33923d72a39c65c90288a46a793e9cb1ef9",
+          "holdings_count": 20,
+          "file": "etfs/ZWHC/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "ticker": "ZWK",
+      "name": "BMO ZWK",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWK_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "90eb0286913f6563dbfd005adb2a7762f0be036759d70627fc65689e5e83ef29",
+          "holdings_count": 16,
+          "file": "etfs/ZWK/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "ticker": "ZWP",
+      "name": "BMO ZWP",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWP_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "f5df7269a85a1515dd6570cbc54cc0fd29f584f10dbcc1c77b0bdefdff86db68",
+          "holdings_count": 40,
+          "file": "etfs/ZWP/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "ticker": "ZWT",
+      "name": "BMO ZWT",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWT_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "654c59c5fd65cea213f21f6a381a26b25db5fd30fa6418e517f2427a536e9497",
+          "holdings_count": 30,
+          "file": "etfs/ZWT/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "ticker": "ZWU",
+      "name": "BMO ZWU",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWU_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "a35d210a28b91bc4fb63524244425e3d5278baeff1f7bba7dc9361becafb07b0",
+          "holdings_count": 26,
+          "file": "etfs/ZWU/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "ticker": "ZXCO",
+      "name": "BMO ZXCO",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXCO_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "4302d31820ca378979b421f25e7ef541153e6ea7bdb1767b574a2851b71de4d3",
+          "holdings_count": 18,
+          "file": "etfs/ZXCO/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "ticker": "ZXCP",
+      "name": "BMO ZXCP",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXCP_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "dd03296efb825affd0ade5554a1ef18f53e089be57675fd38e5d96064beaa461",
+          "holdings_count": 19,
+          "file": "etfs/ZXCP/2026-09-25.json"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "ticker": "ZXCQ",
+      "name": "BMO ZXCQ",
+      "issuer": "BMO",
+      "snapshots": [
+        {
+          "id": 1,
+          "as_of_date": "2026-09-25",
+          "source": "url",
+          "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXCQ_20260925.xlsx",
+          "created_at": "2026-09-27T03:16:16.962Z",
+          "partial": false,
+          "content_hash": "6ad98c746e256ca6c02d23cf6deff8cff99a281564065be84966288b57a3ba94",
+          "holdings_count": 21,
+          "file": "etfs/ZXCQ/2026-09-25.json"
+        }
+      ]
     }
   ],
   "sources": [
@@ -855,8 +3249,8 @@
       "id": "vanguard-vcn",
       "label": "Vanguard Canada — VCN",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9561/vanguard-ftse-canada-all-cap-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -865,8 +3259,8 @@
       "id": "bmo-zcn",
       "label": "BMO — ZCN",
       "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCN_20260924.xlsx",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -875,8 +3269,8 @@
       "id": "ishares-xeqt",
       "label": "iShares — XEQT",
       "url": "https://www.blackrock.com/ca/investors/en/products/309480/fund/1464253357814.ajax?fileType=csv&fileName=XEQT_holdings&dataType=fund",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -885,8 +3279,8 @@
       "id": "vanguard-vxe",
       "label": "Vanguard Canada — VXE",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9548/vanguard-ftse-global-all-cap-ex-canada-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -895,8 +3289,8 @@
       "id": "vanguard-vce",
       "label": "Vanguard Canada — VCE",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9554/vanguard-ftse-canada-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -905,8 +3299,8 @@
       "id": "vanguard-ve",
       "label": "Vanguard Canada — VE",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9549/vanguard-ftse-developed-europe-all-cap-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -915,8 +3309,8 @@
       "id": "vanguard-va",
       "label": "Vanguard Canada — VA",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9550/vanguard-ftse-developed-asia-pacific-all-cap-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -925,8 +3319,8 @@
       "id": "vanguard-vus",
       "label": "Vanguard Canada — VUS",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9551/vanguard-morningstar-us-total-market-index-etf-cad-hedged",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -935,8 +3329,8 @@
       "id": "vanguard-vee",
       "label": "Vanguard Canada — VEE",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9556/vanguard-ftse-emerging-markets-all-cap-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -945,8 +3339,8 @@
       "id": "vanguard-vun",
       "label": "Vanguard Canada — VUN",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9557/vanguard-morningstar-us-total-market-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -955,8 +3349,8 @@
       "id": "vanguard-vdu",
       "label": "Vanguard Canada — VDU",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9558/vanguard-ftse-developed-all-cap-ex-us-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -965,8 +3359,8 @@
       "id": "vanguard-vef",
       "label": "Vanguard Canada — VEF",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9555/vanguard-ftse-developed-all-cap-ex-us-index-etf-cad-hedged",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -975,8 +3369,8 @@
       "id": "vanguard-vre",
       "label": "Vanguard Canada — VRE",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9559/vanguard-ftse-canadian-capped-reit-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -985,8 +3379,8 @@
       "id": "vanguard-vdy",
       "label": "Vanguard Canada — VDY",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9560/vanguard-ftse-canadian-high-dividend-yield-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -995,8 +3389,8 @@
       "id": "vanguard-vfv",
       "label": "Vanguard Canada — VFV",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9563/vanguard-sp-500-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1005,8 +3399,8 @@
       "id": "vanguard-vsp",
       "label": "Vanguard Canada — VSP",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9562/vanguard-sp-500-index-etf-cad-hedged",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1015,8 +3409,8 @@
       "id": "vanguard-vgg",
       "label": "Vanguard Canada — VGG",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9566/vanguard-us-dividend-appreciation-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1025,8 +3419,8 @@
       "id": "vanguard-vgh",
       "label": "Vanguard Canada — VGH",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9564/vanguard-us-dividend-appreciation-index-etf-cad-hedged",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1035,8 +3429,8 @@
       "id": "vanguard-viu",
       "label": "Vanguard Canada — VIU",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9569/vanguard-ftse-developed-all-cap-ex-north-america-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1045,8 +3439,8 @@
       "id": "vanguard-vi",
       "label": "Vanguard Canada — VI",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9570/vanguard-ftse-developed-all-cap-ex-north-america-index-etf-cad-hedged",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1055,8 +3449,8 @@
       "id": "vanguard-vidy",
       "label": "Vanguard Canada — VIDY",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9742/vanguard-ftse-developed-ex-north-america-high-dividend-yield-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1065,8 +3459,8 @@
       "id": "vanguard-vvl",
       "label": "Vanguard Canada — VVL",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9795/vanguard-global-value-factor-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1075,8 +3469,8 @@
       "id": "vanguard-vvo",
       "label": "Vanguard Canada — VVO",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9828/vanguard-global-minimum-volatility-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1085,8 +3479,8 @@
       "id": "vanguard-vmo",
       "label": "Vanguard Canada — VMO",
       "url": "https://www.vanguard.ca/en/product/etf/equity/9835/vanguard-global-momentum-factor-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1095,8 +3489,8 @@
       "id": "vanguard-vab",
       "label": "Vanguard Canada — VAB",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9552/vanguard-canadian-aggregate-bond-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1105,8 +3499,8 @@
       "id": "vanguard-vsb",
       "label": "Vanguard Canada — VSB",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9553/vanguard-canadian-short-term-bond-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1115,8 +3509,8 @@
       "id": "vanguard-vsc",
       "label": "Vanguard Canada — VSC",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9565/vanguard-canadian-short-term-corporate-bond-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1125,8 +3519,8 @@
       "id": "vanguard-vbu",
       "label": "Vanguard Canada — VBU",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9567/vanguard-us-aggregate-bond-index-etf-cad-hedged",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1135,8 +3529,8 @@
       "id": "vanguard-vbg",
       "label": "Vanguard Canada — VBG",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9568/vanguard-global-ex-us-aggregate-bond-index-etf-cad-hedged",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1145,8 +3539,8 @@
       "id": "vanguard-vgab",
       "label": "Vanguard Canada — VGAB",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/9841/vanguard-global-aggregate-bond-index-etf-cad-hedged",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1155,8 +3549,8 @@
       "id": "vanguard-vlb",
       "label": "Vanguard Canada — VLB",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/1811/vanguard-canadian-long-term-bond-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1165,8 +3559,8 @@
       "id": "vanguard-vgv",
       "label": "Vanguard Canada — VGV",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/1817/vanguard-canadian-government-bond-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1175,8 +3569,8 @@
       "id": "vanguard-vcb",
       "label": "Vanguard Canada — VCB",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/1936/vanguard-canadian-corporate-bond-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1185,8 +3579,8 @@
       "id": "vanguard-vcns",
       "label": "Vanguard Canada — VCNS",
       "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9577/vanguard-conservative-etf-portfolio",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1195,8 +3589,8 @@
       "id": "vanguard-vbal",
       "label": "Vanguard Canada — VBAL",
       "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9578/vanguard-balanced-etf-portfolio",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1205,8 +3599,8 @@
       "id": "vanguard-vgro",
       "label": "Vanguard Canada — VGRO",
       "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9579/vanguard-growth-etf-portfolio",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1215,8 +3609,8 @@
       "id": "vanguard-vcip",
       "label": "Vanguard Canada — VCIP",
       "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9691/vanguard-conservative-income-etf-portfolio",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1225,8 +3619,8 @@
       "id": "vanguard-veqt",
       "label": "Vanguard Canada — VEQT",
       "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9692/vanguard-all-equity-etf-portfolio",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1235,8 +3629,8 @@
       "id": "vanguard-vrif",
       "label": "Vanguard Canada — VRIF",
       "url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9870/vanguard-retirement-income-etf-portfolio",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1245,8 +3639,8 @@
       "id": "vanguard-vvsg",
       "label": "Vanguard Canada — VVSG",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/D003/vanguard-canadian-ultra-short-government-bond-index-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1255,8 +3649,8 @@
       "id": "vanguard-vudv",
       "label": "Vanguard Canada — VUDV",
       "url": "https://www.vanguard.ca/en/product/etf/equity/D018/vanguard-us-high-dividend-yield-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1265,8 +3659,8 @@
       "id": "vanguard-vudh",
       "label": "Vanguard Canada — VUDH",
       "url": "https://www.vanguard.ca/en/product/etf/equity/D019/vanguard-us-high-dividend-yield-hedged-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1275,8 +3669,8 @@
       "id": "vanguard-vigg",
       "label": "Vanguard Canada — VIGG",
       "url": "https://www.vanguard.ca/en/product/etf/equity/D020/vanguard-developed-ex-north-america-dividend-appreciation-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
@@ -1285,11 +3679,1706 @@
       "id": "vanguard-vcor",
       "label": "Vanguard Canada — VCOR",
       "url": "https://www.vanguard.ca/en/product/etf/fixed-income/D021/vanguard-global-core-plus-bond-etf",
-      "last_checked_at": "2026-09-27T02:40:50.553Z",
-      "last_success_at": "2026-09-27T02:40:50.553Z",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
       "imported": 0,
       "unchanged": 1,
       "errors": []
+    },
+    {
+      "id": "bmo-disc",
+      "label": "BMO — DISC",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_DISC_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-esga",
+      "label": "BMO — ESGA",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGA_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-comm",
+      "label": "BMO — COMM",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_COMM_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-esgb",
+      "label": "BMO — ESGB",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGB_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-esge",
+      "label": "BMO — ESGE",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGE_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-esgf",
+      "label": "BMO — ESGF",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGF_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-esgy",
+      "label": "BMO — ESGY",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGY_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-esgg",
+      "label": "BMO — ESGG",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGG_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-stpl",
+      "label": "BMO — STPL",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_STPL_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zaaa",
+      "label": "BMO — ZAAA",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZAAA_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zabs",
+      "label": "BMO — ZABS",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZABS_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zag",
+      "label": "BMO — ZAG",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZAG_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zapr",
+      "label": "BMO — ZAPR",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZAPR_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZAPR_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zbal",
+      "label": "BMO — ZBAL",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBAL_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zbbz",
+      "label": "BMO — ZBBZ",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBBZ_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zbcb",
+      "label": "BMO — ZBCB",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBCB_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zbdu",
+      "label": "BMO — ZBDU",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBDU_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zbec",
+      "label": "BMO — ZBEC",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBEC_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zbeu",
+      "label": "BMO — ZBEU",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBEU_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zbi",
+      "label": "BMO — ZBI",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBI_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zbk",
+      "label": "BMO — ZBK",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBK_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zbvu",
+      "label": "BMO — ZBVU",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBVU_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zcb",
+      "label": "BMO — ZCB",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCB_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zcdb",
+      "label": "BMO — ZCDB",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCDB_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zcdx",
+      "label": "BMO — ZCDX",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCDX_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zch",
+      "label": "BMO — ZCH",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCH_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zcln",
+      "label": "BMO — ZCLN",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCLN_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zcm",
+      "label": "BMO — ZCM",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCM_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zcom",
+      "label": "BMO — ZCOM",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCOM_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zcon",
+      "label": "BMO — ZCON",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCON_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zcs",
+      "label": "BMO — ZCS",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCS_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zdb",
+      "label": "BMO — ZDB",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDB_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zdh",
+      "label": "BMO — ZDH",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDH_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDH_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zdi",
+      "label": "BMO — ZDI",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDI_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zdiv",
+      "label": "BMO — ZDIV",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDIV_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zdm",
+      "label": "BMO — ZDM",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDM_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDM_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zdv",
+      "label": "BMO — ZDV",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDV_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zdj",
+      "label": "BMO — ZDJ",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDJ_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zdy",
+      "label": "BMO — ZDY",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDY_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zeb",
+      "label": "BMO — ZEB",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEB_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zef",
+      "label": "BMO — ZEF",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEF_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zem",
+      "label": "BMO — ZEM",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEM_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zea",
+      "label": "BMO — ZEA",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEA_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zeo",
+      "label": "BMO — ZEO",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEO_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zeqt",
+      "label": "BMO — ZEQT",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEQT_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zeql",
+      "label": "BMO — ZEQL",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEQL_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zeq",
+      "label": "BMO — ZEQ",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEQ_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zesg",
+      "label": "BMO — ZESG",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZESG_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zesm",
+      "label": "BMO — ZESM",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZESM_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zfl",
+      "label": "BMO — ZFL",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFL_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zfm",
+      "label": "BMO — ZFM",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFM_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zfh",
+      "label": "BMO — ZFH",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFH_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zgb",
+      "label": "BMO — ZGB",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGB_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zfs",
+      "label": "BMO — ZFS",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFS_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zgd",
+      "label": "BMO — ZGD",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGD_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zgi",
+      "label": "BMO — ZGI",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGI_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zgld",
+      "label": "BMO — ZGLD",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGLD_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGLD_20260924.xlsx",
+          "error": "no valid holdings rows extracted"
+        }
+      ]
+    },
+    {
+      "id": "bmo-zglh",
+      "label": "BMO — ZGLH",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGLH_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGLH_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zgq",
+      "label": "BMO — ZGQ",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGQ_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zgro",
+      "label": "BMO — ZGRO",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGRO_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zhc",
+      "label": "BMO — ZHC",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZHC_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zhu",
+      "label": "BMO — ZHU",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZHU_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zhp",
+      "label": "BMO — ZHP",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZHP_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZHP_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zhy",
+      "label": "BMO — ZHY",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZHY_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZHY_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zic",
+      "label": "BMO — ZIC",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZIC_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zid",
+      "label": "BMO — ZID",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZID_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zin",
+      "label": "BMO — ZIN",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZIN_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-ziq",
+      "label": "BMO — ZIQ",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZIQ_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-ziu",
+      "label": "BMO — ZIU",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZIU_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zjan",
+      "label": "BMO — ZJAN",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZJAN_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZJAN_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zjg",
+      "label": "BMO — ZJG",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZJG_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zjk",
+      "label": "BMO — ZJK",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZJK_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zjpn",
+      "label": "BMO — ZJPN",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZJPN_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zlb",
+      "label": "BMO — ZLB",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLB_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zjul",
+      "label": "BMO — ZJUL",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZJUL_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZJUL_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zlc",
+      "label": "BMO — ZLC",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLC_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zld",
+      "label": "BMO — ZLD",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLD_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLD_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zle",
+      "label": "BMO — ZLE",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLE_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zlh",
+      "label": "BMO — ZLH",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLH_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLH_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zli",
+      "label": "BMO — ZLI",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLI_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zlsc",
+      "label": "BMO — ZLSC",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLSC_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zlsu",
+      "label": "BMO — ZLSU",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLSU_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zlu",
+      "label": "BMO — ZLU",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLU_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zmbs",
+      "label": "BMO — ZMBS",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMBS_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zmid",
+      "label": "BMO — ZMID",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMID_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zmi",
+      "label": "BMO — ZMI",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMI_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zmlg",
+      "label": "BMO — ZMLG",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMLG_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zmp",
+      "label": "BMO — ZMP",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMP_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zmpc",
+      "label": "BMO — ZMPC",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMPC_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zmpu",
+      "label": "BMO — ZMPU",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMPU_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zmpw",
+      "label": "BMO — ZMPW",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMPW_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zmpg",
+      "label": "BMO — ZMPG",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMPG_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zmu",
+      "label": "BMO — ZMU",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMU_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMU_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zmt",
+      "label": "BMO — ZMT",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMT_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-znq",
+      "label": "BMO — ZNQ",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZNQ_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zoct",
+      "label": "BMO — ZOCT",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZOCT_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZOCT_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zph",
+      "label": "BMO — ZPH",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPH_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPH_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zpay",
+      "label": "BMO — ZPAY",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPAY_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zpr",
+      "label": "BMO — ZPR",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPR_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zpl",
+      "label": "BMO — ZPL",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPL_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zps",
+      "label": "BMO — ZPS",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPS_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zpw",
+      "label": "BMO — ZPW",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPW_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zqb",
+      "label": "BMO — ZQB",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZQB_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zqq",
+      "label": "BMO — ZQQ",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZQQ_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zre",
+      "label": "BMO — ZRE",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZRE_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zrr",
+      "label": "BMO — ZRR",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZRR_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zsb",
+      "label": "BMO — ZSB",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZSB_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zsdb",
+      "label": "BMO — ZSDB",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZSDB_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zsp",
+      "label": "BMO — ZSP",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZSP_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zst",
+      "label": "BMO — ZST",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZST_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zsml",
+      "label": "BMO — ZSML",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZSML_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zsu",
+      "label": "BMO — ZSU",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZSU_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-ztip",
+      "label": "BMO — ZTIP",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZTIP_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-ztl",
+      "label": "BMO — ZTL",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZTL_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-ztm",
+      "label": "BMO — ZTM",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZTM_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zts",
+      "label": "BMO — ZTS",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZTS_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zuag",
+      "label": "BMO — ZUAG",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUAG_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zub",
+      "label": "BMO — ZUB",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUB_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUB_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zucm",
+      "label": "BMO — ZUCM",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUCM_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zud",
+      "label": "BMO — ZUD",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUD_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUD_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zue",
+      "label": "BMO — ZUE",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUE_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUE_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zup",
+      "label": "BMO — ZUP",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUP_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zuq",
+      "label": "BMO — ZUQ",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUQ_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zut",
+      "label": "BMO — ZUT",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUT_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zvc",
+      "label": "BMO — ZVC",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZVC_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zvu",
+      "label": "BMO — ZVU",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZVU_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zwa",
+      "label": "BMO — ZWA",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWA_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zwb",
+      "label": "BMO — ZWB",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWB_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zwc",
+      "label": "BMO — ZWC",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWC_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zwe",
+      "label": "BMO — ZWE",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWE_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zwen",
+      "label": "BMO — ZWEN",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWEN_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zwg",
+      "label": "BMO — ZWG",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWG_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zwgd",
+      "label": "BMO — ZWGD",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWGD_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zuh",
+      "label": "BMO — ZUH",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUH_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zwh",
+      "label": "BMO — ZWH",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWH_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zwhc",
+      "label": "BMO — ZWHC",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWHC_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zwk",
+      "label": "BMO — ZWK",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWK_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zwp",
+      "label": "BMO — ZWP",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWP_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zws",
+      "label": "BMO — ZWS",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWS_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWS_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zwu",
+      "label": "BMO — ZWU",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWU_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zwt",
+      "label": "BMO — ZWT",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWT_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zxcp",
+      "label": "BMO — ZXCP",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXCP_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zxcq",
+      "label": "BMO — ZXCQ",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXCQ_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zxco",
+      "label": "BMO — ZXCO",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXCO_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": "2026-09-27T03:16:16.962Z",
+      "imported": 1,
+      "unchanged": 0,
+      "errors": []
+    },
+    {
+      "id": "bmo-zxlb",
+      "label": "BMO — ZXLB",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLB_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLB_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zxlc",
+      "label": "BMO — ZXLC",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLC_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLC_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zxle",
+      "label": "BMO — ZXLE",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLE_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLE_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zxlf",
+      "label": "BMO — ZXLF",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLF_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLF_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zxlp",
+      "label": "BMO — ZXLP",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLP_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLP_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zxlk",
+      "label": "BMO — ZXLK",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLK_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLK_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zxlr",
+      "label": "BMO — ZXLR",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLR_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLR_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zxlu",
+      "label": "BMO — ZXLU",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLU_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLU_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zxlv",
+      "label": "BMO — ZXLV",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLV_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLV_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zxli",
+      "label": "BMO — ZXLI",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLI_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLI_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
+    },
+    {
+      "id": "bmo-zxly",
+      "label": "BMO — ZXLY",
+      "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLY_20260924.xlsx",
+      "last_checked_at": "2026-09-27T03:16:16.962Z",
+      "last_success_at": null,
+      "imported": 0,
+      "unchanged": 0,
+      "errors": [
+        {
+          "url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLY_20260924.xlsx",
+          "error": "Holdings weights exceed 100%. Check the weight column and percentage format."
+        }
+      ]
     }
   ]
 }

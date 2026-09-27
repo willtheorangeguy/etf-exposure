@@ -1,0 +1,200 @@
+{
+  "id": 1,
+  "as_of_date": "2026-09-25",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPW_20260925.xlsx",
+  "created_at": "2026-09-27T03:16:16.962Z",
+  "partial": true,
+  "content_hash": "a78c1db3f9d1a8f4d40bb63ff58ea1a6e2a0204e8e2117ba7cf3da1ec66c0089",
+  "holdings": [
+    {
+      "t": "AAPL",
+      "n": "Apple Inc.",
+      "weight": 3.53,
+      "isin": "US0378331005",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 4341838.15,
+      "shares": 9000
+    },
+    {
+      "t": "BLK",
+      "n": "BlackRock, Inc.",
+      "weight": 1,
+      "isin": "US09290D1019",
+      "sector": "FINANCIALS",
+      "mv": 1229224.94,
+      "shares": 800
+    },
+    {
+      "t": "CBOE",
+      "n": "Cboe Global Markets, Inc.",
+      "weight": 0.59,
+      "isin": "US12503M1080",
+      "sector": "FINANCIALS",
+      "mv": 729941.07,
+      "shares": 2000
+    },
+    {
+      "t": "COST",
+      "n": "Costco Wholesale Corporation",
+      "weight": 1.59,
+      "isin": "US22160K1051",
+      "sector": "CONSUMER STAPLES",
+      "mv": 1957807.43,
+      "shares": 1500
+    },
+    {
+      "t": "GOOGL",
+      "n": "Alphabet Inc.",
+      "weight": 1.97,
+      "isin": "US02079K3059",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 2432288.22,
+      "shares": 5000
+    },
+    {
+      "t": "ITW",
+      "n": "Illinois Tool Works Inc.",
+      "weight": 1.61,
+      "isin": "US4523081093",
+      "sector": "INDUSTRIALS",
+      "mv": 1978860.81,
+      "shares": 5100
+    },
+    {
+      "t": "LIN",
+      "n": "Linde plc",
+      "weight": 1.62,
+      "isin": "IE000S9YS762",
+      "sector": "MATERIALS",
+      "mv": 1993907.73,
+      "shares": 3000
+    },
+    {
+      "t": "LLY",
+      "n": "Eli Lilly and Company",
+      "weight": 2.04,
+      "isin": "US5324571083",
+      "sector": "HEALTH CARE",
+      "mv": 2510917.5,
+      "shares": 1500
+    },
+    {
+      "t": "LMT",
+      "n": "Lockheed Martin Corporation",
+      "weight": 2.09,
+      "isin": "US5398301094",
+      "sector": "INDUSTRIALS",
+      "mv": 2572120.75,
+      "shares": 3500
+    },
+    {
+      "t": "MA",
+      "n": "Mastercard Incorporated",
+      "weight": 1.63,
+      "isin": "US57636Q1040",
+      "sector": "FINANCIALS",
+      "mv": 2007281.36,
+      "shares": 2500
+    },
+    {
+      "t": "META",
+      "n": "Meta Platforms, Inc.",
+      "weight": 4.32,
+      "isin": "US30303M1027",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 5315927.44,
+      "shares": 5000
+    },
+    {
+      "t": "MRK",
+      "n": "Merck & Co., Inc.",
+      "weight": 1.2,
+      "isin": "US58933Y1055",
+      "sector": "HEALTH CARE",
+      "mv": 1473093.1,
+      "shares": 7000
+    },
+    {
+      "t": "MSFT",
+      "n": "Microsoft Corporation",
+      "weight": 2.61,
+      "isin": "US5949181045",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 3212425.29,
+      "shares": 4400
+    },
+    {
+      "t": "NVDA",
+      "n": "NVIDIA Corporation",
+      "weight": 3.23,
+      "isin": "US67066G1040",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 3979378.27,
+      "shares": 12500
+    },
+    {
+      "t": "PG",
+      "n": "The Procter & Gamble Company",
+      "weight": 2.02,
+      "isin": "US7427181091",
+      "sector": "CONSUMER STAPLES",
+      "mv": 2482020.28,
+      "shares": 12000
+    },
+    {
+      "t": "TJX",
+      "n": "The TJX Companies, Inc.",
+      "weight": 1.2,
+      "isin": "US8725401090",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 1471706.94,
+      "shares": 8000
+    },
+    {
+      "t": "US46120E6023",
+      "n": "Intuitive Surgical, Inc.",
+      "weight": 1.16,
+      "isin": "US46120E6023",
+      "sector": "HEALTH CARE",
+      "mv": 1432767.13,
+      "shares": 2500
+    },
+    {
+      "t": "US64110L1061",
+      "n": "Netflix, Inc.",
+      "weight": 1.63,
+      "isin": "US64110L1061",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 2012620.91,
+      "shares": 20000
+    },
+    {
+      "t": "US69608A1088",
+      "n": "Palantir Technologies Inc.",
+      "weight": 1.42,
+      "isin": "US69608A1088",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 1743811.76,
+      "shares": 6500
+    },
+    {
+      "t": "V",
+      "n": "Visa Inc.",
+      "weight": 2.11,
+      "isin": "US92826C8394",
+      "sector": "FINANCIALS",
+      "mv": 2598203.21,
+      "shares": 5000
+    },
+    {
+      "t": "WMT",
+      "n": "Walmart Inc.",
+      "weight": 2.79,
+      "isin": "US9311421039",
+      "sector": "CONSUMER STAPLES",
+      "mv": 3436477,
+      "shares": 22500
+    }
+  ]
+}

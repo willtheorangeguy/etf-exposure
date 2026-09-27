@@ -1,0 +1,443 @@
+{
+  "id": 1,
+  "as_of_date": "2026-09-25",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBDU_20260925.xlsx",
+  "created_at": "2026-09-27T03:16:16.962Z",
+  "partial": false,
+  "content_hash": "270feb825c6cbe960f5047d88c16abaead76c54cc9c1709e1ac8e8508abc16f6",
+  "holdings": [
+    {
+      "t": "AAPL",
+      "n": "Apple Inc.",
+      "weight": 3.57,
+      "isin": "US0378331005",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 393177.57,
+      "shares": 815
+    },
+    {
+      "t": "ABBV",
+      "n": "AbbVie Inc.",
+      "weight": 3.78,
+      "isin": "US00287Y1091",
+      "sector": "HEALTH CARE",
+      "mv": 415772.03,
+      "shares": 1112
+    },
+    {
+      "t": "ADI",
+      "n": "Analog Devices, Inc.",
+      "weight": 0.96,
+      "isin": "US0326541051",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 105221.5,
+      "shares": 189
+    },
+    {
+      "t": "BAC",
+      "n": "Bank of America Corporation",
+      "weight": 3.95,
+      "isin": "US0605051046",
+      "sector": "FINANCIALS",
+      "mv": 435402.08,
+      "shares": 5429
+    },
+    {
+      "t": "BLK",
+      "n": "BlackRock, Inc.",
+      "weight": 2.08,
+      "isin": "US09290D1019",
+      "sector": "FINANCIALS",
+      "mv": 228943.15,
+      "shares": 149
+    },
+    {
+      "t": "C",
+      "n": "Citigroup Inc.",
+      "weight": 1.59,
+      "isin": "US1729674242",
+      "sector": "FINANCIALS",
+      "mv": 175307.56,
+      "shares": 923
+    },
+    {
+      "t": "CSCO",
+      "n": "Cisco Systems, Inc.",
+      "weight": 3.7,
+      "isin": "US17275R1023",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 407639.82,
+      "shares": 2701
+    },
+    {
+      "t": "CVX",
+      "n": "Chevron Corporation",
+      "weight": 2.41,
+      "isin": "US1667641005",
+      "sector": "ENERGY",
+      "mv": 265182.01,
+      "shares": 917
+    },
+    {
+      "t": "EQH",
+      "n": "Equitable Holdings, Inc.",
+      "weight": 2.87,
+      "isin": "US29452E1010",
+      "sector": "FINANCIALS",
+      "mv": 316267.51,
+      "shares": 4153
+    },
+    {
+      "t": "GILD",
+      "n": "Gilead Sciences, Inc.",
+      "weight": 3.61,
+      "isin": "US3755581036",
+      "sector": "HEALTH CARE",
+      "mv": 397932.2,
+      "shares": 1864
+    },
+    {
+      "t": "GOOGL",
+      "n": "Alphabet Inc.",
+      "weight": 1.78,
+      "isin": "US02079K3059",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 196042.43,
+      "shares": 403
+    },
+    {
+      "t": "GS",
+      "n": "The Goldman Sachs Group, Inc.",
+      "weight": 1.26,
+      "isin": "US38141G1040",
+      "sector": "FINANCIALS",
+      "mv": 138930.46,
+      "shares": 105
+    },
+    {
+      "t": "HON",
+      "n": "HONEYWELL INTERNATIONAL INC",
+      "weight": 0.57,
+      "isin": "US4385162056",
+      "sector": "INDUSTRIALS",
+      "mv": 62533.4,
+      "shares": 208
+    },
+    {
+      "t": "HONA",
+      "n": "HONEYWELL AEROSPACE INC",
+      "weight": 0.42,
+      "isin": "US43849R1059",
+      "sector": "INDUSTRIALS",
+      "mv": 46489.38,
+      "shares": 207
+    },
+    {
+      "t": "IBM",
+      "n": "International Business Machines Corporation",
+      "weight": 0.85,
+      "isin": "US4592001014",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 94096.92,
+      "shares": 295
+    },
+    {
+      "t": "JNJ",
+      "n": "Johnson & Johnson",
+      "weight": 4.28,
+      "isin": "US4781601046",
+      "sector": "HEALTH CARE",
+      "mv": 471477.74,
+      "shares": 1229
+    },
+    {
+      "t": "JPM",
+      "n": "JPMorgan Chase & Co.",
+      "weight": 3.23,
+      "isin": "US46625H1005",
+      "sector": "FINANCIALS",
+      "mv": 355681.81,
+      "shares": 733
+    },
+    {
+      "t": "LHX",
+      "n": "L3Harris Technologies, Inc.",
+      "weight": 1.24,
+      "isin": "US5024311095",
+      "sector": "INDUSTRIALS",
+      "mv": 136497.45,
+      "shares": 406
+    },
+    {
+      "t": "LIN",
+      "n": "Linde plc",
+      "weight": 1.11,
+      "isin": "IE000S9YS762",
+      "sector": "MATERIALS",
+      "mv": 122293.01,
+      "shares": 184
+    },
+    {
+      "t": "LOW",
+      "n": "Lowe's Companies, Inc.",
+      "weight": 1.38,
+      "isin": "US5486611073",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 151801.26,
+      "shares": 567
+    },
+    {
+      "t": "MCD",
+      "n": "McDonald's Corporation",
+      "weight": 1.47,
+      "isin": "US5801351017",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 162240.95,
+      "shares": 485
+    },
+    {
+      "t": "MCHP",
+      "n": "Microchip Technology Incorporated",
+      "weight": 2.05,
+      "isin": "US5950171042",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 225833.93,
+      "shares": 2029
+    },
+    {
+      "t": "MDT",
+      "n": "Medtronic plc",
+      "weight": 1.81,
+      "isin": "IE00BTN1Y115",
+      "sector": "HEALTH CARE",
+      "mv": 199223.81,
+      "shares": 1589
+    },
+    {
+      "t": "MET",
+      "n": "MetLife, Inc.",
+      "weight": 2.05,
+      "isin": "US59156R1086",
+      "sector": "FINANCIALS",
+      "mv": 226081.73,
+      "shares": 1636
+    },
+    {
+      "t": "MRK",
+      "n": "Merck & Co., Inc.",
+      "weight": 3.06,
+      "isin": "US58933Y1055",
+      "sector": "HEALTH CARE",
+      "mv": 336706.99,
+      "shares": 1600
+    },
+    {
+      "t": "MS",
+      "n": "Morgan Stanley",
+      "weight": 3.39,
+      "isin": "US6174464486",
+      "sector": "FINANCIALS",
+      "mv": 372911.72,
+      "shares": 1343
+    },
+    {
+      "t": "MSFT",
+      "n": "Microsoft Corporation",
+      "weight": 3.59,
+      "isin": "US5949181045",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 394982.29,
+      "shares": 541
+    },
+    {
+      "t": "NEE",
+      "n": "NextEra Energy, Inc.",
+      "weight": 1.61,
+      "isin": "US65339F1012",
+      "sector": "UTILITIES",
+      "mv": 177235.9,
+      "shares": 1647
+    },
+    {
+      "t": "NXST",
+      "n": "Nexstar Media Group, Inc.",
+      "weight": 0.73,
+      "isin": "US65336K1034",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 80248.82,
+      "shares": 350
+    },
+    {
+      "t": "ORCL",
+      "n": "Oracle Corporation",
+      "weight": 0.8,
+      "isin": "US68389X1054",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 88040.18,
+      "shares": 454
+    },
+    {
+      "t": "PEP",
+      "n": "PepsiCo, Inc.",
+      "weight": 1.58,
+      "isin": "US7134481081",
+      "sector": "CONSUMER STAPLES",
+      "mv": 174299.19,
+      "shares": 958
+    },
+    {
+      "t": "PFE",
+      "n": "Pfizer Inc.",
+      "weight": 1.43,
+      "isin": "US7170811035",
+      "sector": "HEALTH CARE",
+      "mv": 157667.27,
+      "shares": 3888
+    },
+    {
+      "t": "PG",
+      "n": "The Procter & Gamble Company",
+      "weight": 2.03,
+      "isin": "US7427181091",
+      "sector": "CONSUMER STAPLES",
+      "mv": 224002.33,
+      "shares": 1083
+    },
+    {
+      "t": "PM",
+      "n": "Philip Morris International Inc.",
+      "weight": 2.45,
+      "isin": "US7181721090",
+      "sector": "CONSUMER STAPLES",
+      "mv": 269424.44,
+      "shares": 1000
+    },
+    {
+      "t": "RF",
+      "n": "Regions Financial Corporation",
+      "weight": 2.09,
+      "isin": "US7591EP1005",
+      "sector": "FINANCIALS",
+      "mv": 229870.87,
+      "shares": 5884
+    },
+    {
+      "t": "RTX",
+      "n": "RTX Corporation",
+      "weight": 2.92,
+      "isin": "US75513E1010",
+      "sector": "INDUSTRIALS",
+      "mv": 322011.99,
+      "shares": 1202
+    },
+    {
+      "t": "SO",
+      "n": "The Southern Company",
+      "weight": 1.11,
+      "isin": "US8425871071",
+      "sector": "UTILITIES",
+      "mv": 122036.03,
+      "shares": 1041
+    },
+    {
+      "t": "TFC",
+      "n": "Truist Financial Corporation",
+      "weight": 0.94,
+      "isin": "US89832Q1094",
+      "sector": "FINANCIALS",
+      "mv": 103208.82,
+      "shares": 1531
+    },
+    {
+      "t": "TGT",
+      "n": "Target Corporation",
+      "weight": 2.33,
+      "isin": "US87612E1064",
+      "sector": "CONSUMER STAPLES",
+      "mv": 256556.34,
+      "shares": 1152
+    },
+    {
+      "t": "TMUS",
+      "n": "T-Mobile US, Inc.",
+      "weight": 0.54,
+      "isin": "US8725901040",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 59200.09,
+      "shares": 253
+    },
+    {
+      "t": "TXN",
+      "n": "Texas Instruments Incorporated",
+      "weight": 2.01,
+      "isin": "US8825081040",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 221436.97,
+      "shares": 563
+    },
+    {
+      "t": "UNH",
+      "n": "UnitedHealth Group Incorporated",
+      "weight": 2.86,
+      "isin": "US91324P1021",
+      "sector": "HEALTH CARE",
+      "mv": 314806.63,
+      "shares": 591
+    },
+    {
+      "t": "US0584981064",
+      "n": "Ball Corporation",
+      "weight": 0.7,
+      "isin": "US0584981064",
+      "sector": "MATERIALS",
+      "mv": 76765.95,
+      "shares": 955
+    },
+    {
+      "t": "US59522J1034",
+      "n": "MID-AMERICA APARTMENT COMMUNITIES INC",
+      "weight": 1.29,
+      "isin": "US59522J1034",
+      "sector": "REAL ESTATE",
+      "mv": 141787.93,
+      "shares": 847
+    },
+    {
+      "t": "US74340W1036",
+      "n": "Prologis Inc",
+      "weight": 2.59,
+      "isin": "US74340W1036",
+      "sector": "REAL ESTATE",
+      "mv": 285676.33,
+      "shares": 1518
+    },
+    {
+      "t": "V",
+      "n": "Visa Inc.",
+      "weight": 1.63,
+      "isin": "US92826C8394",
+      "sector": "FINANCIALS",
+      "mv": 179276.02,
+      "shares": 345
+    },
+    {
+      "t": "VZ",
+      "n": "Verizon Communications Inc.",
+      "weight": 2.99,
+      "isin": "US92343V1044",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 328965.99,
+      "shares": 4940
+    },
+    {
+      "t": "WM",
+      "n": "Waste Management, Inc.",
+      "weight": 2.19,
+      "isin": "US94106L1098",
+      "sector": "INDUSTRIALS",
+      "mv": 241646.87,
+      "shares": 826
+    }
+  ]
+}

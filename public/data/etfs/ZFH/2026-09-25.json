@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "as_of_date": "2026-09-25",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFH_20260925.xlsx",
+  "created_at": "2026-09-27T03:16:16.962Z",
+  "partial": false,
+  "content_hash": "b42f64d2392e7e029b92ea612ef93463d047e782bce2d24ae48faf67cf6e8c8a",
+  "holdings": [
+    {
+      "t": "CTB",
+      "n": "Canada T Bill 0.01% 10/07/2026",
+      "weight": 34.41,
+      "isin": "CA1350Z7EK68",
+      "sector": "-",
+      "mv": 91833464.4
+    },
+    {
+      "t": "CTB",
+      "n": "Canada T Bill 0.01% 02/24/2027",
+      "weight": 21.53,
+      "isin": "CA1350Z7EW07",
+      "sector": "-",
+      "mv": 57446767.62
+    },
+    {
+      "t": "CTB",
+      "n": "Canada T Bill 0.01% 12/16/2026",
+      "weight": 42.94,
+      "isin": "CA1350Z7FA77",
+      "sector": "-",
+      "mv": 114596236.8
+    }
+  ]
+}

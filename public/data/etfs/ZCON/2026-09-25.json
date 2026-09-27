@@ -1,0 +1,83 @@
+{
+  "id": 1,
+  "as_of_date": "2026-09-25",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCON_20260925.xlsx",
+  "created_at": "2026-09-27T03:16:16.962Z",
+  "partial": false,
+  "content_hash": "bcf58463a51a6701847f666f5c4f25b96552dde41e5003684ddf11e4a889018c",
+  "holdings": [
+    {
+      "t": "CA05574G1090",
+      "n": "BMO S&P/TSX Capped Composite Index ETF",
+      "weight": 9.97,
+      "isin": "CA05574G1090",
+      "sector": "Financials",
+      "mv": 12328265.88,
+      "shares": 256412
+    },
+    {
+      "t": "CA05575T1003",
+      "n": "BMO S&P 500 Index ETF",
+      "weight": 18.76,
+      "isin": "CA05575T1003",
+      "sector": "Financials",
+      "mv": 23198945.57,
+      "shares": 193125
+    },
+    {
+      "t": "CA05576Y1088",
+      "n": "BMO MSCI Emerging Markets Index ETF",
+      "weight": 3.8,
+      "isin": "CA05576Y1088",
+      "sector": "Financials",
+      "mv": 4703357.73,
+      "shares": 136153
+    },
+    {
+      "t": "CA05579E1097",
+      "n": "BMO MSCI EAFE Index ETF",
+      "weight": 6.63,
+      "isin": "CA05579E1097",
+      "sector": "Financials",
+      "mv": 8193581.9,
+      "shares": 256966
+    },
+    {
+      "t": "CA05589W2067",
+      "n": "BMO S&P US Small Cap Index ETF",
+      "weight": 0.48,
+      "isin": "CA05589W2067",
+      "sector": "-",
+      "mv": 591913.51,
+      "shares": 11388
+    },
+    {
+      "t": "CA05589X1050",
+      "n": "BMO S&P US Mid Cap Index ETF",
+      "weight": 0.97,
+      "isin": "CA05589X1050",
+      "sector": "-",
+      "mv": 1201731.03,
+      "shares": 21693
+    },
+    {
+      "t": "CA05590X1024",
+      "n": "BMO Discount Bond Index ETF",
+      "weight": 41.75,
+      "isin": "CA05590X1024",
+      "sector": "Financials",
+      "mv": 51632036.73,
+      "shares": 3477050
+    },
+    {
+      "t": "CA05592U1140",
+      "n": "BMO US Aggregate Bond Index ETF",
+      "weight": 17.63,
+      "isin": "CA05592U1140",
+      "sector": "-",
+      "mv": 21796208.81,
+      "shares": 767898
+    }
+  ]
+}
