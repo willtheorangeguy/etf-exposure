@@ -1,0 +1,32 @@
+{
+  "id": 2,
+  "as_of_date": "2026-10-01",
+  "source": "url",
+  "source_url": "https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=7279",
+  "created_at": "2026-10-01T10:56:40.812Z",
+  "partial": false,
+  "content_hash": "c1b549b8c59700c602911e91b8c357b38ae04aefd75a2528e5663dc9198539b1",
+  "holdings": [
+    {
+      "t": "CAD CURRENCY",
+      "n": "CAD Currency",
+      "weight": -2.9099999999999997
+    },
+    {
+      "t": "CASH",
+      "n": "CASH",
+      "weight": 2.1999999999999997
+    },
+    {
+      "t": "TD ACTIVE U.S. ENHANCED DIVIDEND ETF",
+      "n": "TD Active U.S. Enhanced Dividend ETF",
+      "weight": 100.55999999999999
+    },
+    {
+      "t": "USD CURRENCY",
+      "n": "USD Currency",
+      "weight": 0.14999999999999997
+    }
+  ],
+  "date_basis": "retrieved"
+}

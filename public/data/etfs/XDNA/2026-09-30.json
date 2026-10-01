@@ -1,0 +1,451 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-30",
+  "source": "url",
+  "source_url": "https://www.blackrock.com/ca/investors/en/products/327372/fund/1464253357814.ajax?fileType=csv&fileName=XDNA_holdings&dataType=fund",
+  "created_at": "2026-10-01T10:56:40.812Z",
+  "partial": false,
+  "content_hash": "0429c31345682e147e82e90a5a81ef17b9f01366ac59ea9a9f36f2aa5ceb0033",
+  "holdings": [
+    {
+      "t": "174900",
+      "n": "ABCLON INC",
+      "weight": 0.23,
+      "sector": "Health Care",
+      "mv": 42668.02,
+      "shares": 1820
+    },
+    {
+      "t": "2595",
+      "n": "GENFLEET THERAPEUTICS (SHANGHAI) I",
+      "weight": 0.7,
+      "sector": "Health Care",
+      "mv": 131358.65,
+      "shares": 22000
+    },
+    {
+      "t": "2696",
+      "n": "SHANGHAI HENLIUS BIOTECH H",
+      "weight": 0.41,
+      "sector": "Health Care",
+      "mv": 76405.14,
+      "shares": 7200
+    },
+    {
+      "t": "4502",
+      "n": "TAKEDA PHARMACEUTICAL",
+      "weight": 3.32,
+      "sector": "Health Care",
+      "mv": 621460.81,
+      "shares": 11900
+    },
+    {
+      "t": "4528",
+      "n": "ONO PHARMACEUTICAL",
+      "weight": 1.46,
+      "sector": "Health Care",
+      "mv": 273494.89,
+      "shares": 12900
+    },
+    {
+      "t": "6887",
+      "n": "SUNSHINE LAKE PHARMA LTD CLASS H",
+      "weight": 0.77,
+      "sector": "Health Care",
+      "mv": 144711.64,
+      "shares": 18600
+    },
+    {
+      "t": "ABCL",
+      "n": "ABCELLERA BIOLOGICS",
+      "weight": 2.97,
+      "sector": "Health Care",
+      "mv": 555636.43,
+      "shares": 26824
+    },
+    {
+      "t": "ALVO",
+      "n": "ALVOTECH SA",
+      "weight": 0.57,
+      "sector": "Health Care",
+      "mv": 106126.88,
+      "shares": 12888
+    },
+    {
+      "t": "BAYN",
+      "n": "BAYER AG",
+      "weight": 3.6,
+      "sector": "Health Care",
+      "mv": 673889.77,
+      "shares": 8715
+    },
+    {
+      "t": "BNTX",
+      "n": "BIONTECH SE ADR",
+      "weight": 3.08,
+      "sector": "Health Care",
+      "mv": 577086.49,
+      "shares": 4135
+    },
+    {
+      "t": "CAD",
+      "n": "CAD CASH",
+      "weight": 0.07,
+      "sector": "Cash and/or Derivatives",
+      "mv": 12426.4,
+      "shares": 12426
+    },
+    {
+      "t": "CAI",
+      "n": "CARIS LIFE SCIENCES",
+      "weight": 3.25,
+      "sector": "Health Care",
+      "mv": 609078.12,
+      "shares": 14006
+    },
+    {
+      "t": "CHF",
+      "n": "CHF CASH",
+      "weight": 0.01,
+      "sector": "Cash and/or Derivatives",
+      "mv": 1533.51,
+      "shares": 902
+    },
+    {
+      "t": "CRSP",
+      "n": "CRISPR THERAPEUTICS AG",
+      "weight": 1.37,
+      "sector": "Health Care",
+      "mv": 257141.83,
+      "shares": 3274
+    },
+    {
+      "t": "CRVS",
+      "n": "CORVUS PHARMACEUTICALS",
+      "weight": 0.63,
+      "sector": "Health Care",
+      "mv": 118184.99,
+      "shares": 7226
+    },
+    {
+      "t": "CTMX",
+      "n": "CYTOMX THERAPEUTICS",
+      "weight": 0.41,
+      "sector": "Health Care",
+      "mv": 76469.78,
+      "shares": 19802
+    },
+    {
+      "t": "DKK",
+      "n": "DKK CASH",
+      "weight": 0.01,
+      "sector": "Cash and/or Derivatives",
+      "mv": 2194.19,
+      "shares": 10171
+    },
+    {
+      "t": "DNA",
+      "n": "GINKGO BIOWORKS HOLDINGS CLASS A",
+      "weight": 0.52,
+      "sector": "Health Care",
+      "mv": 97106.26,
+      "shares": 5331
+    },
+    {
+      "t": "DSGN",
+      "n": "DESIGN THERAPEUTICS",
+      "weight": 0.41,
+      "sector": "Health Care",
+      "mv": 76863.83,
+      "shares": 4307
+    },
+    {
+      "t": "EUR",
+      "n": "EUR CASH",
+      "weight": 0.01,
+      "sector": "Cash and/or Derivatives",
+      "mv": 1374.86,
+      "shares": 853
+    },
+    {
+      "t": "EXEL",
+      "n": "EXELIXIS INC",
+      "weight": 3.06,
+      "sector": "Health Care",
+      "mv": 573195.55,
+      "shares": 6912
+    },
+    {
+      "t": "GBP",
+      "n": "GBP CASH",
+      "weight": 0.03,
+      "sector": "Cash and/or Derivatives",
+      "mv": 5161.18,
+      "shares": 2736
+    },
+    {
+      "t": "GMAB",
+      "n": "GENMAB",
+      "weight": 3.99,
+      "sector": "Health Care",
+      "mv": 747028.23,
+      "shares": 1478
+    },
+    {
+      "t": "GSK",
+      "n": "GLAXOSMITHKLINE",
+      "weight": 2.59,
+      "sector": "Health Care",
+      "mv": 485120.55,
+      "shares": 14040
+    },
+    {
+      "t": "HKD",
+      "n": "HKD CASH",
+      "weight": 0.01,
+      "sector": "Cash and/or Derivatives",
+      "mv": 939.44,
+      "shares": 5192
+    },
+    {
+      "t": "IBRX",
+      "n": "IMMUNITYBIO",
+      "weight": 3.08,
+      "sector": "Health Care",
+      "mv": 576572.97,
+      "shares": 43020
+    },
+    {
+      "t": "IDYA",
+      "n": "IDEAYA BIOSCIENCES",
+      "weight": 2.77,
+      "sector": "Health Care",
+      "mv": 518303.65,
+      "shares": 9502
+    },
+    {
+      "t": "INCY",
+      "n": "INCYTE CORP",
+      "weight": 3.27,
+      "sector": "Health Care",
+      "mv": 612995.95,
+      "shares": 3558
+    },
+    {
+      "t": "IOVA",
+      "n": "IOVANCE BIOTHERAPEUTICS INC",
+      "weight": 4.98,
+      "sector": "Health Care",
+      "mv": 933533.56,
+      "shares": 44368
+    },
+    {
+      "t": "IPN",
+      "n": "IPSEN SA",
+      "weight": 2.44,
+      "sector": "Health Care",
+      "mv": 457620.01,
+      "shares": 1997
+    },
+    {
+      "t": "JANX",
+      "n": "JANUX THERAPEUTICS",
+      "weight": 0.86,
+      "sector": "Health Care",
+      "mv": 160545.78,
+      "shares": 6544
+    },
+    {
+      "t": "JPY",
+      "n": "JPY CASH",
+      "weight": 0.09,
+      "sector": "Cash and/or Derivatives",
+      "mv": 16486.72,
+      "shares": 1824716
+    },
+    {
+      "t": "KURA",
+      "n": "KURA ONCOLOGY",
+      "weight": 0.8,
+      "sector": "Health Care",
+      "mv": 149424.67,
+      "shares": 9827
+    },
+    {
+      "t": "MRK",
+      "n": "MERCK & CO INC",
+      "weight": 3.32,
+      "sector": "Health Care",
+      "mv": 622212.48,
+      "shares": 3016
+    },
+    {
+      "t": "MRNA",
+      "n": "MODERNA",
+      "weight": 11.21,
+      "sector": "Health Care",
+      "mv": 2099174.86,
+      "shares": 7678
+    },
+    {
+      "t": "NTLA",
+      "n": "INTELLIA THERAPEUTICS",
+      "weight": 0.44,
+      "sector": "Health Care",
+      "mv": 82922.74,
+      "shares": 4843
+    },
+    {
+      "t": "NUVB",
+      "n": "NUVATION BIO CLASS A",
+      "weight": 1.2,
+      "sector": "Health Care",
+      "mv": 224723.71,
+      "shares": 28265
+    },
+    {
+      "t": "NVAX",
+      "n": "NOVAVAX",
+      "weight": 1.46,
+      "sector": "Health Care",
+      "mv": 274044.92,
+      "shares": 17856
+    },
+    {
+      "t": "OCGN",
+      "n": "OCUGEN",
+      "weight": 0.3,
+      "sector": "Health Care",
+      "mv": 55669.92,
+      "shares": 38069
+    },
+    {
+      "t": "PACB",
+      "n": "PACIFIC BIOSCIENCES OF CALIFORNIA",
+      "weight": 0.59,
+      "sector": "Health Care",
+      "mv": 110062.85,
+      "shares": 32710
+    },
+    {
+      "t": "PRME",
+      "n": "PRIME MEDICINE",
+      "weight": 0.07,
+      "sector": "Health Care",
+      "mv": 13766.71,
+      "shares": 3174
+    },
+    {
+      "t": "PSNL",
+      "n": "PERSONALIS",
+      "weight": 0.87,
+      "sector": "Health Care",
+      "mv": 163828.7,
+      "shares": 7088
+    },
+    {
+      "t": "RCUS",
+      "n": "ARCUS BIOSCIENCES",
+      "weight": 1.87,
+      "sector": "Health Care",
+      "mv": 350842.39,
+      "shares": 9567
+    },
+    {
+      "t": "REGN",
+      "n": "REGENERON PHARMACEUTICALS",
+      "weight": 3.29,
+      "sector": "Health Care",
+      "mv": 616865.35,
+      "shares": 573
+    },
+    {
+      "t": "RIGL",
+      "n": "RIGEL PHARMACEUTICALS",
+      "weight": 0.75,
+      "sector": "Health Care",
+      "mv": 139866.53,
+      "shares": 2046
+    },
+    {
+      "t": "ROP",
+      "n": "ROCHE PS PAR AG",
+      "weight": 2.8,
+      "sector": "Health Care",
+      "mv": 524751.3,
+      "shares": 884
+    },
+    {
+      "t": "RVMD",
+      "n": "REVOLUTION MEDICINES",
+      "weight": 3.8,
+      "sector": "Health Care",
+      "mv": 711351.06,
+      "shares": 2441
+    },
+    {
+      "t": "SAN",
+      "n": "SANOFI SA",
+      "weight": 2.53,
+      "sector": "Health Care",
+      "mv": 473600.81,
+      "shares": 4043
+    },
+    {
+      "t": "TWST",
+      "n": "TWIST BIOSCIENCE",
+      "weight": 7.71,
+      "sector": "Health Care",
+      "mv": 1443642.8,
+      "shares": 5262
+    },
+    {
+      "t": "USD",
+      "n": "USD CASH",
+      "weight": 0.02,
+      "sector": "Cash and/or Derivatives",
+      "mv": 3901.06,
+      "shares": 2748
+    },
+    {
+      "t": "VIR",
+      "n": "VIR BIOTECHNOLOGY",
+      "weight": 1.29,
+      "sector": "Health Care",
+      "mv": 241996.79,
+      "shares": 15246
+    },
+    {
+      "t": "VLA",
+      "n": "VALNEVA",
+      "weight": 0.43,
+      "sector": "Health Care",
+      "mv": 80293.84,
+      "shares": 18373
+    },
+    {
+      "t": "VRTX",
+      "n": "VERTEX PHARMACEUTICALS",
+      "weight": 3.23,
+      "sector": "Health Care",
+      "mv": 604941.49,
+      "shares": 815
+    },
+    {
+      "t": "VSTM",
+      "n": "VERASTEM INC",
+      "weight": 0.57,
+      "sector": "Health Care",
+      "mv": 107021.04,
+      "shares": 9364
+    },
+    {
+      "t": "XNCR",
+      "n": "XENCOR",
+      "weight": 0.48,
+      "sector": "Health Care",
+      "mv": 90469.74,
+      "shares": 2554
+    }
+  ]
+}

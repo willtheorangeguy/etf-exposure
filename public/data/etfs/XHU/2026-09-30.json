@@ -1,0 +1,627 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-30",
+  "source": "url",
+  "source_url": "https://www.blackrock.com/ca/investors/en/products/272110/ishares-us-high-dividend-equity-index-etf/1464253357814.ajax?fileType=csv&fileName=XHU_holdings&dataType=fund",
+  "created_at": "2026-10-01T10:56:40.812Z",
+  "partial": false,
+  "content_hash": "efb8680702e9d771c65e2ad0a3ae4a2328903aa32c6adc559848a61729279737",
+  "holdings": [
+    {
+      "t": "ABBV",
+      "n": "ABBVIE",
+      "weight": 6.699330066993301,
+      "sector": "Health Care",
+      "mv": 12727246.24,
+      "shares": 34269
+    },
+    {
+      "t": "ABT",
+      "n": "ABBOTT LABORATORIES",
+      "weight": 2.1297870212978705,
+      "sector": "Health Care",
+      "mv": 4053528.04,
+      "shares": 28889
+    },
+    {
+      "t": "AEE",
+      "n": "AMEREN",
+      "weight": 0.41995800419958007,
+      "sector": "Utilities",
+      "mv": 791964.86,
+      "shares": 5613
+    },
+    {
+      "t": "AFG",
+      "n": "AMERICAN FINANCIAL GROUP",
+      "weight": 0.12998700129987004,
+      "sector": "Financials",
+      "mv": 246977.89,
+      "shares": 1272
+    },
+    {
+      "t": "AM",
+      "n": "ANTERO MIDSTREAM",
+      "weight": 0.13998600139986003,
+      "sector": "Energy",
+      "mv": 264840.85,
+      "shares": 9253
+    },
+    {
+      "t": "AMGN",
+      "n": "AMGEN INC",
+      "weight": 2.8197180281971805,
+      "sector": "Health Care",
+      "mv": 5365602.48,
+      "shares": 8966
+    },
+    {
+      "t": "AOS",
+      "n": "A O SMITH",
+      "weight": 0.07999200079992001,
+      "sector": "Industrials",
+      "mv": 143015.95,
+      "shares": 1787
+    },
+    {
+      "t": "APD",
+      "n": "AIR PRODUCTS AND CHEMICALS",
+      "weight": 0.7999200079992002,
+      "sector": "Materials",
+      "mv": 1525950.84,
+      "shares": 3863
+    },
+    {
+      "t": "BR",
+      "n": "BROADRIDGE FINANCIAL SOLUTIONS INC",
+      "weight": 0.22997700229977006,
+      "sector": "Industrials",
+      "mv": 430454.29,
+      "shares": 1882
+    },
+    {
+      "t": "BX",
+      "n": "BLACKSTONE",
+      "weight": 1.7098290170982904,
+      "sector": "Financials",
+      "mv": 3253453.61,
+      "shares": 20444
+    },
+    {
+      "t": "CAD",
+      "n": "CAD CASH",
+      "weight": 0.019998000199980003,
+      "sector": "Cash and/or Derivatives",
+      "mv": 34514.15,
+      "shares": 34514
+    },
+    {
+      "t": "CFR",
+      "n": "CULLEN FROST BANKERS",
+      "weight": 0.12998700129987004,
+      "sector": "Financials",
+      "mv": 255768.81,
+      "shares": 1180
+    },
+    {
+      "t": "CG",
+      "n": "CARLYLE GROUP INC",
+      "weight": 0.13998600139986003,
+      "sector": "Financials",
+      "mv": 262110.41,
+      "shares": 4655
+    },
+    {
+      "t": "CMS",
+      "n": "CMS ENERGY",
+      "weight": 0.34996500349965004,
+      "sector": "Utilities",
+      "mv": 656458.89,
+      "shares": 7330
+    },
+    {
+      "t": "COP",
+      "n": "CONOCOPHILLIPS",
+      "weight": 2.0197980201979804,
+      "sector": "Energy",
+      "mv": 3835970.49,
+      "shares": 21589
+    },
+    {
+      "t": "CVX",
+      "n": "CHEVRON",
+      "weight": 6.989301069893012,
+      "sector": "Energy",
+      "mv": 13287071.24,
+      "shares": 45829
+    },
+    {
+      "t": "D",
+      "n": "DOMINION ENERGY",
+      "weight": 1.1098890110988904,
+      "sector": "Utilities",
+      "mv": 2102628.34,
+      "shares": 24471
+    },
+    {
+      "t": "DPZ",
+      "n": "DOMINOS PIZZA",
+      "weight": 0.10998900109989002,
+      "sector": "Consumer Discretionary",
+      "mv": 216088.62,
+      "shares": 508
+    },
+    {
+      "t": "DRI",
+      "n": "DARDEN RESTAURANTS INC",
+      "weight": 0.35996400359964004,
+      "sector": "Consumer Discretionary",
+      "mv": 676862.62,
+      "shares": 2467
+    },
+    {
+      "t": "DTE",
+      "n": "DTE ENERGY",
+      "weight": 0.4599540045995401,
+      "sector": "Utilities",
+      "mv": 873619.88,
+      "shares": 5052
+    },
+    {
+      "t": "DTM",
+      "n": "DT MIDSTREAM",
+      "weight": 0.17998200179982002,
+      "sector": "Energy",
+      "mv": 334655.39,
+      "shares": 1973
+    },
+    {
+      "t": "DVN",
+      "n": "DEVON ENERGY",
+      "weight": 0.7199280071992801,
+      "sector": "Energy",
+      "mv": 1372409.63,
+      "shares": 20996
+    },
+    {
+      "t": "EOG",
+      "n": "EOG RESOURCES",
+      "weight": 1.0898910108989104,
+      "sector": "Energy",
+      "mv": 2065179.48,
+      "shares": 10559
+    },
+    {
+      "t": "EVRG",
+      "n": "EVERGY",
+      "weight": 0.3299670032996701,
+      "sector": "Utilities",
+      "mv": 633556.57,
+      "shares": 5689
+    },
+    {
+      "t": "FE",
+      "n": "FIRSTENERGY CORP",
+      "weight": 0.5099490050994901,
+      "sector": "Utilities",
+      "mv": 960353.87,
+      "shares": 15611
+    },
+    {
+      "t": "HAS",
+      "n": "HASBRO",
+      "weight": 0.17998200179982002,
+      "sector": "Consumer Discretionary",
+      "mv": 348056.37,
+      "shares": 2796
+    },
+    {
+      "t": "HD",
+      "n": "HOME DEPOT",
+      "weight": 4.419558044195581,
+      "sector": "Consumer Discretionary",
+      "mv": 8391927.48,
+      "shares": 20777
+    },
+    {
+      "t": "HOMB",
+      "n": "HOME BANCSHARES INC",
+      "weight": 0.09999000099990002,
+      "sector": "Financials",
+      "mv": 185039.57,
+      "shares": 4625
+    },
+    {
+      "t": "HSY",
+      "n": "HERSHEY FOODS",
+      "weight": 0.3999600039996001,
+      "sector": "Consumer Staples",
+      "mv": 767967.65,
+      "shares": 3432
+    },
+    {
+      "t": "IDA",
+      "n": "IDACORP",
+      "weight": 0.09999000099990002,
+      "sector": "Utilities",
+      "mv": 188202.37,
+      "shares": 1014
+    },
+    {
+      "t": "INGR",
+      "n": "INGREDION INC",
+      "weight": 0.09999000099990002,
+      "sector": "Consumer Staples",
+      "mv": 184587.62,
+      "shares": 1357
+    },
+    {
+      "t": "ITW",
+      "n": "ILLINOIS TOOL INC",
+      "weight": 0.9399060093990601,
+      "sector": "Industrials",
+      "mv": 1785821.07,
+      "shares": 4889
+    },
+    {
+      "t": "KMB",
+      "n": "KIMBERLY CLARK",
+      "weight": 0.8499150084991501,
+      "sector": "Consumer Staples",
+      "mv": 1612607.34,
+      "shares": 11658
+    },
+    {
+      "t": "KMI",
+      "n": "KINDER MORGAN",
+      "weight": 1.2098790120987901,
+      "sector": "Energy",
+      "mv": 2297411.98,
+      "shares": 53671
+    },
+    {
+      "t": "KO",
+      "n": "COCA-COLA",
+      "weight": 4.349565043495651,
+      "sector": "Consumer Staples",
+      "mv": 8270091.45,
+      "shares": 67670
+    },
+    {
+      "t": "KVUE",
+      "n": "KENVUE",
+      "weight": 0.7399260073992602,
+      "sector": "Consumer Staples",
+      "mv": 1408940.08,
+      "shares": 56194
+    },
+    {
+      "t": "LNT",
+      "n": "ALLIANT ENERGY CORP",
+      "weight": 0.27997200279972007,
+      "sector": "Utilities",
+      "mv": 526459.49,
+      "shares": 5858
+    },
+    {
+      "t": "LVS",
+      "n": "LAS VEGAS SANDS",
+      "weight": 0.14998500149985003,
+      "sector": "Consumer Discretionary",
+      "mv": 286333.11,
+      "shares": 5334
+    },
+    {
+      "t": "MCD",
+      "n": "MCDONALDS CORP",
+      "weight": 2.5497450254974505,
+      "sector": "Consumer Discretionary",
+      "mv": 4848646.04,
+      "shares": 14788
+    },
+    {
+      "t": "MCHP",
+      "n": "MICROCHIP TECHNOLOGY INC",
+      "weight": 0.5599440055994401,
+      "sector": "Information Technology",
+      "mv": 1060194.82,
+      "shares": 9602
+    },
+    {
+      "t": "MDLZ",
+      "n": "MONDELEZ INTERNATIONAL CLASS A",
+      "weight": 1.2998700129987002,
+      "sector": "Consumer Staples",
+      "mv": 2468362.56,
+      "shares": 30069
+    },
+    {
+      "t": "MDT",
+      "n": "MEDTRONIC PLC",
+      "weight": 1.8198180181981805,
+      "sector": "Health Care",
+      "mv": 3463609.15,
+      "shares": 28272
+    },
+    {
+      "t": "MLPFT",
+      "n": "CASH COLLATERAL USD MLPFT",
+      "weight": 0.019998000199980003,
+      "sector": "Cash and/or Derivatives",
+      "mv": 39753,
+      "shares": 28000
+    },
+    {
+      "t": "MO",
+      "n": "ALTRIA GROUP INC",
+      "weight": 3.719628037196281,
+      "sector": "Consumer Staples",
+      "mv": 7069869.9,
+      "shares": 73948
+    },
+    {
+      "t": "MSM",
+      "n": "MSC INDUSTRIAL CLASS A",
+      "weight": 0.07999200079992001,
+      "sector": "Industrials",
+      "mv": 147195.93,
+      "shares": 838
+    },
+    {
+      "t": "MTB",
+      "n": "M&T BANK",
+      "weight": 0.43995600439956006,
+      "sector": "Financials",
+      "mv": 835676.21,
+      "shares": 2705
+    },
+    {
+      "t": "NEE",
+      "n": "NEXTERA ENERGY",
+      "weight": 2.5297470252974703,
+      "sector": "Utilities",
+      "mv": 4801405.3,
+      "shares": 44651
+    },
+    {
+      "t": "NFG",
+      "n": "NATIONAL FUEL GAS",
+      "weight": 0.10998900109989002,
+      "sector": "Utilities",
+      "mv": 200541.56,
+      "shares": 1862
+    },
+    {
+      "t": "OGE",
+      "n": "OGE ENERGY",
+      "weight": 0.18998100189981004,
+      "sector": "Utilities",
+      "mv": 352023.86,
+      "shares": 5459
+    },
+    {
+      "t": "OKE",
+      "n": "ONEOK",
+      "weight": 1.2898710128987103,
+      "sector": "Energy",
+      "mv": 2454533.72,
+      "shares": 20275
+    },
+    {
+      "t": "OTIS",
+      "n": "OTIS WORLDWIDE",
+      "weight": 0.3299670032996701,
+      "sector": "Industrials",
+      "mv": 626626.31,
+      "shares": 6862
+    },
+    {
+      "t": "PAYX",
+      "n": "PAYCHEX",
+      "weight": 0.6599340065993402,
+      "sector": "Industrials",
+      "mv": 1258608.38,
+      "shares": 9000
+    },
+    {
+      "t": "PB",
+      "n": "PROSPERITY BANCSHARES",
+      "weight": 0.13998600139986003,
+      "sector": "Financials",
+      "mv": 273826.8,
+      "shares": 2913
+    },
+    {
+      "t": "PEG",
+      "n": "PUBLIC SERVICE ENTERPRISE GROUP",
+      "weight": 0.6499350064993501,
+      "sector": "Utilities",
+      "mv": 1238288.46,
+      "shares": 12952
+    },
+    {
+      "t": "PEP",
+      "n": "PEPSICO",
+      "weight": 3.9996000399960008,
+      "sector": "Consumer Staples",
+      "mv": 7594751.13,
+      "shares": 42214
+    },
+    {
+      "t": "PG",
+      "n": "PROCTER & GAMBLE",
+      "weight": 5.38946105389461,
+      "sector": "Consumer Staples",
+      "mv": 10248710.48,
+      "shares": 49688
+    },
+    {
+      "t": "PM",
+      "n": "PHILIP MORRIS INTERNATIONAL",
+      "weight": 5.139486051394861,
+      "sector": "Consumer Staples",
+      "mv": 9760857.6,
+      "shares": 36029
+    },
+    {
+      "t": "PNC",
+      "n": "PNC FINANCIAL SERVICES GROUP",
+      "weight": 1.5598440155984403,
+      "sector": "Financials",
+      "mv": 2968413.04,
+      "shares": 9407
+    },
+    {
+      "t": "PPL",
+      "n": "PPL CORP",
+      "weight": 0.41995800419958007,
+      "sector": "Utilities",
+      "mv": 792003.69,
+      "shares": 16961
+    },
+    {
+      "t": "REYN",
+      "n": "REYNOLDS CONSUMER PRODUCTS INC",
+      "weight": 0.029997000299970003,
+      "sector": "Consumer Staples",
+      "mv": 50677.44,
+      "shares": 1651
+    },
+    {
+      "t": "SBUX",
+      "n": "STARBUCKS CORP",
+      "weight": 1.3698630136986303,
+      "sector": "Consumer Discretionary",
+      "mv": 2594757.76,
+      "shares": 19451
+    },
+    {
+      "t": "SNA",
+      "n": "SNAP ON INC",
+      "weight": 0.24997500249975005,
+      "sector": "Industrials",
+      "mv": 474596.87,
+      "shares": 920
+    },
+    {
+      "t": "SO",
+      "n": "SOUTHERN",
+      "weight": 1.7598240175982403,
+      "sector": "Utilities",
+      "mv": 3350319.53,
+      "shares": 28469
+    },
+    {
+      "t": "STZ",
+      "n": "CONSTELLATION BRANDS CLASS A",
+      "weight": 0.28997100289971006,
+      "sector": "Consumer Staples",
+      "mv": 547202.23,
+      "shares": 3409
+    },
+    {
+      "t": "SWX",
+      "n": "SOUTHWEST GAS HOLDINGS",
+      "weight": 0.07999200079992001,
+      "sector": "Utilities",
+      "mv": 152695.9,
+      "shares": 1319
+    },
+    {
+      "t": "SYY",
+      "n": "SYSCO",
+      "weight": 0.5499450054994501,
+      "sector": "Consumer Staples",
+      "mv": 1047067.9,
+      "shares": 9460
+    },
+    {
+      "t": "TROW",
+      "n": "T ROWE PRICE GROUP",
+      "weight": 0.5599440055994401,
+      "sector": "Financials",
+      "mv": 1073369.76,
+      "shares": 7266
+    },
+    {
+      "t": "TSCO",
+      "n": "TRACTOR SUPPLY",
+      "weight": 0.21997800219978003,
+      "sector": "Consumer Discretionary",
+      "mv": 427180.97,
+      "shares": 9616
+    },
+    {
+      "t": "TXNM",
+      "n": "TXNM ENERGY INC",
+      "weight": 0.08999100089991001,
+      "sector": "Utilities",
+      "mv": 163612.44,
+      "shares": 1976
+    },
+    {
+      "t": "USD",
+      "n": "USD CASH",
+      "weight": 0.26997300269973007,
+      "sector": "Cash and/or Derivatives",
+      "mv": 508866.33,
+      "shares": 358420
+    },
+    {
+      "t": "VNOM",
+      "n": "VIPER ENERGY INC CLASS A",
+      "weight": 0.24997500249975005,
+      "sector": "Energy",
+      "mv": 478895.65,
+      "shares": 8456
+    },
+    {
+      "t": "VZ",
+      "n": "VERIZON COMMUNICATIONS INC",
+      "weight": 5.779422057794221,
+      "sector": "Communication",
+      "mv": 10985951.55,
+      "shares": 168693
+    },
+    {
+      "t": "WEC",
+      "n": "WEC ENERGY GROUP",
+      "weight": 0.6299370062993701,
+      "sector": "Utilities",
+      "mv": 1196884.32,
+      "shares": 8365
+    },
+    {
+      "t": "WMB",
+      "n": "WILLIAMS",
+      "weight": 1.2498750124987503,
+      "sector": "Energy",
+      "mv": 2383656.57,
+      "shares": 24701
+    },
+    {
+      "t": "WTRG",
+      "n": "ESSENTIAL UTILITIES INC",
+      "weight": 0.20997900209979004,
+      "sector": "Utilities",
+      "mv": 395377.86,
+      "shares": 7106
+    },
+    {
+      "t": "XEL",
+      "n": "XCEL ENERGY INC",
+      "weight": 0.7399260073992602,
+      "sector": "Utilities",
+      "mv": 1399694.95,
+      "shares": 13988
+    },
+    {
+      "t": "XOM",
+      "n": "EXXONMOBIL HOLDINGS CORP",
+      "weight": 9.27907209279067,
+      "sector": "Energy",
+      "mv": 17629975.98,
+      "shares": 76299
+    }
+  ]
+}

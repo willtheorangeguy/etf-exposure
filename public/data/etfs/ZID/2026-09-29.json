@@ -1,0 +1,478 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-29",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZID_20260929.xlsx",
+  "created_at": "2026-10-01T10:56:40.812Z",
+  "partial": false,
+  "content_hash": "a275857f90f86b655cfbe974612f64517cbcaba461a65f1e321e00e7cff356ad",
+  "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.31,
+      "sector": "-",
+      "mv": -488672.58,
+      "shares": 1
+    },
+    {
+      "t": "INE002A01018",
+      "n": "Reliance Industries Ltd",
+      "weight": 16.12,
+      "isin": "INE002A01018",
+      "sector": "ENERGY",
+      "mv": 25010328.11,
+      "shares": 1431755
+    },
+    {
+      "t": "INE003A01024",
+      "n": "SIEMENS LTD",
+      "weight": 0.69,
+      "isin": "INE003A01024",
+      "sector": "INDUSTRIALS",
+      "mv": 1069550.13,
+      "shares": 19504
+    },
+    {
+      "t": "INE009A01021",
+      "n": "INFOSYS LTD",
+      "weight": 7.33,
+      "isin": "INE009A01021",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 11371050.07,
+      "shares": 757587
+    },
+    {
+      "t": "INE016A01026",
+      "n": "DABUR INDIA LTD",
+      "weight": 0.39,
+      "isin": "INE016A01026",
+      "sector": "CONSUMER STAPLES",
+      "mv": 609006.87,
+      "shares": 108200
+    },
+    {
+      "t": "INE021A01026",
+      "n": "ASIAN PAINTS LTD",
+      "weight": 2.2,
+      "isin": "INE021A01026",
+      "sector": "MATERIALS",
+      "mv": 3407306.7,
+      "shares": 95517
+    },
+    {
+      "t": "INE027H01010",
+      "n": "MAX HEALTHCARE INSTITUTE LTD",
+      "weight": 1.64,
+      "isin": "INE027H01010",
+      "sector": "HEALTH CARE",
+      "mv": 2548999.73,
+      "shares": 175666
+    },
+    {
+      "t": "INE030A01027",
+      "n": "HINDUSTAN UNILEVER LTD",
+      "weight": 3.11,
+      "isin": "INE030A01027",
+      "sector": "CONSUMER STAPLES",
+      "mv": 4831675.84,
+      "shares": 175476
+    },
+    {
+      "t": "INE038A01020",
+      "n": "HINDALCO INDUSTRIES LTD",
+      "weight": 2.93,
+      "isin": "INE038A01020",
+      "sector": "MATERIALS",
+      "mv": 4542369.54,
+      "shares": 321675
+    },
+    {
+      "t": "INE040H01021",
+      "n": "SUZLON ENERGY LTD",
+      "weight": 0.97,
+      "isin": "INE040H01021",
+      "sector": "INDUSTRIALS",
+      "mv": 1498684.87,
+      "shares": 2566068
+    },
+    {
+      "t": "INE047A01021",
+      "n": "GRASIM INDUSTRIES LTD",
+      "weight": 2,
+      "isin": "INE047A01021",
+      "sector": "MATERIALS",
+      "mv": 3105422.63,
+      "shares": 67764
+    },
+    {
+      "t": "INE053A01029",
+      "n": "INDIAN HOTELS CO LTD/THE",
+      "weight": 1.39,
+      "isin": "INE053A01029",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 2152837.36,
+      "shares": 203751
+    },
+    {
+      "t": "INE059A01026",
+      "n": "CIPLA LTD/INDIA",
+      "weight": 1.65,
+      "isin": "INE059A01026",
+      "sector": "HEALTH CARE",
+      "mv": 2561667.66,
+      "shares": 125688
+    },
+    {
+      "t": "INE066A01021",
+      "n": "EICHER MOTORS LTD",
+      "weight": 2.34,
+      "isin": "INE066A01021",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 3629706.13,
+      "shares": 34169
+    },
+    {
+      "t": "INE070A01015",
+      "n": "SHREE CEMENT LTD",
+      "weight": 0.43,
+      "isin": "INE070A01015",
+      "sector": "MATERIALS",
+      "mv": 669632.69,
+      "shares": 2067
+    },
+    {
+      "t": "INE101A01026",
+      "n": "MAHINDRA & MAHINDRA LTD",
+      "weight": 6.09,
+      "isin": "INE101A01026",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 9454244.36,
+      "shares": 216694
+    },
+    {
+      "t": "INE117A01022",
+      "n": "ABB INDIA LTD",
+      "weight": 0.72,
+      "isin": "INE117A01022",
+      "sector": "INDUSTRIALS",
+      "mv": 1116509.95,
+      "shares": 11341
+    },
+    {
+      "t": "INE129A01019",
+      "n": "GAIL (India) Limited",
+      "weight": 0.93,
+      "isin": "INE129A01019",
+      "sector": "UTILITIES",
+      "mv": 1440295.37,
+      "shares": 572888
+    },
+    {
+      "t": "INE169A01031",
+      "n": "COROMANDEL INTERNATIONAL LTD",
+      "weight": 0.51,
+      "isin": "INE169A01031",
+      "sector": "MATERIALS",
+      "mv": 785654.38,
+      "shares": 29380
+    },
+    {
+      "t": "INE176B01034",
+      "n": "HAVELLS INDIA LTD",
+      "weight": 0.5,
+      "isin": "INE176B01034",
+      "sector": "INDUSTRIALS",
+      "mv": 782435.95,
+      "shares": 50774
+    },
+    {
+      "t": "INE192A01025",
+      "n": "TATA CONSUMER PRODUCTS LTD",
+      "weight": 1.25,
+      "isin": "INE192A01025",
+      "sector": "CONSUMER STAPLES",
+      "mv": 1937211.93,
+      "shares": 135499
+    },
+    {
+      "t": "INE195A01028",
+      "n": "SUPREME INDUSTRIES LTD",
+      "weight": 0.52,
+      "isin": "INE195A01028",
+      "sector": "INDUSTRIALS",
+      "mv": 806235.55,
+      "shares": 15811
+    },
+    {
+      "t": "INE196A01026",
+      "n": "MARICO LTD",
+      "weight": 0.97,
+      "isin": "INE196A01026",
+      "sector": "CONSUMER STAPLES",
+      "mv": 1503823.9,
+      "shares": 129294
+    },
+    {
+      "t": "INE205A01025",
+      "n": "VEDANTA LTD",
+      "weight": 0.84,
+      "isin": "INE205A01025",
+      "sector": "MATERIALS",
+      "mv": 1308463.37,
+      "shares": 340713
+    },
+    {
+      "t": "INE208A01029",
+      "n": "ASHOK LEYLAND LTD",
+      "weight": 1.01,
+      "isin": "INE208A01029",
+      "sector": "INDUSTRIALS",
+      "mv": 1573831.11,
+      "shares": 694577
+    },
+    {
+      "t": "INE216A01030",
+      "n": "BRITANNIA INDUSTRIES LTD",
+      "weight": 1.24,
+      "isin": "INE216A01030",
+      "sector": "CONSUMER STAPLES",
+      "mv": 1927836.02,
+      "shares": 26988
+    },
+    {
+      "t": "INE220G01021",
+      "n": "JINDAL STAINLESS LTD",
+      "weight": 0.5,
+      "isin": "INE220G01021",
+      "sector": "MATERIALS",
+      "mv": 777946.37,
+      "shares": 71831
+    },
+    {
+      "t": "INE226A01021",
+      "n": "VOLTAS LTD",
+      "weight": 0.51,
+      "isin": "INE226A01021",
+      "sector": "INDUSTRIALS",
+      "mv": 795481.65,
+      "shares": 49403
+    },
+    {
+      "t": "INE237A01036",
+      "n": "KOTAK MAHINDRA BANK LTD",
+      "weight": 5.26,
+      "isin": "INE237A01036",
+      "sector": "FINANCIALS",
+      "mv": 8168344.57,
+      "shares": 1361984
+    },
+    {
+      "t": "INE238A01034",
+      "n": "AXIS BANK LTD",
+      "weight": 6.63,
+      "isin": "INE238A01034",
+      "sector": "FINANCIALS",
+      "mv": 10280282.41,
+      "shares": 573090
+    },
+    {
+      "t": "INE239A01024",
+      "n": "NESTLE INDIA LTD",
+      "weight": 1.85,
+      "isin": "INE239A01024",
+      "sector": "CONSUMER STAPLES",
+      "mv": 2869036.01,
+      "shares": 144009
+    },
+    {
+      "t": "INE259A01022",
+      "n": "COLGATE-PALMOLIVE INDIA LTD",
+      "weight": 0.49,
+      "isin": "INE259A01022",
+      "sector": "CONSUMER STAPLES",
+      "mv": 759415.65,
+      "shares": 28775
+    },
+    {
+      "t": "INE318A01026",
+      "n": "PIDILITE INDUSTRIES LTD",
+      "weight": 0.97,
+      "isin": "INE318A01026",
+      "sector": "MATERIALS",
+      "mv": 1503685.52,
+      "shares": 69683
+    },
+    {
+      "t": "INE347G01014",
+      "n": "PETRONET LNG LTD",
+      "weight": 0.5,
+      "isin": "INE347G01014",
+      "sector": "ENERGY",
+      "mv": 781004.56,
+      "shares": 186706
+    },
+    {
+      "t": "INE481G01011",
+      "n": "UltraTech Cement Limited",
+      "weight": 2.65,
+      "isin": "INE481G01011",
+      "sector": "MATERIALS",
+      "mv": 4118739.73,
+      "shares": 25678
+    },
+    {
+      "t": "INE494B01023",
+      "n": "TVS MOTOR CO LTD",
+      "weight": 2.3,
+      "isin": "INE494B01023",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 3573644.22,
+      "shares": 59131
+    },
+    {
+      "t": "INE603J01030",
+      "n": "PI INDUSTRIES LTD",
+      "weight": 0.37,
+      "isin": "INE603J01030",
+      "sector": "MATERIALS",
+      "mv": 575065.7,
+      "shares": 16990
+    },
+    {
+      "t": "INE628A01036",
+      "n": "UPL Limited",
+      "weight": 0.65,
+      "isin": "INE628A01036",
+      "sector": "MATERIALS",
+      "mv": 1003119.22,
+      "shares": 126095
+    },
+    {
+      "t": "INE646L01027",
+      "n": "INTERGLOBE AVIATION LTD",
+      "weight": 2.19,
+      "isin": "INE646L01027",
+      "sector": "INDUSTRIALS",
+      "mv": 3392786.43,
+      "shares": 47168
+    },
+    {
+      "t": "INE663F01032",
+      "n": "INFO EDGE INDIA LTD",
+      "weight": 1.01,
+      "isin": "INE663F01032",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 1559342.67,
+      "shares": 84743
+    },
+    {
+      "t": "INE702C01027",
+      "n": "APL APOLLO TUBES LTD",
+      "weight": 0.94,
+      "isin": "INE702C01027",
+      "sector": "MATERIALS",
+      "mv": 1455378.18,
+      "shares": 44925
+    },
+    {
+      "t": "INE726G01019",
+      "n": "ICICI PRUDENTIAL LIFE INSURANCE CO LTD",
+      "weight": 0.38,
+      "isin": "INE726G01019",
+      "sector": "FINANCIALS",
+      "mv": 593480.99,
+      "shares": 90295
+    },
+    {
+      "t": "INE752E01010",
+      "n": "POWER GRID CORP OF INDIA LTD",
+      "weight": 2.6,
+      "isin": "INE752E01010",
+      "sector": "UTILITIES",
+      "mv": 4033045.14,
+      "shares": 1041894
+    },
+    {
+      "t": "INE758T01015",
+      "n": "ETERNAL LTD",
+      "weight": 3.72,
+      "isin": "INE758T01015",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 5776661.18,
+      "shares": 1189189
+    },
+    {
+      "t": "INE776C01039",
+      "n": "GMR AIRPORTS LTD",
+      "weight": 0.65,
+      "isin": "INE776C01039",
+      "sector": "INDUSTRIALS",
+      "mv": 1001649.14,
+      "shares": 722863
+    },
+    {
+      "t": "INE795G01014",
+      "n": "HDFC LIFE INSURANCE CO LTD",
+      "weight": 1.21,
+      "isin": "INE795G01014",
+      "sector": "FINANCIALS",
+      "mv": 1881849.69,
+      "shares": 243374
+    },
+    {
+      "t": "INE813H01021",
+      "n": "TORRENT POWER LTD",
+      "weight": 0.51,
+      "isin": "INE813H01021",
+      "sector": "UTILITIES",
+      "mv": 791303.05,
+      "shares": 43906
+    },
+    {
+      "t": "INE848E01016",
+      "n": "NHPC LTD",
+      "weight": 0.57,
+      "isin": "INE848E01016",
+      "sector": "UTILITIES",
+      "mv": 880290.84,
+      "shares": 812714
+    },
+    {
+      "t": "INE849A01020",
+      "n": "TRENT LTD",
+      "weight": 1.67,
+      "isin": "INE849A01020",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 2590324.1,
+      "shares": 66367
+    },
+    {
+      "t": "INE860A01027",
+      "n": "HCL TECHNOLOGIES LTD",
+      "weight": 2.55,
+      "isin": "INE860A01027",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 3963393.18,
+      "shares": 219550
+    },
+    {
+      "t": "INE881D01027",
+      "n": "ORACLE FINANCIAL SERVICES SOFTWARE LTD",
+      "weight": 0.53,
+      "isin": "INE881D01027",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 816480.2,
+      "shares": 5311
+    },
+    {
+      "t": "INE949L01017",
+      "n": "AU SMALL FINANCE BANK LTD",
+      "weight": 1.32,
+      "isin": "INE949L01017",
+      "sector": "FINANCIALS",
+      "mv": 2050514.07,
+      "shares": 138031
+    }
+  ]
+}

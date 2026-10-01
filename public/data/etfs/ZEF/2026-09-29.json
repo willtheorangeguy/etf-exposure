@@ -1,0 +1,490 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-29",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEF_20260929.xlsx",
+  "created_at": "2026-10-01T10:56:40.812Z",
+  "partial": false,
+  "content_hash": "181a23c8800ce737c99eb1a59a13074fb0f9d50152b091a5a61c702365a4394d",
+  "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -2.8199999999999994,
+      "sector": "-",
+      "mv": -21358524.43
+    },
+    {
+      "t": "US040114HS26",
+      "n": "Argentina 0.75% 07/09/2030",
+      "weight": 2.2699999999999996,
+      "isin": "US040114HS26",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 17182711.92
+    },
+    {
+      "t": "US040114HT09",
+      "n": "Argentina 4.13% 07/09/2035",
+      "weight": 2.1799999999999997,
+      "isin": "US040114HT09",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 16469833.82
+    },
+    {
+      "t": "US105756CC23",
+      "n": "BRAZILIAN GOVERNMENT INTERNATIONAL BOND 3.88% 06/12/2030",
+      "weight": 3.4199999999999995,
+      "isin": "US105756CC23",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 25906141.7
+    },
+    {
+      "t": "US105756CL22",
+      "n": "BRAZILIAN GOVERNMENT INTERNATIONAL BOND 6.63% 03/15/2035",
+      "weight": 3.4199999999999995,
+      "isin": "US105756CL22",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 25854118.67
+    },
+    {
+      "t": "US105756CM05",
+      "n": "BRAZILIAN GOVERNMENT INTERNATIONAL BOND 5.50% 11/06/2030",
+      "weight": 3.4799999999999995,
+      "isin": "US105756CM05",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 26340114.54
+    },
+    {
+      "t": "US195325DS19",
+      "n": "COLOMBIA GOVERNMENT INTERNATIONAL BOND 3.13% 04/15/2031",
+      "weight": 0.9399999999999998,
+      "isin": "US195325DS19",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 7083419.44
+    },
+    {
+      "t": "US195325ER27",
+      "n": "COLOMBIA GOVERNMENT INTERNATIONAL BOND 7.38% 04/25/2030",
+      "weight": 0.9399999999999998,
+      "isin": "US195325ER27",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 7099672.89
+    },
+    {
+      "t": "US195325ET82",
+      "n": "COLOMBIA GOVERNMENT INTERNATIONAL BOND 5.38% 01/21/2029",
+      "weight": 0.9599999999999999,
+      "isin": "US195325ET82",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 7233541
+    },
+    {
+      "t": "US455780CS32",
+      "n": "Indonesia 3.85% 10/15/2030",
+      "weight": 3.2499999999999996,
+      "isin": "US455780CS32",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 24605483.51
+    },
+    {
+      "t": "US46514BRL35",
+      "n": "ISRAEL GOVERNMENT INTERNATIONAL BOND 5.50% 03/12/2034",
+      "weight": 1.2499999999999998,
+      "isin": "US46514BRL35",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 9453831.28
+    },
+    {
+      "t": "US46514Y8A80",
+      "n": "ISRAEL GOVERNMENT INTERNATIONAL BOND 5.38% 02/19/2030",
+      "weight": 1.2399999999999998,
+      "isin": "US46514Y8A80",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 9370199.44
+    },
+    {
+      "t": "US46515CJY12",
+      "n": "ISRAEL GOVERNMENT INTERNATIONAL BOND 4.50% 01/13/2031",
+      "weight": 1.2599999999999998,
+      "isin": "US46515CJY12",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 9527024.34
+    },
+    {
+      "t": "US50064FAQ72",
+      "n": "KOREA INTERNATIONAL BOND 2.50% 06/19/2029",
+      "weight": 3.4399999999999995,
+      "isin": "US50064FAQ72",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 26044521.82
+    },
+    {
+      "t": "US50064FAZ71",
+      "n": "KOREA INTERNATIONAL BOND 3.63% 02/12/2029",
+      "weight": 3.4599999999999995,
+      "isin": "US50064FAZ71",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 26139115.16
+    },
+    {
+      "t": "US50064FBA12",
+      "n": "KOREA INTERNATIONAL BOND 3.88% 02/12/2031",
+      "weight": 3.4199999999999995,
+      "isin": "US50064FBA12",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 25896053.46
+    },
+    {
+      "t": "US71567RAV87",
+      "n": "Perusahaan Penerbit SBSN Indonesia III 4.70% 06/06/2032",
+      "weight": 3.1899999999999995,
+      "isin": "US71567RAV87",
+      "sector": "CORPORATE BONDS & DEBENTURES",
+      "mv": 24093957.73
+    },
+    {
+      "t": "US718286AY36",
+      "n": "PHILIPPINE GOVERNMENT INTERNATIONAL BOND 9.50% 02/02/2030",
+      "weight": 1.0199999999999998,
+      "isin": "US718286AY36",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 7692223.59
+    },
+    {
+      "t": "US718286BB24",
+      "n": "PHILIPPINE GOVERNMENT INTERNATIONAL BOND 7.75% 01/14/2031",
+      "weight": 1.0199999999999998,
+      "isin": "US718286BB24",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 7705622.91
+    },
+    {
+      "t": "US718286BG11",
+      "n": "PHILIPPINE GOVERNMENT INTERNATIONAL BOND 6.38% 10/23/2034",
+      "weight": 1.0499999999999998,
+      "isin": "US718286BG11",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 7970745.35
+    },
+    {
+      "t": "US731011AY80",
+      "n": "REPUBLIC OF POLAND GOVERNMENT INTERNATIONAL BOND 5.13% 09/18/2034",
+      "weight": 1.9699999999999998,
+      "isin": "US731011AY80",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 14921923.47
+    },
+    {
+      "t": "US857524AF94",
+      "n": "REPUBLIC OF POLAND GOVERNMENT INTERNATIONAL BOND 4.88% 02/12/2030",
+      "weight": 1.9699999999999998,
+      "isin": "US857524AF94",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 14934799.45
+    },
+    {
+      "t": "US857524AH50",
+      "n": "REPUBLIC OF POLAND GOVERNMENT INTERNATIONAL BOND 5.38% 02/12/2035",
+      "weight": 1.9299999999999997,
+      "isin": "US857524AH50",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 14610821.76
+    },
+    {
+      "t": "US900123CT57",
+      "n": "TURKIYE GOVERNMENT INTERNATIONAL BOND 7.63% 04/26/2029",
+      "weight": 2.9499999999999997,
+      "isin": "US900123CT57",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 22313825.79
+    },
+    {
+      "t": "US900123DG28",
+      "n": "TURKIYE GOVERNMENT INTERNATIONAL BOND 9.38% 01/19/2033",
+      "weight": 2.8599999999999994,
+      "isin": "US900123DG28",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 21610480.59
+    },
+    {
+      "t": "US900123DN78",
+      "n": "TURKIYE GOVERNMENT INTERNATIONAL BOND 6.50% 01/03/2035",
+      "weight": 2.8299999999999996,
+      "isin": "US900123DN78",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 21379312.73
+    },
+    {
+      "t": "US91087BBK52",
+      "n": "Mexico 5.38% 03/22/2033",
+      "weight": 3.3199999999999994,
+      "isin": "US91087BBK52",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 25076470.25
+    },
+    {
+      "t": "US91087BBQ23",
+      "n": "MEXICO GOVERNMENT INTERNATIONAL BOND 5.63% 02/09/2034",
+      "weight": 3.2899999999999996,
+      "isin": "US91087BBQ23",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 24919759.73
+    },
+    {
+      "t": "USL2660VAA37",
+      "n": "EAGLE FUNDING LUXCO SARL 5.50% 08/17/2030",
+      "weight": 3.499999999999963,
+      "isin": "USL2660VAA37",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 26464121.81
+    },
+    {
+      "t": "USP3579ECH82",
+      "n": "DOMINICAN REPUBLIC INTERNATIONAL BOND 4.88% 09/23/2032",
+      "weight": 0.3499999999999999,
+      "isin": "USP3579ECH82",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 2646503.65
+    },
+    {
+      "t": "USP3579ECP09",
+      "n": "DOMINICAN REPUBLIC INTERNATIONAL BOND 5.50% 02/22/2029",
+      "weight": 0.32999999999999996,
+      "isin": "USP3579ECP09",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 2520148.37
+    },
+    {
+      "t": "USP3579ECZ80",
+      "n": "DOMINICAN REPUBLIC INTERNATIONAL BOND 5.88% 10/28/2035",
+      "weight": 0.35999999999999993,
+      "isin": "USP3579ECZ80",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 2705479.34
+    },
+    {
+      "t": "USY15025AC67",
+      "n": "Ministry of Finance of the People's Republic of China 1.20% 10/21/2030",
+      "weight": 3.4799999999999995,
+      "isin": "USY15025AC67",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 26295220.03
+    },
+    {
+      "t": "USY20721AE96",
+      "n": "INDONESIA GOVERNMENT INTERNATIONAL BOND 8.50% 10/12/2035",
+      "weight": 3.2199999999999998,
+      "isin": "USY20721AE96",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 24391061.91
+    },
+    {
+      "t": "USY5325QAH57",
+      "n": "CHINA GOVERNMENT INTERNATIONAL BOND 3.63% 11/13/2028",
+      "weight": 3.4799999999999995,
+      "isin": "USY5325QAH57",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 26352451.08
+    },
+    {
+      "t": "USY5325QAJ14",
+      "n": "CHINA GOVERNMENT INTERNATIONAL BOND 3.75% 11/13/2030",
+      "weight": 3.3899999999999997,
+      "isin": "USY5325QAJ14",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 25676906.52
+    },
+    {
+      "t": "XS1936302865",
+      "n": "SAUDI GOVERNMENT INTERNATIONAL BOND 4.38% 04/16/2029",
+      "weight": 2.9599999999999995,
+      "isin": "XS1936302865",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 22392867.26
+    },
+    {
+      "t": "XS1959337582",
+      "n": "QATAR GOVERNMENT INTERNATIONAL BOND 4.00% 03/14/2029",
+      "weight": 0.5299999999999999,
+      "isin": "XS1959337582",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 4030812.97
+    },
+    {
+      "t": "XS2125308168",
+      "n": "ABU DHABI GOVERNMENT INTERNATIONAL BOND 3.13% 04/16/2030",
+      "weight": 1.2699999999999998,
+      "isin": "XS2125308168",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 9598783.43
+    },
+    {
+      "t": "XS2155352664",
+      "n": "QATAR GOVERNMENT INTERNATIONAL BOND 3.75% 04/16/2030",
+      "weight": 0.49999999999999994,
+      "isin": "XS2155352664",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 3812958.08
+    },
+    {
+      "t": "XS2388586401",
+      "n": "HUNGARY GOVERNMENT INTERNATIONAL BOND 2.13% 09/22/2031",
+      "weight": 0.5099999999999999,
+      "isin": "XS2388586401",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 3862535.66
+    },
+    {
+      "t": "XS2571923007",
+      "n": "ROMANIAN GOVERNMENT INTERNATIONAL BOND 7.13% 01/17/2033",
+      "weight": 0.7999999999999999,
+      "isin": "XS2571923007",
+      "sector": "GOVERNMENT",
+      "mv": 6032762.7
+    },
+    {
+      "t": "XS2574267188",
+      "n": "HUNGARY GOVERNMENT INTERNATIONAL BOND 6.13% 05/22/2028",
+      "weight": 0.5199999999999999,
+      "isin": "XS2574267188",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 3946389.94
+    },
+    {
+      "t": "XS2577135127",
+      "n": "SAUDI GOVERNMENT INTERNATIONAL BOND 4.88% 07/18/2033",
+      "weight": 2.8599999999999994,
+      "isin": "XS2577135127",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 21658636.25
+    },
+    {
+      "t": "XS2744128369",
+      "n": "HUNGARY GOVERNMENT INTERNATIONAL BOND 5.50% 03/26/2036",
+      "weight": 0.45999999999999996,
+      "isin": "XS2744128369",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 3478902.34
+    },
+    {
+      "t": "XS2811094130",
+      "n": "ABU DHABI GOVERNMENT INTERNATIONAL BOND 4.88% 04/30/2029",
+      "weight": 1.2899999999999998,
+      "isin": "XS2811094130",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 9769516.74
+    },
+    {
+      "t": "XS2811094486",
+      "n": "ABU DHABI GOVERNMENT INTERNATIONAL BOND 5.00% 04/30/2034",
+      "weight": 1.2399999999999998,
+      "isin": "XS2811094486",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 9374477.18
+    },
+    {
+      "t": "XS2895056013",
+      "n": "UKRAINE GOVERNMENT INTERNATIONAL BOND 4.50% 02/01/2034",
+      "weight": 0.44999999999999996,
+      "isin": "XS2895056013",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 3395754.49
+    },
+    {
+      "t": "XS2895056369",
+      "n": "UKRAINE GOVERNMENT INTERNATIONAL BOND 4.50% 02/01/2035",
+      "weight": 0.43999999999999995,
+      "isin": "XS2895056369",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 3355013.97
+    },
+    {
+      "t": "XS2908633683",
+      "n": "ROMANIAN GOVERNMENT INTERNATIONAL BOND 5.75% 03/24/2035",
+      "weight": 0.8299999999999998,
+      "isin": "XS2908633683",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 6250024.3
+    },
+    {
+      "t": "XS2914770545",
+      "n": "REPUBLIC OF KAZAKHSTAN 4.71% 04/09/2035",
+      "weight": 0.6499999999999999,
+      "isin": "XS2914770545",
+      "sector": "-",
+      "mv": 4896425.88
+    },
+    {
+      "t": "XS2966241361",
+      "n": "SRI LANKA GOVERNMENT INTERNATIONAL BOND 3.10% 01/15/2030",
+      "weight": 0.38999999999999996,
+      "isin": "XS2966241361",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 2936355.32
+    },
+    {
+      "t": "XS2966241445",
+      "n": "SRI LANKA GOVERNMENT INTERNATIONAL BOND 3.35% 03/15/2033",
+      "weight": 0.36999999999999994,
+      "isin": "XS2966241445",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 2812869.59
+    },
+    {
+      "t": "XS2966242179",
+      "n": "SRI LANKA GOVERNMENT INTERNATIONAL BOND 3.60% 06/15/2035",
+      "weight": 0.36999999999999994,
+      "isin": "XS2966242179",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 2802713.08
+    },
+    {
+      "t": "XS2974969482",
+      "n": "SAUDI GOVERNMENT INTERNATIONAL BOND 5.63% 01/13/2035",
+      "weight": 2.8399999999999994,
+      "isin": "XS2974969482",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 21469348.83
+    },
+    {
+      "t": "XS3093655341",
+      "n": "KAZAKHSTAN GOVERNMENT INTERNATIONAL BOND 5.00% 07/01/2032",
+      "weight": 0.6399999999999999,
+      "isin": "XS3093655341",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 4862414.77
+    },
+    {
+      "t": "XS3114901336",
+      "n": "ROMANIAN GOVERNMENT INTERNATIONAL BOND 5.75% 09/16/2030",
+      "weight": 0.8399999999999999,
+      "isin": "XS3114901336",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 6355646.26
+    },
+    {
+      "t": "XS3212533262",
+      "n": "KAZAKHSTAN GOVERNMENT INTERNATIONAL BOND 4.41% 10/28/2030",
+      "weight": 0.6399999999999999,
+      "isin": "XS3212533262",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 4807326.5
+    },
+    {
+      "t": "XS3225200420",
+      "n": "GLOBAL SUKUK VENTURES 4.25% 11/10/2035",
+      "weight": 0.5099999999999999,
+      "isin": "XS3225200420",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 3863175.05
+    },
+    {
+      "t": "XS3261834314",
+      "n": "UKRAINE GOVERNMENT INTERNATIONAL BOND 4.00% 02/01/2032",
+      "weight": 0.4699999999999999,
+      "isin": "XS3261834314",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 3526314.45
+    }
+  ]
+}

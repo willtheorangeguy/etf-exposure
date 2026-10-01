@@ -1,0 +1,28 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-29",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUB_20260929.xlsx",
+  "created_at": "2026-10-01T10:56:40.812Z",
+  "partial": false,
+  "content_hash": "4e96d9a59f94c1b8c80f5060aa6c4ea980fe4fe3df6020e757c6e8ab0c057544",
+  "holdings": [
+    {
+      "t": "CA05590V1067",
+      "n": "BMO Equal Weight US Banks Index ETF",
+      "weight": 102.58,
+      "isin": "CA05590V1067",
+      "sector": "-",
+      "mv": 340386618.07,
+      "shares": 7539857
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -2.58,
+      "sector": "-",
+      "mv": -8545484,
+      "shares": 1
+    }
+  ]
+}

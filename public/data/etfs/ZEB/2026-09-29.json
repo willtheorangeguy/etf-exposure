@@ -1,0 +1,73 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-29",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEB_20260929.xlsx",
+  "created_at": "2026-10-01T10:56:40.812Z",
+  "partial": false,
+  "content_hash": "a1a4de45874152a04c8b3ba6a394c54dcf5f99db6c68ac8a516a0dada0fd28b1",
+  "holdings": [
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 16.789999999999996,
+      "isin": "CA0636711016",
+      "sector": "FINANCIALS",
+      "mv": 1281572919.51,
+      "shares": 5324579
+    },
+    {
+      "t": "BNS",
+      "n": "The Bank Of Nova Scotia",
+      "weight": 17.149999999999995,
+      "isin": "CA0641491075",
+      "sector": "FINANCIALS",
+      "mv": 1308943444.56,
+      "shares": 9969864
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.049999999999999996,
+      "sector": "-",
+      "mv": -3962878.94,
+      "shares": 1
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank Of Commerce",
+      "weight": 16.499999999999996,
+      "isin": "CA1360691010",
+      "sector": "FINANCIALS",
+      "mv": 1259396873.98,
+      "shares": 7942214
+    },
+    {
+      "t": "NA",
+      "n": "National Bank of Canada",
+      "weight": 16.149999999999995,
+      "isin": "CA6330671034",
+      "sector": "FINANCIALS",
+      "mv": 1232627001,
+      "shares": 5931795
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 16.459999999999997,
+      "isin": "CA7800871021",
+      "sector": "FINANCIALS",
+      "mv": 1256227822.4,
+      "shares": 4434580
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 16.999999999999996,
+      "isin": "CA8911605092",
+      "sector": "FINANCIALS",
+      "mv": 1297126967.88,
+      "shares": 7683036
+    }
+  ]
+}

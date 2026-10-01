@@ -1,0 +1,289 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-29",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDJ_20260929.xlsx",
+  "created_at": "2026-10-01T10:56:40.812Z",
+  "partial": false,
+  "content_hash": "ea1b20224fa606b615e48c654f9d008ab24d344b46f6e642259c09802c4971ec",
+  "holdings": [
+    {
+      "t": "AAPL",
+      "n": "Apple Inc.",
+      "weight": 3.92,
+      "isin": "US0378331005",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 17089676.23,
+      "shares": 36576
+    },
+    {
+      "t": "AMGN",
+      "n": "Amgen Inc.",
+      "weight": 5.04,
+      "isin": "US0311621009",
+      "sector": "HEALTH CARE",
+      "mv": 21978963.08,
+      "shares": 36576
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -2.8,
+      "sector": "-",
+      "mv": -12211437.68,
+      "shares": 1
+    },
+    {
+      "t": "CAT",
+      "n": "Caterpillar Inc.",
+      "weight": 9.84,
+      "isin": "US1491231015",
+      "sector": "INDUSTRIALS",
+      "mv": 42887097.64,
+      "shares": 36576
+    },
+    {
+      "t": "CRM",
+      "n": "Salesforce, Inc.",
+      "weight": 2.68,
+      "isin": "US79466L3024",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 11689359.3,
+      "shares": 36576
+    },
+    {
+      "t": "CSCO",
+      "n": "Cisco Systems, Inc.",
+      "weight": 1.27,
+      "isin": "US17275R1023",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 5548178.44,
+      "shares": 36576
+    },
+    {
+      "t": "CVX",
+      "n": "Chevron Corporation",
+      "weight": 2.43,
+      "isin": "US1667641005",
+      "sector": "ENERGY",
+      "mv": 10603485.21,
+      "shares": 36576
+    },
+    {
+      "t": "DIS",
+      "n": "The Walt Disney Company",
+      "weight": 1.25,
+      "isin": "US2546871060",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 5468800.16,
+      "shares": 36576
+    },
+    {
+      "t": "GOOGL",
+      "n": "Alphabet Inc.",
+      "weight": 4.06,
+      "isin": "US02079K3059",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 17687347.97,
+      "shares": 36576
+    },
+    {
+      "t": "GS",
+      "n": "The Goldman Sachs Group, Inc.",
+      "weight": 10.9,
+      "isin": "US38141G1040",
+      "sector": "FINANCIALS",
+      "mv": 47535655.6,
+      "shares": 36576
+    },
+    {
+      "t": "HD",
+      "n": "The Home Depot, Inc.",
+      "weight": 3.43,
+      "isin": "US4370761029",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 14943868.68,
+      "shares": 36576
+    },
+    {
+      "t": "HON",
+      "n": "HONEYWELL INTERNATIONAL INC",
+      "weight": 2.5,
+      "isin": "US4385162056",
+      "sector": "INDUSTRIALS",
+      "mv": 10901802.27,
+      "shares": 36576
+    },
+    {
+      "t": "IBM",
+      "n": "International Business Machines Corporation",
+      "weight": 2.62,
+      "isin": "US4592001014",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 11413351.17,
+      "shares": 36576
+    },
+    {
+      "t": "JNJ",
+      "n": "Johnson & Johnson",
+      "weight": 3.18,
+      "isin": "US4781601046",
+      "sector": "HEALTH CARE",
+      "mv": 13881859.96,
+      "shares": 36576
+    },
+    {
+      "t": "JPM",
+      "n": "JPMorgan Chase & Co.",
+      "weight": 3.99,
+      "isin": "US46625H1005",
+      "sector": "FINANCIALS",
+      "mv": 17379173.48,
+      "shares": 36576
+    },
+    {
+      "t": "KO",
+      "n": "The Coca-Cola Company",
+      "weight": 1.03,
+      "isin": "US1912161007",
+      "sector": "CONSUMER STAPLES",
+      "mv": 4505365.77,
+      "shares": 36576
+    },
+    {
+      "t": "MCD",
+      "n": "McDonald's Corporation",
+      "weight": 2.78,
+      "isin": "US5801351017",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 12139169.54,
+      "shares": 36576
+    },
+    {
+      "t": "MMM",
+      "n": "3M Company",
+      "weight": 2,
+      "isin": "US88579Y1010",
+      "sector": "INDUSTRIALS",
+      "mv": 8741467.97,
+      "shares": 36576
+    },
+    {
+      "t": "MRK",
+      "n": "Merck & Co., Inc.",
+      "weight": 1.78,
+      "isin": "US58933Y1055",
+      "sector": "HEALTH CARE",
+      "mv": 7744829.59,
+      "shares": 36576
+    },
+    {
+      "t": "MSFT",
+      "n": "Microsoft Corporation",
+      "weight": 6.06,
+      "isin": "US5949181045",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 26405469.39,
+      "shares": 36576
+    },
+    {
+      "t": "NKE",
+      "n": "NIKE, Inc.",
+      "weight": 0.43,
+      "isin": "US6541061031",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 1859423.18,
+      "shares": 36576
+    },
+    {
+      "t": "NVDA",
+      "n": "NVIDIA Corporation",
+      "weight": 2.7,
+      "isin": "US67066G1040",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 11787933.63,
+      "shares": 36576
+    },
+    {
+      "t": "PG",
+      "n": "The Procter & Gamble Company",
+      "weight": 1.76,
+      "isin": "US7427181091",
+      "sector": "CONSUMER STAPLES",
+      "mv": 7695023.62,
+      "shares": 36576
+    },
+    {
+      "t": "TRV",
+      "n": "The Travelers Companies, Inc.",
+      "weight": 4.32,
+      "isin": "US89417E1091",
+      "sector": "FINANCIALS",
+      "mv": 18843780.53,
+      "shares": 36576
+    },
+    {
+      "t": "UNH",
+      "n": "UnitedHealth Group Incorporated",
+      "weight": 4.46,
+      "isin": "US91324P1021",
+      "sector": "HEALTH CARE",
+      "mv": 19452347.32,
+      "shares": 36576
+    },
+    {
+      "t": "US0231351067",
+      "n": "Amazon.com, Inc.",
+      "weight": 2.94,
+      "isin": "US0231351067",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 12797542.31,
+      "shares": 36576
+    },
+    {
+      "t": "US0258161092",
+      "n": "American Express Company",
+      "weight": 3.63,
+      "isin": "US0258161092",
+      "sector": "FINANCIALS",
+      "mv": 15844526.78,
+      "shares": 36576
+    },
+    {
+      "t": "US0970231058",
+      "n": "The Boeing Company",
+      "weight": 2.23,
+      "isin": "US0970231058",
+      "sector": "INDUSTRIALS",
+      "mv": 9737068.72,
+      "shares": 36576
+    },
+    {
+      "t": "US8243481061",
+      "n": "The Sherwin-Williams Company",
+      "weight": 3.93,
+      "isin": "US8243481061",
+      "sector": "MATERIALS",
+      "mv": 17143632.71,
+      "shares": 36576
+    },
+    {
+      "t": "V",
+      "n": "Visa Inc.",
+      "weight": 4.35,
+      "isin": "US92826C8394",
+      "sector": "FINANCIALS",
+      "mv": 18982303.4,
+      "shares": 36576
+    },
+    {
+      "t": "WMT",
+      "n": "Walmart Inc.",
+      "weight": 1.27,
+      "isin": "US9311421039",
+      "sector": "CONSUMER STAPLES",
+      "mv": 5540915.06,
+      "shares": 36576
+    }
+  ]
+}

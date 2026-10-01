@@ -1,0 +1,99 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-30",
+  "source": "url",
+  "source_url": "https://www.blackrock.com/ca/investors/en/products/239532/ishares-equal-weight-banc-lifeco-etf/1464253357814.ajax?fileType=csv&fileName=CEW_holdings&dataType=fund",
+  "created_at": "2026-10-01T10:56:40.812Z",
+  "partial": false,
+  "content_hash": "1abd8774049e5d2752a2d8b339764a5aa082437a65cd585e6949fe2a697ee991",
+  "holdings": [
+    {
+      "t": "BMO",
+      "n": "BANK OF MONTREAL",
+      "weight": 10.03,
+      "sector": "Financials",
+      "mv": 41088614.11,
+      "shares": 172663
+    },
+    {
+      "t": "BNS",
+      "n": "BANK OF NOVA SCOTIA",
+      "weight": 10.07,
+      "sector": "Financials",
+      "mv": 41280754.72,
+      "shares": 318992
+    },
+    {
+      "t": "CAD",
+      "n": "CAD CASH",
+      "weight": 0.15,
+      "sector": "Cash and/or Derivatives",
+      "mv": 631791.85,
+      "shares": 631792
+    },
+    {
+      "t": "CM",
+      "n": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "weight": 9.98,
+      "sector": "Financials",
+      "mv": 40909664.6,
+      "shares": 261020
+    },
+    {
+      "t": "GWO",
+      "n": "GREAT WEST LIFECO INC",
+      "weight": 9.84,
+      "sector": "Financials",
+      "mv": 40337250.8,
+      "shares": 448840
+    },
+    {
+      "t": "IAG",
+      "n": "IA FINANCIAL INC",
+      "weight": 9.89,
+      "sector": "Financials",
+      "mv": 40512575.22,
+      "shares": 199589
+    },
+    {
+      "t": "MFC",
+      "n": "MANULIFE FINANCIAL",
+      "weight": 10.06,
+      "sector": "Financials",
+      "mv": 41234775.52,
+      "shares": 679993
+    },
+    {
+      "t": "NA",
+      "n": "NATIONAL BANK OF CANADA",
+      "weight": 9.79,
+      "sector": "Financials",
+      "mv": 40125192.94,
+      "shares": 197554
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA",
+      "weight": 10.07,
+      "sector": "Financials",
+      "mv": 41263156,
+      "shares": 147400
+    },
+    {
+      "t": "SLF",
+      "n": "SUN LIFE FINANCIAL INC",
+      "weight": 10.05,
+      "sector": "Financials",
+      "mv": 41175833.32,
+      "shares": 371221
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO DOMINION",
+      "weight": 10.07,
+      "sector": "Financials",
+      "mv": 41249020.29,
+      "shares": 246513
+    }
+  ]
+}

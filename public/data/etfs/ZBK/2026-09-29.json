@@ -1,0 +1,226 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-29",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBK_20260929.xlsx",
+  "created_at": "2026-10-01T10:56:40.812Z",
+  "partial": false,
+  "content_hash": "91ec6ee27c67dcd29c5bf32c63e40de58a0a59a8dd423787ef38fa540e14320e",
+  "holdings": [
+    {
+      "t": "BAC",
+      "n": "Bank of America Corporation",
+      "weight": 4.18,
+      "isin": "US0605051046",
+      "sector": "FINANCIALS",
+      "mv": 32277189.57,
+      "shares": 414033
+    },
+    {
+      "t": "C",
+      "n": "Citigroup Inc.",
+      "weight": 4.53,
+      "isin": "US1729674242",
+      "sector": "FINANCIALS",
+      "mv": 34961701.97,
+      "shares": 188439
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.35,
+      "sector": "-",
+      "mv": -2737575.57,
+      "shares": 1
+    },
+    {
+      "t": "CFG",
+      "n": "Citizens Financial Group, Inc.",
+      "weight": 4.3,
+      "isin": "US1746101054",
+      "sector": "FINANCIALS",
+      "mv": 33227481.47,
+      "shares": 366649
+    },
+    {
+      "t": "CFR",
+      "n": "Cullen/Frost Bankers, Inc.",
+      "weight": 4.52,
+      "isin": "US2298991090",
+      "sector": "FINANCIALS",
+      "mv": 34907053.67,
+      "shares": 159583
+    },
+    {
+      "t": "EWBC",
+      "n": "East West Bancorp, Inc.",
+      "weight": 4.57,
+      "isin": "US27579R1041",
+      "sector": "FINANCIALS",
+      "mv": 35333156.92,
+      "shares": 198452
+    },
+    {
+      "t": "FHN",
+      "n": "First Horizon Corporation",
+      "weight": 4.41,
+      "isin": "US3205171057",
+      "sector": "FINANCIALS",
+      "mv": 34095224.63,
+      "shares": 1040561
+    },
+    {
+      "t": "FITB",
+      "n": "Fifth Third Bancorp",
+      "weight": 4.43,
+      "isin": "US3167731005",
+      "sector": "FINANCIALS",
+      "mv": 34194538.79,
+      "shares": 472964
+    },
+    {
+      "t": "GS",
+      "n": "The Goldman Sachs Group, Inc.",
+      "weight": 4.2,
+      "isin": "US38141G1040",
+      "sector": "FINANCIALS",
+      "mv": 32472820.72,
+      "shares": 24986
+    },
+    {
+      "t": "HBAN",
+      "n": "Huntington Bancshares Incorporated",
+      "weight": 4.27,
+      "isin": "US4461501045",
+      "sector": "FINANCIALS",
+      "mv": 33006701.67,
+      "shares": 1523874
+    },
+    {
+      "t": "JPM",
+      "n": "JPMorgan Chase & Co.",
+      "weight": 4.45,
+      "isin": "US46625H1005",
+      "sector": "FINANCIALS",
+      "mv": 34381551.13,
+      "shares": 72359
+    },
+    {
+      "t": "KEY",
+      "n": "KeyCorp",
+      "weight": 4.32,
+      "isin": "US4932671088",
+      "sector": "FINANCIALS",
+      "mv": 33392107.56,
+      "shares": 1170043
+    },
+    {
+      "t": "MTB",
+      "n": "M&T Bank Corporation",
+      "weight": 4.32,
+      "isin": "US55261F1049",
+      "sector": "FINANCIALS",
+      "mv": 33381710.09,
+      "shares": 108202
+    },
+    {
+      "t": "PNC",
+      "n": "The PNC Financial Services Group, Inc.",
+      "weight": 4.3,
+      "isin": "US6934751057",
+      "sector": "FINANCIALS",
+      "mv": 33221645.88,
+      "shares": 105667
+    },
+    {
+      "t": "PNFP",
+      "n": "STEEL NEWCO INC",
+      "weight": 4.41,
+      "isin": "US72348N1090",
+      "sector": "FINANCIALS",
+      "mv": 34081588.13,
+      "shares": 256922
+    },
+    {
+      "t": "RF",
+      "n": "Regions Financial Corporation",
+      "weight": 4.21,
+      "isin": "US7591EP1005",
+      "sector": "FINANCIALS",
+      "mv": 32539386.27,
+      "shares": 853109
+    },
+    {
+      "t": "SSB",
+      "n": "SouthState Corporation",
+      "weight": 4.42,
+      "isin": "US84472E1029",
+      "sector": "FINANCIALS",
+      "mv": 34121141.32,
+      "shares": 240336
+    },
+    {
+      "t": "TFC",
+      "n": "Truist Financial Corporation",
+      "weight": 4.28,
+      "isin": "US89832Q1094",
+      "sector": "FINANCIALS",
+      "mv": 33097731.52,
+      "shares": 502449
+    },
+    {
+      "t": "UMBF",
+      "n": "UMB Financial Corporation",
+      "weight": 4.37,
+      "isin": "US9027881088",
+      "sector": "FINANCIALS",
+      "mv": 33759326.05,
+      "shares": 180523
+    },
+    {
+      "t": "US31946M1036",
+      "n": "First Citizens BancShares, Inc.",
+      "weight": 4.47,
+      "isin": "US31946M1036",
+      "sector": "FINANCIALS",
+      "mv": 34554976.1,
+      "shares": 11749
+    },
+    {
+      "t": "USB",
+      "n": "U.S. Bancorp",
+      "weight": 4.37,
+      "isin": "US9029733048",
+      "sector": "FINANCIALS",
+      "mv": 33773069.86,
+      "shares": 409526
+    },
+    {
+      "t": "WFC",
+      "n": "Wells Fargo & Company",
+      "weight": 4.26,
+      "isin": "US9497461015",
+      "sector": "FINANCIALS",
+      "mv": 32928316.79,
+      "shares": 288448
+    },
+    {
+      "t": "WTFC",
+      "n": "Wintrust Financial Corporation",
+      "weight": 4.44,
+      "isin": "US97650W1080",
+      "sector": "FINANCIALS",
+      "mv": 34271969.95,
+      "shares": 168385
+    },
+    {
+      "t": "ZION",
+      "n": "Zions Bancorporation, National Association",
+      "weight": 4.3,
+      "isin": "US9897011071",
+      "sector": "FINANCIALS",
+      "mv": 33223771.12,
+      "shares": 374103
+    }
+  ]
+}

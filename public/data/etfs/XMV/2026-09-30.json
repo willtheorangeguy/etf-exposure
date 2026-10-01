@@ -1,0 +1,587 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-30",
+  "source": "url",
+  "source_url": "https://www.blackrock.com/ca/investors/en/products/239616/ishares-msci-canada-minimum-volatility-index-etf/1464253357814.ajax?fileType=csv&fileName=XMV_holdings&dataType=fund",
+  "created_at": "2026-10-01T10:56:40.812Z",
+  "partial": false,
+  "content_hash": "825944e07c863d444e6108e1343ccd2ae537fbb19e07b0dce2c04f4eb2d484a9",
+  "holdings": [
+    {
+      "t": "ABX",
+      "n": "BARRICK MINING",
+      "weight": 0.8799999999999999,
+      "sector": "Materials",
+      "mv": 3278624.85,
+      "shares": 56655
+    },
+    {
+      "t": "AEM",
+      "n": "AGNICO EAGLE MINES",
+      "weight": 1.7799999999999998,
+      "sector": "Materials",
+      "mv": 6624452,
+      "shares": 25420
+    },
+    {
+      "t": "ALA",
+      "n": "ALTAGAS",
+      "weight": 0.4799999999999999,
+      "sector": "Utilities",
+      "mv": 1790636.64,
+      "shares": 34264
+    },
+    {
+      "t": "ATD",
+      "n": "ALIMENTATION COUCHE TARD INC",
+      "weight": 1.2999999999999998,
+      "sector": "Consumer Staples",
+      "mv": 4827162.06,
+      "shares": 62294
+    },
+    {
+      "t": "ATRL",
+      "n": "ATKINSREALIS GROUP INC",
+      "weight": 0.13999999999999999,
+      "sector": "Industrials",
+      "mv": 511664.34,
+      "shares": 5907
+    },
+    {
+      "t": "BAM",
+      "n": "BROOKFIELD ASSET MANAGEMENT VOTING",
+      "weight": 1.6399999999999997,
+      "sector": "Financials",
+      "mv": 6114806.31,
+      "shares": 96281
+    },
+    {
+      "t": "BCE",
+      "n": "BCE INC",
+      "weight": 1.9899999999999998,
+      "sector": "Communication",
+      "mv": 7413220.21,
+      "shares": 255893
+    },
+    {
+      "t": "BMO",
+      "n": "BANK OF MONTREAL",
+      "weight": 3.0499999999999994,
+      "sector": "Financials",
+      "mv": 11355452.46,
+      "shares": 47718
+    },
+    {
+      "t": "BN",
+      "n": "BROOKFIELD CLASS A",
+      "weight": 1.4099999999999997,
+      "sector": "Financials",
+      "mv": 5238935.68,
+      "shares": 100904
+    },
+    {
+      "t": "BNS",
+      "n": "BANK OF NOVA SCOTIA",
+      "weight": 3.319999999999963,
+      "sector": "Financials",
+      "mv": 12360466.74,
+      "shares": 95514
+    },
+    {
+      "t": "CAD",
+      "n": "CAD CASH",
+      "weight": 0.20999999999999996,
+      "sector": "Cash and/or Derivatives",
+      "mv": 788024.95,
+      "shares": 788025
+    },
+    {
+      "t": "CAE",
+      "n": "CAE",
+      "weight": 0.10999999999999999,
+      "sector": "Industrials",
+      "mv": 423322.41,
+      "shares": 12367
+    },
+    {
+      "t": "CCL.B",
+      "n": "CCL INDUSTRIES CLASS B",
+      "weight": 2.0499999999999994,
+      "sector": "Materials",
+      "mv": 7652024.16,
+      "shares": 81552
+    },
+    {
+      "t": "CCO",
+      "n": "CAMECO",
+      "weight": 0.11999999999999998,
+      "sector": "Energy",
+      "mv": 430349.44,
+      "shares": 3488
+    },
+    {
+      "t": "CLS",
+      "n": "CELESTICA",
+      "weight": 0.14999999999999997,
+      "sector": "Information Technology",
+      "mv": 570564.6,
+      "shares": 1108
+    },
+    {
+      "t": "CM",
+      "n": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "weight": 2.9899999999999998,
+      "sector": "Financials",
+      "mv": 11136763.61,
+      "shares": 71057
+    },
+    {
+      "t": "CNQ",
+      "n": "CANADIAN NATURAL RESOURCES LTD",
+      "weight": 1.7599999999999998,
+      "sector": "Energy",
+      "mv": 6563958.96,
+      "shares": 98072
+    },
+    {
+      "t": "CNR",
+      "n": "CANADIAN NATIONAL RAILWAY",
+      "weight": 2.9799999999999995,
+      "sector": "Industrials",
+      "mv": 11117891.4,
+      "shares": 65631
+    },
+    {
+      "t": "CP",
+      "n": "CANADIAN PACIFIC KANSAS CITY",
+      "weight": 2.8899999999999997,
+      "sector": "Industrials",
+      "mv": 10761348,
+      "shares": 88790
+    },
+    {
+      "t": "CSU",
+      "n": "CONSTELLATION SOFTWARE",
+      "weight": 1.1099999999999999,
+      "sector": "Information Technology",
+      "mv": 4153937.55,
+      "shares": 1435
+    },
+    {
+      "t": "CTC.A",
+      "n": "CANADIAN TIRE LTD CLASS A",
+      "weight": 0.44999999999999996,
+      "sector": "Consumer Discretionary",
+      "mv": 1686171.86,
+      "shares": 8738
+    },
+    {
+      "t": "CU",
+      "n": "CANADIAN UTILITIES LTD CLASS A",
+      "weight": 0.6099999999999999,
+      "sector": "Utilities",
+      "mv": 2289248.09,
+      "shares": 45251
+    },
+    {
+      "t": "CVE",
+      "n": "CENOVUS ENERGY",
+      "weight": 0.9099999999999999,
+      "sector": "Energy",
+      "mv": 3378830,
+      "shares": 76375
+    },
+    {
+      "t": "DOL",
+      "n": "DOLLARAMA",
+      "weight": 1.8899999999999997,
+      "sector": "Consumer Discretionary",
+      "mv": 7063024,
+      "shares": 38386
+    },
+    {
+      "t": "EFN",
+      "n": "ELEMENT FLEET MANAGEMENT",
+      "weight": 0.29999999999999993,
+      "sector": "Industrials",
+      "mv": 1119498.9,
+      "shares": 49426
+    },
+    {
+      "t": "EMA",
+      "n": "EMERA INC",
+      "weight": 1.3799999999999997,
+      "sector": "Utilities",
+      "mv": 5161697.7,
+      "shares": 75885
+    },
+    {
+      "t": "EMP.A",
+      "n": "EMPIRE CLASS A",
+      "weight": 0.26999999999999996,
+      "sector": "Consumer Staples",
+      "mv": 993352.14,
+      "shares": 20669
+    },
+    {
+      "t": "ENB",
+      "n": "ENBRIDGE",
+      "weight": 2.9599999999999995,
+      "sector": "Energy",
+      "mv": 11020788.45,
+      "shares": 166603
+    },
+    {
+      "t": "FFH",
+      "n": "FAIRFAX FINANCIAL HOLDINGS SUB VOT",
+      "weight": 1.9699999999999998,
+      "sector": "Financials",
+      "mv": 7360622.02,
+      "shares": 3317
+    },
+    {
+      "t": "FNV",
+      "n": "FRANCO NEVADA",
+      "weight": 1.8499999999999999,
+      "sector": "Materials",
+      "mv": 6906099.2,
+      "shares": 20384
+    },
+    {
+      "t": "FTS",
+      "n": "FORTIS",
+      "weight": 2.9999999999999996,
+      "sector": "Utilities",
+      "mv": 11194541.91,
+      "shares": 148923
+    },
+    {
+      "t": "GFL",
+      "n": "GFL ENVIRONMENTAL SUBORDINATE VOTI",
+      "weight": 1.3799999999999997,
+      "sector": "Industrials",
+      "mv": 5129257.44,
+      "shares": 86264
+    },
+    {
+      "t": "GIB.A",
+      "n": "CGI INC CLASS A",
+      "weight": 1.4499999999999997,
+      "sector": "Information Technology",
+      "mv": 5390136,
+      "shares": 55712
+    },
+    {
+      "t": "GWO",
+      "n": "GREAT WEST LIFECO INC",
+      "weight": 2.9799999999999995,
+      "sector": "Financials",
+      "mv": 11122041.59,
+      "shares": 123757
+    },
+    {
+      "t": "H",
+      "n": "HYDRO ONE",
+      "weight": 1.9099999999999997,
+      "sector": "Utilities",
+      "mv": 7136671.85,
+      "shares": 140735
+    },
+    {
+      "t": "IFC",
+      "n": "INTACT FINANCIAL CORP",
+      "weight": 2.0999999999999996,
+      "sector": "Financials",
+      "mv": 7845737.76,
+      "shares": 31914
+    },
+    {
+      "t": "IGM",
+      "n": "IGM FINANCIAL INC",
+      "weight": 0.05999999999999999,
+      "sector": "Financials",
+      "mv": 217900.8,
+      "shares": 2619
+    },
+    {
+      "t": "IMO",
+      "n": "IMPERIAL OIL LTD",
+      "weight": 1.5899999999999999,
+      "sector": "Energy",
+      "mv": 5942125,
+      "shares": 33955
+    },
+    {
+      "t": "K",
+      "n": "KINROSS GOLD",
+      "weight": 0.30999999999999994,
+      "sector": "Materials",
+      "mv": 1161157.9,
+      "shares": 33853
+    },
+    {
+      "t": "KEY",
+      "n": "KEYERA",
+      "weight": 0.5399999999999999,
+      "sector": "Energy",
+      "mv": 2014255.1,
+      "shares": 39226
+    },
+    {
+      "t": "L",
+      "n": "LOBLAW COMPANIES LTD",
+      "weight": 2.7699999999999996,
+      "sector": "Consumer Staples",
+      "mv": 10330424.8,
+      "shares": 166084
+    },
+    {
+      "t": "LUG",
+      "n": "LUNDIN GOLD",
+      "weight": 0.08999999999999998,
+      "sector": "Materials",
+      "mv": 349919.64,
+      "shares": 4011
+    },
+    {
+      "t": "MFC",
+      "n": "MANULIFE FINANCIAL",
+      "weight": 2.5899999999999994,
+      "sector": "Financials",
+      "mv": 9666864.96,
+      "shares": 159414
+    },
+    {
+      "t": "MG",
+      "n": "MAGNA INTERNATIONAL",
+      "weight": 0.37999999999999995,
+      "sector": "Consumer Discretionary",
+      "mv": 1419372.96,
+      "shares": 15656
+    },
+    {
+      "t": "MLPFT",
+      "n": "CASH COLLATERAL CAD MLPFT",
+      "weight": 0.019999999999999997,
+      "sector": "Cash and/or Derivatives",
+      "mv": 67000,
+      "shares": 67000
+    },
+    {
+      "t": "MRU",
+      "n": "METRO",
+      "weight": 1.6699999999999997,
+      "sector": "Consumer Staples",
+      "mv": 6208169.1,
+      "shares": 69018
+    },
+    {
+      "t": "NA",
+      "n": "NATIONAL BANK OF CANADA",
+      "weight": 2.7099999999999995,
+      "sector": "Financials",
+      "mv": 10095176.33,
+      "shares": 49703
+    },
+    {
+      "t": "NTR",
+      "n": "NUTRIEN LTD",
+      "weight": 2.4999999999999996,
+      "sector": "Materials",
+      "mv": 9331897.5,
+      "shares": 93375
+    },
+    {
+      "t": "POW",
+      "n": "POWER CORPORATION OF CANADA",
+      "weight": 1.0499999999999998,
+      "sector": "Financials",
+      "mv": 3913243.98,
+      "shares": 43466
+    },
+    {
+      "t": "PPL",
+      "n": "PEMBINA PIPELINE",
+      "weight": 1.6699999999999997,
+      "sector": "Energy",
+      "mv": 6241949.56,
+      "shares": 98252
+    },
+    {
+      "t": "QSR",
+      "n": "RESTAURANTS BRANDS INTERNATIONAL",
+      "weight": 1.1499999999999997,
+      "sector": "Consumer Discretionary",
+      "mv": 4277340.99,
+      "shares": 42237
+    },
+    {
+      "t": "RBA",
+      "n": "RB GLOBAL",
+      "weight": 0.5999999999999999,
+      "sector": "Industrials",
+      "mv": 2232194.78,
+      "shares": 19258
+    },
+    {
+      "t": "RCI.B",
+      "n": "ROGERS COMMUNICATIONS NON-VOTING I",
+      "weight": 0.6599999999999999,
+      "sector": "Communication",
+      "mv": 2452868.32,
+      "shares": 55976
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA",
+      "weight": 3.0299999999999994,
+      "sector": "Financials",
+      "mv": 11295579,
+      "shares": 40350
+    },
+    {
+      "t": "SAP",
+      "n": "SAPUTO",
+      "weight": 0.5499999999999999,
+      "sector": "Consumer Staples",
+      "mv": 2054473.49,
+      "shares": 51349
+    },
+    {
+      "t": "SHOP",
+      "n": "SHOPIFY SUBORDINATE VOTING CLASS A",
+      "weight": 0.9399999999999998,
+      "sector": "Information Technology",
+      "mv": 3497264.52,
+      "shares": 16581
+    },
+    {
+      "t": "SLF",
+      "n": "SUN LIFE FINANCIAL INC",
+      "weight": 2.5299999999999994,
+      "sector": "Financials",
+      "mv": 9418549.96,
+      "shares": 84913
+    },
+    {
+      "t": "STN",
+      "n": "STANTEC",
+      "weight": 0.32999999999999996,
+      "sector": "Industrials",
+      "mv": 1245684.96,
+      "shares": 12984
+    },
+    {
+      "t": "SU",
+      "n": "SUNCOR ENERGY INC",
+      "weight": 2.9699999999999998,
+      "sector": "Energy",
+      "mv": 11068936,
+      "shares": 114704
+    },
+    {
+      "t": "T",
+      "n": "TELUS",
+      "weight": 1.3399999999999999,
+      "sector": "Communication",
+      "mv": 4990140.75,
+      "shares": 417585
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO DOMINION",
+      "weight": 3.1799999999999997,
+      "sector": "Financials",
+      "mv": 11838262.84,
+      "shares": 70748
+    },
+    {
+      "t": "TECK.B",
+      "n": "TECK RESOURCES SUBORDINATE VOTING",
+      "weight": 0.08999999999999998,
+      "sector": "Materials",
+      "mv": 345097.1,
+      "shares": 3683
+    },
+    {
+      "t": "TFII",
+      "n": "TFI INTERNATIONAL",
+      "weight": 0.18999999999999997,
+      "sector": "Industrials",
+      "mv": 702095.24,
+      "shares": 4114
+    },
+    {
+      "t": "TIH",
+      "n": "TOROMONT INDUSTRIES LTD",
+      "weight": 0.43999999999999995,
+      "sector": "Industrials",
+      "mv": 1624041.9,
+      "shares": 7155
+    },
+    {
+      "t": "TOU",
+      "n": "TOURMALINE OIL CORP",
+      "weight": 0.5699999999999998,
+      "sector": "Energy",
+      "mv": 2128089.6,
+      "shares": 34944
+    },
+    {
+      "t": "TRI",
+      "n": "THOMSON REUTERS CORP",
+      "weight": 0.7599999999999999,
+      "sector": "Industrials",
+      "mv": 2826515.28,
+      "shares": 20411
+    },
+    {
+      "t": "TRP",
+      "n": "TC ENERGY",
+      "weight": 2.4199999999999995,
+      "sector": "Energy",
+      "mv": 9010088.01,
+      "shares": 109359
+    },
+    {
+      "t": "USD",
+      "n": "USD CASH",
+      "weight": 0.039999999999999994,
+      "sector": "Cash and/or Derivatives",
+      "mv": 138208.43,
+      "shares": 97347
+    },
+    {
+      "t": "WN",
+      "n": "GEORGE WESTON",
+      "weight": 1.8599999999999999,
+      "sector": "Consumer Staples",
+      "mv": 6919525.28,
+      "shares": 68368
+    },
+    {
+      "t": "WPM",
+      "n": "WHEATON PRECIOUS METALS",
+      "weight": 1.4199999999999997,
+      "sector": "Materials",
+      "mv": 5280729.3,
+      "shares": 27786
+    },
+    {
+      "t": "WSP",
+      "n": "WSP GLOBAL INC",
+      "weight": 0.5899999999999999,
+      "sector": "Industrials",
+      "mv": 2212673.76,
+      "shares": 12699
+    },
+    {
+      "t": "X",
+      "n": "TMX GROUP LTD",
+      "weight": 0.6199999999999999,
+      "sector": "Financials",
+      "mv": 2323975.5,
+      "shares": 44478
+    }
+  ]
+}

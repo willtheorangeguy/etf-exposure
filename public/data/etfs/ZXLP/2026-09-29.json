@@ -1,0 +1,28 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-29",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLP_20260929.xlsx",
+  "created_at": "2026-10-01T10:56:40.812Z",
+  "partial": false,
+  "content_hash": "2dd740693adc8ce6f6a03285d23e8588c0b281ff74c54e0acbf79c0480831baf",
+  "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -1.24,
+      "sector": "-",
+      "mv": -114140.1,
+      "shares": 1
+    },
+    {
+      "t": "US81369Y3080",
+      "n": "STATE STREET CONSUMER STAPLES SELECT SECTOR SPDR ETF",
+      "weight": 101.24,
+      "isin": "US81369Y3080",
+      "sector": "-",
+      "mv": 9338630.25,
+      "shares": 80436
+    }
+  ]
+}

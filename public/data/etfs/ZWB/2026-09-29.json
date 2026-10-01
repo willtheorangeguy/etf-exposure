@@ -1,0 +1,94 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-29",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWB_20260929.xlsx",
+  "created_at": "2026-10-01T10:56:40.812Z",
+  "partial": false,
+  "content_hash": "ae2b15a0c8dd659980db3b4db8c0eee4f9d26868266d815728b0e31adcf133f8",
+  "holdings": [
+    {
+      "t": "BANK OF NOVA SCOTIA CALL OPTIONS",
+      "n": "Bank Of Nova Scotia CALL OPTIONS",
+      "weight": -0.009999000099990002,
+      "sector": "-"
+    },
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 13.458654134586544,
+      "isin": "CA0636711016",
+      "sector": "FINANCIALS",
+      "mv": 625262075.1,
+      "shares": 2597790
+    },
+    {
+      "t": "BNS",
+      "n": "The Bank Of Nova Scotia",
+      "weight": 13.638636136386364,
+      "isin": "CA0641491075",
+      "sector": "FINANCIALS",
+      "mv": 633491711.57,
+      "shares": 4825133
+    },
+    {
+      "t": "CA0556851016",
+      "n": "BMO Equal Weight Banks Index ETF",
+      "weight": 19.448055194480517,
+      "isin": "CA0556851016",
+      "sector": "-",
+      "mv": 903188390.66,
+      "shares": 12146164
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.42995700429957007,
+      "sector": "-",
+      "mv": -20041306.66,
+      "shares": 1
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank Of Commerce",
+      "weight": 13.468653134686534,
+      "isin": "CA1360691010",
+      "sector": "FINANCIALS",
+      "mv": 625445272.45,
+      "shares": 3944285
+    },
+    {
+      "t": "NA",
+      "n": "National Bank of Canada",
+      "weight": 13.338666133386662,
+      "isin": "CA6330671034",
+      "sector": "FINANCIALS",
+      "mv": 619411279,
+      "shares": 2980805
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 13.618638136186382,
+      "isin": "CA7800871021",
+      "sector": "FINANCIALS",
+      "mv": 632541860.88,
+      "shares": 2232921
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 13.478652134786524,
+      "isin": "CA8911605092",
+      "sector": "FINANCIALS",
+      "mv": 626179158.39,
+      "shares": 3708933
+    },
+    {
+      "t": "TORONTO-DOMINION BANK/THE CALL OPTIONS",
+      "n": "Toronto-Dominion Bank/The CALL OPTIONS",
+      "weight": -0.009999000099990002,
+      "sector": "-"
+    }
+  ]
+}

@@ -1,0 +1,6163 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-30",
+  "source": "url",
+  "source_url": "https://www.blackrock.com/ca/investors/en/products/239491/ishares-canadian-short-term-bond-index-etf/1464253357814.ajax?fileType=csv&fileName=XSB_holdings&dataType=fund",
+  "created_at": "2026-10-01T10:56:40.812Z",
+  "partial": false,
+  "content_hash": "782d194976e1749606253d1bbde98b90198fdfe9274d51d8525faf2fbb36df80",
+  "holdings": [
+    {
+      "t": "ACAFP",
+      "n": "CREDIT AGRICOLE SA MTN",
+      "weight": 0.08,
+      "sector": "Financial",
+      "mv": 3519534.94,
+      "shares": 3591000
+    },
+    {
+      "t": "ACAFP",
+      "n": "CREDIT AGRICOLE SA RegS",
+      "weight": 0.07,
+      "sector": "Financial",
+      "mv": 3363233.98,
+      "shares": 3390000
+    },
+    {
+      "t": "ACICN",
+      "n": "TRISUMMIT UTILITIES INC MTN RegS",
+      "weight": 0.03,
+      "sector": "Energy",
+      "mv": 1134975.84,
+      "shares": 1100000
+    },
+    {
+      "t": "ACICN",
+      "n": "ALTAGAS CANADA INC MTN",
+      "weight": 0.02,
+      "sector": "Energy",
+      "mv": 880717.15,
+      "shares": 865000
+    },
+    {
+      "t": "ACICN",
+      "n": "TRISUMMIT UTILITIES INC MTN RegS",
+      "weight": 0.01,
+      "sector": "Energy",
+      "mv": 487901.79,
+      "shares": 500000
+    },
+    {
+      "t": "ACOXCN",
+      "n": "ATCO LTD RegS",
+      "weight": 0.03,
+      "sector": "Energy",
+      "mv": 1252785.37,
+      "shares": 1256000
+    },
+    {
+      "t": "ACOXCN",
+      "n": "ATCO LTD RegS",
+      "weight": 0.02,
+      "sector": "Energy",
+      "mv": 686592.57,
+      "shares": 660000
+    },
+    {
+      "t": "AIREIN",
+      "n": "AIMCO REALTY INVESTORS LP",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 1788429.33,
+      "shares": 1829000
+    },
+    {
+      "t": "AIREIN",
+      "n": "AIMCO REALTY INVESTORS LP RegS",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 1657201.2,
+      "shares": 1655000
+    },
+    {
+      "t": "AIREIN",
+      "n": "AIMCO REALTY INVESTORS LP",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 1651725.61,
+      "shares": 1620000
+    },
+    {
+      "t": "AIREIN",
+      "n": "AIMCO REALTY INVESTORS LP",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 1626477.56,
+      "shares": 1630000
+    },
+    {
+      "t": "ALACN",
+      "n": "ALTAGAS LTD",
+      "weight": 0.06,
+      "sector": "Energy",
+      "mv": 2585126.98,
+      "shares": 2640000
+    },
+    {
+      "t": "ALACN",
+      "n": "ALTAGAS LTD MTN RegS",
+      "weight": 0.03,
+      "sector": "Energy",
+      "mv": 1479692.85,
+      "shares": 1472000
+    },
+    {
+      "t": "ALACN",
+      "n": "ALTAGAS LTD MTN",
+      "weight": 0.03,
+      "sector": "Energy",
+      "mv": 1268941.1,
+      "shares": 1240000
+    },
+    {
+      "t": "ALACN",
+      "n": "ALTAGAS LTD MTN",
+      "weight": 0.02,
+      "sector": "Energy",
+      "mv": 816632.58,
+      "shares": 798000
+    },
+    {
+      "t": "ALCTRA",
+      "n": "ALECTRA INC (CANADA)",
+      "weight": 0.02,
+      "sector": "Infrastructure",
+      "mv": 969576.13,
+      "shares": 1057000
+    },
+    {
+      "t": "ALTA",
+      "n": "ALBERTA (PROVINCE OF)",
+      "weight": 0.74,
+      "sector": "Provincial",
+      "mv": 33381490.7,
+      "shares": 35114000
+    },
+    {
+      "t": "ALTA",
+      "n": "ALBERTA (PROVINCE OF)",
+      "weight": 0.31,
+      "sector": "Provincial",
+      "mv": 13945059.76,
+      "shares": 15255000
+    },
+    {
+      "t": "ALTA",
+      "n": "ALBERTA (PROVINCE OF)",
+      "weight": 0.28,
+      "sector": "Provincial",
+      "mv": 12666466.5,
+      "shares": 12690000
+    },
+    {
+      "t": "ALTA",
+      "n": "ALBERTA PROVINCE OF MTN",
+      "weight": 0.11,
+      "sector": "Provincial",
+      "mv": 4915525.47,
+      "shares": 5007000
+    },
+    {
+      "t": "ALTA",
+      "n": "ALBERTA (PROVINCE OF)",
+      "weight": 0.09,
+      "sector": "Provincial",
+      "mv": 4016747.34,
+      "shares": 3910000
+    },
+    {
+      "t": "ALTA",
+      "n": "ALBERTA (PROVINCE OF) MTN",
+      "weight": 0.08,
+      "sector": "Provincial",
+      "mv": 3845797.22,
+      "shares": 3850000
+    },
+    {
+      "t": "ALTALK",
+      "n": "ALTALINK LP",
+      "weight": 0.02,
+      "sector": "Infrastructure",
+      "mv": 966810.41,
+      "shares": 1056000
+    },
+    {
+      "t": "AMZN",
+      "n": "AMAZON.COM INC",
+      "weight": 0.21,
+      "sector": "Industrial",
+      "mv": 9583587.82,
+      "shares": 9740000
+    },
+    {
+      "t": "AMZN",
+      "n": "AMAZON.COM INC",
+      "weight": 0.09,
+      "sector": "Industrial",
+      "mv": 4297300.32,
+      "shares": 4315000
+    },
+    {
+      "t": "APOTX",
+      "n": "APOTEX HEALTH CORP RegS",
+      "weight": 0.01,
+      "sector": "Other",
+      "mv": 669458.3,
+      "shares": 670000
+    },
+    {
+      "t": "APOTX",
+      "n": "APOTEX HEALTH CORP RegS",
+      "weight": 0.01,
+      "sector": "Other",
+      "mv": 597733.95,
+      "shares": 597000
+    },
+    {
+      "t": "APUCN",
+      "n": "ALLIED PROPERTIES REAL ESTATE INVE RegS",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 1747475.64,
+      "shares": 1735000
+    },
+    {
+      "t": "APUCN",
+      "n": "ALLIED PROPERTIES REAL ESTATE INVE",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1280886.31,
+      "shares": 1258000
+    },
+    {
+      "t": "APUCN",
+      "n": "ALLIED PROPERTIES REAL ESTATE INVE",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1192825.23,
+      "shares": 1234000
+    },
+    {
+      "t": "APUCN",
+      "n": "ALLIED PROPERTIES REAL ESTATE INVE",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1188048.6,
+      "shares": 1255000
+    },
+    {
+      "t": "APUCN",
+      "n": "ALLIED PROPERTIES REAL ESTATE INVE",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 849848.89,
+      "shares": 855000
+    },
+    {
+      "t": "ASIA",
+      "n": "ASIAN DEVELOPMENT BANK",
+      "weight": 0.09,
+      "sector": "Federal",
+      "mv": 3869180.06,
+      "shares": 3958000
+    },
+    {
+      "t": "ASIA",
+      "n": "ASIAN DEVELOPMENT BANK MTN",
+      "weight": 0.08,
+      "sector": "Federal",
+      "mv": 3409122.34,
+      "shares": 3410000
+    },
+    {
+      "t": "ASIA",
+      "n": "ASIAN DEVELOPMENT BANK MTN",
+      "weight": 0.04,
+      "sector": "Federal",
+      "mv": 1662857.11,
+      "shares": 1645000
+    },
+    {
+      "t": "ASIA",
+      "n": "ASIAN DEVELOPMENT BANK MTN",
+      "weight": 0.03,
+      "sector": "Federal",
+      "mv": 1501851.01,
+      "shares": 1510000
+    },
+    {
+      "t": "ATDBCN",
+      "n": "ALIMENTATION COUCHE-TARD INC",
+      "weight": 0.07,
+      "sector": "Industrial",
+      "mv": 3371365.33,
+      "shares": 3226000
+    },
+    {
+      "t": "ATDBCN",
+      "n": "ALIMENTATION COUCHE-TARD INC",
+      "weight": 0.05,
+      "sector": "Industrial",
+      "mv": 2083129.07,
+      "shares": 2040000
+    },
+    {
+      "t": "ATH",
+      "n": "ATHENE GLOBAL FUNDING MTN RegS",
+      "weight": 0.1,
+      "sector": "Financial",
+      "mv": 4692313.07,
+      "shares": 4709000
+    },
+    {
+      "t": "ATH",
+      "n": "ATHENE GLOBAL FUNDING MTN RegS",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 950954.81,
+      "shares": 950000
+    },
+    {
+      "t": "ATRLCN",
+      "n": "ATKINSREALIS GROUP INC RegS",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1226273.77,
+      "shares": 1210000
+    },
+    {
+      "t": "AVELIV",
+      "n": "AVENUE LIVING (2014) LP RegS",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 1720572.76,
+      "shares": 1730000
+    },
+    {
+      "t": "AVELIV",
+      "n": "AVENUE LIVING (2014) LP RegS",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1318798.99,
+      "shares": 1330000
+    },
+    {
+      "t": "AVELIV",
+      "n": "AVENUE LIVING 2014 LP",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 997703.64,
+      "shares": 990000
+    },
+    {
+      "t": "BAMREP",
+      "n": "BROOKFIELD RENEWABLE PARTNERS ULC",
+      "weight": 0.04,
+      "sector": "Energy",
+      "mv": 1869872.6,
+      "shares": 1845000
+    },
+    {
+      "t": "BAMREP",
+      "n": "BROOKFIELD RENEWABLE PARTNERS ULC MTN",
+      "weight": 0.04,
+      "sector": "Energy",
+      "mv": 1813953.95,
+      "shares": 1845000
+    },
+    {
+      "t": "BAMREP",
+      "n": "BROOKFIELD RENEWABLE PARTNERS ULC MTN RegS",
+      "weight": 0.03,
+      "sector": "Energy",
+      "mv": 1154653.57,
+      "shares": 1160000
+    },
+    {
+      "t": "BAMREP",
+      "n": "BROOKFIELD RENEWABLE PARTNERS ULC",
+      "weight": 0.02,
+      "sector": "Energy",
+      "mv": 779300,
+      "shares": 782000
+    },
+    {
+      "t": "BAMREP",
+      "n": "BROOKFIELD RENEWABLE PARTNERS ULC",
+      "weight": 0.01,
+      "sector": "Energy",
+      "mv": 573769.02,
+      "shares": 575000
+    },
+    {
+      "t": "BCECN",
+      "n": "BELL CANADA INC MTN",
+      "weight": 0.11,
+      "sector": "Communication",
+      "mv": 5113203.21,
+      "shares": 5357000
+    },
+    {
+      "t": "BCECN",
+      "n": "BELL CANADA MTN RegS",
+      "weight": 0.09,
+      "sector": "Communication",
+      "mv": 4058638.59,
+      "shares": 3996000
+    },
+    {
+      "t": "BCECN",
+      "n": "BELL CANADA MTN RegS",
+      "weight": 0.08,
+      "sector": "Communication",
+      "mv": 3756231.76,
+      "shares": 3648000
+    },
+    {
+      "t": "BCECN",
+      "n": "BELL TELEPHONE COMPANY OF CANADA O MTN",
+      "weight": 0.08,
+      "sector": "Communication",
+      "mv": 3625776.72,
+      "shares": 3618000
+    },
+    {
+      "t": "BCECN",
+      "n": "BELL CANADA INC",
+      "weight": 0.05,
+      "sector": "Communication",
+      "mv": 2219920.58,
+      "shares": 2322000
+    },
+    {
+      "t": "BCECN",
+      "n": "BELL CANADA INC",
+      "weight": 0.05,
+      "sector": "Communication",
+      "mv": 2079460.39,
+      "shares": 2110000
+    },
+    {
+      "t": "BCECN",
+      "n": "BELL TELEPHONE COMPANY OF CANADA O MTN RegS",
+      "weight": 0.04,
+      "sector": "Communication",
+      "mv": 1737224.65,
+      "shares": 1753000
+    },
+    {
+      "t": "BCECN",
+      "n": "BELL CANADA INC MTN",
+      "weight": 0.04,
+      "sector": "Communication",
+      "mv": 1702416.35,
+      "shares": 1753000
+    },
+    {
+      "t": "BCECN",
+      "n": "BELL TELEPHONE COMPANY OF CANADA O MTN RegS",
+      "weight": 0.01,
+      "sector": "Communication",
+      "mv": 582790.81,
+      "shares": 559000
+    },
+    {
+      "t": "BCIMCO",
+      "n": "BRITISH COLUMBIA INVESTMENT MANAGE RegS",
+      "weight": 0.3,
+      "sector": "Provincial",
+      "mv": 13645724.96,
+      "shares": 13855000
+    },
+    {
+      "t": "BCIMCO",
+      "n": "BRITISH COLUMBIA INVESTMENT MANAGE RegS",
+      "weight": 0.26,
+      "sector": "Provincial",
+      "mv": 11591871.48,
+      "shares": 11602000
+    },
+    {
+      "t": "BCIMCR",
+      "n": "BCI QUADREAL REALTY",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 1801846.67,
+      "shares": 1810000
+    },
+    {
+      "t": "BCIMCR",
+      "n": "BCI QUADREAL REALTY",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 923481.91,
+      "shares": 1000000
+    },
+    {
+      "t": "BCMFA",
+      "n": "MUNICIPAL FINANCE AUTHORITY OF BRI",
+      "weight": 0.1,
+      "sector": "Municipal",
+      "mv": 4356412.69,
+      "shares": 4439000
+    },
+    {
+      "t": "BCMFA",
+      "n": "MUNICIPAL FINANCE AUTHORITY OF BRI",
+      "weight": 0.09,
+      "sector": "Municipal",
+      "mv": 4239404.18,
+      "shares": 4275000
+    },
+    {
+      "t": "BCMFA",
+      "n": "MUNICIPAL FINANCE AUTHORITY OF BRI",
+      "weight": 0.07,
+      "sector": "Municipal",
+      "mv": 3321893.9,
+      "shares": 3328000
+    },
+    {
+      "t": "BCMFA",
+      "n": "MUNICIPAL FINANCE AUTHORITY OF BRI",
+      "weight": 0.07,
+      "sector": "Municipal",
+      "mv": 3077900.41,
+      "shares": 2973000
+    },
+    {
+      "t": "BCMFA",
+      "n": "MUNICIPAL FINANCE AUTHORITY OF BRI",
+      "weight": 0.06,
+      "sector": "Municipal",
+      "mv": 2847119.42,
+      "shares": 2748000
+    },
+    {
+      "t": "BCMFA",
+      "n": "MUNICIPAL FINANCE AUTHORITY OF BRI",
+      "weight": 0.06,
+      "sector": "Municipal",
+      "mv": 2692533.19,
+      "shares": 2680000
+    },
+    {
+      "t": "BCMFA",
+      "n": "MUNICIPAL FINANCE AUTHORITY OF BRI",
+      "weight": 0.05,
+      "sector": "Municipal",
+      "mv": 2366089.25,
+      "shares": 2500000
+    },
+    {
+      "t": "BDT",
+      "n": "BIRD CONSTRUCTION INC RegS",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1210194.5,
+      "shares": 1210000
+    },
+    {
+      "t": "BIP",
+      "n": "BROOKFIELD INFRASTRUCTURE FINANCE",
+      "weight": 0.06,
+      "sector": "Infrastructure",
+      "mv": 2649657.85,
+      "shares": 2633000
+    },
+    {
+      "t": "BIP",
+      "n": "BROOKFIELD INFRASTRUCTURE FINANCE",
+      "weight": 0.06,
+      "sector": "Infrastructure",
+      "mv": 2647383.67,
+      "shares": 2660000
+    },
+    {
+      "t": "BIP",
+      "n": "BROOKFIELD INFRASTRUCTURE FINANCE MTN RegS",
+      "weight": 0.05,
+      "sector": "Infrastructure",
+      "mv": 2270403.58,
+      "shares": 2150000
+    },
+    {
+      "t": "BIP",
+      "n": "BROOKFIELD INFRASTRUCTURE FINANCE MTN",
+      "weight": 0.04,
+      "sector": "Infrastructure",
+      "mv": 1830296.42,
+      "shares": 1757000
+    },
+    {
+      "t": "BIP",
+      "n": "BROOKFIELD INFRASTRUCTURE FINANCE",
+      "weight": 0.03,
+      "sector": "Infrastructure",
+      "mv": 1172258.1,
+      "shares": 1165000
+    },
+    {
+      "t": "BIP",
+      "n": "BROOKFIELD INFRASTRUCTURE FINANCE MTN RegS",
+      "weight": 0.02,
+      "sector": "Infrastructure",
+      "mv": 982856.91,
+      "shares": 1000000
+    },
+    {
+      "t": "BMO",
+      "n": "BANK OF MONTREAL",
+      "weight": 0.21,
+      "sector": "Financial",
+      "mv": 9609895.11,
+      "shares": 9629000
+    },
+    {
+      "t": "BMO",
+      "n": "BANK OF MONTREAL",
+      "weight": 0.19,
+      "sector": "Financial",
+      "mv": 8819133.56,
+      "shares": 8586000
+    },
+    {
+      "t": "BMO",
+      "n": "BANK OF MONTREAL",
+      "weight": 0.18,
+      "sector": "Financial",
+      "mv": 8193839.51,
+      "shares": 7995000
+    },
+    {
+      "t": "BMO",
+      "n": "BANK OF MONTREAL",
+      "weight": 0.18,
+      "sector": "Financial",
+      "mv": 8162409.31,
+      "shares": 7878000
+    },
+    {
+      "t": "BMO",
+      "n": "BANK OF MONTREAL",
+      "weight": 0.18,
+      "sector": "Financial",
+      "mv": 8055047.62,
+      "shares": 8319000
+    },
+    {
+      "t": "BMO",
+      "n": "BANK OF MONTREAL",
+      "weight": 0.17,
+      "sector": "Financial",
+      "mv": 7609562.63,
+      "shares": 7469000
+    },
+    {
+      "t": "BMO",
+      "n": "BANK OF MONTREAL",
+      "weight": 0.13,
+      "sector": "Financial",
+      "mv": 5826710.95,
+      "shares": 5865000
+    },
+    {
+      "t": "BMO",
+      "n": "BANK OF MONTREAL",
+      "weight": 0.11,
+      "sector": "Financial",
+      "mv": 4883150.11,
+      "shares": 4974000
+    },
+    {
+      "t": "BMO",
+      "n": "BANK OF MONTREAL RegS",
+      "weight": 0.11,
+      "sector": "Financial",
+      "mv": 4829773.09,
+      "shares": 4649000
+    },
+    {
+      "t": "BMO",
+      "n": "BANK OF MONTREAL MTN RegS",
+      "weight": 0.1,
+      "sector": "Financial",
+      "mv": 4444643.48,
+      "shares": 4490000
+    },
+    {
+      "t": "BMO",
+      "n": "BANK OF MONTREAL",
+      "weight": 0.09,
+      "sector": "Financial",
+      "mv": 4070105.92,
+      "shares": 3956000
+    },
+    {
+      "t": "BMO",
+      "n": "BANK OF MONTREAL",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1878690.85,
+      "shares": 1777000
+    },
+    {
+      "t": "BMW",
+      "n": "BMW CANADA INC MTN RegS",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1230774.52,
+      "shares": 1247000
+    },
+    {
+      "t": "BMW",
+      "n": "BMW CANADA INC",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1205960.82,
+      "shares": 1185000
+    },
+    {
+      "t": "BMW",
+      "n": "BMW CANADA INC",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1147304.96,
+      "shares": 1170000
+    },
+    {
+      "t": "BMW",
+      "n": "BMW CANADA INC",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1138645.82,
+      "shares": 1144000
+    },
+    {
+      "t": "BMW",
+      "n": "BMW CANADA INC",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 799748.1,
+      "shares": 794000
+    },
+    {
+      "t": "BMW",
+      "n": "BMW CANADA INC",
+      "weight": 0.01,
+      "sector": "Industrial",
+      "mv": 599752.06,
+      "shares": 580000
+    },
+    {
+      "t": "BNP",
+      "n": "BNP PARIBAS SA MTN",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2442200.18,
+      "shares": 2470000
+    },
+    {
+      "t": "BNS",
+      "n": "BANK OF NOVA SCOTIA",
+      "weight": 0.29,
+      "sector": "Financial",
+      "mv": 13273521.13,
+      "shares": 13594000
+    },
+    {
+      "t": "BNS",
+      "n": "BANK OF NOVA SCOTIA",
+      "weight": 0.21,
+      "sector": "Financial",
+      "mv": 9589744.07,
+      "shares": 9687000
+    },
+    {
+      "t": "BNS",
+      "n": "BANK OF NOVA SCOTIA",
+      "weight": 0.18,
+      "sector": "Financial",
+      "mv": 7961436.98,
+      "shares": 7778000
+    },
+    {
+      "t": "BNS",
+      "n": "BANK OF NOVA SCOTIA",
+      "weight": 0.16,
+      "sector": "Financial",
+      "mv": 7456498.56,
+      "shares": 7462000
+    },
+    {
+      "t": "BNS",
+      "n": "BANK OF NOVA SCOTIA",
+      "weight": 0.16,
+      "sector": "Financial",
+      "mv": 7125396.08,
+      "shares": 7013000
+    },
+    {
+      "t": "BNS",
+      "n": "BANK OF NOVA SCOTIA",
+      "weight": 0.14,
+      "sector": "Financial",
+      "mv": 6380412.13,
+      "shares": 6368000
+    },
+    {
+      "t": "BNS",
+      "n": "BANK OF NOVA SCOTIA",
+      "weight": 0.11,
+      "sector": "Financial",
+      "mv": 5050564.34,
+      "shares": 5114000
+    },
+    {
+      "t": "BNS",
+      "n": "BANK OF NOVA SCOTIA MTN RegS",
+      "weight": 0.11,
+      "sector": "Financial",
+      "mv": 4824212.86,
+      "shares": 4889000
+    },
+    {
+      "t": "BNS",
+      "n": "BANK OF NOVA SCOTIA",
+      "weight": 0.09,
+      "sector": "Financial",
+      "mv": 4236092.64,
+      "shares": 4275000
+    },
+    {
+      "t": "BNS",
+      "n": "BANK OF NOVA SCOTIA",
+      "weight": 0.09,
+      "sector": "Financial",
+      "mv": 3958179.76,
+      "shares": 3865000
+    },
+    {
+      "t": "BNS",
+      "n": "BANK OF NOVA SCOTIA RegS",
+      "weight": 0.08,
+      "sector": "Financial",
+      "mv": 3665596.45,
+      "shares": 3535000
+    },
+    {
+      "t": "BNS",
+      "n": "BANK OF NOVA SCOTIA",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1803348.89,
+      "shares": 1810000
+    },
+    {
+      "t": "BPCEGP",
+      "n": "BPCE SA MTN RegS",
+      "weight": 0.08,
+      "sector": "Financial",
+      "mv": 3509713,
+      "shares": 3500000
+    },
+    {
+      "t": "BPCGEN",
+      "n": "BPC GENERATION INFRASTRUCTURE TRUS RegS",
+      "weight": 0.05,
+      "sector": "Energy",
+      "mv": 2314594.57,
+      "shares": 2368000
+    },
+    {
+      "t": "BRCOL",
+      "n": "BRITISH COLUMBIA (PROVINCE OF)",
+      "weight": 0.41,
+      "sector": "Provincial",
+      "mv": 18776560.63,
+      "shares": 20690000
+    },
+    {
+      "t": "BRCOL",
+      "n": "BRITISH COLUMBIA (PROVINCE OF)",
+      "weight": 0.34,
+      "sector": "Provincial",
+      "mv": 15195265.9,
+      "shares": 15924000
+    },
+    {
+      "t": "BRCOL",
+      "n": "BRITISH COLUMBIA (PROVINCE OF)",
+      "weight": 0.25,
+      "sector": "Provincial",
+      "mv": 11502515.79,
+      "shares": 10740000
+    },
+    {
+      "t": "BRCOL",
+      "n": "BRITISH COLUMBIA (PROVINCE OF)",
+      "weight": 0.17,
+      "sector": "Provincial",
+      "mv": 7589404.17,
+      "shares": 7607000
+    },
+    {
+      "t": "BRCOL",
+      "n": "BRITISH COLUMBIA (PROVINCE OF)",
+      "weight": 0.06,
+      "sector": "Provincial",
+      "mv": 2664476.43,
+      "shares": 2365000
+    },
+    {
+      "t": "BRCOL",
+      "n": "BRITISH COLUMBIA (PROVINCE OF) MTN",
+      "weight": 0.03,
+      "sector": "Provincial",
+      "mv": 1476854.48,
+      "shares": 1411000
+    },
+    {
+      "t": "BRCOL",
+      "n": "BRITISH COLUMBIA (PROVINCE OF)",
+      "weight": 0.01,
+      "sector": "Provincial",
+      "mv": 497362.74,
+      "shares": 470000
+    },
+    {
+      "t": "BRUPOW",
+      "n": "BRUCE POWER LP RegS",
+      "weight": 0.07,
+      "sector": "Energy",
+      "mv": 3164983.71,
+      "shares": 3160000
+    },
+    {
+      "t": "BRUPOW",
+      "n": "BRUCE POWER LP",
+      "weight": 0.05,
+      "sector": "Energy",
+      "mv": 2267427.28,
+      "shares": 2310000
+    },
+    {
+      "t": "BRUPOW",
+      "n": "BRUCE POWER LP",
+      "weight": 0.05,
+      "sector": "Energy",
+      "mv": 2048192.24,
+      "shares": 2000000
+    },
+    {
+      "t": "BRUPOW",
+      "n": "BRUCE POWER LP",
+      "weight": 0.04,
+      "sector": "Energy",
+      "mv": 1651131.18,
+      "shares": 1635000
+    },
+    {
+      "t": "BRUPOW",
+      "n": "BRUCE POWER LP RegS",
+      "weight": 0.02,
+      "sector": "Energy",
+      "mv": 1067643.27,
+      "shares": 1041000
+    },
+    {
+      "t": "C",
+      "n": "CITIGROUP INC",
+      "weight": 0.14,
+      "sector": "Financial",
+      "mv": 6158894.87,
+      "shares": 6090000
+    },
+    {
+      "t": "CAD",
+      "n": "CAD CASH",
+      "weight": 0.1,
+      "sector": "Cash and/or Derivatives",
+      "mv": 4326956.35,
+      "shares": 4326956
+    },
+    {
+      "t": "CADEPO",
+      "n": "CDP FINANCIAL INC RegS",
+      "weight": 0.16,
+      "sector": "Provincial",
+      "mv": 7396346.64,
+      "shares": 7342000
+    },
+    {
+      "t": "CADEPO",
+      "n": "CDP FINANCIAL INC RegS",
+      "weight": 0.14,
+      "sector": "Provincial",
+      "mv": 6386684.49,
+      "shares": 6210000
+    },
+    {
+      "t": "CADEPO",
+      "n": "CDP FINANCIAL INC RegS",
+      "weight": 0.14,
+      "sector": "Provincial",
+      "mv": 6313779.86,
+      "shares": 6242000
+    },
+    {
+      "t": "CAECN",
+      "n": "CAE INC RegS",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1517972.81,
+      "shares": 1460000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 3.4,
+      "sector": "Federal",
+      "mv": 153800935.22,
+      "shares": 159380000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 3.39,
+      "sector": "Federal",
+      "mv": 153614059.16,
+      "shares": 158385000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 2.99,
+      "sector": "Federal",
+      "mv": 135127870.97,
+      "shares": 139104000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 2.68,
+      "sector": "Federal",
+      "mv": 121145963.26,
+      "shares": 124240000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 2.55,
+      "sector": "Federal",
+      "mv": 115169159.39,
+      "shares": 114979000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 2.46,
+      "sector": "Federal",
+      "mv": 111258392.06,
+      "shares": 111473000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 2.44,
+      "sector": "Federal",
+      "mv": 110457195.16,
+      "shares": 110020000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 2.44,
+      "sector": "Federal",
+      "mv": 110447256.83,
+      "shares": 111440000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 2.42,
+      "sector": "Federal",
+      "mv": 109675800,
+      "shares": 120225000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 2.36,
+      "sector": "Federal",
+      "mv": 107000965.31,
+      "shares": 105374000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 2.3,
+      "sector": "Federal",
+      "mv": 103853848.51,
+      "shares": 104521000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 2.07,
+      "sector": "Federal",
+      "mv": 93656165.72,
+      "shares": 101400000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 1.79,
+      "sector": "Federal",
+      "mv": 81057788.06,
+      "shares": 81043000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 1.69,
+      "sector": "Federal",
+      "mv": 76560526.11,
+      "shares": 86823000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 1.33,
+      "sector": "Federal",
+      "mv": 60207596.58,
+      "shares": 59833000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 0.57,
+      "sector": "Federal",
+      "mv": 25657067.33,
+      "shares": 25790000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 0.54,
+      "sector": "Federal",
+      "mv": 24397835.56,
+      "shares": 24964000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 0.48,
+      "sector": "Federal",
+      "mv": 21685909.09,
+      "shares": 22001000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 0.42,
+      "sector": "Federal",
+      "mv": 18903995.57,
+      "shares": 19506000
+    },
+    {
+      "t": "CAN",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 0.34,
+      "sector": "Federal",
+      "mv": 15321251.12,
+      "shares": 14226000
+    },
+    {
+      "t": "CANCOR",
+      "n": "CANADIAN CORE REAL ESTATE LP RegS",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1234850.91,
+      "shares": 1211000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO.1 144A",
+      "weight": 1.29,
+      "sector": "Federal",
+      "mv": 58547534.68,
+      "shares": 59405000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO.1 144A",
+      "weight": 0.83,
+      "sector": "Federal",
+      "mv": 37432978.42,
+      "shares": 39845000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO.1 144A",
+      "weight": 0.81,
+      "sector": "Federal",
+      "mv": 36531701.78,
+      "shares": 35975000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO. 1 144A",
+      "weight": 0.72,
+      "sector": "Federal",
+      "mv": 32720805.51,
+      "shares": 33025000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO.1 144A",
+      "weight": 0.68,
+      "sector": "Federal",
+      "mv": 30854101.24,
+      "shares": 31635000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO.1 144A",
+      "weight": 0.68,
+      "sector": "Federal",
+      "mv": 30573443.81,
+      "shares": 30120000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO.1 144A",
+      "weight": 0.67,
+      "sector": "Federal",
+      "mv": 30375783.26,
+      "shares": 29515000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO.1 144A",
+      "weight": 0.63,
+      "sector": "Federal",
+      "mv": 28546833.72,
+      "shares": 29115000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO.1 144A",
+      "weight": 0.62,
+      "sector": "Federal",
+      "mv": 28220776.87,
+      "shares": 28575000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO.1 144A",
+      "weight": 0.51,
+      "sector": "Federal",
+      "mv": 23162368.09,
+      "shares": 25925000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO.1 144A",
+      "weight": 0.5,
+      "sector": "Federal",
+      "mv": 22541814.42,
+      "shares": 23480000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO.1 144A",
+      "weight": 0.47,
+      "sector": "Federal",
+      "mv": 21243405.29,
+      "shares": 20800000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO.1 144A",
+      "weight": 0.38,
+      "sector": "Federal",
+      "mv": 17258393.92,
+      "shares": 17175000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO.1 144A",
+      "weight": 0.27,
+      "sector": "Federal",
+      "mv": 12144208.87,
+      "shares": 13110000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO.1 144A",
+      "weight": 0.23,
+      "sector": "Federal",
+      "mv": 10606653.61,
+      "shares": 10690000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO.1 144A",
+      "weight": 0.2,
+      "sector": "Federal",
+      "mv": 9004183.14,
+      "shares": 9115000
+    },
+    {
+      "t": "CANHOU",
+      "n": "CANADA HOUSING TRUST NO.1 144A",
+      "weight": 0.18,
+      "sector": "Federal",
+      "mv": 8065902.98,
+      "shares": 8905000
+    },
+    {
+      "t": "CANMFA",
+      "n": "MUSKRAT FALLS/LABRADOR TRANSMISSIO 144A",
+      "weight": 0.08,
+      "sector": "Federal",
+      "mv": 3493297.31,
+      "shares": 3445000
+    },
+    {
+      "t": "CANVAS_1-A",
+      "n": "CANVAS_25-1 A",
+      "weight": 0.02,
+      "sector": "Securitized",
+      "mv": 1005657.84,
+      "shares": 1000000
+    },
+    {
+      "t": "CANVAS_26-1-A",
+      "n": "CANVAS_26-1 A",
+      "weight": 0.01,
+      "sector": "Securitized",
+      "mv": 606595.06,
+      "shares": 608000
+    },
+    {
+      "t": "CB",
+      "n": "CHUBB INA HOLDINGS LLC",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1395223.71,
+      "shares": 1412000
+    },
+    {
+      "t": "CCDJ",
+      "n": "FEDERATION DES CAISSES DESJARDINS",
+      "weight": 0.12,
+      "sector": "Financial",
+      "mv": 5625130.29,
+      "shares": 5745000
+    },
+    {
+      "t": "CCDJ",
+      "n": "FEDERATION DES CAISSES DESJARDINS",
+      "weight": 0.11,
+      "sector": "Financial",
+      "mv": 4973580.22,
+      "shares": 4736000
+    },
+    {
+      "t": "CCDJ",
+      "n": "FEDERATION DES CAISSES DESJARDINS RegS",
+      "weight": 0.1,
+      "sector": "Financial",
+      "mv": 4511180.05,
+      "shares": 4505000
+    },
+    {
+      "t": "CCDJ",
+      "n": "FEDERATION DES CAISSES DESJARDINS",
+      "weight": 0.1,
+      "sector": "Financial",
+      "mv": 4449804.46,
+      "shares": 4484000
+    },
+    {
+      "t": "CCDJ",
+      "n": "FEDERATION DES CAISSES DESJARDINS RegS",
+      "weight": 0.09,
+      "sector": "Financial",
+      "mv": 4070149.95,
+      "shares": 3899000
+    },
+    {
+      "t": "CCDJ",
+      "n": "FEDERATION DES CAISSES DESJARDINS",
+      "weight": 0.08,
+      "sector": "Financial",
+      "mv": 3691453.74,
+      "shares": 3800000
+    },
+    {
+      "t": "CCDJ",
+      "n": "FEDERATION DES CAISSES DESJARDINS",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2427781.54,
+      "shares": 2346000
+    },
+    {
+      "t": "CCLBCN",
+      "n": "CCL INDUSTRIES INC",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1219202.56,
+      "shares": 1200000
+    },
+    {
+      "t": "CCOCN",
+      "n": "CAMECO CORPORATION",
+      "weight": 0.06,
+      "sector": "Industrial",
+      "mv": 2647759.96,
+      "shares": 2550000
+    },
+    {
+      "t": "CCOCN",
+      "n": "CAMECO CORPORATION",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1532129.95,
+      "shares": 1521000
+    },
+    {
+      "t": "CFPTCN",
+      "n": "ONTARIO TEACHERS CADILLAC FAIRVIEW RegS",
+      "weight": 0.02,
+      "sector": "Other",
+      "mv": 1028443.51,
+      "shares": 1027000
+    },
+    {
+      "t": "CHPUCN",
+      "n": "CHOICE PROPERTIES REAL ESTATE INVE",
+      "weight": 0.07,
+      "sector": "Real Estate",
+      "mv": 3131663.84,
+      "shares": 3108000
+    },
+    {
+      "t": "CHPUCN",
+      "n": "CHOICE PROPERTIES REAL ESTATE INVE",
+      "weight": 0.07,
+      "sector": "Real Estate",
+      "mv": 2990185.57,
+      "shares": 2998000
+    },
+    {
+      "t": "CHPUCN",
+      "n": "CHOICE PROPERTIES REAL ESTATE INVE",
+      "weight": 0.05,
+      "sector": "Real Estate",
+      "mv": 2361158.41,
+      "shares": 2300000
+    },
+    {
+      "t": "CHPUCN",
+      "n": "CHOICE PROPERTIES REAL ESTATE INVE",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1529391.68,
+      "shares": 1515000
+    },
+    {
+      "t": "CHPUCN",
+      "n": "CHOICE PROPERTIES REAL ESTATE INVE",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 1069247.35,
+      "shares": 1109000
+    },
+    {
+      "t": "CIXCN",
+      "n": "CI FINANCIAL CORP",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1839550.35,
+      "shares": 1790000
+    },
+    {
+      "t": "CJTCN",
+      "n": "CARGOJET INCOME FUND RegS",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 925288.23,
+      "shares": 920000
+    },
+    {
+      "t": "CM",
+      "n": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "weight": 0.25,
+      "sector": "Financial",
+      "mv": 11362443.01,
+      "shares": 11594000
+    },
+    {
+      "t": "CM",
+      "n": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "weight": 0.16,
+      "sector": "Financial",
+      "mv": 7416250.68,
+      "shares": 7351000
+    },
+    {
+      "t": "CM",
+      "n": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "weight": 0.15,
+      "sector": "Financial",
+      "mv": 6829676.84,
+      "shares": 6834000
+    },
+    {
+      "t": "CM",
+      "n": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "weight": 0.15,
+      "sector": "Financial",
+      "mv": 6771131.88,
+      "shares": 6885000
+    },
+    {
+      "t": "CM",
+      "n": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "weight": 0.15,
+      "sector": "Financial",
+      "mv": 6705211.9,
+      "shares": 6456000
+    },
+    {
+      "t": "CM",
+      "n": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "weight": 0.11,
+      "sector": "Financial",
+      "mv": 4944566.02,
+      "shares": 4781000
+    },
+    {
+      "t": "CM",
+      "n": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "weight": 0.11,
+      "sector": "Financial",
+      "mv": 4829289.7,
+      "shares": 4776000
+    },
+    {
+      "t": "CM",
+      "n": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "weight": 0.1,
+      "sector": "Financial",
+      "mv": 4675724,
+      "shares": 4635000
+    },
+    {
+      "t": "CM",
+      "n": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "weight": 0.1,
+      "sector": "Financial",
+      "mv": 4445839.85,
+      "shares": 4299000
+    },
+    {
+      "t": "CM",
+      "n": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "weight": 0.09,
+      "sector": "Financial",
+      "mv": 3956182.92,
+      "shares": 3844000
+    },
+    {
+      "t": "CM",
+      "n": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "weight": 0.09,
+      "sector": "Financial",
+      "mv": 3894981.45,
+      "shares": 3905000
+    },
+    {
+      "t": "CM",
+      "n": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "weight": 0.09,
+      "sector": "Financial",
+      "mv": 3850199.24,
+      "shares": 3741000
+    },
+    {
+      "t": "CM",
+      "n": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "weight": 0.07,
+      "sector": "Financial",
+      "mv": 3131118.16,
+      "shares": 2999000
+    },
+    {
+      "t": "CNHI",
+      "n": "CNH INDUSTRIAL CAPITAL CANADA LTD RegS",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1637915.77,
+      "shares": 1650000
+    },
+    {
+      "t": "CNHI",
+      "n": "CNH INDUSTRIAL CAPITAL CANADA LTD RegS",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1601786.16,
+      "shares": 1602000
+    },
+    {
+      "t": "CNHI",
+      "n": "CNH INDUSTRIAL CAPITAL CANADA LTD RegS",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1218876.27,
+      "shares": 1195000
+    },
+    {
+      "t": "CNHI",
+      "n": "CNH INDUSTRIAL CAPITAL CANADA LTD RegS",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 999423.12,
+      "shares": 1000000
+    },
+    {
+      "t": "CNHI",
+      "n": "CNH INDUSTRIAL CAPITAL CANADA LTD RegS",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 640544.68,
+      "shares": 642000
+    },
+    {
+      "t": "CNQCN",
+      "n": "CANADIAN NATURAL RESOURCES LTD MTN RegS",
+      "weight": 0.05,
+      "sector": "Energy",
+      "mv": 2111737.7,
+      "shares": 2120000
+    },
+    {
+      "t": "CNQCN",
+      "n": "CANADIAN NATURAL RESOURCES LTD MTN RegS",
+      "weight": 0.05,
+      "sector": "Energy",
+      "mv": 2095895.26,
+      "shares": 2130000
+    },
+    {
+      "t": "CNQCN",
+      "n": "CANADIAN NATURAL RESOURCES LTD",
+      "weight": 0.02,
+      "sector": "Energy",
+      "mv": 989970.86,
+      "shares": 1000000
+    },
+    {
+      "t": "CNRCN",
+      "n": "CANADIAN NATIONAL RAILWAY COMPANY",
+      "weight": 0.07,
+      "sector": "Industrial",
+      "mv": 3074853.85,
+      "shares": 2971000
+    },
+    {
+      "t": "CNRCN",
+      "n": "CANADIAN NATIONAL RAILWAY COMPANY",
+      "weight": 0.05,
+      "sector": "Industrial",
+      "mv": 2104423.93,
+      "shares": 2067000
+    },
+    {
+      "t": "CNRCN",
+      "n": "CANADIAN NATIONAL RAILWAY COMPANY",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1793333.53,
+      "shares": 1810000
+    },
+    {
+      "t": "CNRCN",
+      "n": "CANADIAN NATIONAL RAILWAY COMPANY",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1405928.76,
+      "shares": 1411000
+    },
+    {
+      "t": "CNRCN",
+      "n": "CANADIAN NATIONAL RAILWAY COMPANY",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1167391.01,
+      "shares": 1180000
+    },
+    {
+      "t": "COAGAS",
+      "n": "COASTAL GASLINK PIPELINE LP",
+      "weight": 0.05,
+      "sector": "Energy",
+      "mv": 2399255.88,
+      "shares": 2310000
+    },
+    {
+      "t": "COAGAS",
+      "n": "COASTAL GASLINK PIPELINE LP",
+      "weight": 0.05,
+      "sector": "Energy",
+      "mv": 2278620.63,
+      "shares": 2239000
+    },
+    {
+      "t": "COCAPS",
+      "n": "COAST CAPITAL SAVINGS FEDERAL CRED",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 851091.45,
+      "shares": 845000
+    },
+    {
+      "t": "COCAPS",
+      "n": "COAST CAPITAL SAVINGS FEDERAL CRED",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 744940.56,
+      "shares": 725000
+    },
+    {
+      "t": "COCAPS",
+      "n": "COAST CAPITAL SAVINGS FEDERAL CRED RegS",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 508492.49,
+      "shares": 510000
+    },
+    {
+      "t": "COOPFS",
+      "n": "CO-OPERATORS FINANCIAL SERVICES LT",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 1102601.42,
+      "shares": 1130000
+    },
+    {
+      "t": "CP",
+      "n": "CANADIAN PACIFIC RAILWAY COMPANY",
+      "weight": 0.1,
+      "sector": "Industrial",
+      "mv": 4611158.58,
+      "shares": 4674000
+    },
+    {
+      "t": "CP",
+      "n": "CANADIAN PACIFIC RAILWAY COMPANY RegS",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1909300.97,
+      "shares": 1910000
+    },
+    {
+      "t": "CP",
+      "n": "CANADIAN PACIFIC RAILWAY COMPANY",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1280436.72,
+      "shares": 1302000
+    },
+    {
+      "t": "CPPIBC",
+      "n": "CPPIB CAPITAL INC RegS",
+      "weight": 0.3,
+      "sector": "Federal",
+      "mv": 13482394.79,
+      "shares": 13555000
+    },
+    {
+      "t": "CPPIBC",
+      "n": "CPPIB CAPITAL INC RegS",
+      "weight": 0.27,
+      "sector": "Federal",
+      "mv": 12204451.44,
+      "shares": 12189000
+    },
+    {
+      "t": "CPPIBC",
+      "n": "CPPIB CAPITAL INC RegS",
+      "weight": 0.26,
+      "sector": "Federal",
+      "mv": 11963640.66,
+      "shares": 11817000
+    },
+    {
+      "t": "CPPIBC",
+      "n": "CPPIB CAPITAL INC RegS",
+      "weight": 0.22,
+      "sector": "Federal",
+      "mv": 10032957.07,
+      "shares": 10196000
+    },
+    {
+      "t": "CPPIBC",
+      "n": "CPPIB CAPITAL INC RegS",
+      "weight": 0.22,
+      "sector": "Federal",
+      "mv": 9734200.79,
+      "shares": 9706000
+    },
+    {
+      "t": "CPPIBC",
+      "n": "CPPIB CAPITAL INC RegS",
+      "weight": 0.08,
+      "sector": "Federal",
+      "mv": 3778054.07,
+      "shares": 3964000
+    },
+    {
+      "t": "CPXCN",
+      "n": "CAPITAL POWER CORP",
+      "weight": 0.04,
+      "sector": "Energy",
+      "mv": 2024500.84,
+      "shares": 1957000
+    },
+    {
+      "t": "CPXCN",
+      "n": "CAPITAL POWER CORP MTN",
+      "weight": 0.02,
+      "sector": "Energy",
+      "mv": 808218.14,
+      "shares": 800000
+    },
+    {
+      "t": "CRBG",
+      "n": "COREBRIDGE GLOBAL FUNDING MTN RegS",
+      "weight": 0.06,
+      "sector": "Financial",
+      "mv": 2808716.72,
+      "shares": 2845000
+    },
+    {
+      "t": "CRBG",
+      "n": "COREBRIDGE GLOBAL FUNDING RegS",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1887286.37,
+      "shares": 1920000
+    },
+    {
+      "t": "CRRUCN",
+      "n": "CROMBIE REAL ESTATE INVESTMENT TRU RegS",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1485463.22,
+      "shares": 1450000
+    },
+    {
+      "t": "CRRUCN",
+      "n": "CROMBIE REAL ESTATE INVESTMENT TRU",
+      "weight": 0.01,
+      "sector": "Real Estate",
+      "mv": 561138.16,
+      "shares": 550000
+    },
+    {
+      "t": "CRRUCN",
+      "n": "CROMBIE REAL ESTATE INVESTMENT TRU",
+      "weight": 0.01,
+      "sector": "Real Estate",
+      "mv": 501135.24,
+      "shares": 510000
+    },
+    {
+      "t": "CRRUCN",
+      "n": "CROMBIE REAL ESTATE INVESTMENT TRU",
+      "weight": 0.01,
+      "sector": "Real Estate",
+      "mv": 483905.1,
+      "shares": 500000
+    },
+    {
+      "t": "CRTUCN",
+      "n": "CT REAL ESTATE INVESTMENT TRUST",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1283053.45,
+      "shares": 1275000
+    },
+    {
+      "t": "CRTUCN",
+      "n": "CT REAL ESTATE INVESTMENT TRUST",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 1125992.2,
+      "shares": 1110000
+    },
+    {
+      "t": "CRTUCN",
+      "n": "CT REAL ESTATE INVESTMENT TRUST",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 721430.76,
+      "shares": 690000
+    },
+    {
+      "t": "CRTUCN",
+      "n": "CT REAL ESTATE INVESTMENT TRUST",
+      "weight": 0.01,
+      "sector": "Real Estate",
+      "mv": 646830.99,
+      "shares": 660000
+    },
+    {
+      "t": "CSHU",
+      "n": "CHARTWELL RETIREMENT RESIDENCES",
+      "weight": 0.01,
+      "sector": "Industrial",
+      "mv": 585684.23,
+      "shares": 580000
+    },
+    {
+      "t": "CSHU",
+      "n": "CHARTWELL RETIREMENT RESIDENCES",
+      "weight": 0.01,
+      "sector": "Industrial",
+      "mv": 456566.5,
+      "shares": 450000
+    },
+    {
+      "t": "CTCACN",
+      "n": "CANADIAN TIRE CORPORATION LTD MTN",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1554187.88,
+      "shares": 1500000
+    },
+    {
+      "t": "CTCACN",
+      "n": "CANADIAN TIRE CORP LTD MTN",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 744978.18,
+      "shares": 700000
+    },
+    {
+      "t": "CTLONE",
+      "n": "CENTRAL 1 CREDIT UNION MTN",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1584501.92,
+      "shares": 1557000
+    },
+    {
+      "t": "CTLONE",
+      "n": "CENTRAL 1 CREDIT UNION MTN",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 944954.45,
+      "shares": 958000
+    },
+    {
+      "t": "CTLONE",
+      "n": "CENTRAL 1 CREDIT UNION MTN",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 651209.44,
+      "shares": 615000
+    },
+    {
+      "t": "CTLONE",
+      "n": "CENTRAL 1 CREDIT UNION MTN",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 484241.85,
+      "shares": 484000
+    },
+    {
+      "t": "CVECN",
+      "n": "CENOVUS ENERGY INC",
+      "weight": 0.11,
+      "sector": "Energy",
+      "mv": 5035508.61,
+      "shares": 5033000
+    },
+    {
+      "t": "DE",
+      "n": "JOHN DEERE FINANCIAL INC",
+      "weight": 0.06,
+      "sector": "Financial",
+      "mv": 2539453.76,
+      "shares": 2473000
+    },
+    {
+      "t": "DE",
+      "n": "JOHN DEERE FINANCIAL INC MTN",
+      "weight": 0.06,
+      "sector": "Financial",
+      "mv": 2536096.19,
+      "shares": 2442000
+    },
+    {
+      "t": "DE",
+      "n": "JOHN DEERE FINANCIAL INC MTN",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2318692.13,
+      "shares": 2274000
+    },
+    {
+      "t": "DE",
+      "n": "JOHN DEERE FINANCIAL INC MTN",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1973892.99,
+      "shares": 1975000
+    },
+    {
+      "t": "DE",
+      "n": "JOHN DEERE FINANCIAL INC",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 538579.04,
+      "shares": 547000
+    },
+    {
+      "t": "DFYCN",
+      "n": "DEFINITY FINANCIAL CORP RegS",
+      "weight": 0.06,
+      "sector": "Financial",
+      "mv": 2531310.12,
+      "shares": 2590000
+    },
+    {
+      "t": "DIRUCN",
+      "n": "DREAM INDUSTRIAL REAL ESTATE INVES",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1349188.59,
+      "shares": 1320000
+    },
+    {
+      "t": "DIRUCN",
+      "n": "DREAM INDUSTRIAL REAL ESTATE INVES RegS",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 873373.05,
+      "shares": 875000
+    },
+    {
+      "t": "DIRUCN",
+      "n": "DREAM INDUSTRIAL REAL ESTATE INVES RegS",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 774900.92,
+      "shares": 773000
+    },
+    {
+      "t": "DOLCN",
+      "n": "DOLLARAMA INC RegS",
+      "weight": 0.06,
+      "sector": "Industrial",
+      "mv": 2724409.79,
+      "shares": 2739000
+    },
+    {
+      "t": "DOLCN",
+      "n": "DOLLARAMA INC",
+      "weight": 0.05,
+      "sector": "Industrial",
+      "mv": 2390296.91,
+      "shares": 2322000
+    },
+    {
+      "t": "DOLCN",
+      "n": "DOLLARAMA INC",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1618161.08,
+      "shares": 1540000
+    },
+    {
+      "t": "DOLCN",
+      "n": "DOLLARAMA INC RegS",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1483328.74,
+      "shares": 1500000
+    },
+    {
+      "t": "DOLCN",
+      "n": "DOLLARAMA INC",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1229073.89,
+      "shares": 1271000
+    },
+    {
+      "t": "DRSILL",
+      "n": "DREAM SUMMIT INDUSTRIAL LP",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1502886.33,
+      "shares": 1500000
+    },
+    {
+      "t": "DRSILL",
+      "n": "DREAM SUMMIT INDUSTRIAL LP RegS",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1417703.42,
+      "shares": 1435000
+    },
+    {
+      "t": "DRSILL",
+      "n": "DREAM SUMMIT INDUSTRIAL LP RegS",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 815379.37,
+      "shares": 806000
+    },
+    {
+      "t": "DRSILL",
+      "n": "DREAM SUMMIT INDUSTRIAL LP",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 801106.97,
+      "shares": 780000
+    },
+    {
+      "t": "DRSILL",
+      "n": "SUMMIT INDUSTRIAL INCOME REIT",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 735465.68,
+      "shares": 750000
+    },
+    {
+      "t": "DRSILL",
+      "n": "DREAM SUMMIT INDUSTRIAL LP RegS",
+      "weight": 0.01,
+      "sector": "Real Estate",
+      "mv": 639912.43,
+      "shares": 640000
+    },
+    {
+      "t": "DTRGR",
+      "n": "DAIMLER TRUCK FINANCE CANADA INC RegS",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 1044458.4,
+      "shares": 1010000
+    },
+    {
+      "t": "DTRGR",
+      "n": "DAIMLER TRUCK FINANCE CANADA INC RegS",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 1013519.8,
+      "shares": 1008000
+    },
+    {
+      "t": "DTRGR",
+      "n": "DAIMLER TRUCK FINANCE CANADA INC",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 943302.35,
+      "shares": 935000
+    },
+    {
+      "t": "EAGCCT",
+      "n": "EAGLE CREDIT CARD TRUST",
+      "weight": 0.02,
+      "sector": "Securitized",
+      "mv": 870249.22,
+      "shares": 840000
+    },
+    {
+      "t": "EAGCCT_24-1-A",
+      "n": "EAGCCT_24-1 A RegS",
+      "weight": 0.03,
+      "sector": "Securitized",
+      "mv": 1252069.24,
+      "shares": 1210000
+    },
+    {
+      "t": "EAGCCT_25-1-A",
+      "n": "EAGCCT_25-1 A",
+      "weight": 0.03,
+      "sector": "Securitized",
+      "mv": 1218915.56,
+      "shares": 1220000
+    },
+    {
+      "t": "EIFCN",
+      "n": "EXCHANGE INCOME CORP RegS",
+      "weight": 0.05,
+      "sector": "Industrial",
+      "mv": 2365740.8,
+      "shares": 2410000
+    },
+    {
+      "t": "ELFCN",
+      "n": "EMPIRE LIFE INSURANCE CO RegS",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1151355.18,
+      "shares": 1155000
+    },
+    {
+      "t": "ELFCN",
+      "n": "EMPIRE LIFE INSURANCE CO RegS",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 614763.93,
+      "shares": 595000
+    },
+    {
+      "t": "EMACN",
+      "n": "EMERA INCORPORATED RegS",
+      "weight": 0.03,
+      "sector": "Infrastructure",
+      "mv": 1578948.17,
+      "shares": 1530000
+    },
+    {
+      "t": "EMPACN",
+      "n": "SOBEYS INC RegS",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 1074888.12,
+      "shares": 1080000
+    },
+    {
+      "t": "ENBCN",
+      "n": "ENBRIDGE INC",
+      "weight": 0.09,
+      "sector": "Energy",
+      "mv": 3848403.5,
+      "shares": 3852000
+    },
+    {
+      "t": "ENBCN",
+      "n": "ENBRIDGE INC MTN RegS",
+      "weight": 0.08,
+      "sector": "Energy",
+      "mv": 3686511.34,
+      "shares": 3794000
+    },
+    {
+      "t": "ENBCN",
+      "n": "ENBRIDGE INC MTN",
+      "weight": 0.07,
+      "sector": "Energy",
+      "mv": 3385366.09,
+      "shares": 3408000
+    },
+    {
+      "t": "ENBCN",
+      "n": "ENBRIDGE INC MTN",
+      "weight": 0.07,
+      "sector": "Energy",
+      "mv": 3324588.42,
+      "shares": 3372000
+    },
+    {
+      "t": "ENBCN",
+      "n": "ENBRIDGE INC",
+      "weight": 0.07,
+      "sector": "Energy",
+      "mv": 3050280.74,
+      "shares": 2866000
+    },
+    {
+      "t": "ENBCN",
+      "n": "ENBRIDGE INC",
+      "weight": 0.07,
+      "sector": "Energy",
+      "mv": 2953218.92,
+      "shares": 2976000
+    },
+    {
+      "t": "ENBCN",
+      "n": "ENBRIDGE INC MTN",
+      "weight": 0.06,
+      "sector": "Energy",
+      "mv": 2783407.43,
+      "shares": 2694000
+    },
+    {
+      "t": "ENBCN",
+      "n": "ENBRIDGE INC",
+      "weight": 0.05,
+      "sector": "Energy",
+      "mv": 2425779.45,
+      "shares": 2550000
+    },
+    {
+      "t": "ENBCN",
+      "n": "ENBRIDGE INC MTN",
+      "weight": 0.05,
+      "sector": "Energy",
+      "mv": 2263149.52,
+      "shares": 2255000
+    },
+    {
+      "t": "ENBCN",
+      "n": "ENBRIDGE INC MTN",
+      "weight": 0.05,
+      "sector": "Energy",
+      "mv": 2191294.73,
+      "shares": 2100000
+    },
+    {
+      "t": "ENBCN",
+      "n": "ENBRIDGE INC 60NC5 RegS",
+      "weight": 0.03,
+      "sector": "Energy",
+      "mv": 1499711.82,
+      "shares": 1375000
+    },
+    {
+      "t": "ENBCN",
+      "n": "ENBRIDGE INC MTN",
+      "weight": 0.03,
+      "sector": "Energy",
+      "mv": 1407398.49,
+      "shares": 1407000
+    },
+    {
+      "t": "ENBGAS",
+      "n": "ENBRIDGE GAS INC",
+      "weight": 0.06,
+      "sector": "Energy",
+      "mv": 2722077.84,
+      "shares": 2784000
+    },
+    {
+      "t": "ENBGAS",
+      "n": "ENBRIDGE GAS INC MTN",
+      "weight": 0.03,
+      "sector": "Energy",
+      "mv": 1557840.18,
+      "shares": 1617000
+    },
+    {
+      "t": "ENBGAS",
+      "n": "ENBRIDGE GAS INC MTN",
+      "weight": 0.03,
+      "sector": "Energy",
+      "mv": 1434802.44,
+      "shares": 1429000
+    },
+    {
+      "t": "ENBGAS",
+      "n": "ENBRIDGE GAS INC MTN",
+      "weight": 0.02,
+      "sector": "Energy",
+      "mv": 839301.45,
+      "shares": 795000
+    },
+    {
+      "t": "ENBGAS",
+      "n": "ENBRIDGE GAS INC MTN",
+      "weight": 0.01,
+      "sector": "Energy",
+      "mv": 449831.44,
+      "shares": 425000
+    },
+    {
+      "t": "ENBGAS",
+      "n": "ENBRIDGE GAS INC MTN",
+      "weight": 0.01,
+      "sector": "Energy",
+      "mv": 317691.99,
+      "shares": 300000
+    },
+    {
+      "t": "ENMAXC",
+      "n": "ENMAX CORP",
+      "weight": 0.03,
+      "sector": "Infrastructure",
+      "mv": 1238910.41,
+      "shares": 1225000
+    },
+    {
+      "t": "ENMAXC",
+      "n": "ENMAX CORP",
+      "weight": 0.02,
+      "sector": "Infrastructure",
+      "mv": 1062593.86,
+      "shares": 1070000
+    },
+    {
+      "t": "ENMAXC",
+      "n": "ENMAX CORP",
+      "weight": 0.02,
+      "sector": "Infrastructure",
+      "mv": 1057888.4,
+      "shares": 1050000
+    },
+    {
+      "t": "ENOPOW",
+      "n": "ENOVA POWER CORP RegS",
+      "weight": 0.03,
+      "sector": "Infrastructure",
+      "mv": 1553055.23,
+      "shares": 1580000
+    },
+    {
+      "t": "EPCOR",
+      "n": "EPCOR UTILITIES INC RegS",
+      "weight": 0.03,
+      "sector": "Infrastructure",
+      "mv": 1559495.05,
+      "shares": 1578000
+    },
+    {
+      "t": "EPCOR",
+      "n": "EPCOR UTILITIES",
+      "weight": 0.02,
+      "sector": "Infrastructure",
+      "mv": 734090.92,
+      "shares": 676000
+    },
+    {
+      "t": "EQBCN",
+      "n": "EQUITABLE BANK",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1580899.26,
+      "shares": 1561000
+    },
+    {
+      "t": "EQBCN",
+      "n": "EQUITABLE BANK",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1510238.15,
+      "shares": 1495000
+    },
+    {
+      "t": "EQBCN",
+      "n": "EQUITABLE BANK",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1303839.68,
+      "shares": 1303000
+    },
+    {
+      "t": "EQBCN",
+      "n": "EQUITABLE BANK",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1162726.23,
+      "shares": 1155000
+    },
+    {
+      "t": "EQBCN",
+      "n": "EQUITABLE BANK",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 638454.33,
+      "shares": 640000
+    },
+    {
+      "t": "EQIX",
+      "n": "EQUINIX CANADA FINANCING LTD",
+      "weight": 0.06,
+      "sector": "Real Estate",
+      "mv": 2650970.41,
+      "shares": 2652000
+    },
+    {
+      "t": "ETRHWY",
+      "n": "407 INTERNATIONAL INC MTN",
+      "weight": 0.04,
+      "sector": "Infrastructure",
+      "mv": 1774482.52,
+      "shares": 1755000
+    },
+    {
+      "t": "ETRHWY",
+      "n": "407 INTERNATIONAL INC MTN",
+      "weight": 0.03,
+      "sector": "Infrastructure",
+      "mv": 1447896.51,
+      "shares": 1483000
+    },
+    {
+      "t": "ETRHWY",
+      "n": "HIGHWAY 407 144A",
+      "weight": 0.03,
+      "sector": "Infrastructure",
+      "mv": 1397024.91,
+      "shares": 1298000
+    },
+    {
+      "t": "ETRHWY",
+      "n": "407 INTERNATIONAL INC MTN",
+      "weight": 0.02,
+      "sector": "Infrastructure",
+      "mv": 1005369.64,
+      "shares": 1000000
+    },
+    {
+      "t": "EXECN",
+      "n": "EXTENDICARE INC RegS",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1353047.77,
+      "shares": 1345000
+    },
+    {
+      "t": "F",
+      "n": "FORD CREDIT CANADA CO",
+      "weight": 0.06,
+      "sector": "Financial",
+      "mv": 2897189.41,
+      "shares": 2827000
+    },
+    {
+      "t": "F",
+      "n": "FORD CREDIT CANADA CO RegS",
+      "weight": 0.06,
+      "sector": "Financial",
+      "mv": 2619682.17,
+      "shares": 2597000
+    },
+    {
+      "t": "F",
+      "n": "FORD CREDIT CANADA CO",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2464510.05,
+      "shares": 2437000
+    },
+    {
+      "t": "F",
+      "n": "FORD CREDIT CANADA CO RegS",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2198238.14,
+      "shares": 2190000
+    },
+    {
+      "t": "F",
+      "n": "FORD CREDIT CANADA COMPANY RegS",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2066083.5,
+      "shares": 2081000
+    },
+    {
+      "t": "F",
+      "n": "FORD CREDIT CANADA CO RegS",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2060723.6,
+      "shares": 1990000
+    },
+    {
+      "t": "F",
+      "n": "FORD CREDIT CANADA CO RegS",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 2002961.83,
+      "shares": 1975000
+    },
+    {
+      "t": "F",
+      "n": "FORD CREDIT CANADA CO",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1909648.91,
+      "shares": 1907000
+    },
+    {
+      "t": "F",
+      "n": "FORD CREDIT CANADA CO RegS",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1864744.48,
+      "shares": 1806000
+    },
+    {
+      "t": "F",
+      "n": "FORD CREDIT CANADA CO RegS",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1568749.02,
+      "shares": 1525000
+    },
+    {
+      "t": "F",
+      "n": "FORD CREDIT CANADA CO RegS",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1197744.63,
+      "shares": 1130000
+    },
+    {
+      "t": "FBOCAN",
+      "n": "FAIRSTONE BANK OF CANADA",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1712767.29,
+      "shares": 1720000
+    },
+    {
+      "t": "FBOCAN",
+      "n": "FAIRSTONE BANK OF CANADA",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1623475.07,
+      "shares": 1647000
+    },
+    {
+      "t": "FBOCAN",
+      "n": "FAIRSTONE BANK OF CANADA",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 522001,
+      "shares": 525000
+    },
+    {
+      "t": "FCRCN",
+      "n": "FIRST CAPITAL REAL ESTATE INVESTME",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1567509.99,
+      "shares": 1500000
+    },
+    {
+      "t": "FCRCN",
+      "n": "FIRST CAPITAL REAL ESTATE INVESTME",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1297053.91,
+      "shares": 1301000
+    },
+    {
+      "t": "FCRCN",
+      "n": "FIRST CAPITAL REAL ESTATE INVESTME",
+      "weight": 0.01,
+      "sector": "Real Estate",
+      "mv": 635217.1,
+      "shares": 625000
+    },
+    {
+      "t": "FFFCAP",
+      "n": "F3 FIBRE CAPITAL INC RegS",
+      "weight": 0.02,
+      "sector": "Communication",
+      "mv": 696009.7,
+      "shares": 700000
+    },
+    {
+      "t": "FFHCN",
+      "n": "FAIRFAX FINANCIAL HOLDINGS LTD",
+      "weight": 0.09,
+      "sector": "Financial",
+      "mv": 3869745.07,
+      "shares": 3930000
+    },
+    {
+      "t": "FFHCN",
+      "n": "FAIRFAX FINANCIAL HOLDINGS LTD",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1807065.96,
+      "shares": 1773000
+    },
+    {
+      "t": "FFHCN",
+      "n": "FAIRFAX FINANCIAL HOLDINGS LTD",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1352411.13,
+      "shares": 1333000
+    },
+    {
+      "t": "FNCN",
+      "n": "FIRST NATIONAL FINANCIAL CORP RegS",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1375498.18,
+      "shares": 1350000
+    },
+    {
+      "t": "FNCN",
+      "n": "FIRST NATIONAL FINANCIAL CORP RegS",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 681890.6,
+      "shares": 670000
+    },
+    {
+      "t": "FNFACA",
+      "n": "FIRST NATIONS FINANCE AUTHORITY",
+      "weight": 0.08,
+      "sector": "Federal",
+      "mv": 3703771.68,
+      "shares": 3963000
+    },
+    {
+      "t": "FNFACA",
+      "n": "FIRST NATIONS FINANCE AUTHORITY",
+      "weight": 0.08,
+      "sector": "Federal",
+      "mv": 3406174.66,
+      "shares": 3460000
+    },
+    {
+      "t": "FNFACA",
+      "n": "FIRST NATIONS FINANCE AUTHORITY",
+      "weight": 0.02,
+      "sector": "Federal",
+      "mv": 1019819.93,
+      "shares": 1015000
+    },
+    {
+      "t": "FORTFD_23-1",
+      "n": "FORTIFIED TRUST FORTFD_23-1 A",
+      "weight": 0.05,
+      "sector": "Securitized",
+      "mv": 2188362.48,
+      "shares": 2140000
+    },
+    {
+      "t": "FRSTRS",
+      "n": "INDEPENDENT ORDER OF FORESTERS",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 945482.12,
+      "shares": 1000000
+    },
+    {
+      "t": "FTSCN",
+      "n": "FORTIS INC RegS",
+      "weight": 0.06,
+      "sector": "Infrastructure",
+      "mv": 2844824.94,
+      "shares": 2837000
+    },
+    {
+      "t": "FTSCN",
+      "n": "FORTIS INC",
+      "weight": 0.04,
+      "sector": "Infrastructure",
+      "mv": 1912048.24,
+      "shares": 1866000
+    },
+    {
+      "t": "FTSCN",
+      "n": "FORTIS INC",
+      "weight": 0.04,
+      "sector": "Infrastructure",
+      "mv": 1877273.38,
+      "shares": 1905000
+    },
+    {
+      "t": "FTSCN",
+      "n": "FORTISBC ENERGY INC MTN RegS",
+      "weight": 0.02,
+      "sector": "Energy",
+      "mv": 1119174.9,
+      "shares": 1135000
+    },
+    {
+      "t": "FTSCN",
+      "n": "FORTISBC ENERGY INC MTN",
+      "weight": 0.01,
+      "sector": "Energy",
+      "mv": 465104.81,
+      "shares": 500000
+    },
+    {
+      "t": "FTTCN",
+      "n": "FINNING INTERNATIONAL INC RegS",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1747047.23,
+      "shares": 1710000
+    },
+    {
+      "t": "FTTCN",
+      "n": "FINNING INTERNATIONAL INC",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 1127973.49,
+      "shares": 1100000
+    },
+    {
+      "t": "FTTCN",
+      "n": "FINNING INTERNATIONAL INC RegS",
+      "weight": 0.01,
+      "sector": "Industrial",
+      "mv": 637263.69,
+      "shares": 640000
+    },
+    {
+      "t": "GEICN",
+      "n": "GIBSON ENERGY INC MTN",
+      "weight": 0.04,
+      "sector": "Energy",
+      "mv": 1871845.58,
+      "shares": 1902000
+    },
+    {
+      "t": "GIBACN",
+      "n": "CGI INC",
+      "weight": 0.05,
+      "sector": "Industrial",
+      "mv": 2114394.02,
+      "shares": 2188000
+    },
+    {
+      "t": "GIBACN",
+      "n": "CGI INC",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1931366.34,
+      "shares": 1932000
+    },
+    {
+      "t": "GIBACN",
+      "n": "CGI INC RegS",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 1027310.68,
+      "shares": 1030000
+    },
+    {
+      "t": "GIBACN",
+      "n": "CGI INC RegS",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 953122.76,
+      "shares": 955000
+    },
+    {
+      "t": "GILCN",
+      "n": "GILDAN ACTIVEWEAR INC. RegS",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1964362.8,
+      "shares": 1930000
+    },
+    {
+      "t": "GILCN",
+      "n": "GILDAN ACTIVEWEAR INC. RegS",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1405643.79,
+      "shares": 1400000
+    },
+    {
+      "t": "GILCN",
+      "n": "GILDAN ACTIVEWEAR INC. RegS",
+      "weight": 0.01,
+      "sector": "Industrial",
+      "mv": 539026.22,
+      "shares": 540000
+    },
+    {
+      "t": "GLCRTR",
+      "n": "GLACIER CREDIT CARD TRUST",
+      "weight": 0.04,
+      "sector": "Securitized",
+      "mv": 1989701.83,
+      "shares": 1925000
+    },
+    {
+      "t": "GLCRTR_25-1",
+      "n": "GLCRTR_25-1 RegS",
+      "weight": 0.04,
+      "sector": "Securitized",
+      "mv": 1774865.11,
+      "shares": 1800000
+    },
+    {
+      "t": "GLCTRT_26-1",
+      "n": "GLCTRT_26-1 RegS",
+      "weight": 0.02,
+      "sector": "Securitized",
+      "mv": 803177.28,
+      "shares": 815000
+    },
+    {
+      "t": "GLENLN",
+      "n": "GLENCORE FUNDING LLC RegS",
+      "weight": 0.06,
+      "sector": "Industrial",
+      "mv": 2514639.73,
+      "shares": 2550000
+    },
+    {
+      "t": "GLJGR",
+      "n": "GC CREDIT-BAIL QUEBEC INC RegS",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 502865.32,
+      "shares": 500000
+    },
+    {
+      "t": "GM",
+      "n": "GENERAL MOTORS FINANCIAL OF CANADA",
+      "weight": 0.06,
+      "sector": "Financial",
+      "mv": 2527780.95,
+      "shares": 2455000
+    },
+    {
+      "t": "GM",
+      "n": "GENERAL MOTORS FINANCIAL OF CANADA RegS",
+      "weight": 0.06,
+      "sector": "Financial",
+      "mv": 2491707.2,
+      "shares": 2517000
+    },
+    {
+      "t": "GM",
+      "n": "GENERAL MOTORS FINANCIAL OF CANADA",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2172274.47,
+      "shares": 2119000
+    },
+    {
+      "t": "GM",
+      "n": "GENERAL MOTORS FINANCIAL OF CANADA RegS",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 2004953.02,
+      "shares": 2059000
+    },
+    {
+      "t": "GM",
+      "n": "GENERAL MOTORS FINANCIAL OF CANADA",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1850253.5,
+      "shares": 1805000
+    },
+    {
+      "t": "GM",
+      "n": "GENERAL MOTORS FINANCIAL OF CANADA",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1507812.77,
+      "shares": 1499000
+    },
+    {
+      "t": "GOOGL",
+      "n": "ALPHABET INC",
+      "weight": 0.12,
+      "sector": "Communication",
+      "mv": 5431470.13,
+      "shares": 5487000
+    },
+    {
+      "t": "GOUCN",
+      "n": "GO RESIDENTIAL OPERATING LLC RegS",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1265614.14,
+      "shares": 1270000
+    },
+    {
+      "t": "GRTCN",
+      "n": "GRANITE REIT HOLDINGS LP",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 1703634.34,
+      "shares": 1829000
+    },
+    {
+      "t": "GRTCN",
+      "n": "GRANITE REIT HOLDINGS LP",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 1684377.88,
+      "shares": 1570000
+    },
+    {
+      "t": "GRTCN",
+      "n": "GRANITE REIT HOLDINGS LP",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 1630972.59,
+      "shares": 1679000
+    },
+    {
+      "t": "GRTCN",
+      "n": "GRANITE REIT HOLDINGS LP",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 907368.14,
+      "shares": 895000
+    },
+    {
+      "t": "GS",
+      "n": "GOLDMAN SACHS GROUP INC/THE RegS",
+      "weight": 0.14,
+      "sector": "Financial",
+      "mv": 6522999.84,
+      "shares": 6747000
+    },
+    {
+      "t": "GTAAIR",
+      "n": "GREATER TORONTO AIRPORTS AUTHORITY MTN",
+      "weight": 0.1,
+      "sector": "Infrastructure",
+      "mv": 4682474.24,
+      "shares": 4176000
+    },
+    {
+      "t": "GTAAIR",
+      "n": "GREATER TORONTO AIRPORTS AUTHORITY",
+      "weight": 0.04,
+      "sector": "Infrastructure",
+      "mv": 1961366.37,
+      "shares": 1975000
+    },
+    {
+      "t": "GTAAIR",
+      "n": "GREATER TORONTO AIRPORTS AUTHORITY",
+      "weight": 0.03,
+      "sector": "Infrastructure",
+      "mv": 1412754.17,
+      "shares": 1445000
+    },
+    {
+      "t": "GTAAIR",
+      "n": "GREATER TORONTO AIRPORTS AUTH 144A",
+      "weight": 0.02,
+      "sector": "Infrastructure",
+      "mv": 898678.7,
+      "shares": 850000
+    },
+    {
+      "t": "GWOCN",
+      "n": "GREAT-WEST LIFECO INC",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2150717.57,
+      "shares": 2154000
+    },
+    {
+      "t": "GWOCN",
+      "n": "GREAT-WEST LIFECO INC",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2040298.22,
+      "shares": 2129000
+    },
+    {
+      "t": "GWOCN",
+      "n": "CANADA LIFE ASSURANCE CO",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 449212.66,
+      "shares": 421000
+    },
+    {
+      "t": "HELOCS",
+      "n": "HELOCS TRUST",
+      "weight": 0.03,
+      "sector": "Securitized",
+      "mv": 1322222.81,
+      "shares": 1298000
+    },
+    {
+      "t": "HEQCN",
+      "n": "CHIP MORTGAGE TRUST RegS",
+      "weight": 0.03,
+      "sector": "Securitized",
+      "mv": 1494072.01,
+      "shares": 1500000
+    },
+    {
+      "t": "HEQCN",
+      "n": "CHIP MORTGAGE TRUST RegS",
+      "weight": 0.01,
+      "sector": "Securitized",
+      "mv": 589199.06,
+      "shares": 580000
+    },
+    {
+      "t": "HEQCN",
+      "n": "CHIP MORTGAGE TRUST RegS",
+      "weight": 0.01,
+      "sector": "Securitized",
+      "mv": 524005.45,
+      "shares": 500000
+    },
+    {
+      "t": "HEQCN",
+      "n": "CHIP MORTGAGE TRUST",
+      "weight": 0.01,
+      "sector": "Securitized",
+      "mv": 497932.87,
+      "shares": 500000
+    },
+    {
+      "t": "HNDA",
+      "n": "HONDA CANADA FINANCE INC",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2127430.22,
+      "shares": 2191000
+    },
+    {
+      "t": "HNDA",
+      "n": "HONDA CANADA FINANCE INC",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2036271.49,
+      "shares": 1970000
+    },
+    {
+      "t": "HNDA",
+      "n": "HONDA CANADA FINANCE INC",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 2015379.15,
+      "shares": 2017000
+    },
+    {
+      "t": "HNDA",
+      "n": "HONDA CANADA FINANCE INC",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1864785.37,
+      "shares": 1923000
+    },
+    {
+      "t": "HNDA",
+      "n": "HONDA CANADA FINANCE INC",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1801756.58,
+      "shares": 1740000
+    },
+    {
+      "t": "HNDA",
+      "n": "HONDA CANADA FINANCE INC",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1750294.23,
+      "shares": 1794000
+    },
+    {
+      "t": "HNDA",
+      "n": "HONDA CANADA FINANCE INC",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1598150.11,
+      "shares": 1560000
+    },
+    {
+      "t": "HOMEQU",
+      "n": "HOMEEQUITY BANK",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 756142.9,
+      "shares": 750000
+    },
+    {
+      "t": "HOMEQU",
+      "n": "HOMEEQUITY BANK",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 639754.97,
+      "shares": 625000
+    },
+    {
+      "t": "HOMEQU",
+      "n": "HOMEEQUITY BANK",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 315755.79,
+      "shares": 300000
+    },
+    {
+      "t": "HOMEQU",
+      "n": "HOMEEQUITY BANK RegS",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 304472.1,
+      "shares": 305000
+    },
+    {
+      "t": "HOOPPR",
+      "n": "HOOPP REALTY FINANCE TRUST RegS",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 849000.83,
+      "shares": 860000
+    },
+    {
+      "t": "HRUCN",
+      "n": "H&R REAL ESTATE INVESTMENT TRUST",
+      "weight": 0.01,
+      "sector": "Real Estate",
+      "mv": 659051.57,
+      "shares": 645000
+    },
+    {
+      "t": "HUSMID",
+      "n": "HUSKY MIDSTREAM LP",
+      "weight": 0.03,
+      "sector": "Energy",
+      "mv": 1472898.15,
+      "shares": 1459000
+    },
+    {
+      "t": "HYDONE",
+      "n": "HYDRO ONE INC MTN",
+      "weight": 0.07,
+      "sector": "Infrastructure",
+      "mv": 3049650.53,
+      "shares": 2971000
+    },
+    {
+      "t": "HYDONE",
+      "n": "HYDRO ONE INC MTN",
+      "weight": 0.06,
+      "sector": "Infrastructure",
+      "mv": 2770951.91,
+      "shares": 2735000
+    },
+    {
+      "t": "HYDONE",
+      "n": "HYDRO ONE INC",
+      "weight": 0.05,
+      "sector": "Infrastructure",
+      "mv": 2222109.91,
+      "shares": 2231000
+    },
+    {
+      "t": "HYDONE",
+      "n": "HYDRO ONE INC MTN",
+      "weight": 0.04,
+      "sector": "Infrastructure",
+      "mv": 1880468.53,
+      "shares": 1978000
+    },
+    {
+      "t": "HYDONE",
+      "n": "HYDRO ONE INC MTN",
+      "weight": 0.03,
+      "sector": "Infrastructure",
+      "mv": 1564494.89,
+      "shares": 1700000
+    },
+    {
+      "t": "HYDONE",
+      "n": "HYDRO ONE INC.",
+      "weight": 0.01,
+      "sector": "Infrastructure",
+      "mv": 593078.9,
+      "shares": 525000
+    },
+    {
+      "t": "HYDONE",
+      "n": "HYDRO ONE LTD",
+      "weight": 0.01,
+      "sector": "Infrastructure",
+      "mv": 555795.73,
+      "shares": 562000
+    },
+    {
+      "t": "HYNMTR",
+      "n": "HYUNDAI CAPITAL CANADA INC RegS",
+      "weight": 0.06,
+      "sector": "Financial",
+      "mv": 2850042.31,
+      "shares": 2890000
+    },
+    {
+      "t": "HYNMTR",
+      "n": "HYUNDAI CAPITAL CANADA INC RegS",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1904387.24,
+      "shares": 1915000
+    },
+    {
+      "t": "HYNMTR",
+      "n": "HYUNDAI CAPITAL CANADA INC",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1904235.39,
+      "shares": 1855000
+    },
+    {
+      "t": "HYNMTR",
+      "n": "HYUNDAI CAPITAL CANADA INC RegS",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1856764.93,
+      "shares": 1834000
+    },
+    {
+      "t": "HYNMTR",
+      "n": "HYUNDAI CAPITAL CANADA INC",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1527927.47,
+      "shares": 1490000
+    },
+    {
+      "t": "HYNMTR",
+      "n": "HYUNDAI CAPITAL CANADA INC RegS",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1500380.77,
+      "shares": 1512000
+    },
+    {
+      "t": "HYNMTR",
+      "n": "HYUNDAI CAPITAL CANADA INC RegS",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1268372.13,
+      "shares": 1283000
+    },
+    {
+      "t": "HYNMTR",
+      "n": "HYUNDAI CAPITAL CANADA INC RegS",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 906955.27,
+      "shares": 910000
+    },
+    {
+      "t": "HYNMTR",
+      "n": "HYUNDAI CAPITAL CANADA INC",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 825337.69,
+      "shares": 810000
+    },
+    {
+      "t": "HYNMTR",
+      "n": "HYUNDAI CAPITAL CANADA INC RegS",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 783003.31,
+      "shares": 780000
+    },
+    {
+      "t": "IADB",
+      "n": "INTER-AMERICAN DEVELOPMENT BANK",
+      "weight": 0.12,
+      "sector": "Federal",
+      "mv": 5413770.78,
+      "shares": 5266000
+    },
+    {
+      "t": "IADB",
+      "n": "INTER-AMERICAN DEVELOPMENT BANK",
+      "weight": 0.05,
+      "sector": "Federal",
+      "mv": 2111488.09,
+      "shares": 2085000
+    },
+    {
+      "t": "IAGCN",
+      "n": "IA FINANCIAL CORPORATION INC RegS",
+      "weight": 0.06,
+      "sector": "Financial",
+      "mv": 2897367.52,
+      "shares": 2910000
+    },
+    {
+      "t": "IAGCN",
+      "n": "IA FINANCIAL CORPORATION INC",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1443148.25,
+      "shares": 1434000
+    },
+    {
+      "t": "IAGCN",
+      "n": "IA FINANCIAL CORPORATION INC",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1310709.79,
+      "shares": 1255000
+    },
+    {
+      "t": "IBM",
+      "n": "INTERNATIONAL BUSINESS MACHINES CO",
+      "weight": 0.14,
+      "sector": "Industrial",
+      "mv": 6330893.01,
+      "shares": 6350000
+    },
+    {
+      "t": "IBRD",
+      "n": "INTERNATIONAL BANK FOR RECONSTRUCT",
+      "weight": 0.17,
+      "sector": "Federal",
+      "mv": 7791975.12,
+      "shares": 7685000
+    },
+    {
+      "t": "IBRD",
+      "n": "INTERNATIONAL BANK FOR RECONSTRUCT",
+      "weight": 0.12,
+      "sector": "Federal",
+      "mv": 5637249.82,
+      "shares": 5685000
+    },
+    {
+      "t": "IBRD",
+      "n": "INTERNATIONAL BANK FOR RECONSTRUCT",
+      "weight": 0.12,
+      "sector": "Federal",
+      "mv": 5636821.81,
+      "shares": 5598000
+    },
+    {
+      "t": "IBRD",
+      "n": "INTERNATIONAL BANK FOR RECONSTRUCT",
+      "weight": 0.1,
+      "sector": "Federal",
+      "mv": 4347672.33,
+      "shares": 4260000
+    },
+    {
+      "t": "IBRD",
+      "n": "INTERNATIONAL BANK FOR RECONSTRUCT",
+      "weight": 0.02,
+      "sector": "Federal",
+      "mv": 954043.31,
+      "shares": 1000000
+    },
+    {
+      "t": "IFC",
+      "n": "INTERNATIONAL FINANCE CORP MTN",
+      "weight": 0.07,
+      "sector": "Federal",
+      "mv": 2955930.45,
+      "shares": 2920000
+    },
+    {
+      "t": "IFC",
+      "n": "INTERNATIONAL FINANCE CORP MTN",
+      "weight": 0.04,
+      "sector": "Federal",
+      "mv": 1642736.02,
+      "shares": 1670000
+    },
+    {
+      "t": "IFCCN",
+      "n": "INTACT FINANCIAL CORP MTN RegS",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1571643.6,
+      "shares": 1594000
+    },
+    {
+      "t": "IFCCN",
+      "n": "INTACT FINANCIAL CORP MTN",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 1075304.75,
+      "shares": 1045000
+    },
+    {
+      "t": "IFCCN",
+      "n": "INTACT FINANCIAL CORP MTN",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 1026956.55,
+      "shares": 1100000
+    },
+    {
+      "t": "IFCCN",
+      "n": "INTACT FINANCIAL CORP RegS",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 979968.48,
+      "shares": 1000000
+    },
+    {
+      "t": "IFCCN",
+      "n": "INTACT FINANCIAL CORP RegS",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 957822.47,
+      "shares": 900000
+    },
+    {
+      "t": "IGMCN",
+      "n": "INVESTORS GROUP INC. 144A",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 575294.34,
+      "shares": 500000
+    },
+    {
+      "t": "IGMCN",
+      "n": "INVESTORS GROUP INC.",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 527734.76,
+      "shares": 500000
+    },
+    {
+      "t": "INNCD",
+      "n": "INNOVATION FEDERAL CREDIT UNION",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 251915.84,
+      "shares": 250000
+    },
+    {
+      "t": "IPLCN",
+      "n": "INTER PIPELINE LTD RegS",
+      "weight": 0.07,
+      "sector": "Energy",
+      "mv": 3365520.84,
+      "shares": 3173000
+    },
+    {
+      "t": "IPLCN",
+      "n": "INTER PIPELINE LTD",
+      "weight": 0.07,
+      "sector": "Energy",
+      "mv": 2988053.16,
+      "shares": 2896000
+    },
+    {
+      "t": "IVANCA",
+      "n": "IVANHOE CAMBRIDGE II INC",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1242897.18,
+      "shares": 1200000
+    },
+    {
+      "t": "KEYCN",
+      "n": "KEYERA CORP RegS",
+      "weight": 0.04,
+      "sector": "Energy",
+      "mv": 1974237.97,
+      "shares": 1990000
+    },
+    {
+      "t": "KEYCN",
+      "n": "KEYERA CORP RegS",
+      "weight": 0.04,
+      "sector": "Energy",
+      "mv": 1786638.12,
+      "shares": 1811000
+    },
+    {
+      "t": "KEYCN",
+      "n": "KEYERA CORP MTN",
+      "weight": 0.04,
+      "sector": "Energy",
+      "mv": 1597555.61,
+      "shares": 1595000
+    },
+    {
+      "t": "KEYCN",
+      "n": "KEYERA CORP",
+      "weight": 0.02,
+      "sector": "Energy",
+      "mv": 980441.74,
+      "shares": 969000
+    },
+    {
+      "t": "LBANK",
+      "n": "LANDESKREDITBANK BADEN WUERTTEMBER MTN RegS",
+      "weight": 0.05,
+      "sector": "Federal",
+      "mv": 2112664.5,
+      "shares": 2120000
+    },
+    {
+      "t": "LBCN",
+      "n": "LAURENTIAN BANK OF CANADA",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1707452.52,
+      "shares": 1693000
+    },
+    {
+      "t": "LCN",
+      "n": "LOBLAW COMPANIES LTD",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1774808.96,
+      "shares": 1785000
+    },
+    {
+      "t": "LCN",
+      "n": "LOBLAW COMPANIES LTD",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1301010.15,
+      "shares": 1270000
+    },
+    {
+      "t": "LCN",
+      "n": "LOBLAW COMPANIES LTD",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 979042.35,
+      "shares": 1025000
+    },
+    {
+      "t": "LCN",
+      "n": "LOBLAW COMPANIES LIMITED MTN",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 808191.41,
+      "shares": 761000
+    },
+    {
+      "t": "LCN",
+      "n": "LOBLAW CO LTD MTN",
+      "weight": 0.01,
+      "sector": "Industrial",
+      "mv": 521730.26,
+      "shares": 500000
+    },
+    {
+      "t": "LECARR",
+      "n": "LE CARREFOUR LAVAL REC INC",
+      "weight": 0.05,
+      "sector": "Real Estate",
+      "mv": 2200461.26,
+      "shares": 2220000
+    },
+    {
+      "t": "LOWMAT",
+      "n": "LOWER MATTAGAMI ENERGY LP",
+      "weight": 0.05,
+      "sector": "Infrastructure",
+      "mv": 2291036.68,
+      "shares": 2432000
+    },
+    {
+      "t": "MBGGR",
+      "n": "MERCEDES-BENZ FINANCE CANADA INC MTN RegS",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1627967.78,
+      "shares": 1640000
+    },
+    {
+      "t": "MBGGR",
+      "n": "MERCEDES-BENZ FINANCE CANADA INC MTN",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 972570.16,
+      "shares": 940000
+    },
+    {
+      "t": "MBGGR",
+      "n": "MERCEDES-BENZ FINANCE CANADA INC MTN RegS",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 764917.29,
+      "shares": 780000
+    },
+    {
+      "t": "MCAPCO",
+      "n": "MCAP COMMERCIAL LP",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 2020207.37,
+      "shares": 2019000
+    },
+    {
+      "t": "MCAPCO",
+      "n": "MCAP COMMERCIAL LP RegS",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1359054.75,
+      "shares": 1396000
+    },
+    {
+      "t": "MCAPCO",
+      "n": "MCAP COMMERCIAL LP",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 503491.78,
+      "shares": 500000
+    },
+    {
+      "t": "MFCCN",
+      "n": "MANULIFE FINANCIAL CORP RegS",
+      "weight": 0.1,
+      "sector": "Financial",
+      "mv": 4648643.96,
+      "shares": 4536000
+    },
+    {
+      "t": "MFCCN",
+      "n": "MANULIFE FINANCIAL CORP",
+      "weight": 0.08,
+      "sector": "Financial",
+      "mv": 3788617.15,
+      "shares": 3771000
+    },
+    {
+      "t": "MFCCN",
+      "n": "MANULIFE FINANCIAL CORP",
+      "weight": 0.08,
+      "sector": "Financial",
+      "mv": 3757030.82,
+      "shares": 3665000
+    },
+    {
+      "t": "MFCCN",
+      "n": "MANULIFE FINANCIAL CORP",
+      "weight": 0.08,
+      "sector": "Financial",
+      "mv": 3543561.14,
+      "shares": 3685000
+    },
+    {
+      "t": "MFCCN",
+      "n": "MANULIFE BANK OF CANADA",
+      "weight": 0.06,
+      "sector": "Financial",
+      "mv": 2633415.44,
+      "shares": 2696000
+    },
+    {
+      "t": "MFCCN",
+      "n": "MANULIFE BANK OF CANADA",
+      "weight": 0.06,
+      "sector": "Financial",
+      "mv": 2600695.78,
+      "shares": 2581000
+    },
+    {
+      "t": "MFCCN",
+      "n": "MANULIFE BANK OF CANADA",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2330168.76,
+      "shares": 2335000
+    },
+    {
+      "t": "MFCCN",
+      "n": "MANULIFE FINANCIAL CORP",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2109311.42,
+      "shares": 2112000
+    },
+    {
+      "t": "MFCCN",
+      "n": "MANULIFE BANK OF CANADA",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1815887.08,
+      "shares": 1820000
+    },
+    {
+      "t": "MFCCN",
+      "n": "MANULIFE BANK OF CANADA",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1756518.99,
+      "shares": 1730000
+    },
+    {
+      "t": "MFCCN",
+      "n": "MANULIFE BANK OF CANADA",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1377564.3,
+      "shares": 1400000
+    },
+    {
+      "t": "MFCCN",
+      "n": "MANULIFE BANK OF CANADA",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1169137.5,
+      "shares": 1183000
+    },
+    {
+      "t": "MFCCN",
+      "n": "MANULIFE BANK OF CANADA (FXD)",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 1003486.77,
+      "shares": 1010000
+    },
+    {
+      "t": "MGCN",
+      "n": "MAGNA INTERNATIONAL INC",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1880590.18,
+      "shares": 1823000
+    },
+    {
+      "t": "MGCN",
+      "n": "MAGNA INTERNATIONAL INC",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 1030162.6,
+      "shares": 1000000
+    },
+    {
+      "t": "MICCN",
+      "n": "SAGEN MI CANADA INC",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1973021.07,
+      "shares": 2080000
+    },
+    {
+      "t": "MICCN",
+      "n": "SAGEN MI CANADA INC",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 787891.83,
+      "shares": 750000
+    },
+    {
+      "t": "MIFFC",
+      "n": "MONTREAL INTERNATIONAL FUEL FACILI RegS",
+      "weight": 0.09,
+      "sector": "Infrastructure",
+      "mv": 3991885.86,
+      "shares": 4000000
+    },
+    {
+      "t": "MMSPT",
+      "n": "MINI MALL STORAGE PROPERTIES TRUST RegS",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 1631929.55,
+      "shares": 1628000
+    },
+    {
+      "t": "MMSPT",
+      "n": "MINI MALL STORAGE PROPERTIES TRUST RegS",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1300122.77,
+      "shares": 1312000
+    },
+    {
+      "t": "MMSPT",
+      "n": "MINI MALL STORAGE PROPERTIES TRUST RegS",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 1046467.72,
+      "shares": 1045000
+    },
+    {
+      "t": "MMSPT",
+      "n": "MINI MALL STORAGE PROPERTIES TRUST RegS",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 985782.49,
+      "shares": 1000000
+    },
+    {
+      "t": "MNTRL",
+      "n": "MONTREAL CITY OF",
+      "weight": 0.08,
+      "sector": "Municipal",
+      "mv": 3805124.75,
+      "shares": 4103000
+    },
+    {
+      "t": "MNTRL",
+      "n": "MONTREAL CITY OF",
+      "weight": 0.07,
+      "sector": "Municipal",
+      "mv": 3300671.17,
+      "shares": 3312000
+    },
+    {
+      "t": "MNTRL",
+      "n": "MONTREAL CITY OF",
+      "weight": 0.03,
+      "sector": "Municipal",
+      "mv": 1577583.86,
+      "shares": 1635000
+    },
+    {
+      "t": "MNTRL",
+      "n": "MONTREAL CITY OF",
+      "weight": 0.03,
+      "sector": "Municipal",
+      "mv": 1146979.25,
+      "shares": 1250000
+    },
+    {
+      "t": "MOR",
+      "n": "MORGUARD CORP",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 1034455.19,
+      "shares": 1000000
+    },
+    {
+      "t": "MOR",
+      "n": "MORGUARD CORP",
+      "weight": 0.01,
+      "sector": "Real Estate",
+      "mv": 379520.49,
+      "shares": 378000
+    },
+    {
+      "t": "MP",
+      "n": "MANITOBA PROVINCE OF",
+      "weight": 0.17,
+      "sector": "Provincial",
+      "mv": 7688428.01,
+      "shares": 7656000
+    },
+    {
+      "t": "MP",
+      "n": "MANITOBA PROVINCE OF",
+      "weight": 0.15,
+      "sector": "Provincial",
+      "mv": 6836893.46,
+      "shares": 7343000
+    },
+    {
+      "t": "MP",
+      "n": "MANITOBA PROVINCE OF",
+      "weight": 0.15,
+      "sector": "Provincial",
+      "mv": 6712065.19,
+      "shares": 6791000
+    },
+    {
+      "t": "MP",
+      "n": "MANITOBA PROVINCE OF",
+      "weight": 0.1,
+      "sector": "Provincial",
+      "mv": 4488173.58,
+      "shares": 4725000
+    },
+    {
+      "t": "MP",
+      "n": "MANITOBA (PROVINCE OF)",
+      "weight": 0.06,
+      "sector": "Provincial",
+      "mv": 2859365.51,
+      "shares": 2590000
+    },
+    {
+      "t": "MP",
+      "n": "MANITOBA PROVINCE OF MTN",
+      "weight": 0.04,
+      "sector": "Provincial",
+      "mv": 1958565.96,
+      "shares": 1975000
+    },
+    {
+      "t": "MRUCN",
+      "n": "METRO INC",
+      "weight": 0.05,
+      "sector": "Industrial",
+      "mv": 2088965.71,
+      "shares": 2071000
+    },
+    {
+      "t": "MRUCN",
+      "n": "METRO INC MTN RegS",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1714409.89,
+      "shares": 1770000
+    },
+    {
+      "t": "MRUCN",
+      "n": "METRO INC MTN",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1604600.32,
+      "shares": 1590000
+    },
+    {
+      "t": "NACN",
+      "n": "NATIONAL BANK OF CANADA",
+      "weight": 0.14,
+      "sector": "Financial",
+      "mv": 6455333.11,
+      "shares": 6257000
+    },
+    {
+      "t": "NACN",
+      "n": "NATIONAL BANK OF CANADA",
+      "weight": 0.14,
+      "sector": "Financial",
+      "mv": 6386123.8,
+      "shares": 6150000
+    },
+    {
+      "t": "NACN",
+      "n": "NATIONAL BANK OF CANADA",
+      "weight": 0.1,
+      "sector": "Financial",
+      "mv": 4446872.98,
+      "shares": 4500000
+    },
+    {
+      "t": "NACN",
+      "n": "NATIONAL BANK OF CANADA",
+      "weight": 0.09,
+      "sector": "Financial",
+      "mv": 4125367.99,
+      "shares": 4123000
+    },
+    {
+      "t": "NACN",
+      "n": "NATIONAL BANK OF CANADA",
+      "weight": 0.09,
+      "sector": "Financial",
+      "mv": 4022415.52,
+      "shares": 4080000
+    },
+    {
+      "t": "NACN",
+      "n": "NATIONAL BANK OF CANADA MTN",
+      "weight": 0.09,
+      "sector": "Financial",
+      "mv": 3977842.49,
+      "shares": 3985000
+    },
+    {
+      "t": "NACN",
+      "n": "NATIONAL BANK OF CANADA",
+      "weight": 0.08,
+      "sector": "Financial",
+      "mv": 3804499.76,
+      "shares": 3874000
+    },
+    {
+      "t": "NACN",
+      "n": "NATIONAL BANK OF CANADA",
+      "weight": 0.08,
+      "sector": "Financial",
+      "mv": 3719337.08,
+      "shares": 3698000
+    },
+    {
+      "t": "NACN",
+      "n": "NATIONAL BANK OF CANADA MTN",
+      "weight": 0.07,
+      "sector": "Financial",
+      "mv": 3204780.19,
+      "shares": 3212000
+    },
+    {
+      "t": "NACN",
+      "n": "NATIONAL BANK OF CANADA MTN",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2081230.42,
+      "shares": 2022000
+    },
+    {
+      "t": "NACN",
+      "n": "CANADIAN WESTERN BANK",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1646565.47,
+      "shares": 1665000
+    },
+    {
+      "t": "NACN",
+      "n": "CANADIAN WESTERN BANK",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 958326.96,
+      "shares": 920000
+    },
+    {
+      "t": "NACN",
+      "n": "NATIONAL BANK OF CANADA",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 780839.69,
+      "shares": 745000
+    },
+    {
+      "t": "NACN",
+      "n": "CANADIAN WESTERN BANK",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 614338.29,
+      "shares": 600000
+    },
+    {
+      "t": "NAVCAN",
+      "n": "NAV CANADA",
+      "weight": 0.04,
+      "sector": "Infrastructure",
+      "mv": 1645116.82,
+      "shares": 1740000
+    },
+    {
+      "t": "NBRNS",
+      "n": "NEW BRUNSWICK (PROVINCE OF)",
+      "weight": 0.1,
+      "sector": "Provincial",
+      "mv": 4305508.76,
+      "shares": 4555000
+    },
+    {
+      "t": "NBRNS",
+      "n": "NEW BRUNSWICK (PROVINCE OF)",
+      "weight": 0.09,
+      "sector": "Provincial",
+      "mv": 4044208.14,
+      "shares": 4050000
+    },
+    {
+      "t": "NBRNS",
+      "n": "NEW BRUNSWICK (PROVINCE OF)",
+      "weight": 0.08,
+      "sector": "Provincial",
+      "mv": 3821170.72,
+      "shares": 3873000
+    },
+    {
+      "t": "NBRNS",
+      "n": "NEW BRUNSWICK (PROVINCE OF)",
+      "weight": 0.05,
+      "sector": "Provincial",
+      "mv": 2240165.74,
+      "shares": 2190000
+    },
+    {
+      "t": "NBRNS",
+      "n": "NEW BRUNSWICK (PROVINCE OF)",
+      "weight": 0.05,
+      "sector": "Provincial",
+      "mv": 2154819.57,
+      "shares": 2031000
+    },
+    {
+      "t": "NEE",
+      "n": "NEXTERA ENERGY CAPITAL HOLDINGS IN",
+      "weight": 0.05,
+      "sector": "Energy",
+      "mv": 2303128.71,
+      "shares": 2310000
+    },
+    {
+      "t": "NF",
+      "n": "PROVINCE OF NEWFOUNDLAND",
+      "weight": 0.12,
+      "sector": "Provincial",
+      "mv": 5348767.12,
+      "shares": 5345000
+    },
+    {
+      "t": "NF",
+      "n": "NEWFOUNDLAND AND LABRADOR (PROVINC",
+      "weight": 0.11,
+      "sector": "Provincial",
+      "mv": 4979252.22,
+      "shares": 4854000
+    },
+    {
+      "t": "NF",
+      "n": "NEWFOUNDLAND AND LABRADOR PROVINC",
+      "weight": 0.09,
+      "sector": "Provincial",
+      "mv": 4138457.69,
+      "shares": 4179000
+    },
+    {
+      "t": "NF",
+      "n": "NEWFOUNDLAND (PROVINCE OF)",
+      "weight": 0.08,
+      "sector": "Provincial",
+      "mv": 3590332.25,
+      "shares": 3830000
+    },
+    {
+      "t": "NF",
+      "n": "NEWFOUNDLAND AND LABRADOR (PROVINC",
+      "weight": 0.07,
+      "sector": "Provincial",
+      "mv": 3211144.47,
+      "shares": 3245000
+    },
+    {
+      "t": "NF",
+      "n": "NEWFOUNDLAND AND LABRADOR (PROVINC",
+      "weight": 0.06,
+      "sector": "Provincial",
+      "mv": 2695380.19,
+      "shares": 2900000
+    },
+    {
+      "t": "NF",
+      "n": "NEWFOUNDLAND (PROVINCE OF)",
+      "weight": 0.05,
+      "sector": "Provincial",
+      "mv": 2443805.66,
+      "shares": 2160000
+    },
+    {
+      "t": "NF",
+      "n": "NEWFOUNDLAND (PROVINCE OF)",
+      "weight": 0.03,
+      "sector": "Provincial",
+      "mv": 1325198.1,
+      "shares": 1240000
+    },
+    {
+      "t": "NF",
+      "n": "NEWFOUNDLAND (PROVINCE OF)",
+      "weight": 0.02,
+      "sector": "Provincial",
+      "mv": 961979.47,
+      "shares": 866000
+    },
+    {
+      "t": "NS",
+      "n": "NOVA SCOTIA (PROVINCE OF)",
+      "weight": 0.09,
+      "sector": "Provincial",
+      "mv": 3934485.31,
+      "shares": 4065000
+    },
+    {
+      "t": "NS",
+      "n": "NOVA SCOTIA (PROVINCE OF)",
+      "weight": 0.08,
+      "sector": "Provincial",
+      "mv": 3837756.37,
+      "shares": 4090000
+    },
+    {
+      "t": "NS",
+      "n": "NOVA SCOTIA (PROVINCE OF)",
+      "weight": 0.07,
+      "sector": "Provincial",
+      "mv": 3026787.91,
+      "shares": 2952000
+    },
+    {
+      "t": "NSIUCN",
+      "n": "NOVA SCOTIA POWER INC RegS",
+      "weight": 0.04,
+      "sector": "Infrastructure",
+      "mv": 1995300.2,
+      "shares": 2000000
+    },
+    {
+      "t": "NWRWPT",
+      "n": "NORTH WEST REDWATER PARTNERSHIP",
+      "weight": 0.09,
+      "sector": "Energy",
+      "mv": 4292183.4,
+      "shares": 4523000
+    },
+    {
+      "t": "NWRWPT",
+      "n": "NORTH WEST REDWATER PARTNERSHIP RegS",
+      "weight": 0.05,
+      "sector": "Energy",
+      "mv": 2207411.29,
+      "shares": 2165000
+    },
+    {
+      "t": "NXRCN",
+      "n": "NEXUS INDUSTRIAL REIT RegS",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1400662.81,
+      "shares": 1380000
+    },
+    {
+      "t": "NXRCN",
+      "n": "NEXUS INDUSTRIAL REIT RegS",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 874634.89,
+      "shares": 864000
+    },
+    {
+      "t": "NXRCN",
+      "n": "NEXUS INDUSTRIAL REIT RegS",
+      "weight": 0.01,
+      "sector": "Real Estate",
+      "mv": 464033.42,
+      "shares": 465000
+    },
+    {
+      "t": "OMERFT",
+      "n": "OMERS FINANCE TRUST RegS",
+      "weight": 0.09,
+      "sector": "Provincial",
+      "mv": 4103533.81,
+      "shares": 4172000
+    },
+    {
+      "t": "OMERS",
+      "n": "OMERS REALTY CORP",
+      "weight": 0.06,
+      "sector": "Real Estate",
+      "mv": 2638792.68,
+      "shares": 2600000
+    },
+    {
+      "t": "OMERS",
+      "n": "OMERS REALTY CORP",
+      "weight": 0.06,
+      "sector": "Real Estate",
+      "mv": 2567887.98,
+      "shares": 2447000
+    },
+    {
+      "t": "OMERS",
+      "n": "OMERS REALTY CORP",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 2013751.86,
+      "shares": 2022000
+    },
+    {
+      "t": "OMERS",
+      "n": "OMERS REALTY CORP RegS",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 1676186.68,
+      "shares": 1619000
+    },
+    {
+      "t": "OMERS",
+      "n": "OMERS REALTY CORP RegS",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 1658412.9,
+      "shares": 1600000
+    },
+    {
+      "t": "ONT",
+      "n": "ONTARIO (PROVINCE OF)",
+      "weight": 0.92,
+      "sector": "Provincial",
+      "mv": 41756116.59,
+      "shares": 43952000
+    },
+    {
+      "t": "ONT",
+      "n": "ONTARIO (PROVINCE OF)",
+      "weight": 0.9,
+      "sector": "Provincial",
+      "mv": 40807508.53,
+      "shares": 43585000
+    },
+    {
+      "t": "ONT",
+      "n": "ONTARIO (PROVINCE OF)",
+      "weight": 0.78,
+      "sector": "Provincial",
+      "mv": 35432270.63,
+      "shares": 35347000
+    },
+    {
+      "t": "ONT",
+      "n": "ONTARIO (PROVINCE OF)",
+      "weight": 0.75,
+      "sector": "Provincial",
+      "mv": 34016408,
+      "shares": 34459000
+    },
+    {
+      "t": "ONT",
+      "n": "ONTARIO (PROVINCE OF)",
+      "weight": 0.53,
+      "sector": "Provincial",
+      "mv": 24196378.02,
+      "shares": 26531000
+    },
+    {
+      "t": "ONT",
+      "n": "ONTARIO (PROVINCE OF)",
+      "weight": 0.47,
+      "sector": "Provincial",
+      "mv": 21322617.57,
+      "shares": 21184000
+    },
+    {
+      "t": "ONT",
+      "n": "ONTARIO (PROVINCE OF)",
+      "weight": 0.44,
+      "sector": "Provincial",
+      "mv": 19818226.91,
+      "shares": 20929000
+    },
+    {
+      "t": "ONT",
+      "n": "ONTARIO (PROVINCE OF)",
+      "weight": 0.34,
+      "sector": "Provincial",
+      "mv": 15350898.53,
+      "shares": 15150000
+    },
+    {
+      "t": "ONT",
+      "n": "ONTARIO (PROVINCE OF) MTN",
+      "weight": 0.3,
+      "sector": "Provincial",
+      "mv": 13437697.46,
+      "shares": 13815000
+    },
+    {
+      "t": "ONT",
+      "n": "ONTARIO (PROVINCE OF)",
+      "weight": 0.25,
+      "sector": "Provincial",
+      "mv": 11155646.51,
+      "shares": 10400000
+    },
+    {
+      "t": "ONT",
+      "n": "ONTARIO (PROVINCE OF) MTN",
+      "weight": 0.2,
+      "sector": "Provincial",
+      "mv": 9061936.51,
+      "shares": 9400000
+    },
+    {
+      "t": "ONT",
+      "n": "ONTARIO (PROVINCE OF)",
+      "weight": 0.18,
+      "sector": "Provincial",
+      "mv": 8087029.76,
+      "shares": 8076000
+    },
+    {
+      "t": "ONT",
+      "n": "ONTARIO (PROVINCE OF)",
+      "weight": 0.12,
+      "sector": "Provincial",
+      "mv": 5493623.89,
+      "shares": 4900000
+    },
+    {
+      "t": "ONTPOW",
+      "n": "ONTARIO POWER GENERATION INC MTN",
+      "weight": 0.06,
+      "sector": "Energy",
+      "mv": 2891778.57,
+      "shares": 2930000
+    },
+    {
+      "t": "ONTPOW",
+      "n": "ONTARIO POWER GENERATION INC MTN",
+      "weight": 0.04,
+      "sector": "Energy",
+      "mv": 1953737.93,
+      "shares": 1923000
+    },
+    {
+      "t": "ONTPOW",
+      "n": "ONTARIO POWER GENERATION INC MTN",
+      "weight": 0.04,
+      "sector": "Energy",
+      "mv": 1878555.88,
+      "shares": 1928000
+    },
+    {
+      "t": "ONTTFT",
+      "n": "ONTARIO TEACHERS FINANCE TRUST RegS",
+      "weight": 0.11,
+      "sector": "Provincial",
+      "mv": 4997872.39,
+      "shares": 4848000
+    },
+    {
+      "t": "ONTTFT",
+      "n": "ONTARIO TEACHERS FINANCE TRUST RegS",
+      "weight": 0.11,
+      "sector": "Provincial",
+      "mv": 4975205.24,
+      "shares": 5050000
+    },
+    {
+      "t": "OSBFC",
+      "n": "ONT SCHOOL BOARDS FIN CP",
+      "weight": 0.01,
+      "sector": "Provincial",
+      "mv": 487431.06,
+      "shares": 465309
+    },
+    {
+      "t": "OXPROP",
+      "n": "OXFORD PROPERTIES GROUP TRUST RegS",
+      "weight": 0.06,
+      "sector": "Real Estate",
+      "mv": 2640393.7,
+      "shares": 2684000
+    },
+    {
+      "t": "OXPROP",
+      "n": "OXFORD PROPERTIES GROUP TRUST",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 1720839.03,
+      "shares": 1715000
+    },
+    {
+      "t": "OXPROP",
+      "n": "OXFORD PROPERTIES GROUP TRUST RegS",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1545282.64,
+      "shares": 1552000
+    },
+    {
+      "t": "PENSKE",
+      "n": "PENSKE TRUCK LEASING CANADA INC RegS",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 837446.35,
+      "shares": 850000
+    },
+    {
+      "t": "PENSKE",
+      "n": "PENSKE TRUCK LEASING CANADA INC",
+      "weight": 0.01,
+      "sector": "Industrial",
+      "mv": 504385.9,
+      "shares": 495000
+    },
+    {
+      "t": "PMZUCN",
+      "n": "PRIMARIS REAL ESTATE INVESTMENT TR RegS",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 1058508.93,
+      "shares": 1060000
+    },
+    {
+      "t": "PMZUCN",
+      "n": "PRIMARIS REAL ESTATE INVESTMENT TR RegS",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 1031061.99,
+      "shares": 965000
+    },
+    {
+      "t": "PMZUCN",
+      "n": "PRIMARIS REAL ESTATE INVESTMENT TR RegS",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 1019827.98,
+      "shares": 1000000
+    },
+    {
+      "t": "PMZUCN",
+      "n": "PRIMARIS REAL ESTATE INVESTMENT TR RegS",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 943061.12,
+      "shares": 950000
+    },
+    {
+      "t": "PMZUCN",
+      "n": "PRIMARIS REAL ESTATE INVESTMENT TR RegS",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 849144.83,
+      "shares": 826000
+    },
+    {
+      "t": "PPLCN",
+      "n": "PEMBINA PIPELINE CORP RegS",
+      "weight": 0.06,
+      "sector": "Energy",
+      "mv": 2845807.42,
+      "shares": 2826000
+    },
+    {
+      "t": "PPLCN",
+      "n": "PEMBINA PIPELINE CORP MTN RegS",
+      "weight": 0.06,
+      "sector": "Energy",
+      "mv": 2708886.2,
+      "shares": 2699000
+    },
+    {
+      "t": "PPLCN",
+      "n": "PEMBINA PIPELINE CORP MTN",
+      "weight": 0.04,
+      "sector": "Energy",
+      "mv": 2012181.15,
+      "shares": 2055000
+    },
+    {
+      "t": "PRINCE",
+      "n": "PRINCE EDWARD ISLAND (PROVINCE OF)",
+      "weight": 0.06,
+      "sector": "Provincial",
+      "mv": 2902371.41,
+      "shares": 2940000
+    },
+    {
+      "t": "PRINCE",
+      "n": "PRINCE EDWARD ISLAND (PROVINCE OF)",
+      "weight": 0.02,
+      "sector": "Provincial",
+      "mv": 1018564.06,
+      "shares": 1020000
+    },
+    {
+      "t": "PSPCAP",
+      "n": "PSP CAPITAL INC RegS",
+      "weight": 0.17,
+      "sector": "Federal",
+      "mv": 7839096.41,
+      "shares": 7722000
+    },
+    {
+      "t": "PSPCAP",
+      "n": "PSP CAPITAL INC",
+      "weight": 0.12,
+      "sector": "Federal",
+      "mv": 5387639.93,
+      "shares": 5646000
+    },
+    {
+      "t": "PSPCAP",
+      "n": "PSP CAPITAL INC RegS",
+      "weight": 0.09,
+      "sector": "Federal",
+      "mv": 4151081.97,
+      "shares": 4000000
+    },
+    {
+      "t": "PSPCAP",
+      "n": "PSP CAPITAL INC",
+      "weight": 0.09,
+      "sector": "Federal",
+      "mv": 3963937.3,
+      "shares": 4065000
+    },
+    {
+      "t": "Q",
+      "n": "PROVINCE OF QUEBEC",
+      "weight": 0.85,
+      "sector": "Provincial",
+      "mv": 38670119.66,
+      "shares": 41373000
+    },
+    {
+      "t": "Q",
+      "n": "QUEBEC (PROVINCE OF)",
+      "weight": 0.62,
+      "sector": "Provincial",
+      "mv": 28245408.93,
+      "shares": 31480000
+    },
+    {
+      "t": "Q",
+      "n": "QUEBEC (PROVINCE OF)",
+      "weight": 0.51,
+      "sector": "Provincial",
+      "mv": 22888788.78,
+      "shares": 23687000
+    },
+    {
+      "t": "Q",
+      "n": "QUEBEC (PROVINCE OF)",
+      "weight": 0.48,
+      "sector": "Provincial",
+      "mv": 21866281.23,
+      "shares": 22093000
+    },
+    {
+      "t": "Q",
+      "n": "QUEBEC (PROVINCE OF)",
+      "weight": 0.21,
+      "sector": "Provincial",
+      "mv": 9633225.69,
+      "shares": 8788000
+    },
+    {
+      "t": "Q",
+      "n": "QUEBEC (PROVINCE OF)",
+      "weight": 0.08,
+      "sector": "Provincial",
+      "mv": 3489579.36,
+      "shares": 3730000
+    },
+    {
+      "t": "QBRCN",
+      "n": "VIDEOTRON LTD",
+      "weight": 0.07,
+      "sector": "Communication",
+      "mv": 3271025.61,
+      "shares": 3420000
+    },
+    {
+      "t": "QBRCN",
+      "n": "VIDEOTRON LTD",
+      "weight": 0.07,
+      "sector": "Communication",
+      "mv": 3035089.28,
+      "shares": 2957000
+    },
+    {
+      "t": "QBRCN",
+      "n": "VIDEOTRON LTD RegS",
+      "weight": 0.07,
+      "sector": "Communication",
+      "mv": 2986983.29,
+      "shares": 2977000
+    },
+    {
+      "t": "QBRCN",
+      "n": "VIDEOTRON LTD RegS",
+      "weight": 0.04,
+      "sector": "Communication",
+      "mv": 1887374.78,
+      "shares": 1845000
+    },
+    {
+      "t": "QHEL",
+      "n": "HYDRO-QUEBEC",
+      "weight": 0.21,
+      "sector": "Provincial",
+      "mv": 9496724.04,
+      "shares": 9531000
+    },
+    {
+      "t": "QHEL",
+      "n": "HYDRO-QUEBEC",
+      "weight": 0.2,
+      "sector": "Provincial",
+      "mv": 9156000.46,
+      "shares": 9392000
+    },
+    {
+      "t": "QHEL",
+      "n": "HYDRO-QUEBEC",
+      "weight": 0.06,
+      "sector": "Provincial",
+      "mv": 2916768.14,
+      "shares": 2650000
+    },
+    {
+      "t": "RCICN",
+      "n": "ROGERS COMMUNICATIONS INC",
+      "weight": 0.11,
+      "sector": "Communication",
+      "mv": 4763367.3,
+      "shares": 4719000
+    },
+    {
+      "t": "RCICN",
+      "n": "ROGERS COMMUNICATIONS INC RegS",
+      "weight": 0.08,
+      "sector": "Communication",
+      "mv": 3595486.56,
+      "shares": 3482000
+    },
+    {
+      "t": "RCICN",
+      "n": "ROGERS COMMUNICATIONS INC RegS",
+      "weight": 0.06,
+      "sector": "Communication",
+      "mv": 2756610.25,
+      "shares": 2620000
+    },
+    {
+      "t": "RCICN",
+      "n": "ROGERS COMMUNICATIONS INC",
+      "weight": 0.05,
+      "sector": "Communication",
+      "mv": 2266840.16,
+      "shares": 2210000
+    },
+    {
+      "t": "RCICN",
+      "n": "ROGERS COMMUNICATIONS INC.",
+      "weight": 0.05,
+      "sector": "Communication",
+      "mv": 2103357.35,
+      "shares": 2117000
+    },
+    {
+      "t": "REIUCN",
+      "n": "RIOCAN REAL ESTATE INVESTMENT TRUS",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 1967852.82,
+      "shares": 1899000
+    },
+    {
+      "t": "REIUCN",
+      "n": "RIOCAN REAL ESTATE INVESTMENT TRUS",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1482252.47,
+      "shares": 1430000
+    },
+    {
+      "t": "REIUCN",
+      "n": "RIOCAN REAL ESTATE INVESTMENT TRUS",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1348412.58,
+      "shares": 1365000
+    },
+    {
+      "t": "REIUCN",
+      "n": "RIOCAN REAL ESTATE INVESTMENT TRUS",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 1070672.18,
+      "shares": 1040000
+    },
+    {
+      "t": "REIUCN",
+      "n": "RIOCAN REAL ESTATE INVESTMENT TRUS",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 914319.08,
+      "shares": 910000
+    },
+    {
+      "t": "REIUCN",
+      "n": "RIOCAN REAL ESTATE INVESTMENT TRUS RegS",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 893521.5,
+      "shares": 832000
+    },
+    {
+      "t": "REIUCN",
+      "n": "RIOCAN REAL ESTATE INVESTMENT TRUS RegS",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 799596.65,
+      "shares": 765000
+    },
+    {
+      "t": "REMSQC",
+      "n": "PROJET REM SEC",
+      "weight": 0.06,
+      "sector": "Infrastructure",
+      "mv": 2803757.14,
+      "shares": 2852000
+    },
+    {
+      "t": "RLNCE",
+      "n": "RELIANCE LP",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1782667.63,
+      "shares": 1700000
+    },
+    {
+      "t": "RLNCE",
+      "n": "RELIANCE LP",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1756866.61,
+      "shares": 1760000
+    },
+    {
+      "t": "RLNCE",
+      "n": "RELIANCE LP",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1304715.66,
+      "shares": 1330000
+    },
+    {
+      "t": "RLNCE",
+      "n": "RELIANCE LP RegS",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1190737.87,
+      "shares": 1200000
+    },
+    {
+      "t": "RUSCN",
+      "n": "RUSSEL METALS INC RegS",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 955478.79,
+      "shares": 965000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA RegS",
+      "weight": 0.29,
+      "sector": "Financial",
+      "mv": 12926049.78,
+      "shares": 13164000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA",
+      "weight": 0.23,
+      "sector": "Financial",
+      "mv": 10223815.84,
+      "shares": 9902000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA",
+      "weight": 0.2,
+      "sector": "Financial",
+      "mv": 9136880.29,
+      "shares": 9187000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA",
+      "weight": 0.17,
+      "sector": "Financial",
+      "mv": 7691592.5,
+      "shares": 7521000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA RegS",
+      "weight": 0.17,
+      "sector": "Financial",
+      "mv": 7672973.76,
+      "shares": 7650000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA RegS",
+      "weight": 0.16,
+      "sector": "Financial",
+      "mv": 7453713,
+      "shares": 7477000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA",
+      "weight": 0.16,
+      "sector": "Financial",
+      "mv": 7420324.63,
+      "shares": 7338000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA MTN",
+      "weight": 0.16,
+      "sector": "Financial",
+      "mv": 7145319.45,
+      "shares": 7173000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA RegS",
+      "weight": 0.16,
+      "sector": "Financial",
+      "mv": 7031602.12,
+      "shares": 6730000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA MTN RegS",
+      "weight": 0.14,
+      "sector": "Financial",
+      "mv": 6183514.92,
+      "shares": 6042000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA RegS",
+      "weight": 0.13,
+      "sector": "Financial",
+      "mv": 6085032.86,
+      "shares": 6007000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA",
+      "weight": 0.12,
+      "sector": "Financial",
+      "mv": 5324799.99,
+      "shares": 5318000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA",
+      "weight": 0.1,
+      "sector": "Financial",
+      "mv": 4662079.51,
+      "shares": 4430000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA MTN RegS",
+      "weight": 0.1,
+      "sector": "Financial",
+      "mv": 4661649.11,
+      "shares": 4660000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA MTN RegS",
+      "weight": 0.09,
+      "sector": "Financial",
+      "mv": 4126009.87,
+      "shares": 4045000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA MTN",
+      "weight": 0.09,
+      "sector": "Financial",
+      "mv": 4091409.84,
+      "shares": 4100000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA",
+      "weight": 0.07,
+      "sector": "Financial",
+      "mv": 3293629.91,
+      "shares": 3380000
+    },
+    {
+      "t": "RY",
+      "n": "ROYAL BANK OF CANADA",
+      "weight": 0.07,
+      "sector": "Financial",
+      "mv": 3215970.77,
+      "shares": 3281000
+    },
+    {
+      "t": "SAPCN",
+      "n": "SAPUTO INC MTN",
+      "weight": 0.05,
+      "sector": "Industrial",
+      "mv": 2112916.07,
+      "shares": 1988000
+    },
+    {
+      "t": "SAPCN",
+      "n": "SAPUTO INC MTN RegS",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1857096.39,
+      "shares": 1865000
+    },
+    {
+      "t": "SAPCN",
+      "n": "SAPUTO INC MTN",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1158962.96,
+      "shares": 1105000
+    },
+    {
+      "t": "SAPCN",
+      "n": "SAPUTO INC MTN",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 982536.45,
+      "shares": 1000000
+    },
+    {
+      "t": "SCDA",
+      "n": "SASKATCHEWAN (PROVINCE OF)",
+      "weight": 0.15,
+      "sector": "Provincial",
+      "mv": 6836035.97,
+      "shares": 7300000
+    },
+    {
+      "t": "SCDA",
+      "n": "SASKATCHEWAN (PROVINCE OF)",
+      "weight": 0.13,
+      "sector": "Provincial",
+      "mv": 6059328.56,
+      "shares": 6339000
+    },
+    {
+      "t": "SCDA",
+      "n": "SASKATCHEWAN (PROVINCE OF)",
+      "weight": 0.12,
+      "sector": "Provincial",
+      "mv": 5234739.69,
+      "shares": 5226000
+    },
+    {
+      "t": "SCDA",
+      "n": "SASKATCHEWAN (PROVINCE OF)",
+      "weight": 0.03,
+      "sector": "Provincial",
+      "mv": 1562370.24,
+      "shares": 1481000
+    },
+    {
+      "t": "SCDA",
+      "n": "SASKATCHEWAN (PROVINCE OF)",
+      "weight": 0.01,
+      "sector": "Provincial",
+      "mv": 335259.01,
+      "shares": 300000
+    },
+    {
+      "t": "SEASKY",
+      "n": "SEA TO SKY HIGHWAY INVESTMENT LP",
+      "weight": 0.01,
+      "sector": "Infrastructure",
+      "mv": 322680.54,
+      "shares": 335759
+    },
+    {
+      "t": "SFCCN",
+      "n": "SAGICOR FINANCIAL COMPANY LTD RegS",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 449524.7,
+      "shares": 450000
+    },
+    {
+      "t": "SIACN",
+      "n": "SIENNA SENIOR LIVING INC",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1637003.7,
+      "shares": 1640000
+    },
+    {
+      "t": "SIACN",
+      "n": "SIENNA SENIOR LIVING INC",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 1100196.15,
+      "shares": 1110000
+    },
+    {
+      "t": "SIACN",
+      "n": "SIENNA SENIOR LIVING INC",
+      "weight": 0.01,
+      "sector": "Industrial",
+      "mv": 383772.53,
+      "shares": 375000
+    },
+    {
+      "t": "SLFCN",
+      "n": "SUN LIFE FINANCIAL INC",
+      "weight": 0.09,
+      "sector": "Financial",
+      "mv": 4264140.82,
+      "shares": 4328000
+    },
+    {
+      "t": "SLFCN",
+      "n": "SUN LIFE FINANCIAL INC",
+      "weight": 0.06,
+      "sector": "Financial",
+      "mv": 2837061.37,
+      "shares": 3040000
+    },
+    {
+      "t": "SLFCN",
+      "n": "SUN LIFE FINANCIAL INC",
+      "weight": 0.06,
+      "sector": "Financial",
+      "mv": 2769847.31,
+      "shares": 2654000
+    },
+    {
+      "t": "SLFCN",
+      "n": "SUN LIFE FINANCIAL INC",
+      "weight": 0.06,
+      "sector": "Financial",
+      "mv": 2692055.14,
+      "shares": 2637000
+    },
+    {
+      "t": "SLFCN",
+      "n": "SUN LIFE FINANCIAL INC RegS",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1727334.89,
+      "shares": 1645000
+    },
+    {
+      "t": "SMA",
+      "n": "SMARTSTOP OP LP RegS",
+      "weight": 0.04,
+      "sector": "Real Estate",
+      "mv": 1914157.74,
+      "shares": 1895000
+    },
+    {
+      "t": "SMA",
+      "n": "SMARTSTOP SELF STORAGE REIT INC",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 731624.45,
+      "shares": 750000
+    },
+    {
+      "t": "SOBOCN",
+      "n": "SOUTH BOW CANADIAN INFRASTRUCTURE",
+      "weight": 0.04,
+      "sector": "Energy",
+      "mv": 1815969.96,
+      "shares": 1805000
+    },
+    {
+      "t": "SOUCOA",
+      "n": "SOUTH COAST BRITISH COLUMBIA TRANS",
+      "weight": 0.03,
+      "sector": "Municipal",
+      "mv": 1264201.96,
+      "shares": 1255000
+    },
+    {
+      "t": "SOUCOA",
+      "n": "SOUTH COAST BRITISH COLUMBIA TRANS",
+      "weight": 0.03,
+      "sector": "Municipal",
+      "mv": 1220599.69,
+      "shares": 1315000
+    },
+    {
+      "t": "SRUUCN",
+      "n": "SMARTCENTRES REAL ESTATE INVESTMEN",
+      "weight": 0.05,
+      "sector": "Real Estate",
+      "mv": 2190347.34,
+      "shares": 2230000
+    },
+    {
+      "t": "SRUUCN",
+      "n": "SMARTCENTRES REAL ESTATE INVESTMEN",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1268834.12,
+      "shares": 1300000
+    },
+    {
+      "t": "SRUUCN",
+      "n": "SMARTCENTRES REAL ESTATE INVESTMEN",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1250632,
+      "shares": 1260000
+    },
+    {
+      "t": "SRUUCN",
+      "n": "SMARTCENTRES REAL ESTATE INVESTMEN",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 1059454.78,
+      "shares": 1020000
+    },
+    {
+      "t": "SRUUCN",
+      "n": "SMARTCENTRES REAL ESTATE INVESTMEN",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 1053302.05,
+      "shares": 1025000
+    },
+    {
+      "t": "SRUUCN",
+      "n": "SMARTCENTRES REAL ESTATE INVESTMEN",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 1005402.98,
+      "shares": 1000000
+    },
+    {
+      "t": "SRUUCN",
+      "n": "SMARTCENTRES REAL ESTATE INVESTMEN",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 904520.44,
+      "shares": 930000
+    },
+    {
+      "t": "SRUUCN",
+      "n": "SMARTCENTRES REAL ESTATE INVESTMEN",
+      "weight": 0.02,
+      "sector": "Real Estate",
+      "mv": 850027.72,
+      "shares": 840000
+    },
+    {
+      "t": "STNCN",
+      "n": "STANTEC INC.",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 1061001.73,
+      "shares": 1065000
+    },
+    {
+      "t": "STNCN",
+      "n": "STANTEC INC. RegS",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 914647.36,
+      "shares": 875000
+    },
+    {
+      "t": "SUCN",
+      "n": "SUNCOR ENERGY INC MTN",
+      "weight": 0.06,
+      "sector": "Energy",
+      "mv": 2497348.17,
+      "shares": 2535000
+    },
+    {
+      "t": "SUCN",
+      "n": "SUNCOR ENERGY INC MTN",
+      "weight": 0.03,
+      "sector": "Energy",
+      "mv": 1176896.33,
+      "shares": 1172000
+    },
+    {
+      "t": "SYY",
+      "n": "SYSCO HOLDINGS CORP",
+      "weight": 0.03,
+      "sector": "Industrial",
+      "mv": 1240377.56,
+      "shares": 1246000
+    },
+    {
+      "t": "TCBKCN",
+      "n": "FIRST WEST CREDIT UNION RegS",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 577841.93,
+      "shares": 535000
+    },
+    {
+      "t": "TCBKCN",
+      "n": "FIRST WEST CREDIT UNION",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 525042.9,
+      "shares": 520000
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS CORPORATION",
+      "weight": 0.09,
+      "sector": "Communication",
+      "mv": 3886746.97,
+      "shares": 3897000
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS CORPORATION",
+      "weight": 0.07,
+      "sector": "Communication",
+      "mv": 3241984.89,
+      "shares": 3200000
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS CORPORATION",
+      "weight": 0.07,
+      "sector": "Communication",
+      "mv": 3038004.88,
+      "shares": 2950000
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS CORPORATION",
+      "weight": 0.06,
+      "sector": "Communication",
+      "mv": 2543326,
+      "shares": 2541000
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS CORPORATION",
+      "weight": 0.06,
+      "sector": "Communication",
+      "mv": 2516574.83,
+      "shares": 2452000
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS CORPORATION",
+      "weight": 0.05,
+      "sector": "Communication",
+      "mv": 2288310.4,
+      "shares": 2355000
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS CORPORATION",
+      "weight": 0.04,
+      "sector": "Communication",
+      "mv": 1910942.71,
+      "shares": 1935000
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS CORPORATION",
+      "weight": 0.03,
+      "sector": "Communication",
+      "mv": 1498158.99,
+      "shares": 1463000
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS CORPORATION",
+      "weight": 0.03,
+      "sector": "Communication",
+      "mv": 1470177.31,
+      "shares": 1570000
+    },
+    {
+      "t": "TCN",
+      "n": "TELUS CORPORATION",
+      "weight": 0.03,
+      "sector": "Communication",
+      "mv": 1360084.07,
+      "shares": 1300000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE",
+      "weight": 0.25,
+      "sector": "Financial",
+      "mv": 11161851.06,
+      "shares": 11368000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE RegS",
+      "weight": 0.22,
+      "sector": "Financial",
+      "mv": 9773773.13,
+      "shares": 10015000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE",
+      "weight": 0.21,
+      "sector": "Financial",
+      "mv": 9310849.89,
+      "shares": 9072000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE",
+      "weight": 0.2,
+      "sector": "Financial",
+      "mv": 9250307.88,
+      "shares": 9266000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE RegS",
+      "weight": 0.18,
+      "sector": "Financial",
+      "mv": 8112379.39,
+      "shares": 7955000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE",
+      "weight": 0.18,
+      "sector": "Financial",
+      "mv": 8056511.51,
+      "shares": 8149000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE MTN",
+      "weight": 0.17,
+      "sector": "Financial",
+      "mv": 7818398.9,
+      "shares": 7473000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE RegS",
+      "weight": 0.17,
+      "sector": "Financial",
+      "mv": 7735208.49,
+      "shares": 7415000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE RegS",
+      "weight": 0.15,
+      "sector": "Financial",
+      "mv": 6786045.78,
+      "shares": 6720000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE",
+      "weight": 0.13,
+      "sector": "Financial",
+      "mv": 5978877.97,
+      "shares": 5994000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE",
+      "weight": 0.13,
+      "sector": "Financial",
+      "mv": 5780748.14,
+      "shares": 5716000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE RegS",
+      "weight": 0.12,
+      "sector": "Financial",
+      "mv": 5596715.59,
+      "shares": 5717000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE",
+      "weight": 0.12,
+      "sector": "Financial",
+      "mv": 5491581.99,
+      "shares": 5318000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE RegS",
+      "weight": 0.12,
+      "sector": "Financial",
+      "mv": 5242016.96,
+      "shares": 5408000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE MTN",
+      "weight": 0.09,
+      "sector": "Financial",
+      "mv": 3853791.65,
+      "shares": 3854000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE RegS",
+      "weight": 0.08,
+      "sector": "Financial",
+      "mv": 3452746.72,
+      "shares": 3350000
+    },
+    {
+      "t": "TD",
+      "n": "TORONTO-DOMINION BANK/THE MTN RegS",
+      "weight": 0.07,
+      "sector": "Financial",
+      "mv": 3162927.17,
+      "shares": 3170000
+    },
+    {
+      "t": "TERANE",
+      "n": "TERANET HOLDINGS LP",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1730049.4,
+      "shares": 1750000
+    },
+    {
+      "t": "TIHCN",
+      "n": "TOROMONT INDUSTRIES LTD.",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1756519.85,
+      "shares": 1724000
+    },
+    {
+      "t": "TIHCN",
+      "n": "TOROMONT INDUSTRIES LTD RegS",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 1061788.84,
+      "shares": 1080000
+    },
+    {
+      "t": "TORHYD",
+      "n": "TORONTO HYDRO CORPORATION",
+      "weight": 0.02,
+      "sector": "Infrastructure",
+      "mv": 1108588.49,
+      "shares": 1144000
+    },
+    {
+      "t": "TORHYD",
+      "n": "TORONTO HYDRO CORPORATION RegS",
+      "weight": 0.02,
+      "sector": "Infrastructure",
+      "mv": 931999.11,
+      "shares": 888000
+    },
+    {
+      "t": "TORHYD",
+      "n": "TORONTO HYDRO CORPORATION",
+      "weight": 0.01,
+      "sector": "Infrastructure",
+      "mv": 603765.66,
+      "shares": 655000
+    },
+    {
+      "t": "TOUCN",
+      "n": "TOURMALINE OIL CORP RegS",
+      "weight": 0.02,
+      "sector": "Energy",
+      "mv": 1122676.23,
+      "shares": 1140000
+    },
+    {
+      "t": "TOUCN",
+      "n": "TOURMALINE OIL CORP RegS",
+      "weight": 0.02,
+      "sector": "Energy",
+      "mv": 903110.01,
+      "shares": 930000
+    },
+    {
+      "t": "TOUCN",
+      "n": "TOURMALINE OIL CORP RegS",
+      "weight": 0.01,
+      "sector": "Energy",
+      "mv": 492434.07,
+      "shares": 500000
+    },
+    {
+      "t": "TOYOTA",
+      "n": "TOYOTA CREDIT CANADA INC MTN",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2067274.17,
+      "shares": 2044000
+    },
+    {
+      "t": "TOYOTA",
+      "n": "TOYOTA CREDIT CANADA INC MTN",
+      "weight": 0.05,
+      "sector": "Financial",
+      "mv": 2059896.36,
+      "shares": 2022000
+    },
+    {
+      "t": "TOYOTA",
+      "n": "TOYOTA CREDIT CANADA INC MTN",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1983919.59,
+      "shares": 1996000
+    },
+    {
+      "t": "TOYOTA",
+      "n": "TOYOTA CREDIT CANADA INC MTN",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1812317.53,
+      "shares": 1800000
+    },
+    {
+      "t": "TOYOTA",
+      "n": "TOYOTA CREDIT CANADA INC MTN",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1808841.02,
+      "shares": 1814000
+    },
+    {
+      "t": "TOYOTA",
+      "n": "TOYOTA CREDIT CANADA INC MTN",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1517974.12,
+      "shares": 1542000
+    },
+    {
+      "t": "TOYOTA",
+      "n": "TOYOTA CREDIT CANADA INC MTN",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1507849.94,
+      "shares": 1500000
+    },
+    {
+      "t": "TOYOTA",
+      "n": "TOYOTA CREDIT CANADA INC MTN",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1404522.29,
+      "shares": 1430000
+    },
+    {
+      "t": "TOYOTA",
+      "n": "TOYOTA CREDIT CANADA INC MTN",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1378430.22,
+      "shares": 1350000
+    },
+    {
+      "t": "TOYOTA",
+      "n": "TOYOTA CREDIT CANADA INC MTN",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1332610.94,
+      "shares": 1340000
+    },
+    {
+      "t": "TOYOTA",
+      "n": "TOYOTA CREDIT CANADA INC MTN",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1290213.8,
+      "shares": 1332000
+    },
+    {
+      "t": "TOYOTA",
+      "n": "TOYOTA CREDIT CANADA INC MTN",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1225133.82,
+      "shares": 1246000
+    },
+    {
+      "t": "TOYOTA",
+      "n": "TOYOTA CREDIT CANADA INC MTN",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1167980.19,
+      "shares": 1176000
+    },
+    {
+      "t": "TOYOTA",
+      "n": "TOYOTA CREDIT CANADA INC MTN RegS",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 977024.59,
+      "shares": 945000
+    },
+    {
+      "t": "TOYOTA",
+      "n": "TOYOTA CREDIT CANADA INC MTN",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 716426.04,
+      "shares": 704000
+    },
+    {
+      "t": "TRICN",
+      "n": "THOMSON REUTERS CORPORATION",
+      "weight": 0.02,
+      "sector": "Communication",
+      "mv": 981576.96,
+      "shares": 980000
+    },
+    {
+      "t": "TRICN",
+      "n": "THOMSON REUTERS CORPORATION",
+      "weight": 0.01,
+      "sector": "Communication",
+      "mv": 470701.54,
+      "shares": 470000
+    },
+    {
+      "t": "TRNT",
+      "n": "TORONTO (CITY OF)",
+      "weight": 0.06,
+      "sector": "Municipal",
+      "mv": 2565730.12,
+      "shares": 2614000
+    },
+    {
+      "t": "TRPCN",
+      "n": "TRANSCANADA PIPELINES LTD MTN RegS",
+      "weight": 0.12,
+      "sector": "Energy",
+      "mv": 5601217.06,
+      "shares": 5362000
+    },
+    {
+      "t": "TRPCN",
+      "n": "TRANSCANADA PIPELINES LTD MTN",
+      "weight": 0.09,
+      "sector": "Energy",
+      "mv": 4170492.16,
+      "shares": 4211000
+    },
+    {
+      "t": "TRPCN",
+      "n": "TRANSCANADA PIPELINES LTD MTN RegS",
+      "weight": 0.08,
+      "sector": "Energy",
+      "mv": 3411720.32,
+      "shares": 3505000
+    },
+    {
+      "t": "TRPCN",
+      "n": "TRANSCANADA PIPELINES LTD MTN",
+      "weight": 0.07,
+      "sector": "Energy",
+      "mv": 3160014.71,
+      "shares": 3171000
+    },
+    {
+      "t": "TRPCN",
+      "n": "TRANSCANADA TRUST",
+      "weight": 0.05,
+      "sector": "Energy",
+      "mv": 2323546.6,
+      "shares": 2400000
+    },
+    {
+      "t": "TRPCN",
+      "n": "TRANSCANADA PIPELINES LTD MTN",
+      "weight": 0.04,
+      "sector": "Energy",
+      "mv": 1938601.91,
+      "shares": 2025000
+    },
+    {
+      "t": "TRPCN",
+      "n": "TRANSCANADA PIPELINES LTD",
+      "weight": 0.03,
+      "sector": "Energy",
+      "mv": 1506460.43,
+      "shares": 1533000
+    },
+    {
+      "t": "TRPCN",
+      "n": "TRANSCANADA PIPELINES LIMITED MTN",
+      "weight": 0.01,
+      "sector": "Energy",
+      "mv": 422720.75,
+      "shares": 400000
+    },
+    {
+      "t": "TSUCN",
+      "n": "TRISURA GROUP LTD RegS",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 975564.07,
+      "shares": 1000000
+    },
+    {
+      "t": "VANAFF",
+      "n": "VANCOUVER AIRPORT FUEL FACILITIES",
+      "weight": 0.03,
+      "sector": "Infrastructure",
+      "mv": 1400010.41,
+      "shares": 1400000
+    },
+    {
+      "t": "VANAIR",
+      "n": "VANCOUVER AIRPORT AUTHORITY",
+      "weight": 0.01,
+      "sector": "Infrastructure",
+      "mv": 462296.58,
+      "shares": 500000
+    },
+    {
+      "t": "VANCIT",
+      "n": "VANCOUVER CITY SAVINGS CREDIT UNIO RegS",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 1017295.01,
+      "shares": 1017000
+    },
+    {
+      "t": "VITLUC",
+      "n": "VITAL INFRASTRUCTURE PROPERTY TRUS",
+      "weight": 0.03,
+      "sector": "Real Estate",
+      "mv": 1158085.25,
+      "shares": 1130000
+    },
+    {
+      "t": "VITLUC",
+      "n": "VITAL INFRASTRUCTURE PROPERTY TRUS",
+      "weight": 0.01,
+      "sector": "Real Estate",
+      "mv": 645042.72,
+      "shares": 635000
+    },
+    {
+      "t": "VITLUC",
+      "n": "VITAL INFRASTRUCTURE PROPERTY TRUS",
+      "weight": 0.01,
+      "sector": "Real Estate",
+      "mv": 492009.68,
+      "shares": 491000
+    },
+    {
+      "t": "VTR",
+      "n": "VENTAS CANADA FINANCE LTD",
+      "weight": 0.05,
+      "sector": "Real Estate",
+      "mv": 2474545.94,
+      "shares": 2366000
+    },
+    {
+      "t": "VTR",
+      "n": "VENTAS CANADA FINANCE LTD",
+      "weight": 0.05,
+      "sector": "Real Estate",
+      "mv": 2085662.51,
+      "shares": 2035000
+    },
+    {
+      "t": "VW",
+      "n": "VW CREDIT CANADA INC RegS",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1906559.25,
+      "shares": 1930000
+    },
+    {
+      "t": "VW",
+      "n": "VW CREDIT CANADA INC RegS",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1873829.32,
+      "shares": 1900000
+    },
+    {
+      "t": "VW",
+      "n": "VW CREDIT CANADA INC RegS",
+      "weight": 0.04,
+      "sector": "Financial",
+      "mv": 1788841.93,
+      "shares": 1795000
+    },
+    {
+      "t": "VW",
+      "n": "VW CREDIT CANADA INC",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1490818.7,
+      "shares": 1480000
+    },
+    {
+      "t": "VW",
+      "n": "VW CREDIT CANADA INC RegS",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1467060.06,
+      "shares": 1422000
+    },
+    {
+      "t": "VW",
+      "n": "VW CREDIT CANADA INC RegS",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1424428.36,
+      "shares": 1435000
+    },
+    {
+      "t": "VW",
+      "n": "VW CREDIT CANADA INC RegS",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 923411.67,
+      "shares": 915000
+    },
+    {
+      "t": "VW",
+      "n": "VW CREDIT CANADA INC RegS",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 716376.19,
+      "shares": 685000
+    },
+    {
+      "t": "VW",
+      "n": "VW CREDIT CANADA INC RegS",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 632087.05,
+      "shares": 620000
+    },
+    {
+      "t": "WCNCN",
+      "n": "WASTE CONNECTIONS INC",
+      "weight": 0.05,
+      "sector": "Industrial",
+      "mv": 2040272.32,
+      "shares": 1993000
+    },
+    {
+      "t": "WCPCN",
+      "n": "VEREN INC RegS",
+      "weight": 0.04,
+      "sector": "Energy",
+      "mv": 1808253.61,
+      "shares": 1750000
+    },
+    {
+      "t": "WCPCN",
+      "n": "WHITECAP RESOURCES INC",
+      "weight": 0.04,
+      "sector": "Energy",
+      "mv": 1620014.44,
+      "shares": 1587000
+    },
+    {
+      "t": "WCPCN",
+      "n": "WHITECAP RESOURCES INC RegS",
+      "weight": 0.02,
+      "sector": "Energy",
+      "mv": 1016783.88,
+      "shares": 1009000
+    },
+    {
+      "t": "WELL",
+      "n": "WELLTOWER OP LLC",
+      "weight": 0.07,
+      "sector": "Real Estate",
+      "mv": 3157002.68,
+      "shares": 3200000
+    },
+    {
+      "t": "WEMALL",
+      "n": "ORIGINAL WEMPI INC",
+      "weight": 0.1,
+      "sector": "Real Estate",
+      "mv": 4539962.91,
+      "shares": 4250000
+    },
+    {
+      "t": "WNCN",
+      "n": "GEORGE WESTON LTD",
+      "weight": 0.02,
+      "sector": "Industrial",
+      "mv": 1118937.39,
+      "shares": 1120000
+    },
+    {
+      "t": "WSPCN",
+      "n": "WSP GLOBAL INC RegS",
+      "weight": 0.05,
+      "sector": "Industrial",
+      "mv": 2121589.76,
+      "shares": 2000000
+    },
+    {
+      "t": "WSPCN",
+      "n": "WSP GLOBAL INC",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1961422.08,
+      "shares": 1963000
+    },
+    {
+      "t": "WSPCN",
+      "n": "WSP GLOBAL INC",
+      "weight": 0.04,
+      "sector": "Industrial",
+      "mv": 1857325.57,
+      "shares": 1875000
+    },
+    {
+      "t": "XCN",
+      "n": "TMX GROUP LTD",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1294179.99,
+      "shares": 1400000
+    },
+    {
+      "t": "XCN",
+      "n": "TMX GROUP LTD RegS",
+      "weight": 0.03,
+      "sector": "Financial",
+      "mv": 1251234.59,
+      "shares": 1223000
+    },
+    {
+      "t": "XCN",
+      "n": "TMX GROUP LTD",
+      "weight": 0.02,
+      "sector": "Financial",
+      "mv": 678721.98,
+      "shares": 670000
+    },
+    {
+      "t": "XCN",
+      "n": "TMX GROUP LTD RegS",
+      "weight": 0.01,
+      "sector": "Financial",
+      "mv": 484368.18,
+      "shares": 484000
+    },
+    {
+      "t": "YORKMU",
+      "n": "REGIONAL MUNI OF YORK",
+      "weight": 0.04,
+      "sector": "Municipal",
+      "mv": 1777103.2,
+      "shares": 1900000
+    },
+    {
+      "t": "YORKMU",
+      "n": "YORK REGIONAL MUNICIPALITY OF",
+      "weight": 0.03,
+      "sector": "Municipal",
+      "mv": 1463605.32,
+      "shares": 1480000
+    },
+    {
+      "t": "YORKMU",
+      "n": "REGIONAL MUNI OF YORK",
+      "weight": 0.02,
+      "sector": "Municipal",
+      "mv": 931456.78,
+      "shares": 1000000
+    },
+    {
+      "t": "YUKON",
+      "n": "GOVERNMENT OF YUKON",
+      "weight": 0.02,
+      "sector": "Provincial",
+      "mv": 697850.87,
+      "shares": 710000
+    }
+  ]
+}

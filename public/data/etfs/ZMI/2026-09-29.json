@@ -1,0 +1,91 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-29",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMI_20260929.xlsx",
+  "created_at": "2026-10-01T10:56:40.812Z",
+  "partial": false,
+  "content_hash": "53c2fa686782295556c75e96067e2411076677ad1446fb6253de8389fd4f0d0d",
+  "holdings": [
+    {
+      "t": "CA05575W1032",
+      "n": "BMO Mid-Term US IG Corporate Bond Hedged to CAD Index ETF",
+      "weight": 10.04,
+      "isin": "CA05575W1032",
+      "sector": "-",
+      "mv": 26337121.11,
+      "shares": 2231619
+    },
+    {
+      "t": "CA05575X1197",
+      "n": "BMO US Dividend ETF",
+      "weight": 20.85,
+      "isin": "CA05575X1197",
+      "sector": "-",
+      "mv": 54691300.98,
+      "shares": 932208
+    },
+    {
+      "t": "CA05585M1032",
+      "n": "BMO Corporate Bond Index ETF",
+      "weight": 24.13,
+      "isin": "CA05585M1032",
+      "sector": "-",
+      "mv": 63289170.33,
+      "shares": 1381732
+    },
+    {
+      "t": "CA05590R1055",
+      "n": "BMO Canadian Dividend ETF",
+      "weight": 13.43,
+      "isin": "CA05590R1055",
+      "sector": "-",
+      "mv": 35223152,
+      "shares": 1079394
+    },
+    {
+      "t": "CA05600A3082",
+      "n": "BMO Premium Yield ETF",
+      "weight": 5.15,
+      "isin": "CA05600A3082",
+      "sector": "-",
+      "mv": 13502077.95,
+      "shares": 458998
+    },
+    {
+      "t": "CA05600B1085",
+      "n": "BMO Global High Dividend Covered Call ETF",
+      "weight": 15,
+      "isin": "CA05600B1085",
+      "sector": "-",
+      "mv": 39352269.55,
+      "shares": 1068936
+    },
+    {
+      "t": "CA09658Q1081",
+      "n": "BMO International Dividend ETF",
+      "weight": 6.31,
+      "isin": "CA09658Q1081",
+      "sector": "-",
+      "mv": 16538292.36,
+      "shares": 508141
+    },
+    {
+      "t": "CA09661J1093",
+      "n": "BMO US Preferred Share Hedged to CAD Index ETF",
+      "weight": 4.78,
+      "isin": "CA09661J1093",
+      "sector": "-",
+      "mv": 12525532.45,
+      "shares": 819404
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.31,
+      "sector": "-",
+      "mv": 821766.47,
+      "shares": 1
+    }
+  ]
+}
