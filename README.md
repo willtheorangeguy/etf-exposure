@@ -53,7 +53,7 @@ The repository is private, so cloning requires access. Open [the local app](http
 
 Search for `VCN`, select it, enter `1000` CAD, and calculate exposure. A holding at 5% contributes CAD 50. Use the same currency for every ETF amount; the app does not convert currencies.
 
-For catalog expansion, follow [Add ETFs](docs/adding-etfs.md). Give another model the [Vanguard expansion handoff](docs/vanguard-expansion.md), which defines scope, source discovery, acceptance checks, and stop conditions.
+For catalog expansion, follow [Add ETFs](docs/adding-etfs.md).
 
 ## Documentation
 
