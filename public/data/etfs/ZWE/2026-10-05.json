@@ -1,0 +1,28 @@
+{
+  "id": 3,
+  "as_of_date": "2026-10-05",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWE_20261005.xlsx",
+  "created_at": "2026-10-06T21:39:02.541Z",
+  "partial": false,
+  "content_hash": "c9d1033b3f270c95862f73fb62f71ef93e81f7249cb650df4e4abe60b8e52a3b",
+  "holdings": [
+    {
+      "t": "CA05585L1058",
+      "n": "BMO Europe High Dividend Covered Call ETF",
+      "weight": 99.96,
+      "isin": "CA05585L1058",
+      "sector": "-",
+      "mv": 757179642.33,
+      "shares": 37445194
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.04,
+      "sector": "-",
+      "mv": 284269.74,
+      "shares": 1
+    }
+  ]
+}

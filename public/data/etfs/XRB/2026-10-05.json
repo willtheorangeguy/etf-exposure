@@ -1,0 +1,123 @@
+{
+  "id": 3,
+  "as_of_date": "2026-10-05",
+  "source": "url",
+  "source_url": "https://www.blackrock.com/ca/investors/en/products/239490/ishares-canadian-real-return-bond-index-etf/1464253357814.ajax?fileType=csv&fileName=XRB_holdings&dataType=fund",
+  "created_at": "2026-10-06T21:39:02.541Z",
+  "partial": false,
+  "content_hash": "3c7d983c6a197515a6ab8d64d0c3c69b25ee87ef7e8a3e6f1fd810a65423bd94",
+  "holdings": [
+    {
+      "t": "CAD",
+      "n": "CAD CASH",
+      "weight": 0.05,
+      "sector": "Cash and/or Derivatives",
+      "mv": 136479.62,
+      "shares": 136480
+    },
+    {
+      "t": "CANRRB",
+      "n": "CANADA (GOVERNMENT)",
+      "weight": 14.89,
+      "sector": "Federal",
+      "mv": 38511866.22,
+      "shares": 33686530
+    },
+    {
+      "t": "CANRRB",
+      "n": "CANADA (GOVERNMENT)",
+      "weight": 13.82,
+      "sector": "Federal",
+      "mv": 35752709.34,
+      "shares": 31500883
+    },
+    {
+      "t": "CANRRB",
+      "n": "CANADA (GOVERNMENT)",
+      "weight": 13.05,
+      "sector": "Federal",
+      "mv": 33766924.21,
+      "shares": 35570440
+    },
+    {
+      "t": "CANRRB",
+      "n": "CANADA (GOVERNMENT)",
+      "weight": 12.48,
+      "sector": "Federal",
+      "mv": 32276106.78,
+      "shares": 31158149
+    },
+    {
+      "t": "CANRRB",
+      "n": "CANADA (GOVERNMENT)",
+      "weight": 12.17,
+      "sector": "Federal",
+      "mv": 31474949.53,
+      "shares": 30857070
+    },
+    {
+      "t": "CANRRB",
+      "n": "CANADA (GOVERNMENT)",
+      "weight": 11.47,
+      "sector": "Federal",
+      "mv": 29669712.72,
+      "shares": 33577642
+    },
+    {
+      "t": "CANRRB",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 9.14,
+      "sector": "Federal",
+      "mv": 23655605.97,
+      "shares": 32983568
+    },
+    {
+      "t": "CANRRB",
+      "n": "CANADA (GOVERNMENT OF)",
+      "weight": 2.06,
+      "sector": "Federal",
+      "mv": 5327384.76,
+      "shares": 8411060
+    },
+    {
+      "t": "MP",
+      "n": "MANITOBA (PROVINCE OF)",
+      "weight": 0.69,
+      "sector": "Provincial",
+      "mv": 1784097.55,
+      "shares": 1858668
+    },
+    {
+      "t": "ONT",
+      "n": "ONTARIO (PROVINCE OF)",
+      "weight": 5.09,
+      "sector": "Provincial",
+      "mv": 13172475.38,
+      "shares": 13437715
+    },
+    {
+      "t": "Q",
+      "n": "QUEBEC PROVINCE",
+      "weight": 2.26,
+      "sector": "Provincial",
+      "mv": 5842324.32,
+      "shares": 5157705
+    },
+    {
+      "t": "Q",
+      "n": "QUEBEC (PROVINCE OF)",
+      "weight": 2.14,
+      "sector": "Provincial",
+      "mv": 5543340.5,
+      "shares": 5430744
+    },
+    {
+      "t": "Q",
+      "n": "QUEBEC (PROVINCE OF)",
+      "weight": 0.68,
+      "sector": "Provincial",
+      "mv": 1765900.19,
+      "shares": 1616428
+    }
+  ]
+}

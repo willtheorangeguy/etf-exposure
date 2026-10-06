@@ -1,0 +1,291 @@
+{
+  "id": 3,
+  "as_of_date": "2026-10-05",
+  "source": "url",
+  "source_url": "https://www.blackrock.com/ca/investors/en/products/239497/ishares-canadian-growth-index-etf/1464253357814.ajax?fileType=csv&fileName=XCG_holdings&dataType=fund",
+  "created_at": "2026-10-06T21:39:02.541Z",
+  "partial": false,
+  "content_hash": "e66f54d4eb4598cf0f4d5acec576e9498decc5efa7197336ff494a1f46114e51",
+  "holdings": [
+    {
+      "t": "ABX",
+      "n": "BARRICK MINING",
+      "weight": 7.0285942811437705,
+      "sector": "Materials",
+      "mv": 10515187.98,
+      "shares": 184283
+    },
+    {
+      "t": "AEM",
+      "n": "AGNICO EAGLE MINES",
+      "weight": 9.638072385522895,
+      "sector": "Materials",
+      "mv": 14426433.67,
+      "shares": 55187
+    },
+    {
+      "t": "BBD.A",
+      "n": "BOMBARDIER CLASS A",
+      "weight": 0.03999200159968006,
+      "sector": "Industrials",
+      "mv": 58018.4,
+      "shares": 190
+    },
+    {
+      "t": "BBD.B",
+      "n": "BOMBARDIER CLASS B",
+      "weight": 1.989602079584083,
+      "sector": "Industrials",
+      "mv": 2978188.82,
+      "shares": 9754
+    },
+    {
+      "t": "CAD",
+      "n": "CAD CASH",
+      "weight": 0.09998000399920015,
+      "sector": "Cash and/or Derivatives",
+      "mv": 150798.36,
+      "shares": 150798
+    },
+    {
+      "t": "CAE",
+      "n": "CAE",
+      "weight": 0.8098380323935213,
+      "sector": "Industrials",
+      "mv": 1216826.82,
+      "shares": 35937
+    },
+    {
+      "t": "CCL.B",
+      "n": "CCL INDUSTRIES CLASS B",
+      "weight": 0.9898020395920815,
+      "sector": "Materials",
+      "mv": 1480499.15,
+      "shares": 15665
+    },
+    {
+      "t": "CCO",
+      "n": "CAMECO",
+      "weight": 4.069186162767447,
+      "sector": "Energy",
+      "mv": 6086359.65,
+      "shares": 48765
+    },
+    {
+      "t": "CLS",
+      "n": "CELESTICA",
+      "weight": 5.1489702059588085,
+      "sector": "Information Technology",
+      "mv": 7709237.6,
+      "shares": 14120
+    },
+    {
+      "t": "CP",
+      "n": "CANADIAN PACIFIC KANSAS CITY",
+      "weight": 8.048390321935614,
+      "sector": "Industrials",
+      "mv": 12045785.52,
+      "shares": 98349
+    },
+    {
+      "t": "CSU",
+      "n": "CONSTELLATION SOFTWARE",
+      "weight": 4.739052189562087,
+      "sector": "Information Technology",
+      "mv": 7086940.77,
+      "shares": 2373
+    },
+    {
+      "t": "DOL",
+      "n": "DOLLARAMA",
+      "weight": 3.6892621475704854,
+      "sector": "Consumer Discretionary",
+      "mv": 5525032.1,
+      "shares": 30170
+    },
+    {
+      "t": "FM",
+      "n": "FIRST QUANTUM MINERALS",
+      "weight": 2.049590081983603,
+      "sector": "Materials",
+      "mv": 3074715.88,
+      "shares": 75676
+    },
+    {
+      "t": "FNV",
+      "n": "FRANCO NEVADA",
+      "weight": 4.959008198360327,
+      "sector": "Materials",
+      "mv": 7422201.5,
+      "shares": 21595
+    },
+    {
+      "t": "GFL",
+      "n": "GFL ENVIRONMENTAL SUBORDINATE VOTI",
+      "weight": 1.4897020595880823,
+      "sector": "Industrials",
+      "mv": 2224903.2,
+      "shares": 36885
+    },
+    {
+      "t": "GIB.A",
+      "n": "CGI INC CLASS A",
+      "weight": 1.389722055588882,
+      "sector": "Information Technology",
+      "mv": 2077176.93,
+      "shares": 20487
+    },
+    {
+      "t": "GIL",
+      "n": "GILDAN ACTIVEWEAR",
+      "weight": 0.7998400319936012,
+      "sector": "Consumer Discretionary",
+      "mv": 1200732.61,
+      "shares": 20713
+    },
+    {
+      "t": "IVN",
+      "n": "IVANHOE MINES CLASS A",
+      "weight": 0.719856028794241,
+      "sector": "Materials",
+      "mv": 1074092.25,
+      "shares": 87681
+    },
+    {
+      "t": "K",
+      "n": "KINROSS GOLD",
+      "weight": 2.9894021195760847,
+      "sector": "Materials",
+      "mv": 4468031.16,
+      "shares": 132819
+    },
+    {
+      "t": "LUG",
+      "n": "LUNDIN GOLD",
+      "weight": 0.659868026394721,
+      "sector": "Materials",
+      "mv": 981426,
+      "shares": 11400
+    },
+    {
+      "t": "LUN",
+      "n": "LUNDIN MINING",
+      "weight": 1.7696460707858428,
+      "sector": "Materials",
+      "mv": 2651805,
+      "shares": 75550
+    },
+    {
+      "t": "MRU",
+      "n": "METRO",
+      "weight": 1.3997200559888021,
+      "sector": "Consumer Staples",
+      "mv": 2098347.9,
+      "shares": 23406
+    },
+    {
+      "t": "PAAS",
+      "n": "PAN AMERICAN SILVER",
+      "weight": 2.0095980803839226,
+      "sector": "Materials",
+      "mv": 3014924.87,
+      "shares": 46649
+    },
+    {
+      "t": "QSR",
+      "n": "RESTAURANTS BRANDS INTERNATIONAL",
+      "weight": 2.6094781043791238,
+      "sector": "Consumer Discretionary",
+      "mv": 3901797.12,
+      "shares": 39104
+    },
+    {
+      "t": "SHOP",
+      "n": "SHOPIFY SUBORDINATE VOTING CLASS A",
+      "weight": 11.647670465906819,
+      "sector": "Information Technology",
+      "mv": 17436295.06,
+      "shares": 76418
+    },
+    {
+      "t": "STN",
+      "n": "STANTEC",
+      "weight": 0.7998400319936012,
+      "sector": "Industrials",
+      "mv": 1198107.44,
+      "shares": 12568
+    },
+    {
+      "t": "TFII",
+      "n": "TFI INTERNATIONAL",
+      "weight": 0.9498100379924014,
+      "sector": "Industrials",
+      "mv": 1415973.64,
+      "shares": 8644
+    },
+    {
+      "t": "TIH",
+      "n": "TOROMONT INDUSTRIES LTD",
+      "weight": 1.439712057588482,
+      "sector": "Industrials",
+      "mv": 2160223.5,
+      "shares": 9150
+    },
+    {
+      "t": "TRI",
+      "n": "THOMSON REUTERS CORP",
+      "weight": 1.3097380523895221,
+      "sector": "Industrials",
+      "mv": 1956112.05,
+      "shares": 14145
+    },
+    {
+      "t": "USD",
+      "n": "USD CASH",
+      "weight": 0.01999600079984003,
+      "sector": "Cash and/or Derivatives",
+      "mv": 37206.93,
+      "shares": 26122
+    },
+    {
+      "t": "WCN",
+      "n": "WASTE CONNECTIONS",
+      "weight": 4.139172165566886,
+      "sector": "Industrials",
+      "mv": 6195894.99,
+      "shares": 28167
+    },
+    {
+      "t": "WN",
+      "n": "GEORGE WESTON",
+      "weight": 1.1497700459908016,
+      "sector": "Consumer Staples",
+      "mv": 1723080.84,
+      "shares": 17169
+    },
+    {
+      "t": "WPM",
+      "n": "WHEATON PRECIOUS METALS",
+      "weight": 6.60867826434713,
+      "sector": "Materials",
+      "mv": 9887976.95,
+      "shares": 50851
+    },
+    {
+      "t": "WSP",
+      "n": "WSP GLOBAL INC",
+      "weight": 1.6996600679864025,
+      "sector": "Industrials",
+      "mv": 2541381.81,
+      "shares": 15103
+    },
+    {
+      "t": "X",
+      "n": "TMX GROUP LTD",
+      "weight": 1.0997800439912018,
+      "sector": "Financials",
+      "mv": 1639528.56,
+      "shares": 30824
+    }
+  ]
+}

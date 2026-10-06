@@ -1,0 +1,28 @@
+{
+  "id": 3,
+  "as_of_date": "2026-10-05",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLR_20261005.xlsx",
+  "created_at": "2026-10-06T21:39:02.541Z",
+  "partial": false,
+  "content_hash": "cd15d841ed7ab7eb5feaa50f378f6a642308773a119f32be40d1c452405ccf01",
+  "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.21,
+      "sector": "-",
+      "mv": -13926.45,
+      "shares": 1
+    },
+    {
+      "t": "US81369Y8600",
+      "n": "STATE STREET REAL ESTATE SELECT SECTOR SPDR ETF",
+      "weight": 100.21,
+      "isin": "US81369Y8600",
+      "sector": "-",
+      "mv": 6499604.72,
+      "shares": 112071
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": 3,
+  "as_of_date": "2026-10-05",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBAL_20261005.xlsx",
+  "created_at": "2026-10-06T21:39:02.541Z",
+  "partial": false,
+  "content_hash": "6aa9425d1c60d3fb7c0d2a4634a900a50afd816a423ab641e6e46c56c4d1ad85",
+  "holdings": [
+    {
+      "t": "CA05574G1090",
+      "n": "BMO S&P/TSX Capped Composite Index ETF",
+      "weight": 14.648535146485353,
+      "isin": "CA05574G1090",
+      "sector": "-",
+      "mv": 116942563.59,
+      "shares": 2461957
+    },
+    {
+      "t": "CA05575T1003",
+      "n": "BMO S&P 500 Index ETF",
+      "weight": 28.25717428257171,
+      "isin": "CA05575T1003",
+      "sector": "-",
+      "mv": 225572156.42,
+      "shares": 1858614
+    },
+    {
+      "t": "CA05576Y1088",
+      "n": "BMO MSCI Emerging Markets Index ETF",
+      "weight": 5.819418058194182,
+      "isin": "CA05576Y1088",
+      "sector": "-",
+      "mv": 46434160.05,
+      "shares": 1318063
+    },
+    {
+      "t": "CA05579E1097",
+      "n": "BMO MSCI EAFE Index ETF",
+      "weight": 9.819018098190183,
+      "isin": "CA05579E1097",
+      "sector": "-",
+      "mv": 78353635.14,
+      "shares": 2483205
+    },
+    {
+      "t": "CA05589W2067",
+      "n": "BMO S&P US Small Cap Index ETF",
+      "weight": 0.7299270072992701,
+      "isin": "CA05589W2067",
+      "sector": "-",
+      "mv": 5808855.65,
+      "shares": 110665
+    },
+    {
+      "t": "CA05589X1050",
+      "n": "BMO S&P US Mid Cap Index ETF",
+      "weight": 1.4898510148985102,
+      "isin": "CA05589X1050",
+      "sector": "-",
+      "mv": 11867478.92,
+      "shares": 211142
+    },
+    {
+      "t": "CA05590X1024",
+      "n": "BMO Discount Bond Index ETF",
+      "weight": 27.647235276472355,
+      "isin": "CA05590X1024",
+      "sector": "-",
+      "mv": 220758292.08,
+      "shares": 14934547
+    },
+    {
+      "t": "CA05592U1140",
+      "n": "BMO US Aggregate Bond Index ETF",
+      "weight": 11.598840115988402,
+      "isin": "CA05592U1140",
+      "sector": "-",
+      "mv": 92636879.85,
+      "shares": 3298569
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.009999000099990002,
+      "sector": "-",
+      "mv": -91096.27,
+      "shares": 1
+    }
+  ]
+}

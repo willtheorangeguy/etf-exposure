@@ -1,0 +1,40 @@
+{
+  "id": 3,
+  "as_of_date": "2026-10-05",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZHY_20261005.xlsx",
+  "created_at": "2026-10-06T21:39:02.541Z",
+  "partial": false,
+  "content_hash": "df8761c290cc422dd3058e6d8b31f4f643dc454498ae10b0c40f0284678dec3f",
+  "holdings": [
+    {
+      "t": "CA05584J1012",
+      "n": "BMO High Yield US Corporate Bond Index ETF",
+      "weight": 103.10968903109685,
+      "isin": "CA05584J1012",
+      "sector": "-",
+      "mv": 1513930909.11
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -3.1496850314968503,
+      "sector": "-",
+      "mv": -46289624.95
+    },
+    {
+      "t": "CEVA HOLDINGS LLC",
+      "n": "CEVA HOLDINGS LLC",
+      "weight": 0.009999000099990002,
+      "sector": "-",
+      "mv": 171845.92
+    },
+    {
+      "t": "CEVA HOLDINGS LLC A 2 PFD",
+      "n": "CEVA HOLDINGS LLC A 2 PFD",
+      "weight": 0.029997000299970003,
+      "sector": "-",
+      "mv": 371990.17
+    }
+  ]
+}

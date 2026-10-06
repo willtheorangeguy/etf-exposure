@@ -1,0 +1,27 @@
+{
+  "id": 3,
+  "as_of_date": "2026-10-05",
+  "source": "url",
+  "source_url": "https://www.blackrock.com/ca/investors/en/products/340780/fund/1464253357814.ajax?fileType=csv&fileName=IBIT_holdings&dataType=fund",
+  "created_at": "2026-10-06T21:39:02.541Z",
+  "partial": false,
+  "content_hash": "8328c3b7414a2dfd3c0311bd8c9c3eafe71a43731c20289b474de64cb79eb733",
+  "holdings": [
+    {
+      "t": "BTC",
+      "n": "BITCOIN",
+      "weight": 99.99,
+      "sector": "-",
+      "mv": 569446022.59,
+      "shares": 806037.57
+    },
+    {
+      "t": "CAD",
+      "n": "CAD CASH",
+      "weight": 0.01,
+      "sector": "-",
+      "mv": 66415.67,
+      "shares": 664
+    }
+  ]
+}

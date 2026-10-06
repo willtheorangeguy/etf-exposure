@@ -1,0 +1,28 @@
+{
+  "id": 3,
+  "as_of_date": "2026-10-05",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDM_20261005.xlsx",
+  "created_at": "2026-10-06T21:39:02.541Z",
+  "partial": false,
+  "content_hash": "524ebf8a623643359a341fee077b2e4019eb080d11a0d6f7c78683bb28176da6",
+  "holdings": [
+    {
+      "t": "CA05579E1097",
+      "n": "BMO MSCI EAFE Index ETF",
+      "weight": 100.81,
+      "isin": "CA05579E1097",
+      "sector": "-",
+      "mv": 2009471449.25,
+      "shares": 63684723
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.81,
+      "sector": "-",
+      "mv": -16232584.36,
+      "shares": 1
+    }
+  ]
+}
