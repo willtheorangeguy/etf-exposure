@@ -1,0 +1,928 @@
+{
+  "id": 4,
+  "as_of_date": "2026-10-21",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZNQ_20261021.xlsx",
+  "created_at": "2026-10-22T13:34:49.507Z",
+  "partial": false,
+  "content_hash": "c79ec89d231ab45b3a5048a7e11bb0461d9d6b86c31a974366d399b2820afc7f",
+  "holdings": [
+    {
+      "t": "AAPL",
+      "n": "Apple Inc.",
+      "weight": 7.777666699990003,
+      "isin": "US0378331005",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 203070325.35,
+      "shares": 420274
+    },
+    {
+      "t": "ADBE",
+      "n": "Adobe Inc.",
+      "weight": 0.4298710386883935,
+      "isin": "US00724F1012",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 11309151.74,
+      "shares": 31566
+    },
+    {
+      "t": "ADI",
+      "n": "Analog Devices, Inc.",
+      "weight": 0.8397480755773268,
+      "isin": "US0326541051",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 21942516.36,
+      "shares": 38480
+    },
+    {
+      "t": "ADP",
+      "n": "Automatic Data Processing, Inc.",
+      "weight": 0.49985004498650404,
+      "isin": "US0530151036",
+      "sector": "INDUSTRIALS",
+      "mv": 13052511.37,
+      "shares": 31553
+    },
+    {
+      "t": "ADSK",
+      "n": "Autodesk, Inc.",
+      "weight": 0.21993401979406177,
+      "isin": "US0527691069",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 5706229.48,
+      "shares": 16592
+    },
+    {
+      "t": "AEP",
+      "n": "American Electric Power Company, Inc.",
+      "weight": 0.2999100269919024,
+      "isin": "US0255371017",
+      "sector": "UTILITIES",
+      "mv": 7734252.89,
+      "shares": 43223
+    },
+    {
+      "t": "ALAB",
+      "n": "Astera Labs, Inc.",
+      "weight": 0.21993401979406177,
+      "isin": "US04626A1034",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 5614423.7,
+      "shares": 13780
+    },
+    {
+      "t": "AMAT",
+      "n": "Applied Materials, Inc.",
+      "weight": 1.389583125062481,
+      "isin": "US0382221051",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 36231388.3,
+      "shares": 63075
+    },
+    {
+      "t": "AMD",
+      "n": "Advanced Micro Devices, Inc.",
+      "weight": 3.858842347295811,
+      "isin": "US0079031078",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 100717208.03,
+      "shares": 129727
+    },
+    {
+      "t": "AMGN",
+      "n": "Amgen Inc.",
+      "weight": 1.0196940917724682,
+      "isin": "US0311621009",
+      "sector": "HEALTH CARE",
+      "mv": 26509578.37,
+      "shares": 43055
+    },
+    {
+      "t": "AVGO",
+      "n": "Broadcom Inc.",
+      "weight": 2.4892532240327903,
+      "isin": "US11135F1012",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 64970123.19,
+      "shares": 136926
+    },
+    {
+      "t": "BKNG",
+      "n": "Booking Holdings Inc.",
+      "weight": 0.5098470458862341,
+      "isin": "US09857L1089",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 13274470.96,
+      "shares": 59669
+    },
+    {
+      "t": "BKR",
+      "n": "Baker Hughes Company",
+      "weight": 0.23992802159352192,
+      "isin": "US05722G1004",
+      "sector": "ENERGY",
+      "mv": 6201743.26,
+      "shares": 78842
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.09997000899730081,
+      "sector": "-",
+      "mv": -2648878.68,
+      "shares": 1
+    },
+    {
+      "t": "CCEP",
+      "n": "Coca-Cola Europacific Partners PLC",
+      "weight": 0.2099370188943317,
+      "isin": "GB00BDCPN049",
+      "sector": "CONSUMER STAPLES",
+      "mv": 5357403.62,
+      "shares": 34582
+    },
+    {
+      "t": "CMCSA",
+      "n": "Comcast Corporation",
+      "weight": 0.3299010296910927,
+      "isin": "US20030N1019",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 8715991.24,
+      "shares": 281028
+    },
+    {
+      "t": "COST",
+      "n": "Costco Wholesale Corporation",
+      "weight": 1.8994301709487154,
+      "isin": "US22160K1051",
+      "sector": "CONSUMER STAPLES",
+      "mv": 49476509.11,
+      "shares": 35283
+    },
+    {
+      "t": "CSCO",
+      "n": "Cisco Systems, Inc.",
+      "weight": 1.8094571628511447,
+      "isin": "US17275R1023",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 47185768.17,
+      "shares": 313188
+    },
+    {
+      "t": "CSX",
+      "n": "CSX Corporation",
+      "weight": 0.3798860341897431,
+      "isin": "US1264081035",
+      "sector": "INDUSTRIALS",
+      "mv": 10001282.18,
+      "shares": 147110
+    },
+    {
+      "t": "DDOG",
+      "n": "Datadog, Inc.",
+      "weight": 0.38988303508947314,
+      "isin": "US23804L1035",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 10200197.74,
+      "shares": 26591
+    },
+    {
+      "t": "EXC",
+      "n": "Exelon Corporation",
+      "weight": 0.18994301709487155,
+      "isin": "US30161N1019",
+      "sector": "UTILITIES",
+      "mv": 4957103.68,
+      "shares": 81976
+    },
+    {
+      "t": "FANG",
+      "n": "Diamondback Energy, Inc.",
+      "weight": 0.23992802159352192,
+      "isin": "US25278X1090",
+      "sector": "ENERGY",
+      "mv": 6278064.8,
+      "shares": 22244
+    },
+    {
+      "t": "FAST",
+      "n": "Fastenal Company",
+      "weight": 0.2599220233929821,
+      "isin": "US3119001044",
+      "sector": "INDUSTRIALS",
+      "mv": 6717473.72,
+      "shares": 91109
+    },
+    {
+      "t": "FER",
+      "n": "Ferrovial SE",
+      "weight": 0.1599520143956813,
+      "isin": "NL0015001FS8",
+      "sector": "-",
+      "mv": 4074763.09,
+      "shares": 57995
+    },
+    {
+      "t": "FTNT",
+      "n": "Fortinet, Inc.",
+      "weight": 0.5498350494851545,
+      "isin": "US34959E1091",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 14241899.04,
+      "shares": 58254
+    },
+    {
+      "t": "GILD",
+      "n": "Gilead Sciences, Inc.",
+      "weight": 0.8097570728781366,
+      "isin": "US3755581036",
+      "sector": "HEALTH CARE",
+      "mv": 21236209.16,
+      "shares": 98447
+    },
+    {
+      "t": "GOOG",
+      "n": "Alphabet Inc. Cap Stk Cl C",
+      "weight": 2.829151254623613,
+      "isin": "US02079K1079",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 73951812.28,
+      "shares": 159081
+    },
+    {
+      "t": "GOOGL",
+      "n": "Alphabet Inc. Cl A",
+      "weight": 3.0490852744176746,
+      "isin": "US02079K3059",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 79490798.19,
+      "shares": 169050
+    },
+    {
+      "t": "HON",
+      "n": "HONEYWELL INTERNATIONAL INC",
+      "weight": 0.28991302609217234,
+      "isin": "US4385162056",
+      "sector": "INDUSTRIALS",
+      "mv": 7588771.64,
+      "shares": 25160
+    },
+    {
+      "t": "HONA",
+      "n": "HONEYWELL AEROSPACE INC",
+      "weight": 0.21993401979406177,
+      "isin": "US43849R1059",
+      "sector": "INDUSTRIALS",
+      "mv": 5739215.89,
+      "shares": 25150
+    },
+    {
+      "t": "IE00BKVD2N49",
+      "n": "SEAGATE TECHNOLOGY HOLDINGS PLC",
+      "weight": 0.6797960611816456,
+      "isin": "IE00BKVD2N49",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 17641493.2,
+      "shares": 18022
+    },
+    {
+      "t": "INTC",
+      "n": "Intel Corporation",
+      "weight": 2.0893731880435866,
+      "isin": "US4581401001",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 54516373.69,
+      "shares": 417506
+    },
+    {
+      "t": "INTU",
+      "n": "Intuit Inc.",
+      "weight": 0.38988303508947314,
+      "isin": "US4612021034",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 10233939.26,
+      "shares": 21709
+    },
+    {
+      "t": "KDP",
+      "n": "Keurig Dr Pepper Inc.",
+      "weight": 0.19994001799460162,
+      "isin": "US49271V1008",
+      "sector": "CONSUMER STAPLES",
+      "mv": 5231256.82,
+      "shares": 108043
+    },
+    {
+      "t": "KLAC",
+      "n": "KLA Corporation",
+      "weight": 0.9097270818754374,
+      "isin": "US4824801009",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 23836794.59,
+      "shares": 103836
+    },
+    {
+      "t": "LIN",
+      "n": "Linde plc",
+      "weight": 0.989703089073278,
+      "isin": "IE000S9YS762",
+      "sector": "MATERIALS",
+      "mv": 25759008.21,
+      "shares": 36635
+    },
+    {
+      "t": "LITE",
+      "n": "Lumentum Holdings Inc.",
+      "weight": 0.3299010296910927,
+      "isin": "US55024U1097",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 8546180.52,
+      "shares": 7152
+    },
+    {
+      "t": "LRCX",
+      "n": "Lam Research Corporation",
+      "weight": 1.3995801259622112,
+      "isin": "US5128073062",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 36426958.04,
+      "shares": 99433
+    },
+    {
+      "t": "MAR",
+      "n": "Marriott International, Inc.",
+      "weight": 0.44986504048785364,
+      "isin": "US5719032022",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 11757021.64,
+      "shares": 20718
+    },
+    {
+      "t": "MCHP",
+      "n": "Microchip Technology Incorporated",
+      "weight": 0.17994601619514144,
+      "isin": "US5950171042",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 4673402.24,
+      "shares": 43125
+    },
+    {
+      "t": "MDLZ",
+      "n": "Mondelez International, Inc.",
+      "weight": 0.3398980305908228,
+      "isin": "US6092071058",
+      "sector": "CONSUMER STAPLES",
+      "mv": 8931922.81,
+      "shares": 101352
+    },
+    {
+      "t": "META",
+      "n": "Meta Platforms, Inc.",
+      "weight": 3.219034289713086,
+      "isin": "US30303M1027",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 83924284.65,
+      "shares": 85657
+    },
+    {
+      "t": "MNST",
+      "n": "Monster Beverage Corporation",
+      "weight": 0.38988303508947314,
+      "isin": "US61174X1090",
+      "sector": "CONSUMER STAPLES",
+      "mv": 10173343.7,
+      "shares": 155321
+    },
+    {
+      "t": "MPWR",
+      "n": "Monolithic Power Systems, Inc.",
+      "weight": 0.2699190242927122,
+      "isin": "US6098391054",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 7022989.75,
+      "shares": 3896
+    },
+    {
+      "t": "MRNA",
+      "n": "Moderna, Inc.",
+      "weight": 0.4198740377886634,
+      "isin": "US60770K1079",
+      "sector": "HEALTH CARE",
+      "mv": 11008812.4,
+      "shares": 31884
+    },
+    {
+      "t": "MRVL",
+      "n": "Marvell Technology, Inc.",
+      "weight": 0.9197240827751675,
+      "isin": "US5738741041",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 23958883.12,
+      "shares": 69688
+    },
+    {
+      "t": "MSFT",
+      "n": "Microsoft Corporation",
+      "weight": 6.13815855243427,
+      "isin": "US5949181045",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 160089867.34,
+      "shares": 213850
+    },
+    {
+      "t": "MU",
+      "n": "Micron Technology, Inc.",
+      "weight": 4.408677396780965,
+      "isin": "US5951121038",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 115173677.18,
+      "shares": 89742
+    },
+    {
+      "t": "NL0009805522",
+      "n": "Nebius Group N.V.",
+      "weight": 0.1699490152954114,
+      "isin": "NL0009805522",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 4560604.53,
+      "shares": 18924
+    },
+    {
+      "t": "NVDA",
+      "n": "NVIDIA Corporation",
+      "weight": 8.287513745876158,
+      "isin": "US67066G1040",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 216386736.49,
+      "shares": 694014
+    },
+    {
+      "t": "NXPI",
+      "n": "NXP Semiconductors N.V.",
+      "weight": 0.2599220233929821,
+      "isin": "NL0009538784",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 6808959.91,
+      "shares": 20001
+    },
+    {
+      "t": "ODFL",
+      "n": "Old Dominion Freight Line, Inc.",
+      "weight": 0.1699490152954114,
+      "isin": "US6795801009",
+      "sector": "INDUSTRIALS",
+      "mv": 4371449.89,
+      "shares": 16475
+    },
+    {
+      "t": "ORLY",
+      "n": "O'Reilly Automotive, Inc.",
+      "weight": 0.3099070278916325,
+      "isin": "US67103H1077",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 8049437.85,
+      "shares": 64244
+    },
+    {
+      "t": "PAYX",
+      "n": "Paychex, Inc.",
+      "weight": 0.1699490152954114,
+      "isin": "US7043261079",
+      "sector": "INDUSTRIALS",
+      "mv": 4461308.87,
+      "shares": 28232
+    },
+    {
+      "t": "PCAR",
+      "n": "PACCAR Inc",
+      "weight": 0.24992502249325202,
+      "isin": "US6937181088",
+      "sector": "INDUSTRIALS",
+      "mv": 6469640.02,
+      "shares": 41788
+    },
+    {
+      "t": "PEP",
+      "n": "PepsiCo, Inc.",
+      "weight": 0.7897630710786764,
+      "isin": "US7134481081",
+      "sector": "CONSUMER STAPLES",
+      "mv": 20505238.73,
+      "shares": 108375
+    },
+    {
+      "t": "QCOM",
+      "n": "QUALCOMM Incorporated",
+      "weight": 0.7997600719784065,
+      "isin": "US7475251036",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 20845124.56,
+      "shares": 83390
+    },
+    {
+      "t": "REGN",
+      "n": "Regeneron Pharmaceuticals, Inc.",
+      "weight": 0.3498950314905528,
+      "isin": "US75886F1075",
+      "sector": "HEALTH CARE",
+      "mv": 9098742.3,
+      "shares": 8040
+    },
+    {
+      "t": "RKLB",
+      "n": "Rocket Lab Corporation",
+      "weight": 0.13995801259622115,
+      "isin": "US7731211089",
+      "sector": "INDUSTRIALS",
+      "mv": 3581738.63,
+      "shares": 47511
+    },
+    {
+      "t": "ROP",
+      "n": "Roper Technologies, Inc.",
+      "weight": 0.1699490152954114,
+      "isin": "US7766961061",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 4378670.44,
+      "shares": 7841
+    },
+    {
+      "t": "ROST",
+      "n": "Ross Stores, Inc.",
+      "weight": 0.3199040287913626,
+      "isin": "US7782961038",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 8378125.67,
+      "shares": 25470
+    },
+    {
+      "t": "SBUX",
+      "n": "Starbucks Corporation",
+      "weight": 0.47985604318704383,
+      "isin": "US8552441094",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 12599028.18,
+      "shares": 90528
+    },
+    {
+      "t": "SHOP",
+      "n": "Shopify Inc.",
+      "weight": 0.8997300809757073,
+      "isin": "CA82509L1076",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 23567500.24,
+      "shares": 96266
+    },
+    {
+      "t": "SNDK",
+      "n": "Sandisk Corporation",
+      "weight": 0.859742077376787,
+      "isin": "US80004C2008",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 22516647.41,
+      "shares": 11631
+    },
+    {
+      "t": "TER",
+      "n": "Teradyne, Inc.",
+      "weight": 0.22993102069379187,
+      "isin": "US8807701029",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 6021024.4,
+      "shares": 12407
+    },
+    {
+      "t": "TMUS",
+      "n": "T-Mobile US, Inc.",
+      "weight": 0.7097870638808357,
+      "isin": "US8725901040",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 18416194.08,
+      "shares": 85274
+    },
+    {
+      "t": "TRI",
+      "n": "THOMSON REUTERS CORP",
+      "weight": 0.18994301709487155,
+      "isin": "CA8849038812",
+      "sector": "-",
+      "mv": 4845503.87,
+      "shares": 29929
+    },
+    {
+      "t": "TXN",
+      "n": "Texas Instruments Incorporated",
+      "weight": 1.109667099870039,
+      "isin": "US8825081040",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 29023922.66,
+      "shares": 72590
+    },
+    {
+      "t": "US0090661010",
+      "n": "Airbnb, Inc.",
+      "weight": 0.3099070278916325,
+      "isin": "US0090661010",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 8124566.8,
+      "shares": 33301
+    },
+    {
+      "t": "US02043Q1076",
+      "n": "Alnylam Pharmaceuticals, Inc.",
+      "weight": 0.12996101169649105,
+      "isin": "US02043Q1076",
+      "sector": "HEALTH CARE",
+      "mv": 3364542.83,
+      "shares": 10641
+    },
+    {
+      "t": "US0231351067",
+      "n": "Amazon.com, Inc.",
+      "weight": 4.388683394981505,
+      "isin": "US0231351067",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 114497392.23,
+      "shares": 310680
+    },
+    {
+      "t": "US03831W1080",
+      "n": "AppLovin Corporation",
+      "weight": 0.3498950314905528,
+      "isin": "US03831W1080",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 9101330.51,
+      "shares": 24186
+    },
+    {
+      "t": "US0420682058",
+      "n": "ARM HOLDINGS PLC",
+      "weight": 0.4198740377886634,
+      "isin": "US0420682058",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 11022024.06,
+      "shares": 34630
+    },
+    {
+      "t": "US05464C1018",
+      "n": "Axon Enterprise, Inc.",
+      "weight": 0.13995801259622115,
+      "isin": "US05464C1018",
+      "sector": "INDUSTRIALS",
+      "mv": 3654904.64,
+      "shares": 6463
+    },
+    {
+      "t": "US1273871087",
+      "n": "Cadence Design Systems, Inc.",
+      "weight": 0.3798860341897431,
+      "isin": "US1273871087",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 10019519.2,
+      "shares": 21876
+    },
+    {
+      "t": "US1729081059",
+      "n": "Cintas Corporation",
+      "weight": 0.3798860341897431,
+      "isin": "US1729081059",
+      "sector": "INDUSTRIALS",
+      "mv": 9821571.47,
+      "shares": 31761
+    },
+    {
+      "t": "US21037T1097",
+      "n": "Constellation Energy Corporation",
+      "weight": 0.4098770368889333,
+      "isin": "US21037T1097",
+      "sector": "UTILITIES",
+      "mv": 10701119.35,
+      "shares": 28139
+    },
+    {
+      "t": "US2172041061",
+      "n": "Copart, Inc.",
+      "weight": 0.10996700989703088,
+      "isin": "US2172041061",
+      "sector": "INDUSTRIALS",
+      "mv": 2848815.56,
+      "shares": 73523
+    },
+    {
+      "t": "US21873S1087",
+      "n": "CoreWeave, Inc.",
+      "weight": 0.11996401079676096,
+      "isin": "US21873S1087",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 3165065.79,
+      "shares": 36449
+    },
+    {
+      "t": "US22788C1053",
+      "n": "CrowdStrike Holdings, Inc.",
+      "weight": 1.0496850944716585,
+      "isin": "US22788C1053",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 27354012.38,
+      "shares": 81365
+    },
+    {
+      "t": "US2521311074",
+      "n": "DexCom, Inc.",
+      "weight": 0.12996101169649105,
+      "isin": "US2521311074",
+      "sector": "HEALTH CARE",
+      "mv": 3378734.15,
+      "shares": 29970
+    },
+    {
+      "t": "US25809K1051",
+      "n": "DoorDash, Inc.",
+      "weight": 0.3199040287913626,
+      "isin": "US25809K1051",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 8414650.08,
+      "shares": 32478
+    },
+    {
+      "t": "US36266G1076",
+      "n": "GE HealthCare Technologies Inc.",
+      "weight": 0.12996101169649105,
+      "isin": "US36266G1076",
+      "sector": "HEALTH CARE",
+      "mv": 3476085.39,
+      "shares": 35860
+    },
+    {
+      "t": "US45168D1046",
+      "n": "IDEXX Laboratories, Inc.",
+      "weight": 0.18994301709487155,
+      "isin": "US45168D1046",
+      "sector": "HEALTH CARE",
+      "mv": 4860590.4,
+      "shares": 6252
+    },
+    {
+      "t": "US46120E6023",
+      "n": "Intuitive Surgical, Inc.",
+      "weight": 0.6498050584824553,
+      "isin": "US46120E6023",
+      "sector": "HEALTH CARE",
+      "mv": 16870518.6,
+      "shares": 28054
+    },
+    {
+      "t": "US58733R1023",
+      "n": "MERCADOLIBRE INC",
+      "weight": 0.39988003598920324,
+      "isin": "US58733R1023",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 10539074.34,
+      "shares": 4045
+    },
+    {
+      "t": "US5949724083",
+      "n": "Strategy Inc",
+      "weight": 0.23992802159352192,
+      "isin": "US5949724083",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 6237756.12,
+      "shares": 28934
+    },
+    {
+      "t": "US64110L1061",
+      "n": "Netflix, Inc.",
+      "weight": 1.1596521043686894,
+      "isin": "US64110L1061",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 30232333.65,
+      "shares": 330920
+    },
+    {
+      "t": "US69608A1088",
+      "n": "Palantir Technologies Inc.",
+      "weight": 1.989403179046286,
+      "isin": "US69608A1088",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 51806415.59,
+      "shares": 182838
+    },
+    {
+      "t": "US6974351057",
+      "n": "Palo Alto Networks, Inc.",
+      "weight": 1.2096371088673397,
+      "isin": "US6974351057",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 31589106.08,
+      "shares": 64763
+    },
+    {
+      "t": "US70450Y1038",
+      "n": "PayPal Holdings, Inc.",
+      "weight": 0.2099370188943317,
+      "isin": "US70450Y1038",
+      "sector": "FINANCIALS",
+      "mv": 5457098.96,
+      "shares": 67920
+    },
+    {
+      "t": "US7223041028",
+      "n": "PDD HOLDINGS INC",
+      "weight": 0.21993401979406177,
+      "isin": "US7223041028",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 5865621.53,
+      "shares": 53047
+    },
+    {
+      "t": "US84615Q1031",
+      "n": "SPACE EXPLORATION TECHNOLOGIES CORP",
+      "weight": 2.929121263620914,
+      "isin": "US84615Q1031",
+      "sector": "-",
+      "mv": 76352182.65,
+      "shares": 341201
+    },
+    {
+      "t": "US8716071076",
+      "n": "Synopsys, Inc.",
+      "weight": 0.369889033290013,
+      "isin": "US8716071076",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 9635114.6,
+      "shares": 15203
+    },
+    {
+      "t": "US8740541094",
+      "n": "Take-Two Interactive Software, Inc.",
+      "weight": 0.1599520143956813,
+      "isin": "US8740541094",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 4304646,
+      "shares": 14865
+    },
+    {
+      "t": "US88160R1014",
+      "n": "Tesla, Inc.",
+      "weight": 3.149055283414975,
+      "isin": "US88160R1014",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 82154060.09,
+      "shares": 151337
+    },
+    {
+      "t": "US92532F1003",
+      "n": "Vertex Pharmaceuticals Incorporated",
+      "weight": 0.5698290512846146,
+      "isin": "US92532F1003",
+      "sector": "HEALTH CARE",
+      "mv": 14822278.87,
+      "shares": 20118
+    },
+    {
+      "t": "USN070592100",
+      "n": "ASML holding nv",
+      "weight": 0.6797960611816456,
+      "isin": "USN070592100",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 17644878.27,
+      "shares": 7492
+    },
+    {
+      "t": "WDAY",
+      "n": "Workday, Inc.",
+      "weight": 0.1699490152954114,
+      "isin": "US98138H1014",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 4435395.43,
+      "shares": 15558
+    },
+    {
+      "t": "WDC",
+      "n": "Western Digital Corporation",
+      "weight": 0.5798260521843447,
+      "isin": "US9581021055",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 15218638.63,
+      "shares": 28624
+    },
+    {
+      "t": "WMT",
+      "n": "Walmart Inc.",
+      "weight": 2.44926522043387,
+      "isin": "US9311421039",
+      "sector": "CONSUMER STAPLES",
+      "mv": 63942868.65,
+      "shares": 386437
+    },
+    {
+      "t": "XEL",
+      "n": "Xcel Energy Inc.",
+      "weight": 0.2099370188943317,
+      "isin": "US98389B1008",
+      "sector": "UTILITIES",
+      "mv": 5350174.53,
+      "shares": 49608
+    }
+  ]
+}

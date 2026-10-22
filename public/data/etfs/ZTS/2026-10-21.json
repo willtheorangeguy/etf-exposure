@@ -1,0 +1,1242 @@
+{
+  "id": 4,
+  "as_of_date": "2026-10-21",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZTS_20261021.xlsx",
+  "created_at": "2026-10-22T13:34:49.507Z",
+  "partial": false,
+  "content_hash": "3e0bb8954574e83a843e074078d32655cbd4d64acf2d2be6015e0d068cafa9c8",
+  "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.09,
+      "sector": "-",
+      "mv": 115079.17
+    },
+    {
+      "t": "US912810FB99",
+      "n": "United States Department of The Treasury 6.13% 11/15/2027",
+      "weight": 0.09,
+      "isin": "US912810FB99",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 116900.53
+    },
+    {
+      "t": "US912810FE39",
+      "n": "United States Department of The Treasury 5.50% 08/15/2028",
+      "weight": 0.07,
+      "isin": "US912810FE39",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 86011.56
+    },
+    {
+      "t": "US912810FF04",
+      "n": "United States Department of The Treasury 5.25% 11/15/2028",
+      "weight": 0.09,
+      "isin": "US912810FF04",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 115741.43
+    },
+    {
+      "t": "US912810FG86",
+      "n": "United States Department of The Treasury 5.25% 02/15/2029",
+      "weight": 0.03,
+      "isin": "US912810FG86",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 35734.61
+    },
+    {
+      "t": "US912810FJ26",
+      "n": "United States Department of The Treasury 6.13% 08/15/2029",
+      "weight": 0.06,
+      "isin": "US912810FJ26",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 73226.19
+    },
+    {
+      "t": "US912810FM54",
+      "n": "United States Department of The Treasury 6.25% 05/15/2030",
+      "weight": 0.07,
+      "isin": "US912810FM54",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 90090.92
+    },
+    {
+      "t": "US912810FP85",
+      "n": "United States Department of The Treasury 5.38% 02/15/2031",
+      "weight": 0.11,
+      "isin": "US912810FP85",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 144170.28
+    },
+    {
+      "t": "US9128283F58",
+      "n": "United States Department of The Treasury 2.25% 11/15/2027",
+      "weight": 0.53,
+      "isin": "US9128283F58",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 664414.02
+    },
+    {
+      "t": "US9128283W81",
+      "n": "United States Department of The Treasury 2.75% 02/15/2028",
+      "weight": 0.71,
+      "isin": "US9128283W81",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 895243.13
+    },
+    {
+      "t": "US9128284N73",
+      "n": "United States Department of The Treasury 2.88% 05/15/2028",
+      "weight": 0.74,
+      "isin": "US9128284N73",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 926517.45
+    },
+    {
+      "t": "US9128284V99",
+      "n": "United States Department of The Treasury 2.88% 08/15/2028",
+      "weight": 0.73,
+      "isin": "US9128284V99",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 915069.97
+    },
+    {
+      "t": "US9128285M81",
+      "n": "United States Department of The Treasury 3.13% 11/15/2028",
+      "weight": 0.71,
+      "isin": "US9128285M81",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 888337.64
+    },
+    {
+      "t": "US9128286B18",
+      "n": "United States Department of The Treasury 2.63% 02/15/2029",
+      "weight": 0.68,
+      "isin": "US9128286B18",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 859916.15
+    },
+    {
+      "t": "US9128286T26",
+      "n": "United States Department of The Treasury 2.38% 05/15/2029",
+      "weight": 0.56,
+      "isin": "US9128286T26",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 707906.06
+    },
+    {
+      "t": "US912828YB05",
+      "n": "United States Department of The Treasury 1.63% 08/15/2029",
+      "weight": 0.51,
+      "isin": "US912828YB05",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 645309.71
+    },
+    {
+      "t": "US912828YS30",
+      "n": "United States Department of The Treasury 1.75% 11/15/2029",
+      "weight": 0.38,
+      "isin": "US912828YS30",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 477890.78
+    },
+    {
+      "t": "US912828Z948",
+      "n": "United States Department of The Treasury 1.50% 02/15/2030",
+      "weight": 0.63,
+      "isin": "US912828Z948",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 789700.64
+    },
+    {
+      "t": "US912828ZQ64",
+      "n": "United States Department of The Treasury 0.63% 05/15/2030",
+      "weight": 0.83,
+      "isin": "US912828ZQ64",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1043305.64
+    },
+    {
+      "t": "US91282CAE12",
+      "n": "United States Department of The Treasury 0.63% 08/15/2030",
+      "weight": 1.07,
+      "isin": "US91282CAE12",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1347882.29
+    },
+    {
+      "t": "US91282CAU53",
+      "n": "United States Department of The Treasury 0.50% 10/31/2027",
+      "weight": 0.55,
+      "isin": "US91282CAU53",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 695501.49
+    },
+    {
+      "t": "US91282CAV37",
+      "n": "United States Department of The Treasury 0.88% 11/15/2030",
+      "weight": 1.12,
+      "isin": "US91282CAV37",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1412138.89
+    },
+    {
+      "t": "US91282CAY75",
+      "n": "United States Department of The Treasury 0.63% 11/30/2027",
+      "weight": 0.58,
+      "isin": "US91282CAY75",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 734623.46
+    },
+    {
+      "t": "US91282CBB63",
+      "n": "United States Department of The Treasury 0.63% 12/31/2027",
+      "weight": 0.64,
+      "isin": "US91282CBB63",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 798643.14
+    },
+    {
+      "t": "US91282CBJ99",
+      "n": "United States Department of The Treasury 0.75% 01/31/2028",
+      "weight": 0.7,
+      "isin": "US91282CBJ99",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 877232.72
+    },
+    {
+      "t": "US91282CBL46",
+      "n": "United States Department of The Treasury 1.13% 02/15/2031",
+      "weight": 1.09,
+      "isin": "US91282CBL46",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1370845.76
+    },
+    {
+      "t": "US91282CBP59",
+      "n": "United States Department of The Treasury 1.13% 02/29/2028",
+      "weight": 0.71,
+      "isin": "US91282CBP59",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 892174.48
+    },
+    {
+      "t": "US91282CBS98",
+      "n": "United States Department of The Treasury 1.25% 03/31/2028",
+      "weight": 0.64,
+      "isin": "US91282CBS98",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 803101.77
+    },
+    {
+      "t": "US91282CBZ32",
+      "n": "United States Department of The Treasury 1.25% 04/30/2028",
+      "weight": 0.71,
+      "isin": "US91282CBZ32",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 892183.04
+    },
+    {
+      "t": "US91282CCB54",
+      "n": "United States Department of The Treasury 1.63% 05/15/2031",
+      "weight": 1.09,
+      "isin": "US91282CCB54",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1372676.71
+    },
+    {
+      "t": "US91282CCE93",
+      "n": "United States Department of The Treasury 1.25% 05/31/2028",
+      "weight": 0.71,
+      "isin": "US91282CCE93",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 888578.43
+    },
+    {
+      "t": "US91282CCH25",
+      "n": "United States Department of The Treasury 1.25% 06/30/2028",
+      "weight": 0.65,
+      "isin": "US91282CCH25",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 811648.33
+    },
+    {
+      "t": "US91282CCR07",
+      "n": "United States Department of The Treasury 1.00% 07/31/2028",
+      "weight": 0.66,
+      "isin": "US91282CCR07",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 823901.85
+    },
+    {
+      "t": "US91282CCS89",
+      "n": "United States Department of The Treasury 1.25% 08/15/2031",
+      "weight": 1.15,
+      "isin": "US91282CCS89",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1447630.55
+    },
+    {
+      "t": "US91282CCV19",
+      "n": "United States Department of The Treasury 1.13% 08/31/2028",
+      "weight": 0.68,
+      "isin": "US91282CCV19",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 855537.89
+    },
+    {
+      "t": "US91282CCY57",
+      "n": "United States Department of The Treasury 1.25% 09/30/2028",
+      "weight": 0.69,
+      "isin": "US91282CCY57",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 867260.64
+    },
+    {
+      "t": "US91282CDF59",
+      "n": "United States Department of The Treasury 1.38% 10/31/2028",
+      "weight": 0.65,
+      "isin": "US91282CDF59",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 812760.43
+    },
+    {
+      "t": "US91282CDL28",
+      "n": "United States Department of The Treasury 1.50% 11/30/2028",
+      "weight": 0.65,
+      "isin": "US91282CDL28",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 818560.77
+    },
+    {
+      "t": "US91282CDP32",
+      "n": "United States Department of The Treasury 1.38% 12/31/2028",
+      "weight": 0.64,
+      "isin": "US91282CDP32",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 799463.73
+    },
+    {
+      "t": "US91282CDW82",
+      "n": "United States Department of The Treasury 1.75% 01/31/2029",
+      "weight": 0.6,
+      "isin": "US91282CDW82",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 757382.29
+    },
+    {
+      "t": "US91282CEB37",
+      "n": "United States Department of The Treasury 1.88% 02/28/2029",
+      "weight": 0.56,
+      "isin": "US91282CEB37",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 697596.31
+    },
+    {
+      "t": "US91282CEE75",
+      "n": "United States Department of The Treasury 2.38% 03/31/2029",
+      "weight": 0.54,
+      "isin": "US91282CEE75",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 676771.27
+    },
+    {
+      "t": "US91282CEM91",
+      "n": "United States Department of The Treasury 2.88% 04/30/2029",
+      "weight": 0.5,
+      "isin": "US91282CEM91",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 624698.83
+    },
+    {
+      "t": "US91282CES61",
+      "n": "United States Department of The Treasury 2.75% 05/31/2029",
+      "weight": 0.47,
+      "isin": "US91282CES61",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 592997.35
+    },
+    {
+      "t": "US91282CEV90",
+      "n": "United States Department of The Treasury 3.25% 06/30/2029",
+      "weight": 0.45,
+      "isin": "US91282CEV90",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 565155.73
+    },
+    {
+      "t": "US91282CFC01",
+      "n": "United States Department of The Treasury 2.63% 07/31/2029",
+      "weight": 0.42,
+      "isin": "US91282CFC01",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 525946.39
+    },
+    {
+      "t": "US91282CFJ53",
+      "n": "United States Department of The Treasury 3.13% 08/31/2029",
+      "weight": 0.42,
+      "isin": "US91282CFJ53",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 531500.53
+    },
+    {
+      "t": "US91282CFL00",
+      "n": "United States Department of The Treasury 3.88% 09/30/2029",
+      "weight": 0.43,
+      "isin": "US91282CFL00",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 540865.87
+    },
+    {
+      "t": "US91282CFT36",
+      "n": "United States Department of The Treasury 4.00% 10/31/2029",
+      "weight": 0.43,
+      "isin": "US91282CFT36",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 537564.01
+    },
+    {
+      "t": "US91282CFU09",
+      "n": "United States Department of The Treasury 4.13% 10/31/2027",
+      "weight": 0.49,
+      "isin": "US91282CFU09",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 612877.98
+    },
+    {
+      "t": "US91282CFY21",
+      "n": "United States Department of The Treasury 3.88% 11/30/2029",
+      "weight": 0.42,
+      "isin": "US91282CFY21",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 526271.35
+    },
+    {
+      "t": "US91282CFZ95",
+      "n": "United States Department of The Treasury 3.88% 11/30/2027",
+      "weight": 0.5,
+      "isin": "US91282CFZ95",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 629519.09
+    },
+    {
+      "t": "US91282CGB19",
+      "n": "United States Department of The Treasury 3.88% 12/31/2029",
+      "weight": 0.41,
+      "isin": "US91282CGB19",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 510298.68
+    },
+    {
+      "t": "US91282CGC91",
+      "n": "United States Department of The Treasury 3.88% 12/31/2027",
+      "weight": 0.53,
+      "isin": "US91282CGC91",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 662125.4
+    },
+    {
+      "t": "US91282CGH88",
+      "n": "United States Department of The Treasury 3.50% 01/31/2028",
+      "weight": 1.33,
+      "isin": "US91282CGH88",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1674352.3
+    },
+    {
+      "t": "US91282CGJ45",
+      "n": "United States Department of The Treasury 3.50% 01/31/2030",
+      "weight": 0.39,
+      "isin": "US91282CGJ45",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 495034.11
+    },
+    {
+      "t": "US91282CGP05",
+      "n": "United States Department of The Treasury 4.00% 02/29/2028",
+      "weight": 0.51,
+      "isin": "US91282CGP05",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 643969.85
+    },
+    {
+      "t": "US91282CGQ87",
+      "n": "United States Department of The Treasury 4.00% 02/28/2030",
+      "weight": 1.24,
+      "isin": "US91282CGQ87",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1552280.29
+    },
+    {
+      "t": "US91282CGS44",
+      "n": "United States Department of The Treasury 3.63% 03/31/2030",
+      "weight": 0.4,
+      "isin": "US91282CGS44",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 499851.63
+    },
+    {
+      "t": "US91282CGT27",
+      "n": "United States Department of The Treasury 3.63% 03/31/2028",
+      "weight": 0.5,
+      "isin": "US91282CGT27",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 623927.5
+    },
+    {
+      "t": "US91282CGZ86",
+      "n": "United States Department of The Treasury 3.50% 04/30/2030",
+      "weight": 0.41,
+      "isin": "US91282CGZ86",
+      "sector": "-",
+      "mv": 518348.58
+    },
+    {
+      "t": "US91282CHA27",
+      "n": "United States Department of The Treasury 3.50% 04/30/2028",
+      "weight": 0.52,
+      "isin": "US91282CHA27",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 659217.56
+    },
+    {
+      "t": "US91282CHE49",
+      "n": "United States Department of The Treasury 3.63% 05/31/2028",
+      "weight": 0.5,
+      "isin": "US91282CHE49",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 623135.94
+    },
+    {
+      "t": "US91282CHF14",
+      "n": "United States Department of The Treasury 3.75% 05/31/2030",
+      "weight": 0.4,
+      "isin": "US91282CHF14",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 500562.12
+    },
+    {
+      "t": "US91282CHJ36",
+      "n": "United States Department of The Treasury 3.75% 06/30/2030",
+      "weight": 0.4,
+      "isin": "US91282CHJ36",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 505240.48
+    },
+    {
+      "t": "US91282CHK09",
+      "n": "United States Department of The Treasury 4.00% 06/30/2028",
+      "weight": 0.52,
+      "isin": "US91282CHK09",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 653156.18
+    },
+    {
+      "t": "US91282CHQ78",
+      "n": "United States Department of The Treasury 4.13% 07/31/2028",
+      "weight": 0.51,
+      "isin": "US91282CHQ78",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 645013.32
+    },
+    {
+      "t": "US91282CHR51",
+      "n": "United States Department of The Treasury 4.00% 07/31/2030",
+      "weight": 0.39,
+      "isin": "US91282CHR51",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 494161.29
+    },
+    {
+      "t": "US91282CHW47",
+      "n": "United States Department of The Treasury 4.13% 08/31/2030",
+      "weight": 0.43,
+      "isin": "US91282CHW47",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 542498.19
+    },
+    {
+      "t": "US91282CHX20",
+      "n": "United States Department of The Treasury 4.38% 08/31/2028",
+      "weight": 0.55,
+      "isin": "US91282CHX20",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 694600.96
+    },
+    {
+      "t": "US91282CHZ77",
+      "n": "United States Department of The Treasury 4.63% 09/30/2030",
+      "weight": 0.44,
+      "isin": "US91282CHZ77",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 550365.4
+    },
+    {
+      "t": "US91282CJA09",
+      "n": "United States Department of The Treasury 4.63% 09/30/2028",
+      "weight": 0.59,
+      "isin": "US91282CJA09",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 737086.67
+    },
+    {
+      "t": "US91282CJF95",
+      "n": "United States Department of The Treasury 4.88% 10/31/2028",
+      "weight": 0.64,
+      "isin": "US91282CJF95",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 798460.65
+    },
+    {
+      "t": "US91282CJG78",
+      "n": "United States Department of The Treasury 4.88% 10/31/2030",
+      "weight": 0.46,
+      "isin": "US91282CJG78",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 580762.79
+    },
+    {
+      "t": "US91282CJM47",
+      "n": "United States Department of The Treasury 4.38% 11/30/2030",
+      "weight": 0.47,
+      "isin": "US91282CJM47",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 594738.24
+    },
+    {
+      "t": "US91282CJN20",
+      "n": "United States Department of The Treasury 4.38% 11/30/2028",
+      "weight": 0.66,
+      "isin": "US91282CJN20",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 835641.59
+    },
+    {
+      "t": "US91282CJQ50",
+      "n": "United States Department of The Treasury 3.75% 12/31/2030",
+      "weight": 0.46,
+      "isin": "US91282CJQ50",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 577128.5
+    },
+    {
+      "t": "US91282CJR34",
+      "n": "United States Department of The Treasury 3.75% 12/31/2028",
+      "weight": 0.69,
+      "isin": "US91282CJR34",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 868434.21
+    },
+    {
+      "t": "US91282CJW29",
+      "n": "United States Department of The Treasury 4.00% 01/31/2029",
+      "weight": 0.73,
+      "isin": "US91282CJW29",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 918634.73
+    },
+    {
+      "t": "US91282CJX02",
+      "n": "United States Department of The Treasury 4.00% 01/31/2031",
+      "weight": 0.47,
+      "isin": "US91282CJX02",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 587542.21
+    },
+    {
+      "t": "US91282CKC46",
+      "n": "United States Department of The Treasury 4.25% 02/28/2031",
+      "weight": 0.47,
+      "isin": "US91282CKC46",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 584502.69
+    },
+    {
+      "t": "US91282CKD29",
+      "n": "United States Department of The Treasury 4.25% 02/28/2029",
+      "weight": 0.76,
+      "isin": "US91282CKD29",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 955472.47
+    },
+    {
+      "t": "US91282CKF76",
+      "n": "United States Department of The Treasury 4.13% 03/31/2031",
+      "weight": 0.49,
+      "isin": "US91282CKF76",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 619979.75
+    },
+    {
+      "t": "US91282CKG59",
+      "n": "United States Department of The Treasury 4.13% 03/31/2029",
+      "weight": 0.79,
+      "isin": "US91282CKG59",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 997184.91
+    },
+    {
+      "t": "US91282CKN01",
+      "n": "United States Department of The Treasury 4.63% 04/30/2031",
+      "weight": 0.52,
+      "isin": "US91282CKN01",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 658912.29
+    },
+    {
+      "t": "US91282CKP58",
+      "n": "United States Department of The Treasury 4.63% 04/30/2029",
+      "weight": 0.86,
+      "isin": "US91282CKP58",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1078063.46
+    },
+    {
+      "t": "US91282CKT70",
+      "n": "United States Department of The Treasury 4.50% 05/31/2029",
+      "weight": 0.84,
+      "isin": "US91282CKT70",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1055597.43
+    },
+    {
+      "t": "US91282CKU44",
+      "n": "United States Department of The Treasury 4.63% 05/31/2031",
+      "weight": 0.52,
+      "isin": "US91282CKU44",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 649141.1
+    },
+    {
+      "t": "US91282CKW00",
+      "n": "United States Department of The Treasury 4.25% 06/30/2031",
+      "weight": 0.51,
+      "isin": "US91282CKW00",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 642612.35
+    },
+    {
+      "t": "US91282CKX82",
+      "n": "United States Department of The Treasury 4.25% 06/30/2029",
+      "weight": 0.84,
+      "isin": "US91282CKX82",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1058003.35
+    },
+    {
+      "t": "US91282CLC37",
+      "n": "United States Department of The Treasury 4.00% 07/31/2029",
+      "weight": 0.83,
+      "isin": "US91282CLC37",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1046060.24
+    },
+    {
+      "t": "US91282CLD10",
+      "n": "United States Department of The Treasury 4.13% 07/31/2031",
+      "weight": 0.51,
+      "isin": "US91282CLD10",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 636265.79
+    },
+    {
+      "t": "US91282CLJ89",
+      "n": "United States Department of The Treasury 3.75% 08/31/2031",
+      "weight": 0.49,
+      "isin": "US91282CLJ89",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 616161.7
+    },
+    {
+      "t": "US91282CLK52",
+      "n": "United States Department of The Treasury 3.63% 08/31/2029",
+      "weight": 0.82,
+      "isin": "US91282CLK52",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1030603.62
+    },
+    {
+      "t": "US91282CLM19",
+      "n": "United States Department of The Treasury 3.63% 09/30/2031",
+      "weight": 0.5,
+      "isin": "US91282CLM19",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 623290.75
+    },
+    {
+      "t": "US91282CLN91",
+      "n": "United States Department of The Treasury 3.50% 09/30/2029",
+      "weight": 0.81,
+      "isin": "US91282CLN91",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1022865.44
+    },
+    {
+      "t": "US91282CLQ23",
+      "n": "United States Department of The Treasury 3.88% 10/15/2027",
+      "weight": 0.57,
+      "isin": "US91282CLQ23",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 712284.85
+    },
+    {
+      "t": "US91282CLR06",
+      "n": "United States Department of The Treasury 4.13% 10/31/2029",
+      "weight": 0.84,
+      "isin": "US91282CLR06",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1051542.03
+    },
+    {
+      "t": "US91282CLX73",
+      "n": "United States Department of The Treasury 4.13% 11/15/2027",
+      "weight": 0.69,
+      "isin": "US91282CLX73",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 867869.22
+    },
+    {
+      "t": "US91282CMA61",
+      "n": "United States Department of The Treasury 4.13% 11/30/2029",
+      "weight": 0.84,
+      "isin": "US91282CMA61",
+      "sector": "-",
+      "mv": 1061190.22
+    },
+    {
+      "t": "US91282CMB45",
+      "n": "United States Department of The Treasury 4.00% 12/15/2027",
+      "weight": 0.71,
+      "isin": "US91282CMB45",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 891138.73
+    },
+    {
+      "t": "US91282CMD01",
+      "n": "United States Department of The Treasury 4.38% 12/31/2029",
+      "weight": 0.84,
+      "isin": "US91282CMD01",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1058506.54
+    },
+    {
+      "t": "US91282CMF58",
+      "n": "United States Department of The Treasury 4.25% 01/15/2028",
+      "weight": 0.72,
+      "isin": "US91282CMF58",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 904659.12
+    },
+    {
+      "t": "US91282CMG32",
+      "n": "United States Department of The Treasury 4.25% 01/31/2030",
+      "weight": 0.84,
+      "isin": "US91282CMG32",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1049806.84
+    },
+    {
+      "t": "US91282CMN82",
+      "n": "United States Department of The Treasury 4.25% 02/15/2028",
+      "weight": 0.68,
+      "isin": "US91282CMN82",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 858834.32
+    },
+    {
+      "t": "US91282CMS79",
+      "n": "United States Department of The Treasury 3.88% 03/15/2028",
+      "weight": 0.69,
+      "isin": "US91282CMS79",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 864721.09
+    },
+    {
+      "t": "US91282CMU26",
+      "n": "United States Department of The Treasury 4.00% 03/31/2030",
+      "weight": 0.84,
+      "isin": "US91282CMU26",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1053334.41
+    },
+    {
+      "t": "US91282CMW81",
+      "n": "United States Department of The Treasury 3.75% 04/15/2028",
+      "weight": 0.72,
+      "isin": "US91282CMW81",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 901012.35
+    },
+    {
+      "t": "US91282CMZ13",
+      "n": "United States Department of The Treasury 3.88% 04/30/2030",
+      "weight": 0.83,
+      "isin": "US91282CMZ13",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1044707.92
+    },
+    {
+      "t": "US91282CND91",
+      "n": "United States Department of The Treasury 3.75% 05/15/2028",
+      "weight": 0.68,
+      "isin": "US91282CND91",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 858013.96
+    },
+    {
+      "t": "US91282CNG23",
+      "n": "United States Department of The Treasury 4.00% 05/31/2030",
+      "weight": 0.84,
+      "isin": "US91282CNG23",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1052066.1
+    },
+    {
+      "t": "US91282CNH06",
+      "n": "United States Department of The Treasury 3.88% 06/15/2028",
+      "weight": 0.7,
+      "isin": "US91282CNH06",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 877676.46
+    },
+    {
+      "t": "US91282CNK35",
+      "n": "United States Department of The Treasury 3.88% 06/30/2030",
+      "weight": 0.82,
+      "isin": "US91282CNK35",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1035981.71
+    },
+    {
+      "t": "US91282CNM90",
+      "n": "United States Department of The Treasury 3.88% 07/15/2028",
+      "weight": 0.71,
+      "isin": "US91282CNM90",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 894845.04
+    },
+    {
+      "t": "US91282CNN73",
+      "n": "United States Department of The Treasury 3.88% 07/31/2030",
+      "weight": 0.82,
+      "isin": "US91282CNN73",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1031677.59
+    },
+    {
+      "t": "US91282CNU17",
+      "n": "United States Department of The Treasury 3.63% 08/15/2028",
+      "weight": 0.69,
+      "isin": "US91282CNU17",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 866201.59
+    },
+    {
+      "t": "US91282CNX55",
+      "n": "United States Department of The Treasury 3.63% 08/31/2030",
+      "weight": 0.81,
+      "isin": "US91282CNX55",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1017761.22
+    },
+    {
+      "t": "US91282CNY39",
+      "n": "United States Department of The Treasury 3.38% 09/15/2028",
+      "weight": 0.68,
+      "isin": "US91282CNY39",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 858542.41
+    },
+    {
+      "t": "US91282CPA35",
+      "n": "United States Department of The Treasury 3.63% 09/30/2030",
+      "weight": 0.8,
+      "isin": "US91282CPA35",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1000244.51
+    },
+    {
+      "t": "US91282CPC90",
+      "n": "United States Department of The Treasury 3.50% 10/15/2028",
+      "weight": 0.69,
+      "isin": "US91282CPC90",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 870728.32
+    },
+    {
+      "t": "US91282CPD73",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 3.63% 10/31/2030",
+      "weight": 0.81,
+      "isin": "US91282CPD73",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1021602.41
+    },
+    {
+      "t": "US91282CPE56",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 3.50% 10/31/2027",
+      "weight": 0.8,
+      "isin": "US91282CPE56",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1002805.41
+    },
+    {
+      "t": "US91282CPK17",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 3.50% 11/15/2028",
+      "weight": 0.69,
+      "isin": "US91282CPK17",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 861686.61
+    },
+    {
+      "t": "US91282CPL99",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 3.38% 11/30/2027",
+      "weight": 0.82,
+      "isin": "US91282CPL99",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1025111.86
+    },
+    {
+      "t": "US91282CPN55",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 3.50% 11/30/2030",
+      "weight": 0.81,
+      "isin": "US91282CPN55",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1018737.33
+    },
+    {
+      "t": "US91282CPP04",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 3.50% 12/15/2028",
+      "weight": 0.69,
+      "isin": "US91282CPP04",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 872051.05
+    },
+    {
+      "t": "US91282CPR69",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 3.63% 12/31/2030",
+      "weight": 0.82,
+      "isin": "US91282CPR69",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1026710.14
+    },
+    {
+      "t": "US91282CPS43",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 3.38% 12/31/2027",
+      "weight": 0.83,
+      "isin": "US91282CPS43",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1041851.32
+    },
+    {
+      "t": "US91282CPT26",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 3.50% 01/15/2029",
+      "weight": 0.69,
+      "isin": "US91282CPT26",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 861454.26
+    },
+    {
+      "t": "US91282CPW54",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 3.75% 01/31/2031",
+      "weight": 0.82,
+      "isin": "US91282CPW54",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1027748.82
+    },
+    {
+      "t": "US91282CQA26",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 3.50% 02/15/2029",
+      "weight": 0.68,
+      "isin": "US91282CQA26",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 857848.99
+    },
+    {
+      "t": "US91282CQB09",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 3.38% 02/29/2028",
+      "weight": 0.83,
+      "isin": "US91282CQB09",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1040457.06
+    },
+    {
+      "t": "US91282CQD64",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 3.50% 02/28/2031",
+      "weight": 0.8,
+      "isin": "US91282CQD64",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1000030.14
+    },
+    {
+      "t": "US91282CQE48",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 3.50% 03/15/2029",
+      "weight": 0.69,
+      "isin": "US91282CQE48",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 861513.57
+    },
+    {
+      "t": "US91282CQG95",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 3.88% 03/31/2031",
+      "weight": 0.82,
+      "isin": "US91282CQG95",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1024974.32
+    },
+    {
+      "t": "US91282CQH78",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 3.88% 03/31/2028",
+      "weight": 0.82,
+      "isin": "US91282CQH78",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1029793.39
+    },
+    {
+      "t": "US91282CQJ35",
+      "n": "US TREASURY N/B 3.88% 04/15/2029",
+      "weight": 0.69,
+      "isin": "US91282CQJ35",
+      "sector": "-",
+      "mv": 872300.53
+    },
+    {
+      "t": "US91282CQK08",
+      "n": "US TREASURY N/B 3.88% 04/30/2031",
+      "weight": 0.84,
+      "isin": "US91282CQK08",
+      "sector": "-",
+      "mv": 1054890.57
+    },
+    {
+      "t": "US91282CQL80",
+      "n": "US TREASURY N/B 3.75% 04/30/2028",
+      "weight": 0.84,
+      "isin": "US91282CQL80",
+      "sector": "-",
+      "mv": 1056915.65
+    },
+    {
+      "t": "US91282CQR50",
+      "n": "UNITED STATES TREASURY NOTE/BOND 3.88% 05/15/2029",
+      "weight": 0.7,
+      "isin": "US91282CQR50",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 878969.48
+    },
+    {
+      "t": "US91282CQS34",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 4.00% 05/31/2028",
+      "weight": 0.84,
+      "isin": "US91282CQS34",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1057773.24
+    },
+    {
+      "t": "US91282CQU89",
+      "n": "UNITED STATES TREASURY NOTE/BOND 4.13% 05/31/2031",
+      "weight": 0.83,
+      "isin": "US91282CQU89",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1041839.48
+    },
+    {
+      "t": "US91282CQV62",
+      "n": "US TREASURY N/B 4.13% 06/15/2029",
+      "weight": 0.7,
+      "isin": "US91282CQV62",
+      "sector": "-",
+      "mv": 881548.96
+    },
+    {
+      "t": "US91282CQX29",
+      "n": "UNITED STATES TREASURY NOTE/BOND 4.13% 06/30/2031",
+      "weight": 0.83,
+      "isin": "US91282CQX29",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1044633.69
+    },
+    {
+      "t": "US91282CQY02",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 4.13% 06/30/2028",
+      "weight": 0.83,
+      "isin": "US91282CQY02",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1048955.56
+    },
+    {
+      "t": "US91282CQZ76",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 4.13% 07/15/2029",
+      "weight": 0.7,
+      "isin": "US91282CQZ76",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 877858.92
+    },
+    {
+      "t": "US91282CRA17",
+      "n": "UNITED STATES TREASURY NOTE/BOND - WHEN ISSUED 4.38% 07/31/2031",
+      "weight": 0.83,
+      "isin": "US91282CRA17",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1038185.1
+    },
+    {
+      "t": "US91282CRB99",
+      "n": "UNITED STATES TREASURY NOTE/BOND 4.25% 07/31/2028",
+      "weight": 0.84,
+      "isin": "US91282CRB99",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1054144.3
+    },
+    {
+      "t": "US91282CRG86",
+      "n": "UNITED STATES TREASURY NOTE/BOND 4.25% 08/15/2029",
+      "weight": 0.7,
+      "isin": "US91282CRG86",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 877357.55
+    },
+    {
+      "t": "US91282CRH69",
+      "n": "UNITED STATES TREASURY NOTE/BOND 4.13% 08/31/2028",
+      "weight": 0.82,
+      "isin": "US91282CRH69",
+      "sector": "GOVERNMENT BONDS",
+      "mv": 1033447.4
+    },
+    {
+      "t": "US91282CRK98",
+      "n": "US TREASURY N/B 4.38% 08/31/2031",
+      "weight": 0.83,
+      "isin": "US91282CRK98",
+      "sector": "-",
+      "mv": 1048092.12
+    },
+    {
+      "t": "US91282CRL71",
+      "n": "US TREASURY N/B 4.38% 09/15/2029",
+      "weight": 0.69,
+      "isin": "US91282CRL71",
+      "sector": "-",
+      "mv": 869916.02
+    },
+    {
+      "t": "US91282CRN38",
+      "n": "US TREASURY N/B 5.00% 09/30/2031",
+      "weight": 0.85,
+      "isin": "US91282CRN38",
+      "sector": "-",
+      "mv": 1073281.51
+    },
+    {
+      "t": "US91282CRP85",
+      "n": "US TREASURY N/B 4.75% 09/30/2028",
+      "weight": 0.83,
+      "isin": "US91282CRP85",
+      "sector": "-",
+      "mv": 1041541.53
+    }
+  ]
+}

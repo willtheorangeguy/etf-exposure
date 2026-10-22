@@ -1,0 +1,475 @@
+{
+  "id": 4,
+  "as_of_date": "2026-10-21",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWH_20261021.xlsx",
+  "created_at": "2026-10-22T13:34:49.507Z",
+  "partial": false,
+  "content_hash": "5794dc6874f0170f2e82944ce773ba805b9439fb53e19d99d4fe68352c4462c4",
+  "holdings": [
+    {
+      "t": "AAPL",
+      "n": "Apple Inc.",
+      "weight": 6.578026592022358,
+      "isin": "US0378331005",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 84553123.21,
+      "shares": 174991
+    },
+    {
+      "t": "ABBV",
+      "n": "AbbVie Inc.",
+      "weight": 5.778266520043988,
+      "isin": "US00287Y1091",
+      "sector": "HEALTH CARE",
+      "mv": 74378640.25,
+      "shares": 185926
+    },
+    {
+      "t": "ABBVIE INC CALL OPTIONS",
+      "n": "ABBVIE INC CALL OPTIONS",
+      "weight": -0.03998800359892033,
+      "sector": "-"
+    },
+    {
+      "t": "ADI",
+      "n": "Analog Devices, Inc.",
+      "weight": 1.7094871538538439,
+      "isin": "US0326541051",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 22034893.9,
+      "shares": 38642
+    },
+    {
+      "t": "AVGO",
+      "n": "Broadcom Inc.",
+      "weight": 3.5889233230030992,
+      "isin": "US11135F1012",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 46106268.13,
+      "shares": 97170
+    },
+    {
+      "t": "BAC",
+      "n": "Bank of America Corporation",
+      "weight": 3.009097270818754,
+      "isin": "US0605051046",
+      "sector": "FINANCIALS",
+      "mv": 38685095,
+      "shares": 542354
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.03998800359892033,
+      "sector": "-",
+      "mv": 495205.8,
+      "shares": 1
+    },
+    {
+      "t": "CAT",
+      "n": "Caterpillar Inc.",
+      "weight": 1.3595921223632912,
+      "isin": "US1491231015",
+      "sector": "INDUSTRIALS",
+      "mv": 17453008.1,
+      "shares": 16786
+    },
+    {
+      "t": "CSCO",
+      "n": "Cisco Systems, Inc.",
+      "weight": 3.8688393481955416,
+      "isin": "US17275R1023",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 49819353.2,
+      "shares": 330668
+    },
+    {
+      "t": "CVS",
+      "n": "CVS Health Corporation",
+      "weight": 2.6691992402279316,
+      "isin": "US1266501006",
+      "sector": "HEALTH CARE",
+      "mv": 34288267.48,
+      "shares": 261215
+    },
+    {
+      "t": "CVS HEALTH CORP CALL OPTIONS",
+      "n": "CVS HEALTH CORP CALL OPTIONS",
+      "weight": -0.019994001799460166,
+      "sector": "-"
+    },
+    {
+      "t": "CVX",
+      "n": "Chevron Corporation",
+      "weight": 4.288713385984205,
+      "isin": "US1667641005",
+      "sector": "ENERGY",
+      "mv": 55190415.64,
+      "shares": 173257
+    },
+    {
+      "t": "DELL",
+      "n": "Dell Technologies Inc.",
+      "weight": 3.0390882735179447,
+      "isin": "US24703L2025",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 39066486.92,
+      "shares": 57241
+    },
+    {
+      "t": "DELL TECHNOLOGIES INC CALL OPTIONS",
+      "n": "DELL TECHNOLOGIES INC CALL OPTIONS",
+      "weight": -0.03998800359892033,
+      "sector": "-"
+    },
+    {
+      "t": "DUK",
+      "n": "Duke Energy Corporation",
+      "weight": 1.4395681295611318,
+      "isin": "US26441C2044",
+      "sector": "UTILITIES",
+      "mv": 18573204.58,
+      "shares": 109577
+    },
+    {
+      "t": "EVRG",
+      "n": "Evergy, Inc.",
+      "weight": 0.7797660701789464,
+      "isin": "US30034W1062",
+      "sector": "UTILITIES",
+      "mv": 9992303.59,
+      "shares": 85553
+    },
+    {
+      "t": "EXXONMOBIL HOLDINGS CORP CALL OPTIONS",
+      "n": "EXXONMOBIL HOLDINGS CORP CALL OPTIONS",
+      "weight": -0.03998800359892033,
+      "sector": "-"
+    },
+    {
+      "t": "GILD",
+      "n": "Gilead Sciences, Inc.",
+      "weight": 1.9894031790462863,
+      "isin": "US3755581036",
+      "sector": "HEALTH CARE",
+      "mv": 25566845.29,
+      "shares": 118523
+    },
+    {
+      "t": "GILEAD SCIENCES INC CALL OPTIONS",
+      "n": "GILEAD SCIENCES INC CALL OPTIONS",
+      "weight": -0.009997000899730083,
+      "sector": "-"
+    },
+    {
+      "t": "GLW",
+      "n": "Corning Incorporated",
+      "weight": 0.5598320503848846,
+      "isin": "US2193501051",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 7180169.13,
+      "shares": 37887
+    },
+    {
+      "t": "HAS",
+      "n": "Hasbro, Inc.",
+      "weight": 2.599220233929821,
+      "isin": "US4180561072",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 33420593.05,
+      "shares": 208709
+    },
+    {
+      "t": "HASBRO INC CALL OPTIONS",
+      "n": "HASBRO INC CALL OPTIONS",
+      "weight": -0.019994001799460166,
+      "sector": "-"
+    },
+    {
+      "t": "HD",
+      "n": "The Home Depot, Inc.",
+      "weight": 2.40927721683495,
+      "isin": "US4370761029",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 30989902.89,
+      "shares": 70231
+    },
+    {
+      "t": "HOME DEPOT INC/THE CALL OPTIONS",
+      "n": "HOME DEPOT INC/THE CALL OPTIONS",
+      "weight": -0.009997000899730083,
+      "sector": "-"
+    },
+    {
+      "t": "IBM",
+      "n": "International Business Machines Corporation",
+      "weight": 1.2596221133659904,
+      "isin": "US4592001014",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 16258760.91,
+      "shares": 46031
+    },
+    {
+      "t": "JPM",
+      "n": "JPMorgan Chase & Co.",
+      "weight": 3.65890232930121,
+      "isin": "US46625H1005",
+      "sector": "FINANCIALS",
+      "mv": 47028318.53,
+      "shares": 99885
+    },
+    {
+      "t": "LIN",
+      "n": "Linde plc",
+      "weight": 0.849745076477057,
+      "isin": "IE000S9YS762",
+      "sector": "MATERIALS",
+      "mv": 10964541.4,
+      "shares": 15594
+    },
+    {
+      "t": "LMT",
+      "n": "Lockheed Martin Corporation",
+      "weight": 1.719484154753574,
+      "isin": "US5398301094",
+      "sector": "INDUSTRIALS",
+      "mv": 22065168.33,
+      "shares": 28483
+    },
+    {
+      "t": "LOCKHEED MARTIN CORP CALL OPTIONS",
+      "n": "LOCKHEED MARTIN CORP CALL OPTIONS",
+      "weight": -0.019994001799460166,
+      "sector": "-"
+    },
+    {
+      "t": "MCHP",
+      "n": "Microchip Technology Incorporated",
+      "weight": 1.7994601619514148,
+      "isin": "US5950171042",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 23186035.38,
+      "shares": 213955
+    },
+    {
+      "t": "MERCK & CO INC CALL OPTIONS",
+      "n": "MERCK & CO INC CALL OPTIONS",
+      "weight": -0.019994001799460166,
+      "sector": "-"
+    },
+    {
+      "t": "META",
+      "n": "Meta Platforms, Inc.",
+      "weight": 1.5595321403578928,
+      "isin": "US30303M1027",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 20095112.81,
+      "shares": 20510
+    },
+    {
+      "t": "MICROCHIP TECHNOLOGY INC CALL OPTIONS",
+      "n": "MICROCHIP TECHNOLOGY INC CALL OPTIONS",
+      "weight": -0.009997000899730083,
+      "sector": "-"
+    },
+    {
+      "t": "MRK",
+      "n": "Merck & Co., Inc.",
+      "weight": 3.63890832750175,
+      "isin": "US58933Y1055",
+      "sector": "HEALTH CARE",
+      "mv": 46813215.55,
+      "shares": 222360
+    },
+    {
+      "t": "MS",
+      "n": "Morgan Stanley",
+      "weight": 2.1193641907427776,
+      "isin": "US6174464486",
+      "sector": "FINANCIALS",
+      "mv": 27245279.95,
+      "shares": 103719
+    },
+    {
+      "t": "MSFT",
+      "n": "Microsoft Corporation",
+      "weight": 4.118764370688794,
+      "isin": "US5949181045",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 52958791.14,
+      "shares": 70743
+    },
+    {
+      "t": "NEE",
+      "n": "NextEra Energy, Inc.",
+      "weight": 2.3892832150354897,
+      "isin": "US65339F1012",
+      "sector": "UTILITIES",
+      "mv": 30790209.55,
+      "shares": 280023
+    },
+    {
+      "t": "NVDA",
+      "n": "NVIDIA Corporation",
+      "weight": 2.7591722483255023,
+      "isin": "US67066G1040",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 35429339.52,
+      "shares": 113632
+    },
+    {
+      "t": "ORCL",
+      "n": "Oracle Corporation",
+      "weight": 1.9794061781465562,
+      "isin": "US68389X1054",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 25466459.38,
+      "shares": 140402
+    },
+    {
+      "t": "PEP",
+      "n": "PepsiCo, Inc.",
+      "weight": 1.9894031790462863,
+      "isin": "US7134481081",
+      "sector": "CONSUMER STAPLES",
+      "mv": 25573698.57,
+      "shares": 135163
+    },
+    {
+      "t": "PEPSICO INC CALL OPTIONS",
+      "n": "PEPSICO INC CALL OPTIONS",
+      "weight": -0.009997000899730083,
+      "sector": "-"
+    },
+    {
+      "t": "PHILIP MORRIS INTERNATIONAL IN CALL OPTIONS",
+      "n": "PHILIP MORRIS INTERNATIONAL IN CALL OPTIONS",
+      "weight": -0.009997000899730083,
+      "sector": "-"
+    },
+    {
+      "t": "PM",
+      "n": "Philip Morris International Inc.",
+      "weight": 3.069079276217135,
+      "isin": "US7181721090",
+      "sector": "CONSUMER STAPLES",
+      "mv": 39487777.49,
+      "shares": 142369
+    },
+    {
+      "t": "QCOM",
+      "n": "QUALCOMM Incorporated",
+      "weight": 3.079076277116865,
+      "isin": "US7475251036",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 39567241.04,
+      "shares": 158287
+    },
+    {
+      "t": "QUALCOMM INC CALL OPTIONS",
+      "n": "QUALCOMM INC CALL OPTIONS",
+      "weight": -0.009997000899730083,
+      "sector": "-"
+    },
+    {
+      "t": "T",
+      "n": "AT&T Inc.",
+      "weight": 2.2493252024392683,
+      "isin": "US00206R1023",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 28979862.61,
+      "shares": 941642
+    },
+    {
+      "t": "UPS",
+      "n": "United Parcel Service, Inc.",
+      "weight": 1.3296011196641009,
+      "isin": "US9113121068",
+      "sector": "INDUSTRIALS",
+      "mv": 17055769.29,
+      "shares": 121948
+    },
+    {
+      "t": "US29444U7000",
+      "n": "Equinix Inc",
+      "weight": 2.1493551934419677,
+      "isin": "US29444U7000",
+      "sector": "REAL ESTATE",
+      "mv": 27586356.8,
+      "shares": 19738
+    },
+    {
+      "t": "US8288061091",
+      "n": "Simon Property Group Inc",
+      "weight": 1.579526142157353,
+      "isin": "US8288061091",
+      "sector": "REAL ESTATE",
+      "mv": 20334092.45,
+      "shares": 70427
+    },
+    {
+      "t": "V",
+      "n": "Visa Inc.",
+      "weight": 2.229331200639808,
+      "isin": "US92826C8394",
+      "sector": "FINANCIALS",
+      "mv": 28638596.27,
+      "shares": 49990
+    },
+    {
+      "t": "VERIZON COMMUNICATIONS INC. CALL OPTIONS",
+      "n": "Verizon Communications Inc. CALL OPTIONS",
+      "weight": -0.009997000899730083,
+      "sector": "-"
+    },
+    {
+      "t": "VISA INC CALL OPTIONS",
+      "n": "VISA INC CALL OPTIONS",
+      "weight": -0.059982005398380486,
+      "sector": "-"
+    },
+    {
+      "t": "VZ",
+      "n": "Verizon Communications Inc..",
+      "weight": 1.7394781565530342,
+      "isin": "US92343V1044",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 22357260.9,
+      "shares": 365395
+    },
+    {
+      "t": "WALMART INC CALL OPTIONS",
+      "n": "WALMART INC CALL OPTIONS",
+      "weight": -0.059982005398380486,
+      "sector": "-"
+    },
+    {
+      "t": "WMB",
+      "n": "The Williams Companies, Inc.",
+      "weight": 1.5595321403578928,
+      "isin": "US9694571004",
+      "sector": "ENERGY",
+      "mv": 20094821.77,
+      "shares": 196510
+    },
+    {
+      "t": "WMT",
+      "n": "Walmart Inc.",
+      "weight": 2.7391782465260426,
+      "isin": "US9311421039",
+      "sector": "CONSUMER STAPLES",
+      "mv": 35253570.28,
+      "shares": 213054
+    },
+    {
+      "t": "XOM",
+      "n": "EXXONMOBIL HOLDINGS CORP",
+      "weight": 3.1190642807157856,
+      "isin": "US30233Q1085",
+      "sector": "ENERGY",
+      "mv": 40110711.98,
+      "shares": 160344
+    }
+  ]
+}

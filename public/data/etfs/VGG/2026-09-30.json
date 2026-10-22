@@ -1,0 +1,40 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-30",
+  "source": "url",
+  "source_url": "https://www.vanguard.ca/en/product/etf/equity/9566/vanguard-us-dividend-appreciation-index-etf",
+  "created_at": "2026-10-22T13:34:49.507Z",
+  "partial": false,
+  "content_hash": "c349f7e350d81d3fd6d1709552eb6370ed77403df72e427baad9120b6d9dbf05",
+  "holdings": [
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20261001",
+      "weight": 0.29075
+    },
+    {
+      "t": "CAD",
+      "n": "Canadian Dollar",
+      "weight": 0.00859,
+      "region": "CA"
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20261001",
+      "weight": -0.29195
+    },
+    {
+      "t": "USD",
+      "n": "US Dollar",
+      "weight": 0.3166,
+      "region": "US"
+    },
+    {
+      "t": "VIG",
+      "n": "Vanguard Dividend Appreciation ETF",
+      "weight": 99.67601,
+      "isin": "US9219088443",
+      "region": "US"
+    }
+  ]
+}

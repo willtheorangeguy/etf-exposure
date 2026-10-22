@@ -1,0 +1,28 @@
+{
+  "id": 4,
+  "as_of_date": "2026-10-21",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLU_20261021.xlsx",
+  "created_at": "2026-10-22T13:34:49.507Z",
+  "partial": false,
+  "content_hash": "fc4a7debff9d18db394e302b3f1a6595bc6cee991f0903d4213ca6583998b450",
+  "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.67,
+      "sector": "-",
+      "mv": 543186.52,
+      "shares": 1
+    },
+    {
+      "t": "US81369Y8865",
+      "n": "STATE STREET UTILITIES SELECT SECTOR SPDR ETF",
+      "weight": 99.33,
+      "isin": "US81369Y8865",
+      "sector": "-",
+      "mv": 80432776.15,
+      "shares": 1363376
+    }
+  ]
+}

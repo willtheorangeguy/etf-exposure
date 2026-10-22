@@ -1,0 +1,31 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-30",
+  "source": "url",
+  "source_url": "https://www.vanguard.ca/en/product/etf/fixed-income/9841/vanguard-global-aggregate-bond-index-etf-cad-hedged",
+  "created_at": "2026-10-22T13:34:49.507Z",
+  "partial": false,
+  "content_hash": "704d2602bc17045ffd4cc301b7b63d8a5b7aa0ee5d9ddf96223bc15eff82aa5d",
+  "holdings": [
+    {
+      "t": "CAD",
+      "n": "Canadian Dollar",
+      "weight": 0.00291,
+      "region": "CA"
+    },
+    {
+      "t": "VBG",
+      "n": "Vanguard Global ex-U.S. Aggregate Bond Index ETF CAD- hedged",
+      "weight": 48.65601,
+      "isin": "CA92206H1010",
+      "region": "CA"
+    },
+    {
+      "t": "VBU",
+      "n": "Vanguard US Aggregate Bond Index ETF Cad Hedged",
+      "weight": 51.34108,
+      "isin": "CA92206G1037",
+      "region": "CA"
+    }
+  ]
+}

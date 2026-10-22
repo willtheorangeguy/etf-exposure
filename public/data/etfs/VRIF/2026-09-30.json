@@ -1,0 +1,79 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-30",
+  "source": "url",
+  "source_url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9870/vanguard-retirement-income-etf-portfolio",
+  "created_at": "2026-10-22T13:34:49.507Z",
+  "partial": false,
+  "content_hash": "ccad7c09f47f70e5cf158f3995bba28a693d303e5067a274902fa242b1a8049a",
+  "holdings": [
+    {
+      "t": "CAD",
+      "n": "Canadian Dollar",
+      "weight": 0.11506998849300115,
+      "region": "CA"
+    },
+    {
+      "t": "USD",
+      "n": "US Dollar",
+      "weight": 0.000059999994000000595,
+      "region": "US"
+    },
+    {
+      "t": "VAB",
+      "n": "Vanguard Canadian Aggregate Bond Index ETF",
+      "weight": 24.082797591720237,
+      "isin": "CA92203E1016",
+      "region": "CA"
+    },
+    {
+      "t": "VBG",
+      "n": "Vanguard Global ex-U.S. Aggregate Bond Index ETF CAD- hedged",
+      "weight": 6.281259371874062,
+      "isin": "CA92206H1010",
+      "region": "CA"
+    },
+    {
+      "t": "VBU",
+      "n": "Vanguard US Aggregate Bond Index ETF Cad Hedged",
+      "weight": 4.128399587160041,
+      "isin": "CA92206G1037",
+      "region": "CA"
+    },
+    {
+      "t": "VCB",
+      "n": "Vanguard Canadian Corporate Bond Index ETF",
+      "weight": 34.68542653145734,
+      "isin": "CA92210P1071",
+      "region": "CA"
+    },
+    {
+      "t": "VCN",
+      "n": "Vanguard FTSE Canada All Cap Index ETF",
+      "weight": 9.03522909647709,
+      "isin": "CA92205P1045",
+      "region": "CA"
+    },
+    {
+      "t": "VEE",
+      "n": "Vanguard FTSE Emerging Markets All Cap Index ETF",
+      "weight": 0.08405999159400084,
+      "isin": "CA92205X1078",
+      "region": "CA"
+    },
+    {
+      "t": "VIU",
+      "n": "Vanguard FTSE Developed All Cap ex-North America Index ETF",
+      "weight": 13.772488622751137,
+      "isin": "CA92204G1054",
+      "region": "CA"
+    },
+    {
+      "t": "VUN",
+      "n": "Vanguard Morningstar US Total Market Index ETF",
+      "weight": 7.815209218479078,
+      "isin": "CA92206D1006",
+      "region": "CA"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 2,
+  "as_of_date": "2026-09-30",
+  "source": "url",
+  "source_url": "https://www.vanguard.ca/en/product/etf/asset-allocation/9692/vanguard-all-equity-etf-portfolio",
+  "created_at": "2026-10-22T13:34:49.507Z",
+  "partial": false,
+  "content_hash": "6d9fa357fc9e308496160012a54e72250f06f2ed66fe9d99b81bf13bd0b4fc65",
+  "holdings": [
+    {
+      "t": "CAD",
+      "n": "Canadian Dollar",
+      "weight": 0.02091,
+      "region": "CA"
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20261216",
+      "weight": -0.00099
+    },
+    {
+      "t": "USD",
+      "n": "US Dollar",
+      "weight": 0.00196,
+      "region": "US"
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20261216",
+      "weight": 0.00102
+    },
+    {
+      "t": "VCN",
+      "n": "Vanguard FTSE Canada All Cap Index ETF",
+      "weight": 29.65477,
+      "isin": "CA92205P1045",
+      "region": "CA"
+    },
+    {
+      "t": "VEE",
+      "n": "Vanguard FTSE Emerging Markets All Cap Index ETF",
+      "weight": 7.17542,
+      "isin": "CA92205X1078",
+      "region": "CA"
+    },
+    {
+      "t": "VIU",
+      "n": "Vanguard FTSE Developed All Cap ex-North America Index ETF",
+      "weight": 17.63315,
+      "isin": "CA92204G1054",
+      "region": "CA"
+    },
+    {
+      "t": "VUN",
+      "n": "Vanguard Morningstar US Total Market Index ETF",
+      "weight": 45.51375,
+      "isin": "CA92206D1006",
+      "region": "CA"
+    }
+  ]
+}

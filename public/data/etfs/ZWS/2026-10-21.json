@@ -1,0 +1,28 @@
+{
+  "id": 4,
+  "as_of_date": "2026-10-21",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWS_20261021.xlsx",
+  "created_at": "2026-10-22T13:34:49.507Z",
+  "partial": false,
+  "content_hash": "f9ba56f4c40dceddf862cb3332d814a2b72f7b09682db6762b066034785e62a3",
+  "holdings": [
+    {
+      "t": "CA05579F1062",
+      "n": "BMO US High Dividend Covered Call ETF",
+      "weight": 99.06,
+      "isin": "CA05579F1062",
+      "sector": "-",
+      "mv": 121370888.25,
+      "shares": 4516679
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.94,
+      "sector": "-",
+      "mv": 1149960.48,
+      "shares": 1
+    }
+  ]
+}
