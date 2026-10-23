@@ -1,0 +1,37 @@
+{
+  "id": 5,
+  "as_of_date": "2026-10-23",
+  "source": "url",
+  "source_url": "https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6905",
+  "created_at": "2026-10-23T10:58:30.999Z",
+  "partial": false,
+  "content_hash": "fde62873f4782e415163d812aa7d848ce3e9713ab2f4192079005b5bd1b3ce99",
+  "holdings": [
+    {
+      "t": "CAD CURRENCY",
+      "n": "CAD Currency",
+      "weight": 1.0298970102989702
+    },
+    {
+      "t": "CASH",
+      "n": "CASH",
+      "weight": 0.18998100189981001
+    },
+    {
+      "t": "EUR CURRENCY",
+      "n": "EUR Currency",
+      "weight": -0.009999000099990002
+    },
+    {
+      "t": "JPY CURRENCY",
+      "n": "JPY Currency",
+      "weight": -0.009999000099990002
+    },
+    {
+      "t": "TD INTERNATIONAL EQUITY INDEX ETF (TPE)",
+      "n": "TD International Equity Index ETF (TPE)",
+      "weight": 98.8001199880012
+    }
+  ],
+  "date_basis": "retrieved"
+}

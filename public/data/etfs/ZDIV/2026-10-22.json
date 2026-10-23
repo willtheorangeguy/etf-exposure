@@ -1,0 +1,451 @@
+{
+  "id": 5,
+  "as_of_date": "2026-10-22",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZDIV_20261022.xlsx",
+  "created_at": "2026-10-23T10:58:30.999Z",
+  "partial": false,
+  "content_hash": "b95216f5cbbfeccdf8d9fbe3e7b1873c11b757cad452f3c9d382b59f4ce1e5e4",
+  "holdings": [
+    {
+      "t": "BAM",
+      "n": "BROOKFIELD ASSET MANAGEMENT LTD",
+      "weight": 3.67,
+      "isin": "CA1130041058",
+      "sector": "FINANCIALS",
+      "mv": 541145.88,
+      "shares": 8118
+    },
+    {
+      "t": "CA1367178326",
+      "n": "Canadian Utilities Ltd",
+      "weight": 1.08,
+      "isin": "CA1367178326",
+      "sector": "UTILITIES",
+      "mv": 159761.91,
+      "shares": 3201
+    },
+    {
+      "t": "CA14150G4007",
+      "n": "CARDINAL ENERGY LTD",
+      "weight": 0.31,
+      "isin": "CA14150G4007",
+      "sector": "ENERGY",
+      "mv": 46439.36,
+      "shares": 3476
+    },
+    {
+      "t": "CA30041N1078",
+      "n": "EVERTZ TECHNOLOGIES LTD",
+      "weight": 0.06,
+      "isin": "CA30041N1078",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 8867.74,
+      "shares": 653
+    },
+    {
+      "t": "CA7029251088",
+      "n": "PASON SYSTEMS INC",
+      "weight": 0.18,
+      "isin": "CA7029251088",
+      "sector": "ENERGY",
+      "mv": 26369.55,
+      "shares": 1915
+    },
+    {
+      "t": "CA74349D1069",
+      "n": "PROPEL HOLDINGS INC",
+      "weight": 0.11,
+      "isin": "CA74349D1069",
+      "sector": "FINANCIALS",
+      "mv": 16841.13,
+      "shares": 681
+    },
+    {
+      "t": "CA7739151032",
+      "n": "ROCKPOINT GAS STORAGE INC",
+      "weight": 0.21,
+      "isin": "CA7739151032",
+      "sector": "ENERGY",
+      "mv": 30931.56,
+      "shares": 1314
+    },
+    {
+      "t": "CA7751092007",
+      "n": "Rogers Communications Inc",
+      "weight": 2.85,
+      "isin": "CA7751092007",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 419866.49,
+      "shares": 9043
+    },
+    {
+      "t": "CA77519R1029",
+      "n": "ROGERS SUGAR INC",
+      "weight": 0.13,
+      "isin": "CA77519R1029",
+      "sector": "CONSUMER STAPLES",
+      "mv": 18655.56,
+      "shares": 2772
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.1,
+      "sector": "-",
+      "mv": 15066.46,
+      "shares": 1
+    },
+    {
+      "t": "CCA",
+      "n": "Cogeco Communications Inc",
+      "weight": 0.13,
+      "isin": "CA19239C1068",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 19032.12,
+      "shares": 348
+    },
+    {
+      "t": "CNQ",
+      "n": "Canadian Natural Resources Ltd",
+      "weight": 5.35,
+      "isin": "CA1363851017",
+      "sector": "ENERGY",
+      "mv": 788975,
+      "shares": 10450
+    },
+    {
+      "t": "CPX",
+      "n": "Capital Power Corp",
+      "weight": 1.62,
+      "isin": "CA14042M1023",
+      "sector": "UTILITIES",
+      "mv": 238486.08,
+      "shares": 3864
+    },
+    {
+      "t": "CTC/A",
+      "n": "Canadian Tire Corp Ltd",
+      "weight": 1.67,
+      "isin": "CA1366812024",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 245735,
+      "shares": 1180
+    },
+    {
+      "t": "EIF",
+      "n": "EXCHANGE INCOME CORP",
+      "weight": 0.53,
+      "isin": "CA3012831077",
+      "sector": "INDUSTRIALS",
+      "mv": 77891.22,
+      "shares": 682
+    },
+    {
+      "t": "EMA",
+      "n": "Emera Inc",
+      "weight": 3.57,
+      "isin": "CA2908761018",
+      "sector": "UTILITIES",
+      "mv": 526708.68,
+      "shares": 7607
+    },
+    {
+      "t": "ENB",
+      "n": "Enbridge Inc",
+      "weight": 4.16,
+      "isin": "CA29250N1050",
+      "sector": "ENERGY",
+      "mv": 613511.89,
+      "shares": 9131
+    },
+    {
+      "t": "ENGH",
+      "n": "ENGHOUSE SYSTEMS LTD",
+      "weight": 0.14,
+      "isin": "CA2929491041",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 20177.75,
+      "shares": 1075
+    },
+    {
+      "t": "FRU",
+      "n": "FREEHOLD ROYALTIES LTD",
+      "weight": 0.41,
+      "isin": "CA3565001086",
+      "sector": "ENERGY",
+      "mv": 60338.26,
+      "shares": 3442
+    },
+    {
+      "t": "FTS",
+      "n": "Fortis Inc",
+      "weight": 5.11,
+      "isin": "CA3495531079",
+      "sector": "UTILITIES",
+      "mv": 754421.85,
+      "shares": 9315
+    },
+    {
+      "t": "GEI",
+      "n": "Gibson Energy Inc",
+      "weight": 0.95,
+      "isin": "CA3748252069",
+      "sector": "ENERGY",
+      "mv": 140655.61,
+      "shares": 4261
+    },
+    {
+      "t": "GWO",
+      "n": "Great-West Lifeco Inc",
+      "weight": 3.83,
+      "isin": "CA39138C1068",
+      "sector": "FINANCIALS",
+      "mv": 565764.63,
+      "shares": 6161
+    },
+    {
+      "t": "HWX",
+      "n": "HEADWATER EXPLORATION INC",
+      "weight": 0.56,
+      "isin": "CA4220961078",
+      "sector": "ENERGY",
+      "mv": 82178.67,
+      "shares": 5579
+    },
+    {
+      "t": "IGM",
+      "n": "IGM Financial Inc",
+      "weight": 1.05,
+      "isin": "CA4495861060",
+      "sector": "FINANCIALS",
+      "mv": 155456.25,
+      "shares": 1875
+    },
+    {
+      "t": "KEY",
+      "n": "Keyera Corp",
+      "weight": 2.69,
+      "isin": "CA4932711001",
+      "sector": "ENERGY",
+      "mv": 397178.16,
+      "shares": 7269
+    },
+    {
+      "t": "LNF",
+      "n": "LEON'S FURNITURE LTD",
+      "weight": 0.09,
+      "isin": "CA5266821092",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 13473.23,
+      "shares": 509
+    },
+    {
+      "t": "MFC",
+      "n": "Manulife Financial Corp",
+      "weight": 5.87,
+      "isin": "CA56501R1064",
+      "sector": "FINANCIALS",
+      "mv": 866603.61,
+      "shares": 13581
+    },
+    {
+      "t": "MFI",
+      "n": "MAPLE LEAF FOODS INC",
+      "weight": 0.33,
+      "isin": "CA5649051078",
+      "sector": "CONSUMER STAPLES",
+      "mv": 49090.95,
+      "shares": 1849
+    },
+    {
+      "t": "MG",
+      "n": "Magna International Inc",
+      "weight": 3.86,
+      "isin": "CA5592224011",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 570193.35,
+      "shares": 6297
+    },
+    {
+      "t": "MTL",
+      "n": "MULLEN GROUP LTD",
+      "weight": 0.49,
+      "isin": "CA6252841045",
+      "sector": "INDUSTRIALS",
+      "mv": 72662.28,
+      "shares": 2251
+    },
+    {
+      "t": "NA",
+      "n": "National Bank of Canada",
+      "weight": 4.82,
+      "isin": "CA6330671034",
+      "sector": "FINANCIALS",
+      "mv": 710865.99,
+      "shares": 3429
+    },
+    {
+      "t": "NTR",
+      "n": "NUTRIEN LTD",
+      "weight": 4.74,
+      "isin": "CA67077M1086",
+      "sector": "MATERIALS",
+      "mv": 699334.4,
+      "shares": 7232
+    },
+    {
+      "t": "NWC",
+      "n": "NORTH WEST CO INC/THE",
+      "weight": 0.45,
+      "isin": "CA6632782083",
+      "sector": "CONSUMER STAPLES",
+      "mv": 66516.75,
+      "shares": 1175
+    },
+    {
+      "t": "OTEX",
+      "n": "OPEN TEXT CORP",
+      "weight": 1.55,
+      "isin": "CA6837151068",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 228500.4,
+      "shares": 5844
+    },
+    {
+      "t": "PBH",
+      "n": "PREMIUM BRANDS HOLDINGS CORP",
+      "weight": 0.62,
+      "isin": "CA74061A1084",
+      "sector": "CONSUMER STAPLES",
+      "mv": 91175.76,
+      "shares": 1224
+    },
+    {
+      "t": "PEY",
+      "n": "PEYTO EXPLORATION & DEVELOPMENT CORP",
+      "weight": 0.85,
+      "isin": "CA7170461064",
+      "sector": "ENERGY",
+      "mv": 125558.55,
+      "shares": 4953
+    },
+    {
+      "t": "POW",
+      "n": "Power Corp Of Canada",
+      "weight": 5.64,
+      "isin": "CA7392391016",
+      "sector": "FINANCIALS",
+      "mv": 831537.8,
+      "shares": 8804
+    },
+    {
+      "t": "PPL",
+      "n": "Pembina Pipeline Corp",
+      "weight": 4.9,
+      "isin": "CA7063271034",
+      "sector": "ENERGY",
+      "mv": 723583.71,
+      "shares": 10467
+    },
+    {
+      "t": "PSK",
+      "n": "PRAIRIESKY ROYALTY LTD",
+      "weight": 1.42,
+      "isin": "CA7397211086",
+      "sector": "ENERGY",
+      "mv": 209690.25,
+      "shares": 5775
+    },
+    {
+      "t": "PXT",
+      "n": "PAREX RESOURCES INC",
+      "weight": 0.47,
+      "isin": "CA69946Q1046",
+      "sector": "ENERGY",
+      "mv": 69302.5,
+      "shares": 2375
+    },
+    {
+      "t": "QBR/B",
+      "n": "QUEBECOR INC",
+      "weight": 1.66,
+      "isin": "CA7481932084",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 244735.68,
+      "shares": 3688
+    },
+    {
+      "t": "RUS",
+      "n": "Russel Metals Inc",
+      "weight": 0.83,
+      "isin": "CA7819036046",
+      "sector": "INDUSTRIALS",
+      "mv": 123075.72,
+      "shares": 1373
+    },
+    {
+      "t": "SLF",
+      "n": "Sun Life Financial Inc",
+      "weight": 5.59,
+      "isin": "CA8667961053",
+      "sector": "FINANCIALS",
+      "mv": 824353.2,
+      "shares": 7290
+    },
+    {
+      "t": "SU",
+      "n": "Suncor Energy Inc",
+      "weight": 5.44,
+      "isin": "CA8672241079",
+      "sector": "ENERGY",
+      "mv": 803278.29,
+      "shares": 7411
+    },
+    {
+      "t": "T",
+      "n": "Telus Corp",
+      "weight": 1.08,
+      "isin": "CA87971M1032",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 158707.1,
+      "shares": 12830
+    },
+    {
+      "t": "TPZ",
+      "n": "TOPAZ ENERGY CORP",
+      "weight": 0.65,
+      "isin": "CA89055A2039",
+      "sector": "ENERGY",
+      "mv": 95408.5,
+      "shares": 3154
+    },
+    {
+      "t": "TRI",
+      "n": "THOMSON REUTERS CORP",
+      "weight": 3.79,
+      "isin": "CA8849038812",
+      "sector": "INDUSTRIALS",
+      "mv": 559190.49,
+      "shares": 3243
+    },
+    {
+      "t": "WCP",
+      "n": "Whitecap Resources Inc",
+      "weight": 4.13,
+      "isin": "CA96467A2002",
+      "sector": "ENERGY",
+      "mv": 608998.5,
+      "shares": 30074
+    },
+    {
+      "t": "WTE",
+      "n": "WESTSHORE TERMINALS INVESTMENT CORP",
+      "weight": 0.25,
+      "isin": "CA96145A2002",
+      "sector": "INDUSTRIALS",
+      "mv": 37132.45,
+      "shares": 835
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 5,
+  "as_of_date": "2026-10-23",
+  "source": "url",
+  "source_url": "https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=7322",
+  "created_at": "2026-10-23T10:58:30.999Z",
+  "partial": false,
+  "content_hash": "320b75b683b9879b5f409997aa0428735b72db7385e7a33d5aa49eaea85d8318",
+  "holdings": [
+    {
+      "t": "CASH",
+      "n": "CASH",
+      "weight": 0.6599340065993402
+    },
+    {
+      "t": "EQUINIX INC 2.90% 18-SEP-2026",
+      "n": "Equinix Inc 2.90% 18-Sep-2026",
+      "weight": 9.619038096190382
+    },
+    {
+      "t": "GOLDMAN SACHS GROUP INC - PFD",
+      "n": "Goldman Sachs Group Inc - Pfd",
+      "weight": 9.489051094890511
+    },
+    {
+      "t": "KINDER MORGAN INC 1.75% 15-OCT-2026",
+      "n": "Kinder Morgan Inc 1.75% 15-Oct-2026",
+      "weight": 9.129087091290872
+    },
+    {
+      "t": "STATE STREET BANK AND TRUST CO 4.59% 25-NOV-2026",
+      "n": "State Street Bank and Trust Co 4.59% 25-Nov-2026",
+      "weight": 8.709129087091293
+    },
+    {
+      "t": "UNITED STATES TREASURY BILL (USD) 17-11-2026",
+      "n": "United States Treasury Bill (USD) 17-11-2026",
+      "weight": 62.39376062393761
+    }
+  ],
+  "date_basis": "retrieved"
+}

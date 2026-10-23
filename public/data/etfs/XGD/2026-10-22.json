@@ -1,0 +1,563 @@
+{
+  "id": 5,
+  "as_of_date": "2026-10-22",
+  "source": "url",
+  "source_url": "https://www.blackrock.com/ca/investors/en/products/239848/ishares-sptsx-global-gold-index-etf/1464253357814.ajax?fileType=csv&fileName=XGD_holdings&dataType=fund",
+  "created_at": "2026-10-23T10:58:30.999Z",
+  "partial": false,
+  "content_hash": "adb422d01cf14d8fe7911efa59c64504cdd02d03139f4ab930edafa757e71f01",
+  "holdings": [
+    {
+      "t": "-",
+      "n": "G3 GOLDFIELDS INC",
+      "weight": 0.01,
+      "sector": "Materials",
+      "mv": 513070.91,
+      "shares": 375755
+    },
+    {
+      "t": "AAUC",
+      "n": "ALLIED GOLD",
+      "weight": 0.31,
+      "sector": "Materials",
+      "mv": 12734719.72,
+      "shares": 456769
+    },
+    {
+      "t": "ABX",
+      "n": "BARRICK MINING",
+      "weight": 9.21,
+      "sector": "Materials",
+      "mv": 384462074.88,
+      "shares": 7109136
+    },
+    {
+      "t": "AEM",
+      "n": "AGNICO EAGLE MINES",
+      "weight": 12.94,
+      "sector": "Materials",
+      "mv": 540188012.16,
+      "shares": 2189478
+    },
+    {
+      "t": "AGI",
+      "n": "ALAMOS GOLD CLASS A",
+      "weight": 1.84,
+      "sector": "Materials",
+      "mv": 76712861.99,
+      "shares": 1808839
+    },
+    {
+      "t": "ALK",
+      "n": "ALKANE RESOURCES LTD",
+      "weight": 0.19,
+      "sector": "Materials",
+      "mv": 7836770.55,
+      "shares": 5055981
+    },
+    {
+      "t": "ARIS",
+      "n": "ARIS MINING",
+      "weight": 0.47,
+      "sector": "Materials",
+      "mv": 19600814.7,
+      "shares": 893790
+    },
+    {
+      "t": "AU",
+      "n": "ANGLOGOLD ASHANTI PLC",
+      "weight": 5.32,
+      "sector": "Materials",
+      "mv": 222000607.5,
+      "shares": 1856881
+    },
+    {
+      "t": "AUGO",
+      "n": "AURA MINERALS INC",
+      "weight": 0.39,
+      "sector": "Materials",
+      "mv": 16281023.11,
+      "shares": 147691
+    },
+    {
+      "t": "BSX",
+      "n": "BELO SUN MINING CORP",
+      "weight": 0.04,
+      "sector": "Materials",
+      "mv": 1777370.14,
+      "shares": 1813643
+    },
+    {
+      "t": "BTO",
+      "n": "B2GOLD",
+      "weight": 0.88,
+      "sector": "Materials",
+      "mv": 36553440.44,
+      "shares": 5359742
+    },
+    {
+      "t": "CAD",
+      "n": "CAD CASH",
+      "weight": 0.01,
+      "sector": "Cash and/or Derivatives",
+      "mv": 499283.67,
+      "shares": 499284
+    },
+    {
+      "t": "CDE",
+      "n": "COEUR MINING",
+      "weight": 2.07,
+      "sector": "Materials",
+      "mv": 86491235.61,
+      "shares": 4440186
+    },
+    {
+      "t": "CG",
+      "n": "CENTERRA GOLD",
+      "weight": 0.58,
+      "sector": "Materials",
+      "mv": 24269933.76,
+      "shares": 846232
+    },
+    {
+      "t": "CMCL",
+      "n": "CALEDONIA MINING PLC",
+      "weight": 0.05,
+      "sector": "Materials",
+      "mv": 1968566.69,
+      "shares": 64168
+    },
+    {
+      "t": "CTGO",
+      "n": "CONTANGO SILVER AND GOLD INC",
+      "weight": 0.06,
+      "sector": "Materials",
+      "mv": 2644011.62,
+      "shares": 130021
+    },
+    {
+      "t": "DC",
+      "n": "DAKOTA GOLD CORP",
+      "weight": 0.1,
+      "sector": "Materials",
+      "mv": 4002569.64,
+      "shares": 538123
+    },
+    {
+      "t": "DPM",
+      "n": "DPM METALS",
+      "weight": 1.27,
+      "sector": "Materials",
+      "mv": 53205862.5,
+      "shares": 945882
+    },
+    {
+      "t": "DRD",
+      "n": "DRDGOLD ADR REPRESENTING LTD",
+      "weight": 0.15,
+      "sector": "Materials",
+      "mv": 6321111.83,
+      "shares": 184975
+    },
+    {
+      "t": "EDV",
+      "n": "ENDEAVOUR MINING",
+      "weight": 1.63,
+      "sector": "Materials",
+      "mv": 68197016.16,
+      "shares": 927472
+    },
+    {
+      "t": "ELD",
+      "n": "ELDORADO GOLD",
+      "weight": 1.25,
+      "sector": "Materials",
+      "mv": 52084011.6,
+      "shares": 1129560
+    },
+    {
+      "t": "ELE",
+      "n": "ELEMENTAL ROYALTY CORP",
+      "weight": 0.1,
+      "sector": "Materials",
+      "mv": 4359355.26,
+      "shares": 194264
+    },
+    {
+      "t": "EQX",
+      "n": "EQUINOX GOLD",
+      "weight": 1.75,
+      "sector": "Materials",
+      "mv": 73030806.72,
+      "shares": 5043564
+    },
+    {
+      "t": "FF",
+      "n": "FIRST MINING GOLD",
+      "weight": 0.08,
+      "sector": "Materials",
+      "mv": 3536253.62,
+      "shares": 6096989
+    },
+    {
+      "t": "FNV",
+      "n": "FRANCO NEVADA",
+      "weight": 6.49,
+      "sector": "Materials",
+      "mv": 270754780.66,
+      "shares": 833066
+    },
+    {
+      "t": "FVI",
+      "n": "FORTUNA MINING CORP",
+      "weight": 0.41,
+      "sector": "Materials",
+      "mv": 17021103.66,
+      "shares": 1276902
+    },
+    {
+      "t": "FVL",
+      "n": "FREEGOLD",
+      "weight": 0.04,
+      "sector": "Materials",
+      "mv": 1467096.44,
+      "shares": 1789142
+    },
+    {
+      "t": "GAU",
+      "n": "GALIANO GOLD INC",
+      "weight": 0.08,
+      "sector": "Materials",
+      "mv": 3291403.56,
+      "shares": 1127193
+    },
+    {
+      "t": "GFI",
+      "n": "GOLD FIELDS ADR REPRESENTING",
+      "weight": 4.57,
+      "sector": "Materials",
+      "mv": 190648304.14,
+      "shares": 3865892
+    },
+    {
+      "t": "GMIN",
+      "n": "G MINING VENTURES CORP",
+      "weight": 0.99,
+      "sector": "Materials",
+      "mv": 41435925.3,
+      "shares": 996535
+    },
+    {
+      "t": "GROY",
+      "n": "GOLD ROYALTY",
+      "weight": 0.08,
+      "sector": "Materials",
+      "mv": 3148010.61,
+      "shares": 789835
+    },
+    {
+      "t": "HMY",
+      "n": "HARMONY GOLD MINING ADR REPRESENTI",
+      "weight": 1.29,
+      "sector": "Materials",
+      "mv": 53748489.93,
+      "shares": 2362663
+    },
+    {
+      "t": "HYMC",
+      "n": "HYCROFT MINING HOLDING CORP CLASS",
+      "weight": 0.12,
+      "sector": "Materials",
+      "mv": 5160319.88,
+      "shares": 233313
+    },
+    {
+      "t": "IAU",
+      "n": "I GOLD CORP",
+      "weight": 0.16,
+      "sector": "Materials",
+      "mv": 6675730.11,
+      "shares": 3288537
+    },
+    {
+      "t": "IMG",
+      "n": "IAMGOLD CORP",
+      "weight": 1.37,
+      "sector": "Materials",
+      "mv": 57130056.36,
+      "shares": 2482836
+    },
+    {
+      "t": "ITH",
+      "n": "INTERNATIONAL TOWER HILL MINES LTD",
+      "weight": 0.04,
+      "sector": "Materials",
+      "mv": 1558149.93,
+      "shares": 562509
+    },
+    {
+      "t": "ITRG",
+      "n": "INTEGRA RESOURCES CORP",
+      "weight": 0.07,
+      "sector": "Materials",
+      "mv": 2795049.7,
+      "shares": 881251
+    },
+    {
+      "t": "K",
+      "n": "KINROSS GOLD",
+      "weight": 3.89,
+      "sector": "Materials",
+      "mv": 162577571.13,
+      "shares": 5123781
+    },
+    {
+      "t": "KNT",
+      "n": "K92 MINING",
+      "weight": 0.63,
+      "sector": "Materials",
+      "mv": 26453752.27,
+      "shares": 1057727
+    },
+    {
+      "t": "LGD",
+      "n": "LIBERTY GOLD CORP",
+      "weight": 0.1,
+      "sector": "Materials",
+      "mv": 4317083.46,
+      "shares": 2359062
+    },
+    {
+      "t": "LUG",
+      "n": "LUNDIN GOLD",
+      "weight": 0.9,
+      "sector": "Materials",
+      "mv": 37640693.31,
+      "shares": 438141
+    },
+    {
+      "t": "MAU",
+      "n": "MONTAGE GOLD",
+      "weight": 0.49,
+      "sector": "Materials",
+      "mv": 20322900,
+      "shares": 1354860
+    },
+    {
+      "t": "MSA",
+      "n": "MINEROS",
+      "weight": 0.09,
+      "sector": "Materials",
+      "mv": 3710606.76,
+      "shares": 438606
+    },
+    {
+      "t": "MUX",
+      "n": "MCEWEN INC",
+      "weight": 0.11,
+      "sector": "Materials",
+      "mv": 4759642.61,
+      "shares": 227618
+    },
+    {
+      "t": "NEM",
+      "n": "NEWMONT",
+      "weight": 17.46,
+      "sector": "Materials",
+      "mv": 728847760.59,
+      "shares": 4551260
+    },
+    {
+      "t": "NFGC",
+      "n": "NEW FOUND GOLD CORP",
+      "weight": 0.06,
+      "sector": "Materials",
+      "mv": 2702814.89,
+      "shares": 1226691
+    },
+    {
+      "t": "NG",
+      "n": "NOVAGOLD RESOURCES INC",
+      "weight": 0.28,
+      "sector": "Materials",
+      "mv": 11526490.8,
+      "shares": 1324884
+    },
+    {
+      "t": "OGC",
+      "n": "OCEANAGOLD CORPORATION CORP",
+      "weight": 0.81,
+      "sector": "Materials",
+      "mv": 33944306.04,
+      "shares": 959692
+    },
+    {
+      "t": "OGG",
+      "n": "OSISKO GOLD GROUP INC",
+      "weight": 0.07,
+      "sector": "Materials",
+      "mv": 3119860.42,
+      "shares": 930156
+    },
+    {
+      "t": "OR",
+      "n": "OR ROYALTIES INC",
+      "weight": 0.9,
+      "sector": "Materials",
+      "mv": 37498933.12,
+      "shares": 804008
+    },
+    {
+      "t": "ORE",
+      "n": "OREZONE GOLD",
+      "weight": 0.13,
+      "sector": "Materials",
+      "mv": 5574317.53,
+      "shares": 2072237
+    },
+    {
+      "t": "PAAS",
+      "n": "PAN AMERICAN SILVER",
+      "weight": 2.48,
+      "sector": "Materials",
+      "mv": 103693361.48,
+      "shares": 1801483
+    },
+    {
+      "t": "PPTA",
+      "n": "PERPETUA RESOURCES",
+      "weight": 0.21,
+      "sector": "Materials",
+      "mv": 8738228.44,
+      "shares": 361532
+    },
+    {
+      "t": "RGLD",
+      "n": "ROYAL GOLD",
+      "weight": 2.89,
+      "sector": "Materials",
+      "mv": 120546802.08,
+      "shares": 365952
+    },
+    {
+      "t": "RIO",
+      "n": "RIO2 LTD",
+      "weight": 0.14,
+      "sector": "Materials",
+      "mv": 5851787.2,
+      "shares": 2199920
+    },
+    {
+      "t": "SA",
+      "n": "SEABRIDGE GOLD",
+      "weight": 0.33,
+      "sector": "Materials",
+      "mv": 13615283.82,
+      "shares": 390880
+    },
+    {
+      "t": "SGD",
+      "n": "SNOWLINE GOLD",
+      "weight": 0.2,
+      "sector": "Materials",
+      "mv": 8471304.9,
+      "shares": 607262
+    },
+    {
+      "t": "SKE",
+      "n": "SKEENA RESOURCES",
+      "weight": 0.52,
+      "sector": "Materials",
+      "mv": 21594539.24,
+      "shares": 537044
+    },
+    {
+      "t": "SSRM",
+      "n": "SSR MINING",
+      "weight": 0.86,
+      "sector": "Materials",
+      "mv": 36011810.27,
+      "shares": 879839
+    },
+    {
+      "t": "SXGC",
+      "n": "SOUTHERN CROSS GOLD CONSOLIDATED L",
+      "weight": 0.2,
+      "sector": "Materials",
+      "mv": 8496328.5,
+      "shares": 918522
+    },
+    {
+      "t": "TFPM",
+      "n": "TRIPLE FLAG PRECIOUS METALS",
+      "weight": 0.3,
+      "sector": "Materials",
+      "mv": 12500109.92,
+      "shares": 303991
+    },
+    {
+      "t": "TLG",
+      "n": "TROILUS MINING CORP",
+      "weight": 0.09,
+      "sector": "Materials",
+      "mv": 3563039.98,
+      "shares": 2391302
+    },
+    {
+      "t": "TRX",
+      "n": "TRX GOLD CORP",
+      "weight": 0.05,
+      "sector": "Materials",
+      "mv": 1991441.59,
+      "shares": 1453607
+    },
+    {
+      "t": "TXG",
+      "n": "TOREX GOLD RESOURCES",
+      "weight": 0.65,
+      "sector": "Materials",
+      "mv": 27197819,
+      "shares": 400675
+    },
+    {
+      "t": "USD",
+      "n": "USD CASH",
+      "weight": 0.08,
+      "sector": "Cash and/or Derivatives",
+      "mv": 3430040.12,
+      "shares": 2444093
+    },
+    {
+      "t": "VGZ",
+      "n": "VISTA GOLD CORP",
+      "weight": 0.06,
+      "sector": "Materials",
+      "mv": 2349304.92,
+      "shares": 636668
+    },
+    {
+      "t": "VOXR",
+      "n": "VOX ROYALTY CORP",
+      "weight": 0.04,
+      "sector": "Materials",
+      "mv": 1874745,
+      "shares": 277740
+    },
+    {
+      "t": "WDO",
+      "n": "WESDOME GOLD MINES LTD",
+      "weight": 0.44,
+      "sector": "Materials",
+      "mv": 18357595.77,
+      "shares": 635871
+    },
+    {
+      "t": "WPM",
+      "n": "WHEATON PRECIOUS METALS",
+      "weight": 8.13,
+      "sector": "Materials",
+      "mv": 339365796,
+      "shares": 1961652
+    }
+  ]
+}

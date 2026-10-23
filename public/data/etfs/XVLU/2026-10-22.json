@@ -1,0 +1,1211 @@
+{
+  "id": 5,
+  "as_of_date": "2026-10-22",
+  "source": "url",
+  "source_url": "https://www.blackrock.com/ca/investors/en/products/309730/fund/1464253357814.ajax?fileType=csv&fileName=XVLU_holdings&dataType=fund",
+  "created_at": "2026-10-23T10:58:30.999Z",
+  "partial": false,
+  "content_hash": "ec741e7489add1172bad3fb109610cf09704d9c188957121c398b0c804aa6fd5",
+  "holdings": [
+    {
+      "t": "ACGL",
+      "n": "ARCH CAPITAL GROUP",
+      "weight": 0.17994601619514142,
+      "sector": "Financials",
+      "mv": 162629.23,
+      "shares": 164290
+    },
+    {
+      "t": "ACN",
+      "n": "ACCENTURE PLC CLASS A",
+      "weight": 1.4595621313605915,
+      "sector": "Information Technology",
+      "mv": 1295732.58,
+      "shares": 519500
+    },
+    {
+      "t": "ADBE",
+      "n": "ADOBE INC",
+      "weight": 0.6997900629811055,
+      "sector": "Information Technology",
+      "mv": 618771.21,
+      "shares": 237255
+    },
+    {
+      "t": "ADM",
+      "n": "ARCHER DANIELS MIDLAND",
+      "weight": 0.9697090872738175,
+      "sector": "Consumer Staples",
+      "mv": 858827.74,
+      "shares": 1115885
+    },
+    {
+      "t": "AIG",
+      "n": "AMERICAN INTERNATIONAL GROUP",
+      "weight": 0.34989503149055273,
+      "sector": "Financials",
+      "mv": 311198.51,
+      "shares": 388808
+    },
+    {
+      "t": "AMCR",
+      "n": "AMCOR PLC",
+      "weight": 0.12996101169649102,
+      "sector": "Materials",
+      "mv": 118862.51,
+      "shares": 266441
+    },
+    {
+      "t": "BAC",
+      "n": "BANK OF AMERICA",
+      "weight": 1.8094571628511442,
+      "sector": "Financials",
+      "mv": 1604608.44,
+      "shares": 3258753
+    },
+    {
+      "t": "BBY",
+      "n": "BEST BUY",
+      "weight": 0.4398680395881235,
+      "sector": "Consumer Discretionary",
+      "mv": 387464.48,
+      "shares": 402632
+    },
+    {
+      "t": "BDX",
+      "n": "BECTON DICKINSON",
+      "weight": 0.4198740377886633,
+      "sector": "Health Care",
+      "mv": 371197.13,
+      "shares": 192130
+    },
+    {
+      "t": "BG",
+      "n": "BUNGE GLOBAL SA",
+      "weight": 0.3398980305908227,
+      "sector": "Consumer Staples",
+      "mv": 298432.84,
+      "shares": 300130
+    },
+    {
+      "t": "BIIB",
+      "n": "BIOGEN",
+      "weight": 0.4098770368889332,
+      "sector": "Health Care",
+      "mv": 362243.43,
+      "shares": 148037
+    },
+    {
+      "t": "BMY",
+      "n": "BRISTOL MYERS SQUIBB",
+      "weight": 1.1796461061681491,
+      "sector": "Health Care",
+      "mv": 1049186.83,
+      "shares": 1727615
+    },
+    {
+      "t": "C",
+      "n": "CITIGROUP",
+      "weight": 1.4795561331600515,
+      "sector": "Financials",
+      "mv": 1316317.21,
+      "shares": 1114609
+    },
+    {
+      "t": "CAD",
+      "n": "CAD CASH",
+      "weight": 0.029991002699190236,
+      "sector": "Cash and/or Derivatives",
+      "mv": 22364.44,
+      "shares": 224
+    },
+    {
+      "t": "CCL",
+      "n": "CARNIVAL CORP LTD",
+      "weight": 0.5598320503848845,
+      "sector": "Consumer Discretionary",
+      "mv": 495192.5,
+      "shares": 1896961
+    },
+    {
+      "t": "CDE",
+      "n": "COEUR MINING",
+      "weight": 0.06997900629811056,
+      "sector": "Materials",
+      "mv": 58323.13,
+      "shares": 435888
+    },
+    {
+      "t": "CF",
+      "n": "CF INDUSTRIES HOLDINGS INC",
+      "weight": 0.12996101169649102,
+      "sector": "Materials",
+      "mv": 118312.88,
+      "shares": 103521
+    },
+    {
+      "t": "CFG",
+      "n": "CITIZENS FINANCIAL GROUP INC",
+      "weight": 0.1899430170948715,
+      "sector": "Financials",
+      "mv": 165634.48,
+      "shares": 263368
+    },
+    {
+      "t": "CHTR",
+      "n": "CHARTER COMMUNICATIONS CLASS A",
+      "weight": 0.1899430170948715,
+      "sector": "Communication",
+      "mv": 165386.26,
+      "shares": 153498
+    },
+    {
+      "t": "CI",
+      "n": "CIGNA",
+      "weight": 1.0496850944716583,
+      "sector": "Health Care",
+      "mv": 927771.19,
+      "shares": 304687
+    },
+    {
+      "t": "CMCSA",
+      "n": "COMCAST CLASS A",
+      "weight": 1.6794961511546531,
+      "sector": "Communication",
+      "mv": 1488201.55,
+      "shares": 6759260
+    },
+    {
+      "t": "CNC",
+      "n": "CENTENE CORP",
+      "weight": 0.5698290512846145,
+      "sector": "Health Care",
+      "mv": 506442.24,
+      "shares": 737467
+    },
+    {
+      "t": "COF",
+      "n": "CAPITAL ONE FINANCIAL CORP",
+      "weight": 0.8397480755773266,
+      "sector": "Financials",
+      "mv": 745550.21,
+      "shares": 380186
+    },
+    {
+      "t": "COO",
+      "n": "COOPER",
+      "weight": 0.06997900629811056,
+      "sector": "Health Care",
+      "mv": 61159.94,
+      "shares": 102913
+    },
+    {
+      "t": "CRBG",
+      "n": "COREBRIDGE FINANCIAL INC",
+      "weight": 0.08997300809757071,
+      "sector": "Financials",
+      "mv": 79164.84,
+      "shares": 230753
+    },
+    {
+      "t": "CRM",
+      "n": "SALESFORCE",
+      "weight": 1.3395981205638305,
+      "sector": "Information Technology",
+      "mv": 1189919.41,
+      "shares": 493182
+    },
+    {
+      "t": "CSCO",
+      "n": "CISCO SYSTEMS INC",
+      "weight": 4.168749375187443,
+      "sector": "Information Technology",
+      "mv": 3700677.2,
+      "shares": 3659998
+    },
+    {
+      "t": "CSX",
+      "n": "CSX",
+      "weight": 0.7797660701789462,
+      "sector": "Industrials",
+      "mv": 691003.59,
+      "shares": 1387314
+    },
+    {
+      "t": "CTSH",
+      "n": "COGNIZANT TECHNOLOGY SOLUTIONS CLA",
+      "weight": 0.6797960611816454,
+      "sector": "Information Technology",
+      "mv": 602140.39,
+      "shares": 847320
+    },
+    {
+      "t": "CVS",
+      "n": "CVS HEALTH",
+      "weight": 1.3795861241627507,
+      "sector": "Health Care",
+      "mv": 1223659.77,
+      "shares": 1343552
+    },
+    {
+      "t": "D",
+      "n": "DOMINION ENERGY",
+      "weight": 0.27991602519244224,
+      "sector": "Utilities",
+      "mv": 245100.74,
+      "shares": 388784
+    },
+    {
+      "t": "DAL",
+      "n": "DELTA AIR LINES",
+      "weight": 0.3698890332900129,
+      "sector": "Industrials",
+      "mv": 328405.56,
+      "shares": 429822
+    },
+    {
+      "t": "DD",
+      "n": "DUPONT DE NEMOURS",
+      "weight": 0.08997300809757071,
+      "sector": "Industrials",
+      "mv": 80937.85,
+      "shares": 62149
+    },
+    {
+      "t": "DECK",
+      "n": "DECKERS OUTDOOR",
+      "weight": 0.11996401079676094,
+      "sector": "Consumer Discretionary",
+      "mv": 106540.1,
+      "shares": 129597
+    },
+    {
+      "t": "DELL",
+      "n": "DELL TECHNOLOGIES INC CLASS C",
+      "weight": 1.5695291412576224,
+      "sector": "Information Technology",
+      "mv": 1396146.93,
+      "shares": 319753
+    },
+    {
+      "t": "DHI",
+      "n": "D R HORTON",
+      "weight": 0.9097270818754372,
+      "sector": "Consumer Discretionary",
+      "mv": 806080.73,
+      "shares": 566303
+    },
+    {
+      "t": "DIS",
+      "n": "WALT DISNEY",
+      "weight": 1.779466160151954,
+      "sector": "Communication",
+      "mv": 1582844.76,
+      "shares": 1451421
+    },
+    {
+      "t": "DLTR",
+      "n": "DOLLAR TREE INC",
+      "weight": 0.25992202339298204,
+      "sector": "Consumer Staples",
+      "mv": 229808.54,
+      "shares": 181923
+    },
+    {
+      "t": "DVN",
+      "n": "DEVON ENERGY",
+      "weight": 0.8097570728781364,
+      "sector": "Energy",
+      "mv": 721960.33,
+      "shares": 1522852
+    },
+    {
+      "t": "ED",
+      "n": "CONSOLIDATED EDISON",
+      "weight": 0.25992202339298204,
+      "sector": "Utilities",
+      "mv": 226351.17,
+      "shares": 201967
+    },
+    {
+      "t": "EG",
+      "n": "EVEREST GROUP",
+      "weight": 0.16994901529541134,
+      "sector": "Financials",
+      "mv": 154863.46,
+      "shares": 39418
+    },
+    {
+      "t": "EIX",
+      "n": "EDISON INTERNATIONAL",
+      "weight": 0.24992502249325196,
+      "sector": "Utilities",
+      "mv": 222982.45,
+      "shares": 399501
+    },
+    {
+      "t": "ELV",
+      "n": "ELEVANCE HEALTH INC",
+      "weight": 0.7797660701789462,
+      "sector": "Health Care",
+      "mv": 691508.9,
+      "shares": 161100
+    },
+    {
+      "t": "EOG",
+      "n": "EOG RESOURCES",
+      "weight": 0.8497450764770567,
+      "sector": "Energy",
+      "mv": 757748.51,
+      "shares": 497636
+    },
+    {
+      "t": "EQT",
+      "n": "EQT",
+      "weight": 0.16994901529541134,
+      "sector": "Energy",
+      "mv": 153498.24,
+      "shares": 291259
+    },
+    {
+      "t": "ES",
+      "n": "EVERSOURCE ENERGY",
+      "weight": 0.1999400179946016,
+      "sector": "Utilities",
+      "mv": 176591.68,
+      "shares": 270037
+    },
+    {
+      "t": "ESS",
+      "n": "ESSEX PROPERTY TRUST REIT",
+      "weight": 0.07997600719784063,
+      "sector": "Real Estate",
+      "mv": 70095.9,
+      "shares": 25744
+    },
+    {
+      "t": "EVRG",
+      "n": "EVERGY",
+      "weight": 0.11996401079676094,
+      "sector": "Utilities",
+      "mv": 107745.75,
+      "shares": 131572
+    },
+    {
+      "t": "EXC",
+      "n": "EXELON CORP",
+      "weight": 0.30990702789163244,
+      "sector": "Utilities",
+      "mv": 271314.67,
+      "shares": 627535
+    },
+    {
+      "t": "EXE",
+      "n": "EXPAND ENERGY",
+      "weight": 0.16994901529541134,
+      "sector": "Energy",
+      "mv": 148578.14,
+      "shares": 165803
+    },
+    {
+      "t": "EXPE",
+      "n": "EXPEDIA GROUP",
+      "weight": 0.6697990602819153,
+      "sector": "Consumer Discretionary",
+      "mv": 592911.88,
+      "shares": 206060
+    },
+    {
+      "t": "F",
+      "n": "FORD MOTOR CO",
+      "weight": 1.7194841547535735,
+      "sector": "Consumer Discretionary",
+      "mv": 1527651,
+      "shares": 13272556
+    },
+    {
+      "t": "FANG",
+      "n": "DIAMONDBACK ENERGY",
+      "weight": 0.4098770368889332,
+      "sector": "Energy",
+      "mv": 367464.94,
+      "shares": 193363
+    },
+    {
+      "t": "FCNCA",
+      "n": "FIRST CITIZENS BANCSHARES CLASS A",
+      "weight": 0.10996700989703087,
+      "sector": "Financials",
+      "mv": 98933.89,
+      "shares": 4672
+    },
+    {
+      "t": "FDX",
+      "n": "FEDEX CORP",
+      "weight": 1.2396281115665297,
+      "sector": "Industrials",
+      "mv": 1103068.57,
+      "shares": 376511
+    },
+    {
+      "t": "FDXF",
+      "n": "FEDEX FREIGHT HOLDING COMPANY INC",
+      "weight": 0.22993102069379182,
+      "sector": "Industrials",
+      "mv": 201263.1,
+      "shares": 188057
+    },
+    {
+      "t": "FFIV",
+      "n": "F5",
+      "weight": 0.29991002699190233,
+      "sector": "Information Technology",
+      "mv": 263016.99,
+      "shares": 60621
+    },
+    {
+      "t": "FIS",
+      "n": "FIDELITY NATIONAL INFORMATION SERV",
+      "weight": 0.08997300809757071,
+      "sector": "Financials",
+      "mv": 78606.35,
+      "shares": 212964
+    },
+    {
+      "t": "FISV",
+      "n": "FISERV INC",
+      "weight": 0.1899430170948715,
+      "sector": "Financials",
+      "mv": 172726.52,
+      "shares": 352589
+    },
+    {
+      "t": "FITB",
+      "n": "FIFTH THIRD BANCORP",
+      "weight": 0.1899430170948715,
+      "sector": "Financials",
+      "mv": 169065.26,
+      "shares": 329490
+    },
+    {
+      "t": "FLEX",
+      "n": "FLEX LTD",
+      "weight": 0.22993102069379182,
+      "sector": "Information Technology",
+      "mv": 200660.27,
+      "shares": 271425
+    },
+    {
+      "t": "FNF",
+      "n": "FIDELITY NATIONAL FINANCIAL INC",
+      "weight": 0.0499850044986504,
+      "sector": "Financials",
+      "mv": 47880.1,
+      "shares": 120024
+    },
+    {
+      "t": "FOX",
+      "n": "FOX CLASS B",
+      "weight": 0.11996401079676094,
+      "sector": "Communication",
+      "mv": 102240.55,
+      "shares": 174380
+    },
+    {
+      "t": "FOXA",
+      "n": "FOX CLASS A",
+      "weight": 0.17994601619514142,
+      "sector": "Communication",
+      "mv": 160014.05,
+      "shares": 243140
+    },
+    {
+      "t": "FSLR",
+      "n": "FIRST SOLAR",
+      "weight": 0.3299010296910926,
+      "sector": "Information Technology",
+      "mv": 292315.96,
+      "shares": 177072
+    },
+    {
+      "t": "FTV",
+      "n": "FORTIVE",
+      "weight": 0.22993102069379182,
+      "sector": "Industrials",
+      "mv": 200589.35,
+      "shares": 346519
+    },
+    {
+      "t": "GEN",
+      "n": "GEN DIGITAL",
+      "weight": 0.22993102069379182,
+      "sector": "Information Technology",
+      "mv": 205598.1,
+      "shares": 856879
+    },
+    {
+      "t": "GIS",
+      "n": "GENERAL MILLS INC",
+      "weight": 0.14995501349595117,
+      "sector": "Consumer Staples",
+      "mv": 129961.55,
+      "shares": 383234
+    },
+    {
+      "t": "GM",
+      "n": "GENERAL MOTORS",
+      "weight": 3.438968309507147,
+      "sector": "Consumer Discretionary",
+      "mv": 3049787.93,
+      "shares": 4097607
+    },
+    {
+      "t": "GPN",
+      "n": "GLOBAL PAYMENTS INC",
+      "weight": 0.20993701889433164,
+      "sector": "Financials",
+      "mv": 190341.36,
+      "shares": 229923
+    },
+    {
+      "t": "HBAN",
+      "n": "HUNTINGTON BANCSHARES INC",
+      "weight": 0.1899430170948715,
+      "sector": "Financials",
+      "mv": 166042.28,
+      "shares": 1099905
+    },
+    {
+      "t": "HIG",
+      "n": "HARTFORD INSURANCE GROUP",
+      "weight": 0.17994601619514142,
+      "sector": "Financials",
+      "mv": 155572.66,
+      "shares": 115728
+    },
+    {
+      "t": "HPE",
+      "n": "HEWLETT PACKARD ENTERPRISE",
+      "weight": 1.7994601619514141,
+      "sector": "Information Technology",
+      "mv": 1597135.21,
+      "shares": 2986875
+    },
+    {
+      "t": "HPQ",
+      "n": "HP INC",
+      "weight": 0.6098170548835348,
+      "sector": "Information Technology",
+      "mv": 540785.42,
+      "shares": 1661710
+    },
+    {
+      "t": "HUM",
+      "n": "HUMANA",
+      "weight": 0.27991602519244224,
+      "sector": "Health Care",
+      "mv": 252059.8,
+      "shares": 62113
+    },
+    {
+      "t": "IFF",
+      "n": "INTERNATIONAL FLAVORS & FRAGRANCES",
+      "weight": 0.10996700989703087,
+      "sector": "Materials",
+      "mv": 95148.52,
+      "shares": 105199
+    },
+    {
+      "t": "IP",
+      "n": "INTERNATIONAL PAPER",
+      "weight": 0.0999700089973008,
+      "sector": "Materials",
+      "mv": 91974.83,
+      "shares": 283289
+    },
+    {
+      "t": "JBHT",
+      "n": "JB HUNT TRANSPORT SERVICES",
+      "weight": 0.15995201439568127,
+      "sector": "Industrials",
+      "mv": 138888.65,
+      "shares": 62484
+    },
+    {
+      "t": "KDP",
+      "n": "KEURIG DR PEPPER INC",
+      "weight": 0.31990402879136254,
+      "sector": "Consumer Staples",
+      "mv": 280108.8,
+      "shares": 825737
+    },
+    {
+      "t": "KEY",
+      "n": "KEYCORP",
+      "weight": 0.10996700989703087,
+      "sector": "Financials",
+      "mv": 97284.99,
+      "shares": 475805
+    },
+    {
+      "t": "KHC",
+      "n": "KRAFT HEINZ",
+      "weight": 0.7797660701789462,
+      "sector": "Consumer Staples",
+      "mv": 688485.92,
+      "shares": 2846604
+    },
+    {
+      "t": "KR",
+      "n": "KROGER",
+      "weight": 0.6598020593821852,
+      "sector": "Consumer Staples",
+      "mv": 585314.54,
+      "shares": 894639
+    },
+    {
+      "t": "L",
+      "n": "LOEWS",
+      "weight": 0.10996700989703087,
+      "sector": "Financials",
+      "mv": 99332.82,
+      "shares": 90645
+    },
+    {
+      "t": "LDOS",
+      "n": "LEIDOS HOLDINGS",
+      "weight": 0.22993102069379182,
+      "sector": "Industrials",
+      "mv": 203390.71,
+      "shares": 156602
+    },
+    {
+      "t": "LEN",
+      "n": "LENNAR A CLASS A",
+      "weight": 0.4798560431870438,
+      "sector": "Consumer Discretionary",
+      "mv": 429254.3,
+      "shares": 527291
+    },
+    {
+      "t": "LH",
+      "n": "LABCORP HOLDINGS",
+      "weight": 0.1899430170948715,
+      "sector": "Health Care",
+      "mv": 171024.43,
+      "shares": 53774
+    },
+    {
+      "t": "LHX",
+      "n": "L3HARRIS TECHNOLOGIES",
+      "weight": 0.4898530440867738,
+      "sector": "Industrials",
+      "mv": 437950.91,
+      "shares": 178703
+    },
+    {
+      "t": "LYB",
+      "n": "LYONDELLBASELL INDUSTRIES CLASS A",
+      "weight": 0.0999700089973008,
+      "sector": "Materials",
+      "mv": 90609.62,
+      "shares": 143793
+    },
+    {
+      "t": "MAA",
+      "n": "MID AMERICA APARTMENT COMMUNITIES",
+      "weight": 0.08997300809757071,
+      "sector": "Real Estate",
+      "mv": 82444.91,
+      "shares": 70584
+    },
+    {
+      "t": "MET",
+      "n": "METLIFE",
+      "weight": 0.4298710386883934,
+      "sector": "Financials",
+      "mv": 377704.07,
+      "shares": 378313
+    },
+    {
+      "t": "MSTR",
+      "n": "STRATEGY INC CLASS A",
+      "weight": 0.5698290512846145,
+      "sector": "Information Technology",
+      "mv": 503561.1,
+      "shares": 358285
+    },
+    {
+      "t": "MTB",
+      "n": "M&T BANK",
+      "weight": 0.1999400179946016,
+      "sector": "Financials",
+      "mv": 180057.91,
+      "shares": 83823
+    },
+    {
+      "t": "MU",
+      "n": "MICRON TECHNOLOGY",
+      "weight": 19.574127761671456,
+      "sector": "Information Technology",
+      "mv": 17369759.63,
+      "shares": 2103804
+    },
+    {
+      "t": "NEM",
+      "n": "NEWMONT",
+      "weight": 0.6697990602819153,
+      "sector": "Materials",
+      "mv": 596298.33,
+      "shares": 542092
+    },
+    {
+      "t": "NLY",
+      "n": "ANNALY CAPITAL MANAGEMENT REIT",
+      "weight": 0.10996700989703087,
+      "sector": "Financials",
+      "mv": 93481.89,
+      "shares": 528739
+    },
+    {
+      "t": "NTAP",
+      "n": "NETAPP INC",
+      "weight": 0.5398380485854243,
+      "sector": "Information Technology",
+      "mv": 474572.41,
+      "shares": 231664
+    },
+    {
+      "t": "NUE",
+      "n": "NUCOR",
+      "weight": 0.27991602519244224,
+      "sector": "Materials",
+      "mv": 246350.71,
+      "shares": 99029
+    },
+    {
+      "t": "NXPI",
+      "n": "NXP SEMICONDUCTORS NV",
+      "weight": 0.5598320503848845,
+      "sector": "Information Technology",
+      "mv": 498729.65,
+      "shares": 217574
+    },
+    {
+      "t": "O",
+      "n": "REALTY INCOME REIT",
+      "weight": 0.29991002699190233,
+      "sector": "Real Estate",
+      "mv": 262591.47,
+      "shares": 477398
+    },
+    {
+      "t": "OKTA",
+      "n": "OKTA CLASS A",
+      "weight": 0.30990702789163244,
+      "sector": "Information Technology",
+      "mv": 275259.62,
+      "shares": 141828
+    },
+    {
+      "t": "OMC",
+      "n": "OMNICOM GROUP INC",
+      "weight": 0.26991902429271214,
+      "sector": "Communication",
+      "mv": 237795.94,
+      "shares": 298791
+    },
+    {
+      "t": "ON",
+      "n": "ON SEMICONDUCTOR CORP",
+      "weight": 0.3698890332900129,
+      "sector": "Information Technology",
+      "mv": 328857.68,
+      "shares": 465857
+    },
+    {
+      "t": "OXY",
+      "n": "OCCIDENTAL PETROLEUM CORP",
+      "weight": 0.3299010296910926,
+      "sector": "Energy",
+      "mv": 288592.65,
+      "shares": 479001
+    },
+    {
+      "t": "PCAR",
+      "n": "PACCAR INC",
+      "weight": 0.8597420773767868,
+      "sector": "Industrials",
+      "mv": 764290.91,
+      "shares": 723475
+    },
+    {
+      "t": "PCG",
+      "n": "PG&E CORP",
+      "weight": 0.4098770368889332,
+      "sector": "Utilities",
+      "mv": 360780.7,
+      "shares": 2883351
+    },
+    {
+      "t": "PFE",
+      "n": "PFIZER",
+      "weight": 1.929421173647905,
+      "sector": "Health Care",
+      "mv": 1708542.22,
+      "shares": 5826392
+    },
+    {
+      "t": "PFG",
+      "n": "PRINCIPAL FINANCIAL GROUP INC",
+      "weight": 0.12996101169649102,
+      "sector": "Financials",
+      "mv": 118791.59,
+      "shares": 111914
+    },
+    {
+      "t": "PHM",
+      "n": "PULTEGROUP",
+      "weight": 0.629811056682995,
+      "sector": "Consumer Discretionary",
+      "mv": 554437.59,
+      "shares": 481387
+    },
+    {
+      "t": "PNC",
+      "n": "PNC FINANCIAL SERVICES GROUP",
+      "weight": 0.45986204138758363,
+      "sector": "Financials",
+      "mv": 409272.49,
+      "shares": 188251
+    },
+    {
+      "t": "PNFP",
+      "n": "PINNACLE FINANCIAL PARTNERS",
+      "weight": 0.06997900629811056,
+      "sector": "Financials",
+      "mv": 64688.23,
+      "shares": 66800
+    },
+    {
+      "t": "PRU",
+      "n": "PRUDENTIAL FINANCIAL INC",
+      "weight": 0.4398680395881235,
+      "sector": "Financials",
+      "mv": 387260.59,
+      "shares": 339963
+    },
+    {
+      "t": "PSA",
+      "n": "PUBLIC STORAGE REIT",
+      "weight": 0.21993401979406174,
+      "sector": "Real Estate",
+      "mv": 190828.94,
+      "shares": 64038
+    },
+    {
+      "t": "QCOM",
+      "n": "QUALCOMM",
+      "weight": 1.6495051484554628,
+      "sector": "Information Technology",
+      "mv": 1462652.49,
+      "shares": 877919
+    },
+    {
+      "t": "RF",
+      "n": "REGIONS FINANCIAL",
+      "weight": 0.13995801259622112,
+      "sector": "Financials",
+      "mv": 127435.01,
+      "shares": 465470
+    },
+    {
+      "t": "ROP",
+      "n": "ROPER TECHNOLOGIES",
+      "weight": 0.3898830350894731,
+      "sector": "Information Technology",
+      "mv": 349593.01,
+      "shares": 83134
+    },
+    {
+      "t": "RPRX",
+      "n": "ROYALTY PHARMA PLC CLASS A",
+      "weight": 0.29991002699190233,
+      "sector": "Health Care",
+      "mv": 261970.92,
+      "shares": 426297
+    },
+    {
+      "t": "SGAFT",
+      "n": "CASH COLLATERAL USD SGAFT",
+      "weight": 0.01999400179946016,
+      "sector": "Cash and/or Derivatives",
+      "mv": 15859.56,
+      "shares": 1645000
+    },
+    {
+      "t": "SMCI",
+      "n": "SUPER MICRO COMPUTER INC",
+      "weight": 0.17994601619514142,
+      "sector": "Information Technology",
+      "mv": 160377.51,
+      "shares": 493378
+    },
+    {
+      "t": "SNA",
+      "n": "SNAP ON INC",
+      "weight": 0.24992502249325196,
+      "sector": "Industrials",
+      "mv": 221377.88,
+      "shares": 64425
+    },
+    {
+      "t": "SPG",
+      "n": "SIMON PROPERTY GROUP REIT INC",
+      "weight": 0.4298710386883934,
+      "sector": "Real Estate",
+      "mv": 382508.92,
+      "shares": 187136
+    },
+    {
+      "t": "SSNC",
+      "n": "SS AND C TECHNOLOGIES HOLDINGS",
+      "weight": 0.35989203239028283,
+      "sector": "Industrials",
+      "mv": 323263.83,
+      "shares": 374522
+    },
+    {
+      "t": "STT",
+      "n": "STATE STREET",
+      "weight": 0.21993401979406174,
+      "sector": "Financials",
+      "mv": 191883.88,
+      "shares": 118597
+    },
+    {
+      "t": "SW",
+      "n": "SMURFIT WESTROCK PLC",
+      "weight": 0.17994601619514142,
+      "sector": "Materials",
+      "mv": 159154.14,
+      "shares": 389113
+    },
+    {
+      "t": "SYF",
+      "n": "SYNCHRONY FINANCIAL",
+      "weight": 0.16994901529541134,
+      "sector": "Financials",
+      "mv": 149757.19,
+      "shares": 206894
+    },
+    {
+      "t": "T",
+      "n": "AT&T",
+      "weight": 2.4692592222333296,
+      "sector": "Communication",
+      "mv": 2190694.24,
+      "shares": 9993678
+    },
+    {
+      "t": "TDY",
+      "n": "TELEDYNE TECHNOLOGIES",
+      "weight": 0.22993102069379182,
+      "sector": "Information Technology",
+      "mv": 205775.4,
+      "shares": 34404
+    },
+    {
+      "t": "TEL",
+      "n": "TE CONNECTIVITY PLC",
+      "weight": 0.6897930620813754,
+      "sector": "Information Technology",
+      "mv": 610792.67,
+      "shares": 304010
+    },
+    {
+      "t": "TFC",
+      "n": "TRUIST FINANCIAL",
+      "weight": 0.4198740377886633,
+      "sector": "Financials",
+      "mv": 376055.17,
+      "shares": 805683
+    },
+    {
+      "t": "TGT",
+      "n": "TARGET CORP",
+      "weight": 0.8597420773767868,
+      "sector": "Consumer Staples",
+      "mv": 767083.4,
+      "shares": 503289
+    },
+    {
+      "t": "TRU",
+      "n": "TRANSUNION",
+      "weight": 0.11996401079676094,
+      "sector": "Industrials",
+      "mv": 105245.8,
+      "shares": 130819
+    },
+    {
+      "t": "TSN",
+      "n": "TYSON FOODS INC CLASS A",
+      "weight": 0.379886034189743,
+      "sector": "Consumer Staples",
+      "mv": 336552.53,
+      "shares": 611757
+    },
+    {
+      "t": "TWLO",
+      "n": "TWILIO CLASS A",
+      "weight": 0.4198740377886633,
+      "sector": "Information Technology",
+      "mv": 375993.12,
+      "shares": 153785
+    },
+    {
+      "t": "TXT",
+      "n": "TEXTRON INC",
+      "weight": 0.27991602519244224,
+      "sector": "Industrials",
+      "mv": 245171.66,
+      "shares": 325905
+    },
+    {
+      "t": "UAL",
+      "n": "UNITED AIRLINES HOLDINGS",
+      "weight": 0.20993701889433164,
+      "sector": "Industrials",
+      "mv": 185997.49,
+      "shares": 189168
+    },
+    {
+      "t": "UPS",
+      "n": "UNITED PARCEL SERVICE INC CLASS B",
+      "weight": 0.9797060881735477,
+      "sector": "Industrials",
+      "mv": 872550.83,
+      "shares": 891604
+    },
+    {
+      "t": "URI",
+      "n": "UNITED RENTALS",
+      "weight": 0.8397480755773266,
+      "sector": "Industrials",
+      "mv": 742021.92,
+      "shares": 69283
+    },
+    {
+      "t": "USB",
+      "n": "US BANCORP",
+      "weight": 0.509847045886234,
+      "sector": "Financials",
+      "mv": 449422.28,
+      "shares": 776763
+    },
+    {
+      "t": "USD",
+      "n": "USD CASH",
+      "weight": 0.1899430170948715,
+      "sector": "Cash and/or Derivatives",
+      "mv": 168440.69,
+      "shares": 20432
+    },
+    {
+      "t": "UTHR",
+      "n": "UNITED THERAPEUTICS",
+      "weight": 0.16994901529541134,
+      "sector": "Health Care",
+      "mv": 149836.98,
+      "shares": 26580
+    },
+    {
+      "t": "VICI",
+      "n": "VICI PPTYS INC",
+      "weight": 0.16994901529541134,
+      "sector": "Real Estate",
+      "mv": 151379.49,
+      "shares": 653761
+    },
+    {
+      "t": "VLO",
+      "n": "VALERO ENERGY CORP",
+      "weight": 0.9197240827751673,
+      "sector": "Energy",
+      "mv": 815858.87,
+      "shares": 198543
+    },
+    {
+      "t": "VMRK",
+      "n": "VIVMARK RESIDENTIAL",
+      "weight": 0.08997300809757071,
+      "sector": "Real Estate",
+      "mv": 75742.94,
+      "shares": 123600
+    },
+    {
+      "t": "VZ",
+      "n": "VERIZON COMMUNICATIONS INC",
+      "weight": 2.8391482555233423,
+      "sector": "Communication",
+      "mv": 2521511.09,
+      "shares": 5787034
+    },
+    {
+      "t": "WAB",
+      "n": "WESTINGHOUSE AIR BRAKE TECHNOLOGIE",
+      "weight": 0.4298710386883934,
+      "sector": "Industrials",
+      "mv": 378945.18,
+      "shares": 142188
+    },
+    {
+      "t": "WDAY",
+      "n": "WORKDAY CLASS A",
+      "weight": 0.27991602519244224,
+      "sector": "Information Technology",
+      "mv": 250100.62,
+      "shares": 123554
+    },
+    {
+      "t": "WFC",
+      "n": "WELLS FARGO",
+      "weight": 1.1896431070678792,
+      "sector": "Financials",
+      "mv": 1058902.92,
+      "shares": 1323305
+    },
+    {
+      "t": "WPC",
+      "n": "W. P. CAREY REIT",
+      "weight": 0.14995501349595117,
+      "sector": "Real Estate",
+      "mv": 130227.5,
+      "shares": 209322
+    },
+    {
+      "t": "XTSLA",
+      "n": "BLK CSH FND TREASURY SL AGENCY",
+      "weight": 0.07997600719784063,
+      "sector": "Cash and/or Derivatives",
+      "mv": 69315.78,
+      "shares": 7190709
+    },
+    {
+      "t": "ZBH",
+      "n": "ZIMMER BIOMET HOLDINGS",
+      "weight": 0.1999400179946016,
+      "sector": "Health Care",
+      "mv": 180722.79,
+      "shares": 189735
+    },
+    {
+      "t": "ZM",
+      "n": "ZOOM COMMUNICATIONS CLASS A",
+      "weight": 0.3998800359892032,
+      "sector": "Information Technology",
+      "mv": 356445.69,
+      "shares": 384370
+    }
+  ]
+}

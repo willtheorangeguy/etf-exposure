@@ -1,0 +1,28 @@
+{
+  "id": 5,
+  "as_of_date": "2026-10-22",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLH_20261022.xlsx",
+  "created_at": "2026-10-23T10:58:30.999Z",
+  "partial": false,
+  "content_hash": "4e5d535a5113542c566f9a874e86d541aa1143055767ea2b98639357bdcce935",
+  "holdings": [
+    {
+      "t": "CA05577D1033",
+      "n": "BMO Low Volatility US Equity ETF",
+      "weight": 100.13,
+      "isin": "CA05577D1033",
+      "sector": "-",
+      "mv": 107370393.7,
+      "shares": 1633494
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.13,
+      "sector": "-",
+      "mv": -144498.23,
+      "shares": 1
+    }
+  ]
+}

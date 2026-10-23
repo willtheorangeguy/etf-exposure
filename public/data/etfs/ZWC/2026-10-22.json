@@ -1,0 +1,427 @@
+{
+  "id": 5,
+  "as_of_date": "2026-10-22",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWC_20261022.xlsx",
+  "created_at": "2026-10-23T10:58:30.999Z",
+  "partial": false,
+  "content_hash": "268cd0559047035603fb40e68ef5df3bcb1ade8c5ed91e6c81aefc4a33f2631c",
+  "holdings": [
+    {
+      "t": "ABX",
+      "n": "BARRICK MINING CORP",
+      "weight": 2.6089564174330273,
+      "isin": "CA06849F1080",
+      "sector": "MATERIALS",
+      "mv": 65552314.88,
+      "shares": 1212136
+    },
+    {
+      "t": "AEM",
+      "n": "AGNICO EAGLE MINES LTD",
+      "weight": 3.1187524990004007,
+      "isin": "CA0084741085",
+      "sector": "MATERIALS",
+      "mv": 78312135.36,
+      "shares": 317413
+    },
+    {
+      "t": "ALIMENTATION COUCHE-TARD INC CALL OPTIONS",
+      "n": "Alimentation Couche-Tard Inc CALL OPTIONS",
+      "weight": -0.009996001599360258,
+      "sector": "-"
+    },
+    {
+      "t": "ATD",
+      "n": "Alimentation Couche-Tard Inc",
+      "weight": 1.6593362654938029,
+      "isin": "CA01626P1484",
+      "sector": "CONSUMER STAPLES",
+      "mv": 41722383.62,
+      "shares": 493289
+    },
+    {
+      "t": "BCE",
+      "n": "BCE INC",
+      "weight": 2.1291483406637353,
+      "isin": "CA05534B7604",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 53518333.8,
+      "shares": 1839118
+    },
+    {
+      "t": "BMG162521014",
+      "n": "BROOKFIELD INFRASTRUCTURE PARTNERS LP",
+      "weight": 1.7792882846861262,
+      "isin": "BMG162521014",
+      "sector": "UTILITIES",
+      "mv": 44807039.75,
+      "shares": 857551
+    },
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 3.6285485805677737,
+      "isin": "CA0636711016",
+      "sector": "FINANCIALS",
+      "mv": 91323994.3,
+      "shares": 382589
+    },
+    {
+      "t": "BN",
+      "n": "Brookfield Corp",
+      "weight": 0.9896041583366656,
+      "isin": "CA11271J1075",
+      "sector": "FINANCIALS",
+      "mv": 24790781.6,
+      "shares": 462860
+    },
+    {
+      "t": "BNS",
+      "n": "Bank Of Nova Scotia",
+      "weight": 5.707716913234708,
+      "isin": "CA0641491075",
+      "sector": "FINANCIALS",
+      "mv": 143395134.08,
+      "shares": 1096964
+    },
+    {
+      "t": "CA1367178326",
+      "n": "Canadian Utilities Ltd",
+      "weight": 0.5197920831667335,
+      "isin": "CA1367178326",
+      "sector": "UTILITIES",
+      "mv": 12980992.08,
+      "shares": 260088
+    },
+    {
+      "t": "CA7751092007",
+      "n": "Rogers Communications Inc",
+      "weight": 1.9192323070771697,
+      "isin": "CA7751092007",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 48125530.74,
+      "shares": 1036518
+    },
+    {
+      "t": "CANADIAN IMPERIAL BANK OF COMM CALL OPTIONS",
+      "n": "Canadian Imperial Bank OF COMM CALL OPTIONS",
+      "weight": -0.009996001599360258,
+      "sector": "-"
+    },
+    {
+      "t": "CANADIAN NATURAL RESOURCES LTD CALL OPTIONS",
+      "n": "Canadian Natural Resources Ltd CALL OPTIONS",
+      "weight": -0.029988004798080777,
+      "sector": "-"
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.08996401439424233,
+      "sector": "-",
+      "mv": 2286168.88,
+      "shares": 1
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank Of Commerce",
+      "weight": 5.437824870051982,
+      "isin": "CA1360691010",
+      "sector": "FINANCIALS",
+      "mv": 136597874,
+      "shares": 848434
+    },
+    {
+      "t": "CNQ",
+      "n": "Canadian Natural Resources Ltd",
+      "weight": 5.737704918032789,
+      "isin": "CA1363851017",
+      "sector": "ENERGY",
+      "mv": 144227725.5,
+      "shares": 1910301
+    },
+    {
+      "t": "CNR",
+      "n": "Canadian National Railway Co",
+      "weight": 1.7992802878848466,
+      "isin": "CA1363751027",
+      "sector": "INDUSTRIALS",
+      "mv": 45180406.59,
+      "shares": 258159
+    },
+    {
+      "t": "CP",
+      "n": "CANADIAN PACIFIC KANSAS CITY LTD",
+      "weight": 1.3694522191123557,
+      "isin": "CA13646K1084",
+      "sector": "INDUSTRIALS",
+      "mv": 34463272.02,
+      "shares": 271514
+    },
+    {
+      "t": "CPX",
+      "n": "Capital Power Corp",
+      "weight": 0.8396641343462617,
+      "isin": "CA14042M1023",
+      "sector": "UTILITIES",
+      "mv": 21101697.68,
+      "shares": 341894
+    },
+    {
+      "t": "CTC/A",
+      "n": "Canadian Tire Corp Ltd",
+      "weight": 1.0695721711315478,
+      "isin": "CA1366812024",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 26933597.25,
+      "shares": 129333
+    },
+    {
+      "t": "CVE",
+      "n": "Cenovus Energy Inc",
+      "weight": 2.039184326269493,
+      "isin": "CA15135U1093",
+      "sector": "ENERGY",
+      "mv": 51371847.12,
+      "shares": 1144649
+    },
+    {
+      "t": "EMA",
+      "n": "Emera Inc",
+      "weight": 2.009196321471412,
+      "isin": "CA2908761018",
+      "sector": "UTILITIES",
+      "mv": 50606200.44,
+      "shares": 730881
+    },
+    {
+      "t": "ENB",
+      "n": "Enbridge Inc",
+      "weight": 4.068372650939626,
+      "isin": "CA29250N1050",
+      "sector": "ENERGY",
+      "mv": 102369004.25,
+      "shares": 1523575
+    },
+    {
+      "t": "FTS",
+      "n": "Fortis Inc",
+      "weight": 3.0587764894042393,
+      "isin": "CA3495531079",
+      "sector": "UTILITIES",
+      "mv": 76954349.29,
+      "shares": 950171
+    },
+    {
+      "t": "FTT",
+      "n": "Finning International Inc",
+      "weight": 0.6597361055577772,
+      "isin": "CA3180714048",
+      "sector": "INDUSTRIALS",
+      "mv": 16536175,
+      "shares": 174065
+    },
+    {
+      "t": "GREAT-WEST LIFECO INC CALL OPTIONS",
+      "n": "Great-West Lifeco Inc CALL OPTIONS",
+      "weight": -0.009996001599360258,
+      "sector": "-"
+    },
+    {
+      "t": "GWO",
+      "n": "Great-West Lifeco Inc",
+      "weight": 2.31907237105158,
+      "isin": "CA39138C1068",
+      "sector": "FINANCIALS",
+      "mv": 58173203.04,
+      "shares": 633488
+    },
+    {
+      "t": "K",
+      "n": "KINROSS GOLD CORP",
+      "weight": 1.53938424630148,
+      "isin": "CA4969024047",
+      "sector": "MATERIALS",
+      "mv": 38647235.19,
+      "shares": 1218003
+    },
+    {
+      "t": "L",
+      "n": "Loblaw Cos Ltd",
+      "weight": 2.159136345461816,
+      "isin": "CA5394811015",
+      "sector": "CONSUMER STAPLES",
+      "mv": 54176011.24,
+      "shares": 766714
+    },
+    {
+      "t": "LOBLAW COS LTD CALL OPTIONS",
+      "n": "Loblaw Cos Ltd CALL OPTIONS",
+      "weight": -0.029988004798080777,
+      "sector": "-"
+    },
+    {
+      "t": "LUG",
+      "n": "LUNDIN GOLD INC",
+      "weight": 1.2894842063174734,
+      "isin": "CA5503711080",
+      "sector": "MATERIALS",
+      "mv": 32318568.81,
+      "shares": 376191
+    },
+    {
+      "t": "MANULIFE FINANCIAL CORP CALL OPTIONS",
+      "n": "Manulife Financial Corp CALL OPTIONS",
+      "weight": -0.009996001599360258,
+      "sector": "-"
+    },
+    {
+      "t": "MFC",
+      "n": "Manulife Financial Corp",
+      "weight": 2.778888444622152,
+      "isin": "CA56501R1064",
+      "sector": "FINANCIALS",
+      "mv": 69935568.57,
+      "shares": 1095997
+    },
+    {
+      "t": "MG",
+      "n": "Magna International Inc",
+      "weight": 1.2594962015193927,
+      "isin": "CA5592224011",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 31687881.95,
+      "shares": 349949
+    },
+    {
+      "t": "NA",
+      "n": "National Bank of Canada",
+      "weight": 1.619352259096362,
+      "isin": "CA6330671034",
+      "sector": "FINANCIALS",
+      "mv": 40672978.14,
+      "shares": 196194
+    },
+    {
+      "t": "NTR",
+      "n": "NUTRIEN LTD",
+      "weight": 3.0987604958016806,
+      "isin": "CA67077M1086",
+      "sector": "MATERIALS",
+      "mv": 77859648.9,
+      "shares": 805167
+    },
+    {
+      "t": "PPL",
+      "n": "Pembina Pipeline Corp",
+      "weight": 1.619352259096362,
+      "isin": "CA7063271034",
+      "sector": "ENERGY",
+      "mv": 40701462.71,
+      "shares": 588767
+    },
+    {
+      "t": "QBR/B",
+      "n": "QUEBECOR INC",
+      "weight": 0.9096361455417836,
+      "isin": "CA7481932084",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 22852326.84,
+      "shares": 344369
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 7.71691323470607,
+      "isin": "CA7800871021",
+      "sector": "FINANCIALS",
+      "mv": 193852476.72,
+      "shares": 685524
+    },
+    {
+      "t": "SLF",
+      "n": "Sun Life Financial Inc",
+      "weight": 2.0991603358656543,
+      "isin": "CA8667961053",
+      "sector": "FINANCIALS",
+      "mv": 52771382.84,
+      "shares": 466673
+    },
+    {
+      "t": "SU",
+      "n": "Suncor Energy Inc",
+      "weight": 5.37784886045582,
+      "isin": "CA8672241079",
+      "sector": "ENERGY",
+      "mv": 135282968.07,
+      "shares": 1248113
+    },
+    {
+      "t": "SUNCOR ENERGY INC CALL OPTIONS",
+      "n": "Suncor Energy Inc CALL OPTIONS",
+      "weight": -0.039984006397441034,
+      "sector": "-"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 6.487405037984808,
+      "isin": "CA8911605092",
+      "sector": "FINANCIALS",
+      "mv": 163008052.2,
+      "shares": 930730
+    },
+    {
+      "t": "TORONTO-DOMINION BANK/THE CALL OPTIONS",
+      "n": "Toronto-Dominion Bank/The CALL OPTIONS",
+      "weight": -0.059976009596161554,
+      "sector": "-"
+    },
+    {
+      "t": "TRP",
+      "n": "TC ENERGY CORP",
+      "weight": 3.668532586965215,
+      "isin": "CA87807B1076",
+      "sector": "ENERGY",
+      "mv": 92312115.34,
+      "shares": 1062769
+    },
+    {
+      "t": "WCN",
+      "n": "Waste Connections Inc",
+      "weight": 1.4394242303078773,
+      "isin": "CA94106B1013",
+      "sector": "INDUSTRIALS",
+      "mv": 36094004.7,
+      "shares": 139386
+    },
+    {
+      "t": "WPM",
+      "n": "WHEATON PRECIOUS METALS CORP",
+      "weight": 0.809676129548181,
+      "isin": "CA9628791027",
+      "sector": "MATERIALS",
+      "mv": 20347222,
+      "shares": 117614
+    },
+    {
+      "t": "WSP",
+      "n": "WSP Global Inc",
+      "weight": 0.7097161135545783,
+      "isin": "CA92938W2022",
+      "sector": "INDUSTRIALS",
+      "mv": 17935267.75,
+      "shares": 98141
+    },
+    {
+      "t": "X",
+      "n": "TMX Group Ltd",
+      "weight": 1.0595761695321875,
+      "isin": "CA87262K1057",
+      "sector": "FINANCIALS",
+      "mv": 26533190.04,
+      "shares": 461126
+    }
+  ]
+}
