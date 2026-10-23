@@ -68,7 +68,20 @@ jobs:
           git add public/data
           if ! git diff --cached --quiet; then
             git commit -m "data: refresh issuer holdings"
-            git push
+            # Another workflow can update main while this build runs. Rebase
+            # the generated data commit onto the latest branch and retry the
+            # push instead of failing after otherwise successful validation.
+            for attempt in 1 2 3; do
+              if git push; then
+                break
+              fi
+              if [ "$attempt" -eq 3 ]; then
+                echo "Unable to push refreshed holdings after 3 attempts"
+                exit 1
+              fi
+              git fetch origin "$GITHUB_REF_NAME"
+              git rebase FETCH_HEAD
+            done
           fi
       - uses: actions/upload-pages-artifact@v4
         if: github.event_name != 'pull_request'
