@@ -1,0 +1,32 @@
+{
+  "id": 6,
+  "as_of_date": "2026-10-24",
+  "source": "url",
+  "source_url": "https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=7418",
+  "created_at": "2026-10-24T04:42:04.021Z",
+  "partial": false,
+  "content_hash": "3545b614f828c34aa12be3527f14e4ba9d3a8e76d22883aaa93b5557d1449b05",
+  "holdings": [
+    {
+      "t": "CASH",
+      "n": "CASH",
+      "weight": 0.07999200079992001
+    },
+    {
+      "t": "TD CANADIAN EQUITY INDEX ETF (TTP)",
+      "n": "TD Canadian Equity Index ETF (TTP)",
+      "weight": 24.977502249775025
+    },
+    {
+      "t": "TD INTERNATIONAL EQUITY INDEX ETF (TPE)",
+      "n": "TD International Equity Index ETF (TPE)",
+      "weight": 19.368063193680634
+    },
+    {
+      "t": "TD U.S. EQUITY INDEX ETF (TPU)",
+      "n": "TD U.S. Equity Index ETF (TPU)",
+      "weight": 55.574442555744426
+    }
+  ],
+  "date_basis": "retrieved"
+}
