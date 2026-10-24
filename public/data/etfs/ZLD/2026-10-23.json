@@ -1,0 +1,28 @@
+{
+  "id": 6,
+  "as_of_date": "2026-10-23",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZLD_20261023.xlsx",
+  "created_at": "2026-10-24T21:16:14.484Z",
+  "partial": false,
+  "content_hash": "2649c10bfcea7e5b4f0bb85e8cc8ebfbcd9eee0ced0c27155a9ad92352140a52",
+  "holdings": [
+    {
+      "t": "CA05581C1095",
+      "n": "BMO Low Volatility International Equity ETF",
+      "weight": 99.01,
+      "isin": "CA05581C1095",
+      "sector": "-",
+      "mv": 36222491.32,
+      "shares": 1156219
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.99,
+      "sector": "-",
+      "mv": 362440.84,
+      "shares": 1
+    }
+  ]
+}

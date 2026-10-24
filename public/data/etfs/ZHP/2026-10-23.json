@@ -1,0 +1,26 @@
+{
+  "id": 6,
+  "as_of_date": "2026-10-23",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZHP_20261023.xlsx",
+  "created_at": "2026-10-24T21:16:14.484Z",
+  "partial": false,
+  "content_hash": "63ccd2f12e67b387931ebcd8d5598b6f5051c4beb570508864c3b3c4c092d8b7",
+  "holdings": [
+    {
+      "t": "CA05591C1077",
+      "n": "BMO US Preferred Share Index ETF",
+      "weight": 98.45,
+      "isin": "CA05591C1077",
+      "sector": "-",
+      "mv": 22102172.5
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 1.55,
+      "sector": "-",
+      "mv": 348361.21
+    }
+  ]
+}

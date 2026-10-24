@@ -1,0 +1,28 @@
+{
+  "id": 6,
+  "as_of_date": "2026-10-23",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUE_20261023.xlsx",
+  "created_at": "2026-10-24T21:16:14.484Z",
+  "partial": false,
+  "content_hash": "b829b03645a4ad6d0a365322715a5306e046eb82288ebe6a65d5785f75533435",
+  "holdings": [
+    {
+      "t": "CA05575T1003",
+      "n": "BMO S&P 500 Index ETF",
+      "weight": 98.77,
+      "isin": "CA05575T1003",
+      "sector": "-",
+      "mv": 4866443916.88,
+      "shares": 41615078
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 1.23,
+      "sector": "-",
+      "mv": 60846331.37,
+      "shares": 1
+    }
+  ]
+}

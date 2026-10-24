@@ -1,0 +1,838 @@
+{
+  "id": 6,
+  "as_of_date": "2026-10-23",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZHU_20261023.xlsx",
+  "created_at": "2026-10-24T21:16:14.484Z",
+  "partial": false,
+  "content_hash": "00c52b80358bdf77dc0a12e3fde44c4ca47cc199a5d686971ea8ed4d91e96a49",
+  "holdings": [
+    {
+      "t": "ABBV",
+      "n": "ABBVIE INC",
+      "weight": 1.2,
+      "isin": "US00287Y1091",
+      "sector": "HEALTH CARE",
+      "mv": 141633.97,
+      "shares": 354
+    },
+    {
+      "t": "ABT",
+      "n": "Abbott Laboratories",
+      "weight": 1.04,
+      "isin": "US0028241000",
+      "sector": "HEALTH CARE",
+      "mv": 121866.92,
+      "shares": 839
+    },
+    {
+      "t": "ALGN",
+      "n": "ALIGN TECHNOLOGY INC",
+      "weight": 1.05,
+      "isin": "US0162551016",
+      "sector": "HEALTH CARE",
+      "mv": 124009.9,
+      "shares": 573
+    },
+    {
+      "t": "AMGN",
+      "n": "AMGEN INC",
+      "weight": 1.09,
+      "isin": "US0311621009",
+      "sector": "HEALTH CARE",
+      "mv": 127976.47,
+      "shares": 208
+    },
+    {
+      "t": "ARWR",
+      "n": "ARROWHEAD PHARMACEUTICALS INC",
+      "weight": 0.73,
+      "isin": "US04280A1007",
+      "sector": "HEALTH CARE",
+      "mv": 85575.85,
+      "shares": 1053
+    },
+    {
+      "t": "AXSM",
+      "n": "AXSOME THERAPEUTICS INC",
+      "weight": 0.76,
+      "isin": "US05464T1043",
+      "sector": "HEALTH CARE",
+      "mv": 89389.31,
+      "shares": 440
+    },
+    {
+      "t": "BAX",
+      "n": "BAXTER INTERNATIONAL INC",
+      "weight": 1.06,
+      "isin": "US0718131099",
+      "sector": "HEALTH CARE",
+      "mv": 124705.3,
+      "shares": 3519
+    },
+    {
+      "t": "BBIO",
+      "n": "BRIDGEBIO PHARMA INC",
+      "weight": 0.99,
+      "isin": "US10806X1028",
+      "sector": "HEALTH CARE",
+      "mv": 116582.84,
+      "shares": 1214
+    },
+    {
+      "t": "BDX",
+      "n": "BECTON DICKINSON & CO",
+      "weight": 1.16,
+      "isin": "US0758871091",
+      "sector": "HEALTH CARE",
+      "mv": 137077.71,
+      "shares": 492
+    },
+    {
+      "t": "BIIB",
+      "n": "BIOGEN INC",
+      "weight": 1.23,
+      "isin": "US09062X1037",
+      "sector": "HEALTH CARE",
+      "mv": 144670.29,
+      "shares": 412
+    },
+    {
+      "t": "BMRN",
+      "n": "BIOMARIN PHARMACEUTICAL INC",
+      "weight": 0.91,
+      "isin": "US09061G1013",
+      "sector": "HEALTH CARE",
+      "mv": 107052.28,
+      "shares": 1366
+    },
+    {
+      "t": "BMY",
+      "n": "BRISTOL-MYERS SQUIBB CO",
+      "weight": 0.99,
+      "isin": "US1101221083",
+      "sector": "HEALTH CARE",
+      "mv": 117116.45,
+      "shares": 1360
+    },
+    {
+      "t": "BSX",
+      "n": "BOSTON SCIENTIFIC CORP",
+      "weight": 1.03,
+      "isin": "US1011371077",
+      "sector": "HEALTH CARE",
+      "mv": 121660.17,
+      "shares": 1901
+    },
+    {
+      "t": "BTSG",
+      "n": "BRIGHTSPRING HEALTH SERVICES INC",
+      "weight": 1.07,
+      "isin": "US10950A1060",
+      "sector": "HEALTH CARE",
+      "mv": 126041.53,
+      "shares": 1497
+    },
+    {
+      "t": "CAH",
+      "n": "CARDINAL HEALTH INC",
+      "weight": 1.09,
+      "isin": "US14149Y1082",
+      "sector": "HEALTH CARE",
+      "mv": 128642.75,
+      "shares": 368
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.06,
+      "sector": "-",
+      "mv": 7230.46,
+      "shares": 1
+    },
+    {
+      "t": "CI",
+      "n": "CIGNA GROUP/THE",
+      "weight": 1.18,
+      "isin": "US1255231003",
+      "sector": "HEALTH CARE",
+      "mv": 138442.25,
+      "shares": 322
+    },
+    {
+      "t": "CNC",
+      "n": "CENTENE CORP",
+      "weight": 1.13,
+      "isin": "US15135B1017",
+      "sector": "HEALTH CARE",
+      "mv": 133277.33,
+      "shares": 1356
+    },
+    {
+      "t": "COO",
+      "n": "COOPER COS INC/THE",
+      "weight": 0.95,
+      "isin": "US2166485019",
+      "sector": "HEALTH CARE",
+      "mv": 111972.32,
+      "shares": 1306
+    },
+    {
+      "t": "COR",
+      "n": "CENCORA INC",
+      "weight": 1.08,
+      "isin": "US03073E1055",
+      "sector": "HEALTH CARE",
+      "mv": 127498.72,
+      "shares": 275
+    },
+    {
+      "t": "CYTK",
+      "n": "CYTOKINETICS INC",
+      "weight": 0.91,
+      "isin": "US23282W6057",
+      "sector": "HEALTH CARE",
+      "mv": 107206.08,
+      "shares": 1250
+    },
+    {
+      "t": "DGX",
+      "n": "QUEST DIAGNOSTICS INC",
+      "weight": 1.1,
+      "isin": "US74834L1008",
+      "sector": "HEALTH CARE",
+      "mv": 129766.27,
+      "shares": 383
+    },
+    {
+      "t": "ELAN",
+      "n": "ELANCO ANIMAL HEALTH INC",
+      "weight": 0.99,
+      "isin": "US28414H1032",
+      "sector": "HEALTH CARE",
+      "mv": 117027.36,
+      "shares": 3710
+    },
+    {
+      "t": "ELV",
+      "n": "ELEVANCE HEALTH INC",
+      "weight": 1.17,
+      "isin": "US0367521038",
+      "sector": "HEALTH CARE",
+      "mv": 137421.07,
+      "shares": 223
+    },
+    {
+      "t": "ENSG",
+      "n": "ENSIGN GROUP INC/THE",
+      "weight": 1.11,
+      "isin": "US29358P1012",
+      "sector": "HEALTH CARE",
+      "mv": 130844.82,
+      "shares": 532
+    },
+    {
+      "t": "GH",
+      "n": "GUARDANT HEALTH INC",
+      "weight": 1.13,
+      "isin": "US40131M1099",
+      "sector": "HEALTH CARE",
+      "mv": 133335.49,
+      "shares": 563
+    },
+    {
+      "t": "GILD",
+      "n": "GILEAD SCIENCES INC",
+      "weight": 1.12,
+      "isin": "US3755581036",
+      "sector": "HEALTH CARE",
+      "mv": 131576.27,
+      "shares": 602
+    },
+    {
+      "t": "GKOS",
+      "n": "GLAUKOS CORP",
+      "weight": 1.09,
+      "isin": "US3773221029",
+      "sector": "HEALTH CARE",
+      "mv": 128285.29,
+      "shares": 512
+    },
+    {
+      "t": "HALO",
+      "n": "HALOZYME THERAPEUTICS INC",
+      "weight": 1.23,
+      "isin": "US40637H1095",
+      "sector": "HEALTH CARE",
+      "mv": 145175.2,
+      "shares": 825
+    },
+    {
+      "t": "HCA",
+      "n": "HCA HEALTHCARE INC",
+      "weight": 1.25,
+      "isin": "US40412C1018",
+      "sector": "HEALTH CARE",
+      "mv": 147161.35,
+      "shares": 224
+    },
+    {
+      "t": "HUM",
+      "n": "HUMANA INC",
+      "weight": 1.13,
+      "isin": "US4448591028",
+      "sector": "HEALTH CARE",
+      "mv": 133609.72,
+      "shares": 226
+    },
+    {
+      "t": "ILMN",
+      "n": "ILLUMINA INC",
+      "weight": 1.33,
+      "isin": "US4523271090",
+      "sector": "HEALTH CARE",
+      "mv": 156988.66,
+      "shares": 416
+    },
+    {
+      "t": "INCY",
+      "n": "INCYTE CORP",
+      "weight": 0.99,
+      "isin": "US45337C1027",
+      "sector": "HEALTH CARE",
+      "mv": 116207.77,
+      "shares": 717
+    },
+    {
+      "t": "INSM",
+      "n": "INSMED INC",
+      "weight": 0.8,
+      "isin": "US4576693075",
+      "sector": "HEALTH CARE",
+      "mv": 94184.19,
+      "shares": 720
+    },
+    {
+      "t": "IONS",
+      "n": "IONIS PHARMACEUTICALS INC",
+      "weight": 0.8,
+      "isin": "US4622221004",
+      "sector": "HEALTH CARE",
+      "mv": 94106.66,
+      "shares": 1565
+    },
+    {
+      "t": "JAZZ",
+      "n": "Jazz Pharmaceuticals plc",
+      "weight": 0.94,
+      "isin": "IE00B4Q5ZN47",
+      "sector": "HEALTH CARE",
+      "mv": 110307.93,
+      "shares": 368
+    },
+    {
+      "t": "JNJ",
+      "n": "Johnson & Johnson",
+      "weight": 1.04,
+      "isin": "US4781601046",
+      "sector": "HEALTH CARE",
+      "mv": 121941.16,
+      "shares": 330
+    },
+    {
+      "t": "KRYS",
+      "n": "KRYSTAL BIOTECH INC",
+      "weight": 0.94,
+      "isin": "US5011471027",
+      "sector": "HEALTH CARE",
+      "mv": 110824.78,
+      "shares": 254
+    },
+    {
+      "t": "LH",
+      "n": "LABCORP HOLDINGS INC",
+      "weight": 1.09,
+      "isin": "US5049221055",
+      "sector": "HEALTH CARE",
+      "mv": 128091.35,
+      "shares": 278
+    },
+    {
+      "t": "LLY",
+      "n": "ELI LILLY & CO",
+      "weight": 1.2,
+      "isin": "US5324571083",
+      "sector": "HEALTH CARE",
+      "mv": 140915.1,
+      "shares": 79
+    },
+    {
+      "t": "MCK",
+      "n": "MCKESSON CORP",
+      "weight": 1.19,
+      "isin": "US58155Q1031",
+      "sector": "HEALTH CARE",
+      "mv": 140177.85,
+      "shares": 100
+    },
+    {
+      "t": "MDGL",
+      "n": "MADRIGAL PHARMACEUTICALS INC",
+      "weight": 0.87,
+      "isin": "US5588681057",
+      "sector": "HEALTH CARE",
+      "mv": 102184.31,
+      "shares": 168
+    },
+    {
+      "t": "MDT",
+      "n": "Medtronic plc",
+      "weight": 1.1,
+      "isin": "IE00BTN1Y115",
+      "sector": "HEALTH CARE",
+      "mv": 128963.36,
+      "shares": 965
+    },
+    {
+      "t": "MRK",
+      "n": "MERCK & CO INC",
+      "weight": 1.05,
+      "isin": "US58933Y1055",
+      "sector": "HEALTH CARE",
+      "mv": 123105.21,
+      "shares": 605
+    },
+    {
+      "t": "MRNA",
+      "n": "MODERNA INC",
+      "weight": 1.49,
+      "isin": "US60770K1079",
+      "sector": "HEALTH CARE",
+      "mv": 174894.76,
+      "shares": 624
+    },
+    {
+      "t": "NL0015002SN0",
+      "n": "QIAGEN NV",
+      "weight": 1.25,
+      "isin": "NL0015002SN0",
+      "sector": "HEALTH CARE",
+      "mv": 147585.44,
+      "shares": 2091
+    },
+    {
+      "t": "NTRA",
+      "n": "NATERA INC",
+      "weight": 1.33,
+      "isin": "US6323071042",
+      "sector": "HEALTH CARE",
+      "mv": 156730.14,
+      "shares": 277
+    },
+    {
+      "t": "PFE",
+      "n": "PFIZER INC",
+      "weight": 1.14,
+      "isin": "US7170811035",
+      "sector": "HEALTH CARE",
+      "mv": 134391.35,
+      "shares": 3195
+    },
+    {
+      "t": "REGN",
+      "n": "REGENERON PHARMACEUTICALS INC",
+      "weight": 1.05,
+      "isin": "US75886F1075",
+      "sector": "HEALTH CARE",
+      "mv": 124035.07,
+      "shares": 110
+    },
+    {
+      "t": "RPRX",
+      "n": "Royalty Pharma plc",
+      "weight": 1.08,
+      "isin": "GB00BMVP7Y09",
+      "sector": "HEALTH CARE",
+      "mv": 127106.61,
+      "shares": 1421
+    },
+    {
+      "t": "RVMD",
+      "n": "REVOLUTION MEDICINES INC",
+      "weight": 0.96,
+      "isin": "US76155X1000",
+      "sector": "HEALTH CARE",
+      "mv": 113410.01,
+      "shares": 433
+    },
+    {
+      "t": "SOLV",
+      "n": "SOLVENTUM CORP",
+      "weight": 1.01,
+      "isin": "US83444M1018",
+      "sector": "HEALTH CARE",
+      "mv": 118557.08,
+      "shares": 991
+    },
+    {
+      "t": "STE",
+      "n": "STERIS plc",
+      "weight": 1.12,
+      "isin": "IE00BFY8C754",
+      "sector": "HEALTH CARE",
+      "mv": 131694.86,
+      "shares": 405
+    },
+    {
+      "t": "SYK",
+      "n": "STRYKER CORP",
+      "weight": 1.1,
+      "isin": "US8636671013",
+      "sector": "HEALTH CARE",
+      "mv": 129067.5,
+      "shares": 300
+    },
+    {
+      "t": "THC",
+      "n": "TENET HEALTHCARE CORP",
+      "weight": 1.1,
+      "isin": "US88033G4073",
+      "sector": "HEALTH CARE",
+      "mv": 128974.14,
+      "shares": 343
+    },
+    {
+      "t": "UHS",
+      "n": "UNIVERSAL HEALTH SERVICES INC",
+      "weight": 1.19,
+      "isin": "US9139031002",
+      "sector": "HEALTH CARE",
+      "mv": 140312.38,
+      "shares": 536
+    },
+    {
+      "t": "UNH",
+      "n": "UNITEDHEALTH GROUP INC",
+      "weight": 1.14,
+      "isin": "US91324P1021",
+      "sector": "HEALTH CARE",
+      "mv": 134106.67,
+      "shares": 229
+    },
+    {
+      "t": "US00846U1016",
+      "n": "AGILENT TECHNOLOGIES INC",
+      "weight": 1.24,
+      "isin": "US00846U1016",
+      "sector": "HEALTH CARE",
+      "mv": 145936.33,
+      "shares": 602
+    },
+    {
+      "t": "US02043Q1076",
+      "n": "ALNYLAM PHARMACEUTICALS INC",
+      "weight": 0.91,
+      "isin": "US02043Q1076",
+      "sector": "HEALTH CARE",
+      "mv": 107319.2,
+      "shares": 342
+    },
+    {
+      "t": "US09073M1045",
+      "n": "BIO-TECHNE CORP",
+      "weight": 1.08,
+      "isin": "US09073M1045",
+      "sector": "HEALTH CARE",
+      "mv": 127534.09,
+      "shares": 1255
+    },
+    {
+      "t": "US1598641074",
+      "n": "CHARLES RIVER LABORATORIES INTERNATIONAL INC",
+      "weight": 1.29,
+      "isin": "US1598641074",
+      "sector": "HEALTH CARE",
+      "mv": 152384.32,
+      "shares": 315
+    },
+    {
+      "t": "US2183521028",
+      "n": "CORCEPT THERAPEUTICS INC",
+      "weight": 0.83,
+      "isin": "US2183521028",
+      "sector": "HEALTH CARE",
+      "mv": 97894.98,
+      "shares": 814
+    },
+    {
+      "t": "US2358511028",
+      "n": "DANAHER CORP",
+      "weight": 1.2,
+      "isin": "US2358511028",
+      "sector": "HEALTH CARE",
+      "mv": 141413.27,
+      "shares": 438
+    },
+    {
+      "t": "US23918K1088",
+      "n": "DAVITA INC",
+      "weight": 1.08,
+      "isin": "US23918K1088",
+      "sector": "HEALTH CARE",
+      "mv": 127068.93,
+      "shares": 494
+    },
+    {
+      "t": "US2521311074",
+      "n": "DEXCOM INC",
+      "weight": 0.96,
+      "isin": "US2521311074",
+      "sector": "HEALTH CARE",
+      "mv": 112882.36,
+      "shares": 1034
+    },
+    {
+      "t": "US28176E1082",
+      "n": "EDWARDS LIFESCIENCES CORP",
+      "weight": 1.07,
+      "isin": "US28176E1082",
+      "sector": "HEALTH CARE",
+      "mv": 126132.71,
+      "shares": 1011
+    },
+    {
+      "t": "US29261A1007",
+      "n": "ENCOMPASS HEALTH CORP",
+      "weight": 1.1,
+      "isin": "US29261A1007",
+      "sector": "HEALTH CARE",
+      "mv": 129664.4,
+      "shares": 746
+    },
+    {
+      "t": "US30161Q1040",
+      "n": "EXELIXIS INC",
+      "weight": 1.18,
+      "isin": "US30161Q1040",
+      "sector": "HEALTH CARE",
+      "mv": 139196.24,
+      "shares": 1540
+    },
+    {
+      "t": "US36266G1076",
+      "n": "GE HEALTHCARE HOLDING LLC",
+      "weight": 1.12,
+      "isin": "US36266G1076",
+      "sector": "HEALTH CARE",
+      "mv": 132105.62,
+      "shares": 1320
+    },
+    {
+      "t": "US45168D1046",
+      "n": "IDEXX LABORATORIES INC",
+      "weight": 1.13,
+      "isin": "US45168D1046",
+      "sector": "HEALTH CARE",
+      "mv": 133437.13,
+      "shares": 170
+    },
+    {
+      "t": "US45784P1012",
+      "n": "INSULET CORP",
+      "weight": 1.09,
+      "isin": "US45784P1012",
+      "sector": "HEALTH CARE",
+      "mv": 128570.48,
+      "shares": 616
+    },
+    {
+      "t": "US46120E6023",
+      "n": "INTUITIVE SURGICAL INC",
+      "weight": 1.33,
+      "isin": "US46120E6023",
+      "sector": "HEALTH CARE",
+      "mv": 157113.61,
+      "shares": 248
+    },
+    {
+      "t": "US46266C1053",
+      "n": "IQVIA HOLDINGS INC",
+      "weight": 1.13,
+      "isin": "US46266C1053",
+      "sector": "HEALTH CARE",
+      "mv": 132650.55,
+      "shares": 339
+    },
+    {
+      "t": "US58506Q1094",
+      "n": "MEDPACE HOLDINGS INC",
+      "weight": 1.23,
+      "isin": "US58506Q1094",
+      "sector": "HEALTH CARE",
+      "mv": 144350.58,
+      "shares": 154
+    },
+    {
+      "t": "US58507V1070",
+      "n": "MEDLINE INC",
+      "weight": 1.01,
+      "isin": "US58507V1070",
+      "sector": "HEALTH CARE",
+      "mv": 118610.66,
+      "shares": 2484
+    },
+    {
+      "t": "US5926881054",
+      "n": "METTLER-TOLEDO INTERNATIONAL INC",
+      "weight": 1.35,
+      "isin": "US5926881054",
+      "sector": "HEALTH CARE",
+      "mv": 159091.11,
+      "shares": 68
+    },
+    {
+      "t": "US64125C1099",
+      "n": "NEUROCRINE BIOSCIENCES INC",
+      "weight": 0.99,
+      "isin": "US64125C1099",
+      "sector": "HEALTH CARE",
+      "mv": 116729.86,
+      "shares": 584
+    },
+    {
+      "t": "US70975L1070",
+      "n": "PENUMBRA INC",
+      "weight": 1.09,
+      "isin": "US70975L1070",
+      "sector": "HEALTH CARE",
+      "mv": 128133.21,
+      "shares": 282
+    },
+    {
+      "t": "US7140461093",
+      "n": "REVVITY INC",
+      "weight": 1.32,
+      "isin": "US7140461093",
+      "sector": "HEALTH CARE",
+      "mv": 155227.62,
+      "shares": 698
+    },
+    {
+      "t": "US7611521078",
+      "n": "RESMED INC",
+      "weight": 1.2,
+      "isin": "US7611521078",
+      "sector": "HEALTH CARE",
+      "mv": 140964.04,
+      "shares": 398
+    },
+    {
+      "t": "US8064071025",
+      "n": "HENRY SCHEIN INC",
+      "weight": 1.02,
+      "isin": "US8064071025",
+      "sector": "HEALTH CARE",
+      "mv": 120431.51,
+      "shares": 1012
+    },
+    {
+      "t": "US86627T1088",
+      "n": "SUMMIT THERAPEUTICS INC",
+      "weight": 0.95,
+      "isin": "US86627T1088",
+      "sector": "HEALTH CARE",
+      "mv": 111854.5,
+      "shares": 5162
+    },
+    {
+      "t": "US88023B1035",
+      "n": "TEMPUS AI INC",
+      "weight": 1.13,
+      "isin": "US88023B1035",
+      "sector": "HEALTH CARE",
+      "mv": 133159.91,
+      "shares": 1406
+    },
+    {
+      "t": "US8835561023",
+      "n": "THERMO FISHER SCIENTIFIC INC",
+      "weight": 1.19,
+      "isin": "US8835561023",
+      "sector": "HEALTH CARE",
+      "mv": 139685.31,
+      "shares": 148
+    },
+    {
+      "t": "US9224751084",
+      "n": "VEEVA SYSTEMS INC",
+      "weight": 1.27,
+      "isin": "US9224751084",
+      "sector": "HEALTH CARE",
+      "mv": 149319.1,
+      "shares": 330
+    },
+    {
+      "t": "US92532F1003",
+      "n": "VERTEX PHARMACEUTICALS INC",
+      "weight": 1.03,
+      "isin": "US92532F1003",
+      "sector": "HEALTH CARE",
+      "mv": 121822.21,
+      "shares": 166
+    },
+    {
+      "t": "US9418481035",
+      "n": "WATERS CORP",
+      "weight": 1.2,
+      "isin": "US9418481035",
+      "sector": "HEALTH CARE",
+      "mv": 141071.14,
+      "shares": 222
+    },
+    {
+      "t": "US9553061055",
+      "n": "WEST PHARMACEUTICAL SERVICES INC",
+      "weight": 1.25,
+      "isin": "US9553061055",
+      "sector": "HEALTH CARE",
+      "mv": 146658.96,
+      "shares": 267
+    },
+    {
+      "t": "UTHR",
+      "n": "UNITED THERAPEUTICS CORP",
+      "weight": 1.3,
+      "isin": "US91307C1027",
+      "sector": "HEALTH CARE",
+      "mv": 153061.49,
+      "shares": 186
+    },
+    {
+      "t": "VTRS",
+      "n": "VIATRIS INC",
+      "weight": 1.15,
+      "isin": "US92556V1061",
+      "sector": "HEALTH CARE",
+      "mv": 135744.64,
+      "shares": 5384
+    },
+    {
+      "t": "ZBH",
+      "n": "ZIMMER BIOMET HOLDINGS INC",
+      "weight": 1.09,
+      "isin": "US98956P1021",
+      "sector": "HEALTH CARE",
+      "mv": 127975.12,
+      "shares": 927
+    },
+    {
+      "t": "ZTS",
+      "n": "ZOETIS INC",
+      "weight": 1.16,
+      "isin": "US98978V1035",
+      "sector": "HEALTH CARE",
+      "mv": 136084.97,
+      "shares": 1199
+    }
+  ]
+}

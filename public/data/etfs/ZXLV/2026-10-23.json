@@ -1,0 +1,28 @@
+{
+  "id": 6,
+  "as_of_date": "2026-10-23",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLV_20261023.xlsx",
+  "created_at": "2026-10-24T21:16:14.484Z",
+  "partial": false,
+  "content_hash": "f189d62029778571efe1e1c721d9070c116435da17a2fdcf0c46891d4fcc57ce",
+  "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.31,
+      "sector": "-",
+      "mv": 180084.42,
+      "shares": 1
+    },
+    {
+      "t": "US81369Y2090",
+      "n": "STATE STREET HEALTH CARE SELECT SECTOR SPDR ETF",
+      "weight": 99.69,
+      "isin": "US81369Y2090",
+      "sector": "-",
+      "mv": 58614841.44,
+      "shares": 233416
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 6,
+  "as_of_date": "2026-10-23",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ESGG_20261023.xlsx",
+  "created_at": "2026-10-24T21:16:14.484Z",
+  "partial": false,
+  "content_hash": "732d3a71625aaf107735150f86f1a114c9903bc13eae1ffc4a7fec012c278fea",
+  "holdings": [
+    {
+      "t": "CA05587Y1051",
+      "n": "BMO MSCI Canada Selection Equity Index ETF",
+      "weight": 3.5396460353964594,
+      "isin": "CA05587Y1051",
+      "sector": "-",
+      "mv": 2178702.17,
+      "shares": 38316
+    },
+    {
+      "t": "CA05600C1068",
+      "n": "BMO MSCI USA Selection Equity Index ETF",
+      "weight": 73.33266673332665,
+      "isin": "CA05600C1068",
+      "sector": "-",
+      "mv": 45177688.25,
+      "shares": 592926
+    },
+    {
+      "t": "CA05600J1012",
+      "n": "BMO MSCI EAFE Selection Equity Index ETF",
+      "weight": 23.037696230376955,
+      "isin": "CA05600J1012",
+      "sector": "-",
+      "mv": 14194079.41,
+      "shares": 324145
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.08999100089990998,
+      "sector": "-",
+      "mv": 53279.4,
+      "shares": 1
+    }
+  ]
+}
