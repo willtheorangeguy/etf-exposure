@@ -1,0 +1,91 @@
+{
+  "id": 7,
+  "as_of_date": "2026-10-30",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCON_20261030.xlsx",
+  "created_at": "2026-11-01T11:15:40.714Z",
+  "partial": false,
+  "content_hash": "e7f7cbe611bc7c978191ab59eada1c172326585d6989ce4dcd40c564822d641c",
+  "holdings": [
+    {
+      "t": "CA05574G1090",
+      "n": "BMO S&P/TSX Capped Composite Index ETF",
+      "weight": 9.99,
+      "isin": "CA05574G1090",
+      "sector": "-",
+      "mv": 13275418.56,
+      "shares": 278284
+    },
+    {
+      "t": "CA05575T1003",
+      "n": "BMO S&P 500 Index ETF",
+      "weight": 18.13,
+      "isin": "CA05575T1003",
+      "sector": "-",
+      "mv": 24084493.41,
+      "shares": 207711
+    },
+    {
+      "t": "CA05576Y1088",
+      "n": "BMO MSCI Emerging Markets Index ETF",
+      "weight": 3.42,
+      "isin": "CA05576Y1088",
+      "sector": "-",
+      "mv": 4536344.28,
+      "shares": 147769
+    },
+    {
+      "t": "CA05579E1097",
+      "n": "BMO MSCI EAFE Index ETF",
+      "weight": 6.46,
+      "isin": "CA05579E1097",
+      "sector": "-",
+      "mv": 8576940.92,
+      "shares": 278886
+    },
+    {
+      "t": "CA05589W2067",
+      "n": "BMO S&P US Small Cap Index ETF",
+      "weight": 0.48,
+      "isin": "CA05589W2067",
+      "sector": "-",
+      "mv": 641588.39,
+      "shares": 12356
+    },
+    {
+      "t": "CA05589X1050",
+      "n": "BMO S&P US Mid Cap Index ETF",
+      "weight": 0.97,
+      "isin": "CA05589X1050",
+      "sector": "-",
+      "mv": 1290604.25,
+      "shares": 23541
+    },
+    {
+      "t": "CA05590X1024",
+      "n": "BMO Discount Bond Index ETF",
+      "weight": 42.45,
+      "isin": "CA05590X1024",
+      "sector": "-",
+      "mv": 56395048.6,
+      "shares": 3773698
+    },
+    {
+      "t": "CA05592U1140",
+      "n": "BMO US Aggregate Bond Index ETF",
+      "weight": 18,
+      "isin": "CA05592U1140",
+      "sector": "-",
+      "mv": 23913916.54,
+      "shares": 833410
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.09,
+      "sector": "-",
+      "mv": 121142.96,
+      "shares": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 7,
+  "as_of_date": "2026-10-30",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZMU_20261030.xlsx",
+  "created_at": "2026-11-01T11:15:40.714Z",
+  "partial": false,
+  "content_hash": "1db7a3a3049884b0c4f8f18dde3fb04a95037ce0f4bda75da008f9e4bb80fbef",
+  "holdings": [
+    {
+      "t": "CA05577M1032",
+      "n": "BMO Mid-Term US IG Corporate Bond Index ETF",
+      "weight": 98.58,
+      "isin": "CA05577M1032",
+      "sector": "-",
+      "mv": 3263661137.03
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 1.42,
+      "sector": "-",
+      "mv": 47089263.6
+    }
+  ]
+}

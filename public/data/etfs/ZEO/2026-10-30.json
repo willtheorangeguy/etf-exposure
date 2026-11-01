@@ -1,0 +1,118 @@
+{
+  "id": 7,
+  "as_of_date": "2026-10-30",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEO_20261030.xlsx",
+  "created_at": "2026-11-01T11:15:40.714Z",
+  "partial": false,
+  "content_hash": "1e42d0b655faed1c010af8d0af39d250abd8ae35eed6af7eaaeb7c140a5807bb",
+  "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.05,
+      "sector": "-",
+      "mv": -263530.88,
+      "shares": 1
+    },
+    {
+      "t": "CNQ",
+      "n": "Canadian Natural Resources Ltd",
+      "weight": 9.62,
+      "isin": "CA1363851017",
+      "sector": "ENERGY",
+      "mv": 47884663.56,
+      "shares": 610618
+    },
+    {
+      "t": "CVE",
+      "n": "Cenovus Energy Inc",
+      "weight": 8.74,
+      "isin": "CA15135U1093",
+      "sector": "ENERGY",
+      "mv": 43511921.46,
+      "shares": 950457
+    },
+    {
+      "t": "ENB",
+      "n": "Enbridge Inc",
+      "weight": 8.54,
+      "isin": "CA29250N1050",
+      "sector": "ENERGY",
+      "mv": 42479774.59,
+      "shares": 614669
+    },
+    {
+      "t": "IMO",
+      "n": "IMPERIAL OIL LTD",
+      "weight": 9.31,
+      "isin": "CA4530384086",
+      "sector": "ENERGY",
+      "mv": 46316596.76,
+      "shares": 239387
+    },
+    {
+      "t": "KEY",
+      "n": "Keyera Corp",
+      "weight": 8.44,
+      "isin": "CA4932711001",
+      "sector": "ENERGY",
+      "mv": 41981088,
+      "shares": 756416
+    },
+    {
+      "t": "PPL",
+      "n": "Pembina Pipeline Corp",
+      "weight": 9.17,
+      "isin": "CA7063271034",
+      "sector": "ENERGY",
+      "mv": 45638323.59,
+      "shares": 636429
+    },
+    {
+      "t": "SOBO",
+      "n": "SOUTH BOW CORP",
+      "weight": 8.39,
+      "isin": "CA83671M1059",
+      "sector": "ENERGY",
+      "mv": 41753558.22,
+      "shares": 830586
+    },
+    {
+      "t": "SU",
+      "n": "Suncor Energy Inc",
+      "weight": 10.21,
+      "isin": "CA8672241079",
+      "sector": "ENERGY",
+      "mv": 50829380.59,
+      "shares": 457469
+    },
+    {
+      "t": "TOU",
+      "n": "Tourmaline Oil Corp",
+      "weight": 9.36,
+      "isin": "CA89156V1067",
+      "sector": "ENERGY",
+      "mv": 46578554.88,
+      "shares": 678592
+    },
+    {
+      "t": "TRP",
+      "n": "TC ENERGY CORP",
+      "weight": 8.92,
+      "isin": "CA87807B1076",
+      "sector": "ENERGY",
+      "mv": 44396226.56,
+      "shares": 492416
+    },
+    {
+      "t": "WCP",
+      "n": "Whitecap Resources Inc",
+      "weight": 9.34,
+      "isin": "CA96467A2002",
+      "sector": "ENERGY",
+      "mv": 46495495.62,
+      "shares": 2369801
+    }
+  ]
+}

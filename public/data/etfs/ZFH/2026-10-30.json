@@ -1,0 +1,84 @@
+{
+  "id": 7,
+  "as_of_date": "2026-10-30",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZFH_20261030.xlsx",
+  "created_at": "2026-11-01T11:15:40.714Z",
+  "partial": false,
+  "content_hash": "693e72a7b7580832919d7c9e5f65602c68c15b7102df78c6dfbe2c9e79b4ff1e",
+  "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -5.829417058294171,
+      "sector": "-",
+      "mv": -15831016.46
+    },
+    {
+      "t": "CTB",
+      "n": "Canada T Bill 0.01% 04/21/2027",
+      "weight": 19.28807119288071,
+      "isin": "CA1350Z7E599",
+      "sector": "-",
+      "mv": 52393118.95
+    },
+    {
+      "t": "CTB",
+      "n": "Canada T Bill 0.01% 02/24/2027",
+      "weight": 37.316268373162686,
+      "isin": "CA1350Z7EW07",
+      "sector": "-",
+      "mv": 101401151.18
+    },
+    {
+      "t": "CTB",
+      "n": "Canada T Bill 0.01% 12/16/2026",
+      "weight": 43.36566343365659,
+      "isin": "CA1350Z7FA77",
+      "sector": "-",
+      "mv": 117817528.44
+    },
+    {
+      "t": "S6679609 CREDIT DEFAULT SWAP 5.00% 12/20/2031",
+      "n": "S6679609 Credit Default Swap 5.00% 12/20/2031",
+      "weight": 0.21997800219978003,
+      "sector": "-",
+      "mv": 587787.66
+    },
+    {
+      "t": "S6679822 CREDIT DEFAULT SWAP 5.00% 12/20/2031",
+      "n": "S6679822 Credit Default Swap 5.00% 12/20/2031",
+      "weight": 0.9999000099990001,
+      "sector": "-",
+      "mv": 2718168.99
+    },
+    {
+      "t": "S6679823 CREDIT DEFAULT SWAP 5.00% 12/20/2031",
+      "n": "S6679823 Credit Default Swap 5.00% 12/20/2031",
+      "weight": 1.1198880111988803,
+      "sector": "-",
+      "mv": 3030238.27
+    },
+    {
+      "t": "S6679824 CREDIT DEFAULT SWAP 5.00% 12/20/2031",
+      "n": "S6679824 Credit Default Swap 5.00% 12/20/2031",
+      "weight": 1.7798220177982202,
+      "sector": "-",
+      "mv": 4839335.74
+    },
+    {
+      "t": "S6680013 CREDIT DEFAULT SWAP 5.00% 12/20/2031",
+      "n": "S6680013 Credit Default Swap 5.00% 12/20/2031",
+      "weight": 1.53984601539846,
+      "sector": "-",
+      "mv": 4179015.2
+    },
+    {
+      "t": "S6680605 CREDIT DEFAULT SWAP 5.00% 12/20/2031",
+      "n": "S6680605 Credit Default Swap 5.00% 12/20/2031",
+      "weight": 0.19998000199980004,
+      "sector": "-",
+      "mv": 542729.21
+    }
+  ]
+}

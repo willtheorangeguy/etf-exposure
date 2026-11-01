@@ -1,0 +1,28 @@
+{
+  "id": 7,
+  "as_of_date": "2026-10-30",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZPH_20261030.xlsx",
+  "created_at": "2026-11-01T11:15:40.714Z",
+  "partial": false,
+  "content_hash": "7c4f9424206f7b660986d44579d948b76c539b3e2309c790a2856f4c300d0b32",
+  "holdings": [
+    {
+      "t": "CA05581B1013",
+      "n": "BMO US Put Write ETF",
+      "weight": 98.61,
+      "isin": "CA05581B1013",
+      "sector": "-",
+      "mv": 33878270.94,
+      "shares": 2117339
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 1.39,
+      "sector": "-",
+      "mv": 478148.63,
+      "shares": 1
+    }
+  ]
+}

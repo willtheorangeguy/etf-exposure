@@ -1,0 +1,28 @@
+{
+  "id": 7,
+  "as_of_date": "2026-10-30",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZUD_20261030.xlsx",
+  "created_at": "2026-11-01T11:15:40.714Z",
+  "partial": false,
+  "content_hash": "0cf28ee6bd1f8595475c0aa6d5305fb676494d829a269bc9033a3c4ff518b6fe",
+  "holdings": [
+    {
+      "t": "CA05575X1197",
+      "n": "BMO US Dividend ETF",
+      "weight": 99.91,
+      "isin": "CA05575X1197",
+      "sector": "-",
+      "mv": 158391990.34,
+      "shares": 2680850
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.09,
+      "sector": "-",
+      "mv": 143537.61,
+      "shares": 1
+    }
+  ]
+}

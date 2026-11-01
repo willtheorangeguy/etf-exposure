@@ -1,0 +1,577 @@
+{
+  "id": 7,
+  "as_of_date": "2026-10-30",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZBCB_20261030.xlsx",
+  "created_at": "2026-11-01T11:15:40.714Z",
+  "partial": false,
+  "content_hash": "252d325b451bb2aa380f4a8a2ad9a52293d1f9006c64361f72087ac8ce4779ab",
+  "holdings": [
+    {
+      "t": "AAPL",
+      "n": "Apple Inc.",
+      "weight": 2.41,
+      "isin": "US0378331005",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 297481.69,
+      "shares": 618
+    },
+    {
+      "t": "ABX",
+      "n": "BARRICK MINING CORP",
+      "weight": 1.6,
+      "isin": "CA06849F1080",
+      "sector": "MATERIALS",
+      "mv": 197264.8,
+      "shares": 3820
+    },
+    {
+      "t": "AEM",
+      "n": "Agnico Eagle Mines LTD",
+      "weight": 1.89,
+      "isin": "CA0084741085",
+      "sector": "MATERIALS",
+      "mv": 233097.9,
+      "shares": 1010
+    },
+    {
+      "t": "AMD",
+      "n": "ADVANCED MICRO DEVICES INC",
+      "weight": 0.93,
+      "isin": "US0079031078",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 114927.94,
+      "shares": 163
+    },
+    {
+      "t": "ATD",
+      "n": "Alimentation Couche-Tard Inc",
+      "weight": 0.87,
+      "isin": "CA01626P1484",
+      "sector": "CONSUMER STAPLES",
+      "mv": 107865.36,
+      "shares": 1332
+    },
+    {
+      "t": "ATZ",
+      "n": "ARITZIA INC",
+      "weight": 1,
+      "isin": "CA04045U1021",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 123000.5,
+      "shares": 791
+    },
+    {
+      "t": "BAC",
+      "n": "BANK OF AMERICA CORP",
+      "weight": 1.89,
+      "isin": "US0605051046",
+      "sector": "FINANCIALS",
+      "mv": 233234.05,
+      "shares": 3339
+    },
+    {
+      "t": "BN",
+      "n": "Brookfield Corp",
+      "weight": 1.17,
+      "isin": "CA11271J1075",
+      "sector": "FINANCIALS",
+      "mv": 144527.58,
+      "shares": 2634
+    },
+    {
+      "t": "BRK/B",
+      "n": "BERKSHIRE HATHAWAY INC",
+      "weight": 1.37,
+      "isin": "US0846707026",
+      "sector": "FINANCIALS",
+      "mv": 168972.21,
+      "shares": 223
+    },
+    {
+      "t": "C",
+      "n": "Citigroup Inc",
+      "weight": 0.77,
+      "isin": "US1729674242",
+      "sector": "FINANCIALS",
+      "mv": 95070.07,
+      "shares": 555
+    },
+    {
+      "t": "CA05571K1030",
+      "n": "BMO Mid Corporate Bond Index ETF",
+      "weight": 7.21,
+      "isin": "CA05571K1030",
+      "sector": "-",
+      "mv": 889634.09,
+      "shares": 58135
+    },
+    {
+      "t": "CA05576Q1054",
+      "n": "BMO Mid Provincial Bond Index ETF",
+      "weight": 6.86,
+      "isin": "CA05576Q1054",
+      "sector": "-",
+      "mv": 846435.68,
+      "shares": 61006
+    },
+    {
+      "t": "CA05579D1015",
+      "n": "BMO Short-Term US IG Corporate Bond Hedged to CAD Index ETF",
+      "weight": 5.98,
+      "isin": "CA05579D1015",
+      "sector": "-",
+      "mv": 738138.83,
+      "shares": 57541
+    },
+    {
+      "t": "CA0559751064",
+      "n": "BMO Short Provincial Bond Index ETF",
+      "weight": 6.59,
+      "isin": "CA0559751064",
+      "sector": "-",
+      "mv": 813376.59,
+      "shares": 66283
+    },
+    {
+      "t": "CA0559761048",
+      "n": "BMO Short Corporate Bond Index ETF",
+      "weight": 7.32,
+      "isin": "CA0559761048",
+      "sector": "-",
+      "mv": 903641.8,
+      "shares": 65626
+    },
+    {
+      "t": "CA0559821024",
+      "n": "BMO Canadian Bank Income Index ETF",
+      "weight": 1.61,
+      "isin": "CA0559821024",
+      "sector": "-",
+      "mv": 198726.35,
+      "shares": 6552
+    },
+    {
+      "t": "CA05600Q3035",
+      "n": "BMO Short-Term US TIPS Index ETF",
+      "weight": 2.02,
+      "isin": "CA05600Q3035",
+      "sector": "-",
+      "mv": 249044.6,
+      "shares": 8918
+    },
+    {
+      "t": "CA05614V2075",
+      "n": "BMO AAA CLO ETF",
+      "weight": 1.98,
+      "isin": "CA05614V2075",
+      "sector": "-",
+      "mv": 244894.39,
+      "shares": 8378
+    },
+    {
+      "t": "CA1249003098",
+      "n": "CCL Industries Inc",
+      "weight": 0.59,
+      "isin": "CA1249003098",
+      "sector": "MATERIALS",
+      "mv": 73053.36,
+      "shares": 744
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 1.01,
+      "sector": "-",
+      "mv": 125232.3,
+      "shares": 1
+    },
+    {
+      "t": "CCO",
+      "n": "Cameco Corp",
+      "weight": 0.36,
+      "isin": "CA13321L1085",
+      "sector": "ENERGY",
+      "mv": 44223.6,
+      "shares": 411
+    },
+    {
+      "t": "CHP-U",
+      "n": "Choice Properties Real Estate Investment Trust",
+      "weight": 0.52,
+      "isin": "CA17039A1066",
+      "sector": "REAL ESTATE",
+      "mv": 63750.5,
+      "shares": 4325
+    },
+    {
+      "t": "CNQ",
+      "n": "Canadian Natural Resources Ltd",
+      "weight": 2.08,
+      "isin": "CA1363851017",
+      "sector": "ENERGY",
+      "mv": 256982.34,
+      "shares": 3277
+    },
+    {
+      "t": "CNR",
+      "n": "Canadian National Railway Co",
+      "weight": 0.64,
+      "isin": "CA1363751027",
+      "sector": "INDUSTRIALS",
+      "mv": 78628.55,
+      "shares": 455
+    },
+    {
+      "t": "CPX",
+      "n": "Capital Power Corp",
+      "weight": 0.83,
+      "isin": "CA14042M1023",
+      "sector": "UTILITIES",
+      "mv": 101935.68,
+      "shares": 1617
+    },
+    {
+      "t": "DOL",
+      "n": "Dollarama Inc",
+      "weight": 0.8,
+      "isin": "CA25675T1075",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 98562.5,
+      "shares": 475
+    },
+    {
+      "t": "EFN",
+      "n": "ELEMENT FLEET MANAGEMENT CORP",
+      "weight": 0.23,
+      "isin": "CA2861812014",
+      "sector": "INDUSTRIALS",
+      "mv": 27980.8,
+      "shares": 1280
+    },
+    {
+      "t": "EMA",
+      "n": "Emera Inc",
+      "weight": 0.54,
+      "isin": "CA2908761018",
+      "sector": "UTILITIES",
+      "mv": 66409.96,
+      "shares": 964
+    },
+    {
+      "t": "ENB",
+      "n": "Enbridge Inc",
+      "weight": 0.99,
+      "isin": "CA29250N1050",
+      "sector": "ENERGY",
+      "mv": 122324.7,
+      "shares": 1770
+    },
+    {
+      "t": "FCX",
+      "n": "FREEPORT-MCMORAN INC",
+      "weight": 0.64,
+      "isin": "US35671D8570",
+      "sector": "MATERIALS",
+      "mv": 79227.52,
+      "shares": 908
+    },
+    {
+      "t": "GILD",
+      "n": "GILEAD SCIENCES INC",
+      "weight": 0.74,
+      "isin": "US3755581036",
+      "sector": "HEALTH CARE",
+      "mv": 91306.16,
+      "shares": 383
+    },
+    {
+      "t": "GOOGL",
+      "n": "Alphabet Inc.",
+      "weight": 2.44,
+      "isin": "US02079K3059",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 301358.09,
+      "shares": 771
+    },
+    {
+      "t": "IE00BKVD2N49",
+      "n": "SEAGATE TECHNOLOGY HOLDINGS PLC",
+      "weight": 0.87,
+      "isin": "IE00BKVD2N49",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 107137.74,
+      "shares": 119
+    },
+    {
+      "t": "IFC",
+      "n": "Intact Financial Corp",
+      "weight": 0.5,
+      "isin": "CA45823T1066",
+      "sector": "FINANCIALS",
+      "mv": 61508.68,
+      "shares": 236
+    },
+    {
+      "t": "KEY",
+      "n": "Keyera Corp",
+      "weight": 0.58,
+      "isin": "CA4932711001",
+      "sector": "ENERGY",
+      "mv": 71151,
+      "shares": 1282
+    },
+    {
+      "t": "LIN",
+      "n": "Linde plc",
+      "weight": 0.5,
+      "isin": "IE000S9YS762",
+      "sector": "MATERIALS",
+      "mv": 61770.77,
+      "shares": 86
+    },
+    {
+      "t": "LLY",
+      "n": "ELI LILLY & CO",
+      "weight": 0.88,
+      "isin": "US5324571083",
+      "sector": "HEALTH CARE",
+      "mv": 108897.19,
+      "shares": 55
+    },
+    {
+      "t": "MCHP",
+      "n": "MICROCHIP TECHNOLOGY INC",
+      "weight": 0.48,
+      "isin": "US5950171042",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 59845.65,
+      "shares": 554
+    },
+    {
+      "t": "MFC",
+      "n": "Manulife Financial Corp",
+      "weight": 0.96,
+      "isin": "CA56501R1064",
+      "sector": "FINANCIALS",
+      "mv": 117941.67,
+      "shares": 1891
+    },
+    {
+      "t": "MS",
+      "n": "Morgan Stanley",
+      "weight": 0.88,
+      "isin": "US6174464486",
+      "sector": "FINANCIALS",
+      "mv": 108116.83,
+      "shares": 420
+    },
+    {
+      "t": "MSFT",
+      "n": "Microsoft Corp.",
+      "weight": 1.87,
+      "isin": "US5949181045",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 231085.96,
+      "shares": 317
+    },
+    {
+      "t": "NA",
+      "n": "National Bank of Canada",
+      "weight": 1.17,
+      "isin": "CA6330671034",
+      "sector": "FINANCIALS",
+      "mv": 144247.3,
+      "shares": 685
+    },
+    {
+      "t": "NVDA",
+      "n": "NVIDIA CORP",
+      "weight": 2.5,
+      "isin": "US67066G1040",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 308125.73,
+      "shares": 1078
+    },
+    {
+      "t": "PANW",
+      "n": "PALO ALTO NETWORKS INC",
+      "weight": 0.56,
+      "isin": "US6974351057",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 68988.9,
+      "shares": 135
+    },
+    {
+      "t": "PG",
+      "n": "PROCTER & GAMBLE CO/THE",
+      "weight": 0.92,
+      "isin": "US7427181091",
+      "sector": "CONSUMER STAPLES",
+      "mv": 113287.79,
+      "shares": 502
+    },
+    {
+      "t": "QSR",
+      "n": "RESTAURANT BRANDS INTERNATIONAL INC",
+      "weight": 0.73,
+      "isin": "CA76131D1033",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 90686.7,
+      "shares": 897
+    },
+    {
+      "t": "RTX",
+      "n": "RTX CORP",
+      "weight": 0.8,
+      "isin": "US75513E1010",
+      "sector": "INDUSTRIALS",
+      "mv": 99070.08,
+      "shares": 355
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 2.6,
+      "isin": "CA7800871021",
+      "sector": "FINANCIALS",
+      "mv": 321408.76,
+      "shares": 1132
+    },
+    {
+      "t": "SHOP",
+      "n": "SHOPIFY INC",
+      "weight": 2.01,
+      "isin": "CA82509L1076",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 248577.36,
+      "shares": 1128
+    },
+    {
+      "t": "STN",
+      "n": "Stantec Inc",
+      "weight": 0.62,
+      "isin": "CA85472N1096",
+      "sector": "INDUSTRIALS",
+      "mv": 76908.66,
+      "shares": 762
+    },
+    {
+      "t": "SU",
+      "n": "Suncor Energy Inc",
+      "weight": 2.16,
+      "isin": "CA8672241079",
+      "sector": "ENERGY",
+      "mv": 266108.45,
+      "shares": 2395
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 1.91,
+      "isin": "CA8911605092",
+      "sector": "FINANCIALS",
+      "mv": 235476.12,
+      "shares": 1353
+    },
+    {
+      "t": "TIH",
+      "n": "Toromont Industries Ltd",
+      "weight": 0.78,
+      "isin": "CA8911021050",
+      "sector": "INDUSTRIALS",
+      "mv": 96556.5,
+      "shares": 499
+    },
+    {
+      "t": "TRP",
+      "n": "TC ENERGY CORP",
+      "weight": 0.7,
+      "isin": "CA87807B1076",
+      "sector": "ENERGY",
+      "mv": 86012.64,
+      "shares": 954
+    },
+    {
+      "t": "UNH",
+      "n": "UNITEDHEALTH GROUP INC",
+      "weight": 0.53,
+      "isin": "US91324P1021",
+      "sector": "HEALTH CARE",
+      "mv": 64801.63,
+      "shares": 114
+    },
+    {
+      "t": "US0231351067",
+      "n": "AMAZON.COM INC",
+      "weight": 1.86,
+      "isin": "US0231351067",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 229960.57,
+      "shares": 685
+    },
+    {
+      "t": "US5380341090",
+      "n": "LIVE NATION ENTERTAINMENT INC",
+      "weight": 0.7,
+      "isin": "US5380341090",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 86715.28,
+      "shares": 349
+    },
+    {
+      "t": "US7010941042",
+      "n": "PARKER-HANNIFIN CORP",
+      "weight": 1.22,
+      "isin": "US7010941042",
+      "sector": "INDUSTRIALS",
+      "mv": 150818.83,
+      "shares": 120
+    },
+    {
+      "t": "US74340W1036",
+      "n": "Prologis Inc",
+      "weight": 0.55,
+      "isin": "US74340W1036",
+      "sector": "REAL ESTATE",
+      "mv": 68463.57,
+      "shares": 383
+    },
+    {
+      "t": "V",
+      "n": "VISA INC",
+      "weight": 1.64,
+      "isin": "US92826C8394",
+      "sector": "FINANCIALS",
+      "mv": 202766.32,
+      "shares": 351
+    },
+    {
+      "t": "WCN",
+      "n": "Waste Connections Inc",
+      "weight": 1.11,
+      "isin": "CA94106B1013",
+      "sector": "INDUSTRIALS",
+      "mv": 136895.72,
+      "shares": 533
+    },
+    {
+      "t": "WMT",
+      "n": "WALMART INC",
+      "weight": 0.6,
+      "isin": "US9311421039",
+      "sector": "CONSUMER STAPLES",
+      "mv": 73662.88,
+      "shares": 427
+    },
+    {
+      "t": "WPM",
+      "n": "WHEATON PRECIOUS METALS CORP",
+      "weight": 0.92,
+      "isin": "CA9628791027",
+      "sector": "MATERIALS",
+      "mv": 113863.43,
+      "shares": 701
+    }
+  ]
+}
