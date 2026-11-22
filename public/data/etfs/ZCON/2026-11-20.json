@@ -1,0 +1,83 @@
+{
+  "id": 8,
+  "as_of_date": "2026-11-20",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZCON_20261120.xlsx",
+  "created_at": "2026-11-22T23:47:37.699Z",
+  "partial": false,
+  "content_hash": "c96b21f727934aba6f15683668a3c300614fca4be5316053924a96c4460708d5",
+  "holdings": [
+    {
+      "t": "CA05574G1090",
+      "n": "BMO S&P/TSX Capped Composite Index ETF",
+      "weight": 9.53,
+      "isin": "CA05574G1090",
+      "sector": "-",
+      "mv": 12868650.12,
+      "shares": 289220
+    },
+    {
+      "t": "CA05575T1003",
+      "n": "BMO S&P 500 Index ETF",
+      "weight": 17.38,
+      "isin": "CA05575T1003",
+      "sector": "-",
+      "mv": 23459475.17,
+      "shares": 215875
+    },
+    {
+      "t": "CA05576Y1088",
+      "n": "BMO MSCI Emerging Markets Index ETF",
+      "weight": 3.27,
+      "isin": "CA05576Y1088",
+      "sector": "-",
+      "mv": 4418017.8,
+      "shares": 157615
+    },
+    {
+      "t": "CA05579E1097",
+      "n": "BMO MSCI EAFE Index ETF",
+      "weight": 6.31,
+      "isin": "CA05579E1097",
+      "sector": "-",
+      "mv": 8522115.86,
+      "shares": 289846
+    },
+    {
+      "t": "CA05589W2067",
+      "n": "BMO S&P US Small Cap Index ETF",
+      "weight": 0.47,
+      "isin": "CA05589W2067",
+      "sector": "-",
+      "mv": 640765.95,
+      "shares": 12840
+    },
+    {
+      "t": "CA05589X1050",
+      "n": "BMO S&P US Mid Cap Index ETF",
+      "weight": 0.96,
+      "isin": "CA05589X1050",
+      "sector": "-",
+      "mv": 1289662.69,
+      "shares": 24465
+    },
+    {
+      "t": "CA05590X1024",
+      "n": "BMO Discount Bond Index ETF",
+      "weight": 43.69,
+      "isin": "CA05590X1024",
+      "sector": "-",
+      "mv": 58982229.91,
+      "shares": 3922022
+    },
+    {
+      "t": "CA05592U1140",
+      "n": "BMO US Aggregate Bond Index ETF",
+      "weight": 18.39,
+      "isin": "CA05592U1140",
+      "sector": "-",
+      "mv": 24828674.37,
+      "shares": 866166
+    }
+  ]
+}

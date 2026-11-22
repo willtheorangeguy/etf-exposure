@@ -1,0 +1,725 @@
+{
+  "id": 3,
+  "as_of_date": "2026-10-31",
+  "source": "url",
+  "source_url": "https://www.vanguard.ca/en/product/etf/equity/9554/vanguard-ftse-canada-index-etf",
+  "created_at": "2026-11-22T23:47:37.699Z",
+  "partial": false,
+  "content_hash": "1b739d0cd3786ebec9cfcbce53ab63a2b536d88457cf95af8367e506f40dba70",
+  "holdings": [
+    {
+      "t": "ABX",
+      "n": "Barrick Mining Corp",
+      "weight": 1.90322,
+      "isin": "CA06849F1080",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "AEM",
+      "n": "Agnico Eagle Mines Ltd",
+      "weight": 2.5964,
+      "isin": "CA0084741085",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "AG",
+      "n": "First Majestic Silver Corp",
+      "weight": 0.21341,
+      "isin": "CA32076V1031",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "AGI",
+      "n": "Alamos Gold Inc",
+      "weight": 0.35513,
+      "isin": "CA0115321089",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "ALA",
+      "n": "AltaGas Ltd",
+      "weight": 0.37922,
+      "isin": "CA0213611001",
+      "sector": "Utilities",
+      "region": "CA"
+    },
+    {
+      "t": "ATD",
+      "n": "Alimentation Couche-Tard Inc",
+      "weight": 1.33016,
+      "isin": "CA01626P1484",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "ATRL",
+      "n": "AtkinsRealis Group Inc",
+      "weight": 0.30623,
+      "isin": "CA04764T1049",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "ATZ",
+      "n": "Aritzia Inc",
+      "weight": 0.33073,
+      "isin": "CA04045U1021",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "BAM",
+      "n": "Brookfield Asset Management Ltd",
+      "weight": 0.54976,
+      "isin": "CA1130041058",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BBD/A",
+      "n": "Bombardier Inc",
+      "weight": 0.01698,
+      "isin": "CA0977518798",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "BBD/B",
+      "n": "Bombardier Inc",
+      "weight": 0.62533,
+      "isin": "CA0977518616",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "BCE",
+      "n": "BCE Inc",
+      "weight": 0.58764,
+      "isin": "CA05534B7604",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "BMO",
+      "n": "Bank of Montreal",
+      "weight": 3.73612,
+      "isin": "CA0636711016",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BN",
+      "n": "Brookfield Corp",
+      "weight": 2.53696,
+      "isin": "CA11271J1075",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "BNS",
+      "n": "The Bank of Nova Scotia",
+      "weight": 3.5692,
+      "isin": "CA0641491075",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "CAD",
+      "n": "Canadian Dollar",
+      "weight": 0.19659,
+      "region": "CA"
+    },
+    {
+      "t": "CAE",
+      "n": "CAE Inc",
+      "weight": 0.25588,
+      "isin": "CA1247651088",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "CCO",
+      "n": "Cameco Corp",
+      "weight": 1.03251,
+      "isin": "CA13321L1085",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "CLS",
+      "n": "Celestica Inc",
+      "weight": 1.01204,
+      "isin": "CA15101Q2071",
+      "sector": "Information Technology",
+      "region": "CA"
+    },
+    {
+      "t": "CM",
+      "n": "Canadian Imperial Bank of Commerce",
+      "weight": 3.30896,
+      "isin": "CA1360691010",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "CNQ",
+      "n": "Canadian Natural Resources Ltd",
+      "weight": 3.53791,
+      "isin": "CA1363851017",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "CNR",
+      "n": "Canadian National Railway Co",
+      "weight": 2.04998,
+      "isin": "CA1363751027",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "CP",
+      "n": "Canadian Pacific Kansas City Ltd",
+      "weight": 2.45877,
+      "isin": "CA13646K1084",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "CSU",
+      "n": "Constellation Software Inc/Canada",
+      "weight": 1.47949,
+      "isin": "CA21037X1006",
+      "sector": "Information Technology",
+      "region": "CA"
+    },
+    {
+      "t": "CTC/A",
+      "n": "Canadian Tire Corp Ltd",
+      "weight": 0.21276,
+      "isin": "CA1366812024",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "CVE",
+      "n": "Cenovus Energy Inc",
+      "weight": 1.34903,
+      "isin": "CA15135U1093",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "DOL",
+      "n": "Dollarama Inc",
+      "weight": 1.20976,
+      "isin": "CA25675T1075",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "DSG",
+      "n": "The Descartes Systems Group Inc",
+      "weight": 0.24056,
+      "isin": "CA2499061083",
+      "sector": "Information Technology",
+      "region": "CA"
+    },
+    {
+      "t": "EFN",
+      "n": "Element Fleet Management Corp",
+      "weight": 0.19177,
+      "isin": "CA2861812014",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "EMA",
+      "n": "Emera Inc",
+      "weight": 0.46417,
+      "isin": "CA2908761018",
+      "sector": "Utilities",
+      "region": "CA"
+    },
+    {
+      "t": "ENB",
+      "n": "Enbridge Inc",
+      "weight": 3.3929,
+      "isin": "CA29250N1050",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "EQX",
+      "n": "Equinox Gold Corp",
+      "weight": 0.31808,
+      "isin": "CA29446Y5020",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "FFH",
+      "n": "Fairfax Financial Holdings Ltd",
+      "weight": 1.15431,
+      "isin": "CA3039011026",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "FM",
+      "n": "First Quantum Minerals Ltd",
+      "weight": 0.48978,
+      "isin": "CA3359341052",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "FNV",
+      "n": "Franco-Nevada Corp",
+      "weight": 1.33229,
+      "isin": "CA3518581051",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "FSV",
+      "n": "FirstService Corp",
+      "weight": 0.18458,
+      "isin": "CA33767E2024",
+      "sector": "Real Estate",
+      "region": "CA"
+    },
+    {
+      "t": "FTS",
+      "n": "Fortis Inc/Canada",
+      "weight": 0.92101,
+      "isin": "CA3495531079",
+      "sector": "Utilities",
+      "region": "CA"
+    },
+    {
+      "t": "FTT",
+      "n": "Finning International Inc",
+      "weight": 0.26709,
+      "isin": "CA3180714048",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "GFL",
+      "n": "GFL Environmental Inc",
+      "weight": 0.48518,
+      "isin": "CA36168Q1046",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "GIB/A",
+      "n": "CGI Inc",
+      "weight": 0.45312,
+      "isin": "CA12532H1047",
+      "sector": "Information Technology",
+      "region": "CA"
+    },
+    {
+      "t": "GIL",
+      "n": "Gildan Activewear Inc",
+      "weight": 0.22426,
+      "isin": "CA3759161035",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "GWO",
+      "n": "Great-West Lifeco Inc",
+      "weight": 0.49647,
+      "isin": "CA39138C1068",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "H",
+      "n": "Hydro One Ltd",
+      "weight": 0.38774,
+      "isin": "CA4488112083",
+      "sector": "Utilities",
+      "region": "CA"
+    },
+    {
+      "t": "HBM",
+      "n": "Hudbay Minerals Inc",
+      "weight": 0.28478,
+      "isin": "CA4436281022",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "IAG",
+      "n": "iA Financial Corp Inc",
+      "weight": 0.4175,
+      "isin": "CA45075E1043",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "IFC",
+      "n": "Intact Financial Corp",
+      "weight": 1.01735,
+      "isin": "CA45823T1066",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "IGM",
+      "n": "IGM Financial Inc",
+      "weight": 0.13856,
+      "isin": "CA4495861060",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "IMG",
+      "n": "IAMGOLD Corp",
+      "weight": 0.27577,
+      "isin": "CA4509131088",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "IMO",
+      "n": "Imperial Oil Ltd",
+      "weight": 0.62302,
+      "isin": "CA4530384086",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "IVN",
+      "n": "Ivanhoe Mines Ltd",
+      "weight": 0.15841,
+      "isin": "CA46579R1047",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "K",
+      "n": "Kinross Gold Corp",
+      "weight": 0.74414,
+      "isin": "CA4969024047",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "KEY",
+      "n": "Keyera Corp",
+      "weight": 0.35862,
+      "isin": "CA4932711001",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "L",
+      "n": "Loblaw Cos Ltd",
+      "weight": 0.83431,
+      "isin": "CA5394811015",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "LUG",
+      "n": "Lundin Gold Inc",
+      "weight": 0.18052,
+      "isin": "CA5503711080",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "LUN",
+      "n": "Lundin Mining Corp",
+      "weight": 0.43239,
+      "isin": "CA5503721063",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "LUNR",
+      "n": "LunR Royalties Corp",
+      "weight": 0.02044,
+      "isin": "CA5504281067",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "MFC",
+      "n": "Manulife Financial Corp",
+      "weight": 2.30454,
+      "isin": "CA56501R1064",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "MG",
+      "n": "Magna International Inc",
+      "weight": 0.49423,
+      "isin": "CA5592224011",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "MRU",
+      "n": "Metro Inc/CN",
+      "weight": 0.40816,
+      "isin": "CA59162N1096",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "NA",
+      "n": "National Bank of Canada",
+      "weight": 1.7959,
+      "isin": "CA6330671034",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "NTR",
+      "n": "Nutrien Ltd",
+      "weight": 1.0309,
+      "isin": "CA67077M1086",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "OTEX",
+      "n": "Open Text Corp",
+      "weight": 0.20155,
+      "isin": "CA6837151068",
+      "sector": "Information Technology",
+      "region": "CA"
+    },
+    {
+      "t": "PAAS",
+      "n": "Pan American Silver Corp",
+      "weight": 0.48355,
+      "isin": "CA6979001089",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "POW",
+      "n": "Power Corp of Canada",
+      "weight": 1.12783,
+      "isin": "CA7392391016",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "PPL",
+      "n": "Pembina Pipeline Corp",
+      "weight": 0.9216,
+      "isin": "CA7063271034",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "PTZ6",
+      "n": "Montreal Exchange S&P/TSX 60 Index Future",
+      "weight": 0.36157,
+      "region": "CA"
+    },
+    {
+      "t": "QBR/B",
+      "n": "Quebecor Inc",
+      "weight": 0.21967,
+      "isin": "CA7481932084",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "QSR",
+      "n": "Restaurant Brands International Inc",
+      "weight": 0.76514,
+      "isin": "CA76131D1033",
+      "sector": "Consumer Discretionary",
+      "region": "CA"
+    },
+    {
+      "t": "RBA",
+      "n": "RB Global Inc",
+      "weight": 0.51458,
+      "isin": "CA74935Q1072",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "RY",
+      "n": "Royal Bank of Canada",
+      "weight": 8.77733,
+      "isin": "CA7800871021",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "SAP",
+      "n": "Saputo Inc",
+      "weight": 0.20896,
+      "isin": "CA8029121057",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "SHOP",
+      "n": "Shopify Inc",
+      "weight": 5.96571,
+      "isin": "CA82509L1076",
+      "sector": "Information Technology",
+      "region": "CA"
+    },
+    {
+      "t": "SLF",
+      "n": "Sun Life Financial Inc",
+      "weight": 1.38507,
+      "isin": "CA8667961053",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "STN",
+      "n": "Stantec Inc",
+      "weight": 0.25426,
+      "isin": "CA85472N1096",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "SU",
+      "n": "Suncor Energy Inc",
+      "weight": 2.91701,
+      "isin": "CA8672241079",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "T",
+      "n": "TELUS Corp",
+      "weight": 0.42726,
+      "isin": "CA87971M1032",
+      "sector": "Communication Services",
+      "region": "CA"
+    },
+    {
+      "t": "TD",
+      "n": "The Toronto-Dominion Bank",
+      "weight": 6.32926,
+      "isin": "CA8911605092",
+      "sector": "Financials",
+      "region": "CA"
+    },
+    {
+      "t": "TECK/B",
+      "n": "Teck Resources Ltd",
+      "weight": 0.87567,
+      "isin": "CA8787422044",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "TFII",
+      "n": "TFI International Inc",
+      "weight": 0.2212,
+      "isin": "CA87241L1094",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "TIH",
+      "n": "Toromont Industries Ltd",
+      "weight": 0.34848,
+      "isin": "CA8911021050",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "TOU",
+      "n": "Tourmaline Oil Corp",
+      "weight": 0.55956,
+      "isin": "CA89156V1067",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "TRI",
+      "n": "Thomson Reuters Corp",
+      "weight": 0.48453,
+      "isin": "CA8849038812",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "TRP",
+      "n": "TC Energy Corp",
+      "weight": 2.07477,
+      "isin": "CA87807B1076",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "USD",
+      "n": "US Dollar",
+      "weight": 0.04709,
+      "region": "US"
+    },
+    {
+      "t": "WCN",
+      "n": "Waste Connections Inc",
+      "weight": 1.4279,
+      "isin": "CA94106B1013",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "WCP",
+      "n": "Whitecap Resources Inc",
+      "weight": 0.52337,
+      "isin": "CA96467A2002",
+      "sector": "Energy",
+      "region": "CA"
+    },
+    {
+      "t": "WN",
+      "n": "George Weston Ltd",
+      "weight": 0.3647,
+      "isin": "CA9611485090",
+      "sector": "Consumer Staples",
+      "region": "CA"
+    },
+    {
+      "t": "WPM",
+      "n": "Wheaton Precious Metals Corp",
+      "weight": 1.62951,
+      "isin": "CA9628791027",
+      "sector": "Materials",
+      "region": "CA"
+    },
+    {
+      "t": "WSP",
+      "n": "WSP Global Inc",
+      "weight": 0.55586,
+      "isin": "CA92938W2022",
+      "sector": "Industrials",
+      "region": "CA"
+    },
+    {
+      "t": "X",
+      "n": "TMX Group Ltd",
+      "weight": 0.36396,
+      "isin": "CA87262K1057",
+      "sector": "Financials",
+      "region": "CA"
+    }
+  ]
+}

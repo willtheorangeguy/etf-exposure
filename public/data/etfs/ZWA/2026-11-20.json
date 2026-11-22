@@ -1,0 +1,325 @@
+{
+  "id": 8,
+  "as_of_date": "2026-11-20",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWA_20261120.xlsx",
+  "created_at": "2026-11-22T23:47:37.699Z",
+  "partial": false,
+  "content_hash": "5e31393221ef4918df675d978b1ec3eed70b7ea4a8c8a4edcc0be8936f676de8",
+  "holdings": [
+    {
+      "t": "AAPL",
+      "n": "Apple Inc.",
+      "weight": 4.348260695721711,
+      "isin": "US0378331005",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 8506485.96,
+      "shares": 17304
+    },
+    {
+      "t": "ALPHABET INC CALL OPTIONS",
+      "n": "ALPHABET INC CALL OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
+      "t": "AMAZON.COM INC CALL OPTIONS",
+      "n": "AMAZON.COM INC CALL OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
+      "t": "AMGEN INC CALL OPTIONS",
+      "n": "AMGEN INC CALL OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
+      "t": "AMGN",
+      "n": "Amgen Inc.",
+      "weight": 5.537784886045582,
+      "isin": "US0311621009",
+      "sector": "HEALTH CARE",
+      "mv": 10817858.31,
+      "shares": 17304
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -2.768892443022791,
+      "sector": "-",
+      "mv": -5404420.25,
+      "shares": 1
+    },
+    {
+      "t": "CAT",
+      "n": "Caterpillar Inc.",
+      "weight": 6.487405037984806,
+      "isin": "US1491231015",
+      "sector": "INDUSTRIALS",
+      "mv": 12675548.11,
+      "shares": 17304
+    },
+    {
+      "t": "CATERPILLAR INC CALL OPTIONS",
+      "n": "CATERPILLAR INC CALL OPTIONS",
+      "weight": -0.009996001599360257,
+      "sector": "-"
+    },
+    {
+      "t": "CHEVRON CORP CALL OPTIONS",
+      "n": "CHEVRON CORP CALL OPTIONS",
+      "weight": -0.019992003198720514,
+      "sector": "-"
+    },
+    {
+      "t": "CRM",
+      "n": "Salesforce, Inc.",
+      "weight": 2.2890843662534985,
+      "isin": "US79466L3024",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 4485174.84,
+      "shares": 17304
+    },
+    {
+      "t": "CSCO",
+      "n": "Cisco Systems, Inc.",
+      "weight": 1.1495401839264294,
+      "isin": "US17275R1023",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 2250782.02,
+      "shares": 17304
+    },
+    {
+      "t": "CVX",
+      "n": "Chevron Corporation",
+      "weight": 2.6489404238304677,
+      "isin": "US1667641005",
+      "sector": "ENERGY",
+      "mv": 5174265.76,
+      "shares": 17304
+    },
+    {
+      "t": "DIS",
+      "n": "The Walt Disney Company",
+      "weight": 1.4994002399040385,
+      "isin": "US2546871060",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 2929691.77,
+      "shares": 17304
+    },
+    {
+      "t": "GOOGL",
+      "n": "Alphabet Inc.",
+      "weight": 3.3686525389844064,
+      "isin": "US02079K3059",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 6587709.19,
+      "shares": 17304
+    },
+    {
+      "t": "GS",
+      "n": "The Goldman Sachs Group, Inc.",
+      "weight": 10.045981607357007,
+      "isin": "US38141G1040",
+      "sector": "FINANCIALS",
+      "mv": 19634497.27,
+      "shares": 17304
+    },
+    {
+      "t": "HD",
+      "n": "The Home Depot, Inc.",
+      "weight": 4.30827668932427,
+      "isin": "US4370761029",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 8419076.95,
+      "shares": 17304
+    },
+    {
+      "t": "HON",
+      "n": "Honeywell International Inc.",
+      "weight": 2.6989204318272693,
+      "isin": "US4385162056",
+      "sector": "INDUSTRIALS",
+      "mv": 5280298.85,
+      "shares": 17304
+    },
+    {
+      "t": "IBM",
+      "n": "International Business Machines Corporation",
+      "weight": 2.848860455817673,
+      "isin": "US4592001014",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 5573317.69,
+      "shares": 17304
+    },
+    {
+      "t": "JNJ",
+      "n": "Johnson & Johnson",
+      "weight": 3.4386245501799277,
+      "isin": "US4781601046",
+      "sector": "HEALTH CARE",
+      "mv": 6716339.5,
+      "shares": 17304
+    },
+    {
+      "t": "JPM",
+      "n": "JPMorgan Chase & Co.",
+      "weight": 3.948420631747301,
+      "isin": "US46625H1005",
+      "sector": "FINANCIALS",
+      "mv": 7711113.63,
+      "shares": 17304
+    },
+    {
+      "t": "KO",
+      "n": "The Coca-Cola Company",
+      "weight": 1.2295081967213115,
+      "isin": "US1912161007",
+      "sector": "CONSUMER STAPLES",
+      "mv": 2408465.88,
+      "shares": 17304
+    },
+    {
+      "t": "MCD",
+      "n": "McDonald's Corporation",
+      "weight": 3.468612554978009,
+      "isin": "US5801351017",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 6785124.43,
+      "shares": 17304
+    },
+    {
+      "t": "MCDONALD'S CORP CALL OPTIONS",
+      "n": "McDonald's Corp CALL OPTIONS",
+      "weight": -0.07996801279488205,
+      "sector": "-"
+    },
+    {
+      "t": "MMM",
+      "n": "3M Company",
+      "weight": 2.2590963614554176,
+      "isin": "US88579Y1010",
+      "sector": "INDUSTRIALS",
+      "mv": 4419866.41,
+      "shares": 17304
+    },
+    {
+      "t": "MRK",
+      "n": "Merck & Co., Inc.",
+      "weight": 1.6993202718912435,
+      "isin": "US58933Y1055",
+      "sector": "HEALTH CARE",
+      "mv": 3320549.11,
+      "shares": 17304
+    },
+    {
+      "t": "MSFT",
+      "n": "Microsoft Corporation",
+      "weight": 6.157536985205918,
+      "isin": "US5949181045",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 12031651.62,
+      "shares": 17304
+    },
+    {
+      "t": "NKE",
+      "n": "NIKE, Inc.",
+      "weight": 0.4198320671731307,
+      "isin": "US6541061031",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 817472.9,
+      "shares": 17304
+    },
+    {
+      "t": "NVDA",
+      "n": "NVIDIA Corporation",
+      "weight": 1.5893642542982807,
+      "isin": "US67066G1040",
+      "sector": "INFORMATION TECHNOLOGY",
+      "mv": 3117174.17,
+      "shares": 17304
+    },
+    {
+      "t": "PG",
+      "n": "The Procter & Gamble Company",
+      "weight": 2.149140343862455,
+      "isin": "US7427181091",
+      "sector": "CONSUMER STAPLES",
+      "mv": 4205813.66,
+      "shares": 17304
+    },
+    {
+      "t": "TRV",
+      "n": "The Travelers Companies, Inc.",
+      "weight": 4.998000799680128,
+      "isin": "US89417E1091",
+      "sector": "FINANCIALS",
+      "mv": 9764977.05,
+      "shares": 17304
+    },
+    {
+      "t": "UNH",
+      "n": "UnitedHealth Group Incorporated",
+      "weight": 4.318272690923631,
+      "isin": "US91324P1021",
+      "sector": "HEALTH CARE",
+      "mv": 8439190.96,
+      "shares": 17304
+    },
+    {
+      "t": "US0231351067",
+      "n": "Amazon.com, Inc.",
+      "weight": 3.1387445021991205,
+      "isin": "US0231351067",
+      "sector": "CONSUMER DISCRETIONARY",
+      "mv": 6129060.21,
+      "shares": 17304
+    },
+    {
+      "t": "US0258161092",
+      "n": "American Express Company",
+      "weight": 3.828468612554978,
+      "isin": "US0258161092",
+      "sector": "FINANCIALS",
+      "mv": 7491846.14,
+      "shares": 17304
+    },
+    {
+      "t": "US0970231058",
+      "n": "The Boeing Company",
+      "weight": 1.9792083166733305,
+      "isin": "US0970231058",
+      "sector": "INDUSTRIALS",
+      "mv": 3871076.88,
+      "shares": 17304
+    },
+    {
+      "t": "US8243481061",
+      "n": "The Sherwin-Williams Company",
+      "weight": 4.318272690923631,
+      "isin": "US8243481061",
+      "sector": "MATERIALS",
+      "mv": 8436459.43,
+      "shares": 17304
+    },
+    {
+      "t": "V",
+      "n": "Visa Inc.",
+      "weight": 5.107956817273091,
+      "isin": "US92826C8394",
+      "sector": "FINANCIALS",
+      "mv": 9979278.12,
+      "shares": 17304
+    },
+    {
+      "t": "WMT",
+      "n": "Walmart Inc.",
+      "weight": 1.6293482606957217,
+      "isin": "US9311421039",
+      "sector": "CONSUMER STAPLES",
+      "mv": 3177267.86,
+      "shares": 17304
+    }
+  ]
+}

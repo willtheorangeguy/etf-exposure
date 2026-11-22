@@ -1,0 +1,73 @@
+{
+  "id": 8,
+  "as_of_date": "2026-11-20",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZEQT_20261120.xlsx",
+  "created_at": "2026-11-22T23:47:37.699Z",
+  "partial": false,
+  "content_hash": "83ece00e2e8bcce963ed016385d0bb26f01a9eb90ce7f172d0cd614a061cf19f",
+  "holdings": [
+    {
+      "t": "CA05574G1090",
+      "n": "BMO S&P/TSX Capped Composite Index ETF",
+      "weight": 24.96750324967503,
+      "isin": "CA05574G1090",
+      "sector": "-",
+      "mv": 285656401.74,
+      "shares": 6420063
+    },
+    {
+      "t": "CA05575T1003",
+      "n": "BMO S&P 500 Index ETF",
+      "weight": 46.20537946205379,
+      "isin": "CA05575T1003",
+      "sector": "-",
+      "mv": 528658607.43,
+      "shares": 4864737
+    },
+    {
+      "t": "CA05576Y1088",
+      "n": "BMO MSCI Emerging Markets Index ETF",
+      "weight": 8.409159084091591,
+      "isin": "CA05576Y1088",
+      "sector": "-",
+      "mv": 96235900.56,
+      "shares": 3433264
+    },
+    {
+      "t": "CA05579E1097",
+      "n": "BMO MSCI EAFE Index ETF",
+      "weight": 16.63833616638336,
+      "isin": "CA05579E1097",
+      "sector": "-",
+      "mv": 190363262.08,
+      "shares": 6474452
+    },
+    {
+      "t": "CA05589W2067",
+      "n": "BMO S&P US Small Cap Index ETF",
+      "weight": 1.2598740125987402,
+      "isin": "CA05589W2067",
+      "sector": "-",
+      "mv": 14361690.79,
+      "shares": 287787
+    },
+    {
+      "t": "CA05589X1050",
+      "n": "BMO S&P US Mid Cap Index ETF",
+      "weight": 2.52974702529747,
+      "isin": "CA05589X1050",
+      "sector": "-",
+      "mv": 28932197.35,
+      "shares": 548846
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.009999000099990002,
+      "sector": "-",
+      "mv": -169546.13,
+      "shares": 1
+    }
+  ]
+}

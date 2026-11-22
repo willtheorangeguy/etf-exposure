@@ -1,0 +1,28 @@
+{
+  "id": 8,
+  "as_of_date": "2026-11-20",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLC_20261120.xlsx",
+  "created_at": "2026-11-22T23:47:37.699Z",
+  "partial": false,
+  "content_hash": "1c5e8d289e95b5d4237f4cb96a1b2b875e6ab755a551c4a9b5c03273a7ccd9bd",
+  "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -1.58,
+      "sector": "-",
+      "mv": -204236.81,
+      "shares": 1
+    },
+    {
+      "t": "US81369Y8527",
+      "n": "STATE STREET COMMUNICATION SERVICES SELECT SECTOR SPDR ETF",
+      "weight": 101.58,
+      "isin": "US81369Y8527",
+      "sector": "COMMUNICATION SERVICES",
+      "mv": 13095745.2,
+      "shares": 91229
+    }
+  ]
+}

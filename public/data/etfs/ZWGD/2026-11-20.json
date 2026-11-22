@@ -1,0 +1,46 @@
+{
+  "id": 8,
+  "as_of_date": "2026-11-20",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZWGD_20261120.xlsx",
+  "created_at": "2026-11-22T23:47:37.699Z",
+  "partial": false,
+  "content_hash": "bf8aa98db02a73fe6498124264ce451206ef58116501c913c8cce953bd7c2e6e",
+  "holdings": [
+    {
+      "t": "832632004 BMOMOOTC CALL OPTIONS",
+      "n": "832632004 BMOMOOTC CALL OPTIONS",
+      "weight": -0.02,
+      "sector": "-"
+    },
+    {
+      "t": "832632010 BMOMOOTC CALL OPTIONS",
+      "n": "832632010 BMOMOOTC CALL OPTIONS",
+      "weight": 0.01,
+      "sector": "-"
+    },
+    {
+      "t": "BMO GOLD BULLION ETF CALL OPTIONS",
+      "n": "BMO Gold Bullion ETF CALL OPTIONS",
+      "weight": 0.01,
+      "sector": "-"
+    },
+    {
+      "t": "CA05611P2035",
+      "n": "BMO Gold Bullion ETF",
+      "weight": 99.89,
+      "isin": "CA05611P2035",
+      "sector": "-",
+      "mv": 36839007.58,
+      "shares": 669777
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": 0.11,
+      "sector": "-",
+      "mv": 39323.89,
+      "shares": 1
+    }
+  ]
+}

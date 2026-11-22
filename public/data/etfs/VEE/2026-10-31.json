@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "as_of_date": "2026-10-31",
+  "source": "url",
+  "source_url": "https://www.vanguard.ca/en/product/etf/equity/9556/vanguard-ftse-emerging-markets-all-cap-index-etf",
+  "created_at": "2026-11-22T23:47:37.699Z",
+  "partial": false,
+  "content_hash": "31287af2335b6fa204c042f04cd79418aa5be3bdb642cdc954cf713dc50c4ceb",
+  "holdings": [
+    {
+      "t": "CAD",
+      "n": "Canadian Dollar",
+      "weight": 0.0315,
+      "region": "CA"
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20261102",
+      "weight": -0.02116
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20261102",
+      "weight": -0.04233
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20261102",
+      "weight": 0.04233
+    },
+    {
+      "t": "USD",
+      "n": "US Dollar",
+      "weight": 0.02752,
+      "region": "US"
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20261102",
+      "weight": 0.02116
+    },
+    {
+      "t": "VWO",
+      "n": "Vanguard FTSE Emerging Markets ETF",
+      "weight": 99.94098,
+      "isin": "US9220428588",
+      "region": "US"
+    }
+  ]
+}

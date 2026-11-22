@@ -1,0 +1,30 @@
+{
+  "id": 3,
+  "as_of_date": "2026-10-31",
+  "source": "url",
+  "source_url": "https://www.vanguard.ca/en/product/etf/equity/9558/vanguard-ftse-developed-all-cap-ex-us-index-etf",
+  "created_at": "2026-11-22T23:47:37.699Z",
+  "partial": false,
+  "content_hash": "de975e5e500aedb2dd001fe2b855b349d67e9cb140937d637dd8989fae2b3254",
+  "holdings": [
+    {
+      "t": "CAD",
+      "n": "Canadian Dollar",
+      "weight": 0.0016799998320000168,
+      "region": "CA"
+    },
+    {
+      "t": "USD",
+      "n": "US Dollar",
+      "weight": 0.035179996482000354,
+      "region": "US"
+    },
+    {
+      "t": "VEA",
+      "n": "Vanguard FTSE Developed Markets ETF",
+      "weight": 99.963140003686,
+      "isin": "US9219438580",
+      "region": "US"
+    }
+  ]
+}

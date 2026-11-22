@@ -1,0 +1,91 @@
+{
+  "id": 3,
+  "as_of_date": "2026-10-31",
+  "source": "url",
+  "source_url": "https://www.vanguard.ca/en/product/etf/equity/9548/vanguard-ftse-global-all-cap-ex-canada-index-etf",
+  "created_at": "2026-11-22T23:47:37.699Z",
+  "partial": false,
+  "content_hash": "9b6f0c38b818f6a209e6fe992a0db00791379540c65e8dce2eab39d3b2a30ba2",
+  "holdings": [
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20261102",
+      "weight": 0.03489999651000035
+    },
+    {
+      "t": "CAD",
+      "n": "Canadian Dollar",
+      "weight": 0.02432999756700024,
+      "region": "CA"
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20261216",
+      "weight": -0.011469998853000114
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20261102",
+      "weight": -0.017449998255000175
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20261102",
+      "weight": -0.03489999651000035
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20261102",
+      "weight": -0.03489999651000035
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20261102",
+      "weight": 0.03489999651000035
+    },
+    {
+      "t": "USD",
+      "n": "US Dollar",
+      "weight": 0.023659997634000236,
+      "region": "US"
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20261102",
+      "weight": 0.017449998255000175
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20261216",
+      "weight": 0.011579998842000115
+    },
+    {
+      "t": "VB",
+      "n": "Vanguard Morningstar Small-Cap ETF",
+      "weight": 6.701419329858067,
+      "isin": "US9229087518",
+      "region": "US"
+    },
+    {
+      "t": "VIU",
+      "n": "Vanguard FTSE Developed All Cap ex-North America Index ETF",
+      "weight": 25.286557471344253,
+      "isin": "CA92204G1054",
+      "region": "CA"
+    },
+    {
+      "t": "VV",
+      "n": "Vanguard Morningstar Large-Cap ETF",
+      "weight": 57.94282420571758,
+      "isin": "US9229086379",
+      "region": "US"
+    },
+    {
+      "t": "VWO",
+      "n": "Vanguard FTSE Emerging Markets ETF",
+      "weight": 10.0210989978901,
+      "isin": "US9220428588",
+      "region": "US"
+    }
+  ]
+}

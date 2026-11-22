@@ -1,0 +1,55 @@
+{
+  "id": 8,
+  "as_of_date": "2026-11-20",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZAPR_20261120.xlsx",
+  "created_at": "2026-11-22T23:47:37.699Z",
+  "partial": false,
+  "content_hash": "13fc81ece20f135b4071bcdddd72366d8d049f6a46dd2ffc127c17892a224449",
+  "holdings": [
+    {
+      "t": "733140062 BMOMOOTC PUT OPTIONS",
+      "n": "733140062 BMOMOOTC PUT OPTIONS",
+      "weight": 4.3,
+      "sector": "-"
+    },
+    {
+      "t": "733140074 BMOMOOTC PUT OPTIONS",
+      "n": "733140074 BMOMOOTC PUT OPTIONS",
+      "weight": -1.61,
+      "sector": "-"
+    },
+    {
+      "t": "733140082 BMOMOOTC CALL OPTIONS",
+      "n": "733140082 BMOMOOTC CALL OPTIONS",
+      "weight": -3.14,
+      "sector": "-"
+    },
+    {
+      "t": "CA05574C1086",
+      "n": "BMO S&P 500 Hedged to CAD Index ETF",
+      "weight": 100.44,
+      "isin": "CA05574C1086",
+      "sector": "-",
+      "mv": 113567656.86,
+      "shares": 1239000
+    },
+    {
+      "t": "CA05602J1093",
+      "n": "BMO Money Market Fund (ETF Series)",
+      "weight": 0.13,
+      "isin": "CA05602J1093",
+      "sector": "-",
+      "mv": 146444.44,
+      "shares": 2935
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.12,
+      "sector": "-",
+      "mv": -135921.34,
+      "shares": 1
+    }
+  ]
+}

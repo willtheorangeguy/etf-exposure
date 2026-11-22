@@ -1,0 +1,28 @@
+{
+  "id": 8,
+  "as_of_date": "2026-11-20",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLE_20261120.xlsx",
+  "created_at": "2026-11-22T23:47:37.699Z",
+  "partial": false,
+  "content_hash": "5918b074394535410f81f224651072a54f79119957dde6a119f01833f19f13f3",
+  "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -1.24,
+      "sector": "-",
+      "mv": -201795.01,
+      "shares": 1
+    },
+    {
+      "t": "US81369Y5069",
+      "n": "STATE STREET ENERGY SELECT SECTOR SPDR ETF",
+      "weight": 101.24,
+      "isin": "US81369Y5069",
+      "sector": "-",
+      "mv": 16512259.43,
+      "shares": 190157
+    }
+  ]
+}

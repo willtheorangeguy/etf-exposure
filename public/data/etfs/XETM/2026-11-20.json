@@ -1,0 +1,891 @@
+{
+  "id": 7,
+  "as_of_date": "2026-11-20",
+  "source": "url",
+  "source_url": "https://www.blackrock.com/ca/investors/en/products/332757/ishares-s-p-tsx-energy-transition-materials-index-etf/1464253357814.ajax?fileType=csv&fileName=XETM_holdings&dataType=fund",
+  "created_at": "2026-11-22T23:47:37.699Z",
+  "partial": false,
+  "content_hash": "d522a47476a1845c916f5d9515b2b77a4b54aa1fd29a45ffbf20ada367e182c2",
+  "holdings": [
+    {
+      "t": "AA",
+      "n": "ALCOA CORP",
+      "weight": 2.3293012096371077,
+      "sector": "Materials",
+      "mv": 1734608.55,
+      "shares": 36239
+    },
+    {
+      "t": "AAG",
+      "n": "AFTERMATH SILVER LTD",
+      "weight": 0.02999100269919023,
+      "sector": "Materials",
+      "mv": 25537.44,
+      "shares": 61536
+    },
+    {
+      "t": "ABAT",
+      "n": "AMERICAN BATTERY TECHNOLOGY COMPAN",
+      "weight": 0.0399880035989203,
+      "sector": "Materials",
+      "mv": 30874.83,
+      "shares": 27301
+    },
+    {
+      "t": "ABRA",
+      "n": "ABRASILVER RESOURCE CORP",
+      "weight": 0.43986803958812337,
+      "sector": "Materials",
+      "mv": 328861.26,
+      "shares": 40154
+    },
+    {
+      "t": "AG",
+      "n": "FIRST MAJESTIC SILVER",
+      "weight": 1.9994001799460153,
+      "sector": "Materials",
+      "mv": 1494662.48,
+      "shares": 96058
+    },
+    {
+      "t": "AGX",
+      "n": "SILVER X MINING CORP",
+      "weight": 0.0399880035989203,
+      "sector": "Materials",
+      "mv": 28104,
+      "shares": 58550
+    },
+    {
+      "t": "ALB",
+      "n": "ALBEMARLE CORP",
+      "weight": 2.729181245626311,
+      "sector": "Materials",
+      "mv": 2037240.85,
+      "shares": 17847
+    },
+    {
+      "t": "ALDE",
+      "n": "ALDEBARAN RESOURCES INC",
+      "weight": 0.0799760071978406,
+      "sector": "Materials",
+      "mv": 57424.64,
+      "shares": 25984
+    },
+    {
+      "t": "ANDC",
+      "n": "ANDINA COPPER CORP",
+      "weight": 0.049985004498650384,
+      "sector": "Materials",
+      "mv": 40585.12,
+      "shares": 59684
+    },
+    {
+      "t": "APGO",
+      "n": "APOLLO SILVER CORP",
+      "weight": 0.02999100269919023,
+      "sector": "Materials",
+      "mv": 19739.04,
+      "shares": 14514
+    },
+    {
+      "t": "APM",
+      "n": "ANDEAN PRECIOUS METALS",
+      "weight": 0.049985004498650384,
+      "sector": "Materials",
+      "mv": 37208,
+      "shares": 9302
+    },
+    {
+      "t": "ARG",
+      "n": "AMERIGO RESOURCES LTD",
+      "weight": 0.3798860341897429,
+      "sector": "Materials",
+      "mv": 280996.5,
+      "shares": 46065
+    },
+    {
+      "t": "ASM",
+      "n": "AVINO SILVER AND GOLD MINES LTD",
+      "weight": 0.3698890332900128,
+      "sector": "Materials",
+      "mv": 275226.66,
+      "shares": 56631
+    },
+    {
+      "t": "ATX",
+      "n": "ATEX RESOURCES",
+      "weight": 0.129961011696491,
+      "sector": "Materials",
+      "mv": 94874.34,
+      "shares": 73546
+    },
+    {
+      "t": "AUGO",
+      "n": "AURA MINERALS INC",
+      "weight": 0.21993401979406169,
+      "sector": "Materials",
+      "mv": 164645.37,
+      "shares": 2015
+    },
+    {
+      "t": "AYA",
+      "n": "AYA GOLD & SILVER INC",
+      "weight": 1.0596820953713881,
+      "sector": "Materials",
+      "mv": 790575,
+      "shares": 31623
+    },
+    {
+      "t": "BHP",
+      "n": "BHP GROUP ADR LTD",
+      "weight": 4.728581425572327,
+      "sector": "Materials",
+      "mv": 3523812.14,
+      "shares": 36623
+    },
+    {
+      "t": "BMM",
+      "n": "BLUE MOON METALS",
+      "weight": 0.0399880035989203,
+      "sector": "Materials",
+      "mv": 28942.19,
+      "shares": 8083
+    },
+    {
+      "t": "BRC",
+      "n": "BLACKROCK SILVER CORP",
+      "weight": 0.049985004498650384,
+      "sector": "Materials",
+      "mv": 38643.48,
+      "shares": 71562
+    },
+    {
+      "t": "BRVO",
+      "n": "BRAVO MINING CORP",
+      "weight": 0.05998200539838046,
+      "sector": "Materials",
+      "mv": 42231.3,
+      "shares": 22705
+    },
+    {
+      "t": "BVN",
+      "n": "BUENAVENTURA ADR REPRESENTING",
+      "weight": 0.6697990602819152,
+      "sector": "Materials",
+      "mv": 499769.8,
+      "shares": 17794
+    },
+    {
+      "t": "CAD",
+      "n": "CAD CASH",
+      "weight": -0.009997000899730076,
+      "sector": "Cash and/or Derivatives",
+      "mv": -10390.33,
+      "shares": -10390
+    },
+    {
+      "t": "CCO",
+      "n": "CAMECO",
+      "weight": 7.797660701789459,
+      "sector": "Energy",
+      "mv": 5816536.46,
+      "shares": 69986
+    },
+    {
+      "t": "CDE",
+      "n": "COEUR MINING",
+      "weight": 1.569529141257622,
+      "sector": "Materials",
+      "mv": 1173404.44,
+      "shares": 76711
+    },
+    {
+      "t": "CDPR",
+      "n": "CERRO DE PASCO RESOURCES INC",
+      "weight": 0.09997000899730077,
+      "sector": "Materials",
+      "mv": 71976.3,
+      "shares": 141130
+    },
+    {
+      "t": "CENX",
+      "n": "CENTURY ALUMINUM",
+      "weight": 0.4598620413875835,
+      "sector": "Materials",
+      "mv": 341364.07,
+      "shares": 8416
+    },
+    {
+      "t": "CERT",
+      "n": "CERRADO GOLD",
+      "weight": 0.0399880035989203,
+      "sector": "Materials",
+      "mv": 30636,
+      "shares": 17020
+    },
+    {
+      "t": "CGG",
+      "n": "CHINA GOLD INTERNATIONAL RESOURCES",
+      "weight": 1.2296311106667994,
+      "sector": "Materials",
+      "mv": 916294.68,
+      "shares": 37989
+    },
+    {
+      "t": "CNC",
+      "n": "CANADA NICKEL COMPANY INC",
+      "weight": 0.09997000899730077,
+      "sector": "Materials",
+      "mv": 74029.8,
+      "shares": 94910
+    },
+    {
+      "t": "CS",
+      "n": "CAPSTONE COPPER CORP",
+      "weight": 2.549235229431169,
+      "sector": "Materials",
+      "mv": 1901694.15,
+      "shares": 237415
+    },
+    {
+      "t": "DBG",
+      "n": "DOUBLEVIEW GOLD CORP",
+      "weight": 0.0799760071978406,
+      "sector": "Materials",
+      "mv": 58164.96,
+      "shares": 59352
+    },
+    {
+      "t": "DML",
+      "n": "DENISON MINES CORP",
+      "weight": 1.439568129561131,
+      "sector": "Energy",
+      "mv": 1070112.3,
+      "shares": 444030
+    },
+    {
+      "t": "EDR",
+      "n": "ENDEAVOUR SILVER CORP",
+      "weight": 0.9797060881735474,
+      "sector": "Materials",
+      "mv": 729866.2,
+      "shares": 89885
+    },
+    {
+      "t": "EFR",
+      "n": "ENERGY FUELS",
+      "weight": 1.3196041187643701,
+      "sector": "Energy",
+      "mv": 984363.17,
+      "shares": 139231
+    },
+    {
+      "t": "ELO",
+      "n": "ELORO RESOURCES LTD",
+      "weight": 0.02999100269919023,
+      "sector": "Materials",
+      "mv": 24651,
+      "shares": 22410
+    },
+    {
+      "t": "ELVR",
+      "n": "ELEVRA LITHIUM LIMITED AMERICAN DE",
+      "weight": 0.19994001799460154,
+      "sector": "Materials",
+      "mv": 150470.61,
+      "shares": 5095
+    },
+    {
+      "t": "ERO",
+      "n": "ERO COPPER",
+      "weight": 1.2196341097670693,
+      "sector": "Materials",
+      "mv": 913418.2,
+      "shares": 29695
+    },
+    {
+      "t": "EU",
+      "n": "ENCORE ENERGY",
+      "weight": 0.0799760071978406,
+      "sector": "Energy",
+      "mv": 59032.98,
+      "shares": 101781
+    },
+    {
+      "t": "FCX",
+      "n": "FREEPORT MCMORAN INC",
+      "weight": 5.758272518244524,
+      "sector": "Materials",
+      "mv": 4295921.89,
+      "shares": 65219
+    },
+    {
+      "t": "FDY",
+      "n": "FARADAY COPPER CORP",
+      "weight": 0.2899130260921722,
+      "sector": "Materials",
+      "mv": 214863.96,
+      "shares": 72102
+    },
+    {
+      "t": "FFM",
+      "n": "FIREFLY METALS LTD",
+      "weight": 0.21993401979406169,
+      "sector": "Materials",
+      "mv": 160422.5,
+      "shares": 155750
+    },
+    {
+      "t": "FM",
+      "n": "FIRST QUANTUM MINERALS",
+      "weight": 8.077576726981901,
+      "sector": "Materials",
+      "mv": 6024193.2,
+      "shares": 230812
+    },
+    {
+      "t": "FWZ",
+      "n": "FIREWEED METALS CORP",
+      "weight": 0.11996401079676092,
+      "sector": "Materials",
+      "mv": 91519.67,
+      "shares": 48941
+    },
+    {
+      "t": "GENM",
+      "n": "GENERATION MINING",
+      "weight": 0.049985004498650384,
+      "sector": "Materials",
+      "mv": 37179.64,
+      "shares": 110984
+    },
+    {
+      "t": "GGD",
+      "n": "GOGOLD RESOURCES",
+      "weight": 0.3998800359892031,
+      "sector": "Materials",
+      "mv": 299836.9,
+      "shares": 107855
+    },
+    {
+      "t": "GLO",
+      "n": "GLOBAL ATOMIC CORP",
+      "weight": 0.06997900629811055,
+      "sector": "Materials",
+      "mv": 49941.06,
+      "shares": 192081
+    },
+    {
+      "t": "GRSL",
+      "n": "GR SILVER MINING LTD",
+      "weight": 0.02999100269919023,
+      "sector": "Materials",
+      "mv": 21517.48,
+      "shares": 117904
+    },
+    {
+      "t": "GSVR",
+      "n": "GUANAJUATO SILVER LTD",
+      "weight": 0.049985004498650384,
+      "sector": "Materials",
+      "mv": 40196.2,
+      "shares": 200981
+    },
+    {
+      "t": "HBM",
+      "n": "HUDBAY MINERALS",
+      "weight": 3.5989203239028273,
+      "sector": "Materials",
+      "mv": 2686190.46,
+      "shares": 115834
+    },
+    {
+      "t": "HL",
+      "n": "HECLA MINING",
+      "weight": 0.9997000899730076,
+      "sector": "Materials",
+      "mv": 746990.04,
+      "shares": 49577
+    },
+    {
+      "t": "IE",
+      "n": "IVANHOE ELECTRIC",
+      "weight": 0.22993102069379176,
+      "sector": "Materials",
+      "mv": 172846.74,
+      "shares": 22803
+    },
+    {
+      "t": "III",
+      "n": "IMPERIAL METALS",
+      "weight": 0.14995501349595114,
+      "sector": "Materials",
+      "mv": 112221.27,
+      "shares": 25447
+    },
+    {
+      "t": "ISO",
+      "n": "ISOENERGY",
+      "weight": 0.14995501349595114,
+      "sector": "Energy",
+      "mv": 111239.59,
+      "shares": 13853
+    },
+    {
+      "t": "IVN",
+      "n": "IVANHOE MINES CLASS A",
+      "weight": 1.839448165550334,
+      "sector": "Materials",
+      "mv": 1375182.9,
+      "shares": 218283
+    },
+    {
+      "t": "KCP",
+      "n": "KING COPPER DISCOVERY CORP",
+      "weight": 0.0399880035989203,
+      "sector": "Materials",
+      "mv": 30141.31,
+      "shares": 81463
+    },
+    {
+      "t": "KNT",
+      "n": "K92 MINING",
+      "weight": 1.2096371088673392,
+      "sector": "Materials",
+      "mv": 904887.12,
+      "shares": 42324
+    },
+    {
+      "t": "KRY",
+      "n": "KORYX COPPER S A",
+      "weight": 0.11996401079676092,
+      "sector": "Materials",
+      "mv": 86140.8,
+      "shares": 31904
+    },
+    {
+      "t": "LAC",
+      "n": "LITHIUM AMERICAS",
+      "weight": 0.3498950314905527,
+      "sector": "Materials",
+      "mv": 262071.18,
+      "shares": 147231
+    },
+    {
+      "t": "LAR",
+      "n": "LITHIUM ARGENTINA AG",
+      "weight": 0.32990102969109253,
+      "sector": "Materials",
+      "mv": 244017.6,
+      "shares": 56096
+    },
+    {
+      "t": "LEU",
+      "n": "CENTRUS ENERGY CLASS A",
+      "weight": 0.5398380485854242,
+      "sector": "Energy",
+      "mv": 400967.47,
+      "shares": 3438
+    },
+    {
+      "t": "LIB",
+      "n": "LIBERTYSTREAM INFRASTRUCTURE PARTN",
+      "weight": 0.02999100269919023,
+      "sector": "Materials",
+      "mv": 22418.58,
+      "shares": 65937
+    },
+    {
+      "t": "LIXX",
+      "n": "LITHIUM X2 MINING",
+      "weight": 0.02999100269919023,
+      "sector": "Materials",
+      "mv": 25860.8,
+      "shares": 73888
+    },
+    {
+      "t": "LUCA",
+      "n": "LUCA MINING CORP",
+      "weight": 0.08997300809757068,
+      "sector": "Materials",
+      "mv": 65154.18,
+      "shares": 83531
+    },
+    {
+      "t": "LUN",
+      "n": "LUNDIN MINING",
+      "weight": 7.937618714385681,
+      "sector": "Materials",
+      "mv": 5917359.96,
+      "shares": 262062
+    },
+    {
+      "t": "LZM",
+      "n": "LIFEZONE METALS LTD",
+      "weight": 0.0399880035989203,
+      "sector": "Materials",
+      "mv": 29975.16,
+      "shares": 5394
+    },
+    {
+      "t": "MARI",
+      "n": "MARIMACA COPPER",
+      "weight": 0.19994001799460154,
+      "sector": "Materials",
+      "mv": 148599.42,
+      "shares": 26823
+    },
+    {
+      "t": "MGA",
+      "n": "MEGA URANIUM LTD",
+      "weight": 0.0399880035989203,
+      "sector": "Energy",
+      "mv": 27427.75,
+      "shares": 78365
+    },
+    {
+      "t": "MGG",
+      "n": "MINAURUM SILVER INC",
+      "weight": 0.02999100269919023,
+      "sector": "Materials",
+      "mv": 20854.4,
+      "shares": 119168
+    },
+    {
+      "t": "MMA",
+      "n": "MIDNIGHT SUN MINING CORP",
+      "weight": 0.0399880035989203,
+      "sector": "Materials",
+      "mv": 30121.35,
+      "shares": 86061
+    },
+    {
+      "t": "MNO",
+      "n": "MERIDIAN MINING PLC",
+      "weight": 0.10996700989703084,
+      "sector": "Materials",
+      "mv": 84677.12,
+      "shares": 66154
+    },
+    {
+      "t": "MP",
+      "n": "MP MATERIALS CLASS A",
+      "weight": 1.6195141457562725,
+      "sector": "Materials",
+      "mv": 1207210.08,
+      "shares": 24827
+    },
+    {
+      "t": "NAK",
+      "n": "NORTHERN DYNASTY MINERALS",
+      "weight": 0.049985004498650384,
+      "sector": "Materials",
+      "mv": 36082.8,
+      "shares": 60677
+    },
+    {
+      "t": "NCX",
+      "n": "NORTHISLE COPPER AND GOLD INC",
+      "weight": 0.16994901529541132,
+      "sector": "Materials",
+      "mv": 128500.16,
+      "shares": 55388
+    },
+    {
+      "t": "NEXA",
+      "n": "NEXA RESOURCES SA",
+      "weight": 0.09997000899730077,
+      "sector": "Materials",
+      "mv": 77352.33,
+      "shares": 5697
+    },
+    {
+      "t": "NGEX",
+      "n": "NGEX MINERALS",
+      "weight": 0.6398080575827249,
+      "sector": "Materials",
+      "mv": 477810.9,
+      "shares": 30051
+    },
+    {
+      "t": "NICU",
+      "n": "MAGNA MINING INC",
+      "weight": 0.17994601619514136,
+      "sector": "Materials",
+      "mv": 135872.88,
+      "shares": 102934
+    },
+    {
+      "t": "NUAG",
+      "n": "NEW PACIFIC METALS",
+      "weight": 0.17994601619514136,
+      "sector": "Materials",
+      "mv": 135739.39,
+      "shares": 22661
+    },
+    {
+      "t": "NXE",
+      "n": "NEXGEN ENERGY",
+      "weight": 2.729181245626311,
+      "sector": "Energy",
+      "mv": 2034068.65,
+      "shares": 221335
+    },
+    {
+      "t": "OM",
+      "n": "OSISKO METALS INC",
+      "weight": 0.1599520143956812,
+      "sector": "Materials",
+      "mv": 118079.2,
+      "shares": 114640
+    },
+    {
+      "t": "PDN",
+      "n": "PALADIN ENERGY LTD",
+      "weight": 0.9597120863740873,
+      "sector": "Energy",
+      "mv": 714069.85,
+      "shares": 133471
+    },
+    {
+      "t": "PLG",
+      "n": "PLATINUM GROUP METALS LTD",
+      "weight": 0.01999400179946015,
+      "sector": "Materials",
+      "mv": 11829.85,
+      "shares": 10699
+    },
+    {
+      "t": "PMET",
+      "n": "PMET RESOURCES INC",
+      "weight": 0.14995501349595114,
+      "sector": "Materials",
+      "mv": 108741.55,
+      "shares": 46273
+    },
+    {
+      "t": "PNPN",
+      "n": "POWER METALLIC MINES INC",
+      "weight": 0.049985004498650384,
+      "sector": "Materials",
+      "mv": 36187.45,
+      "shares": 55673
+    },
+    {
+      "t": "QTWO",
+      "n": "Q2 METALS CORP",
+      "weight": 0.14995501349595114,
+      "sector": "Materials",
+      "mv": 108850.26,
+      "shares": 78877
+    },
+    {
+      "t": "RIO",
+      "n": "RIO TINTO ADR REPTG ONE",
+      "weight": 4.678596421073675,
+      "sector": "Materials",
+      "mv": 3488883.5,
+      "shares": 33493
+    },
+    {
+      "t": "SASK",
+      "n": "ATHA ENERGY CORP",
+      "weight": 0.08997300809757068,
+      "sector": "Energy",
+      "mv": 64108.47,
+      "shares": 112471
+    },
+    {
+      "t": "SBSW",
+      "n": "SIBANYE STILLWATER ADR REPRESENTIN",
+      "weight": 1.0096970908727376,
+      "sector": "Materials",
+      "mv": 756408.82,
+      "shares": 72845
+    },
+    {
+      "t": "SCCO",
+      "n": "SOUTHERN COPPER CORP",
+      "weight": 2.9091272618214523,
+      "sector": "Materials",
+      "mv": 2167884.94,
+      "shares": 11294
+    },
+    {
+      "t": "SCZ",
+      "n": "SANTACRUZ SILVER MINING",
+      "weight": 0.2499250224932519,
+      "sector": "Materials",
+      "mv": 183283.24,
+      "shares": 20804
+    },
+    {
+      "t": "SGML",
+      "n": "SIGMA LITHIUM",
+      "weight": 0.0799760071978406,
+      "sector": "Materials",
+      "mv": 59588.4,
+      "shares": 11275
+    },
+    {
+      "t": "SLI",
+      "n": "STANDARD LITHIUM",
+      "weight": 0.23992802159352183,
+      "sector": "Materials",
+      "mv": 180409.04,
+      "shares": 121898
+    },
+    {
+      "t": "SLS",
+      "n": "SOLARIS RESOURCES",
+      "weight": 0.389883035089473,
+      "sector": "Materials",
+      "mv": 288785,
+      "shares": 39025
+    },
+    {
+      "t": "SLVR",
+      "n": "SILVER TIGER METALS INC",
+      "weight": 0.08997300809757068,
+      "sector": "Materials",
+      "mv": 63844.04,
+      "shares": 122777
+    },
+    {
+      "t": "SQM",
+      "n": "SOCIEDAD QUIMICA Y MINERA DE CHILE",
+      "weight": 1.7794661601519537,
+      "sector": "Materials",
+      "mv": 1330857.46,
+      "shares": 19783
+    },
+    {
+      "t": "SSMR",
+      "n": "SUNSHINE SILVER MINING AND REFININ",
+      "weight": 0.0399880035989203,
+      "sector": "Materials",
+      "mv": 29919.06,
+      "shares": 1999
+    },
+    {
+      "t": "SVM",
+      "n": "SILVERCORP METALS INC",
+      "weight": 0.8397480755773263,
+      "sector": "Materials",
+      "mv": 624140.5,
+      "shares": 65699
+    },
+    {
+      "t": "SVRS",
+      "n": "SILVER STORM MINING",
+      "weight": 0.05998200539838046,
+      "sector": "Materials",
+      "mv": 44563.68,
+      "shares": 137119
+    },
+    {
+      "t": "TECK.B",
+      "n": "TECK RESOURCES SUBORDINATE VOTING",
+      "weight": 8.87733679896023,
+      "sector": "Materials",
+      "mv": 6621124.41,
+      "shares": 95419
+    },
+    {
+      "t": "TKO",
+      "n": "TREKOR METALS",
+      "weight": 1.2496251124662596,
+      "sector": "Materials",
+      "mv": 933056.94,
+      "shares": 121809
+    },
+    {
+      "t": "TLO",
+      "n": "TALON METALS CORP",
+      "weight": 0.14995501349595114,
+      "sector": "Materials",
+      "mv": 113486.2,
+      "shares": 24146
+    },
+    {
+      "t": "TMC",
+      "n": "TMC THE METALS COMPANY",
+      "weight": 0.06997900629811055,
+      "sector": "Materials",
+      "mv": 54395.02,
+      "shares": 24986
+    },
+    {
+      "t": "TMQ",
+      "n": "TRILOGY METALS",
+      "weight": 0.02999100269919023,
+      "sector": "Materials",
+      "mv": 19836.02,
+      "shares": 9295
+    },
+    {
+      "t": "UEC",
+      "n": "URANIUM ENERGY",
+      "weight": 0.8397480755773263,
+      "sector": "Energy",
+      "mv": 625962.86,
+      "shares": 82462
+    },
+    {
+      "t": "URG",
+      "n": "UR ENERGY INC",
+      "weight": 0.05998200539838046,
+      "sector": "Energy",
+      "mv": 44738.41,
+      "shares": 68501
+    },
+    {
+      "t": "USA",
+      "n": "AMERICAS GOLD AND SILVER",
+      "weight": 0.2499250224932519,
+      "sector": "Materials",
+      "mv": 185129.04,
+      "shares": 69078
+    },
+    {
+      "t": "USAR",
+      "n": "USA RARE EARTH CLASS A",
+      "weight": 0.46985904228731357,
+      "sector": "Materials",
+      "mv": 353425.05,
+      "shares": 39356
+    },
+    {
+      "t": "USD",
+      "n": "USD CASH",
+      "weight": 0.129961011696491,
+      "sector": "Cash and/or Derivatives",
+      "mv": 97762.91,
+      "shares": 68258
+    },
+    {
+      "t": "VALX",
+      "n": "VALIENTE RESOURCES",
+      "weight": 0.01999400179946015,
+      "sector": "Other",
+      "mv": 16057.38,
+      "shares": 6014
+    },
+    {
+      "t": "VZLA",
+      "n": "VIZSLA SILVER",
+      "weight": 0.3199040287913624,
+      "sector": "Materials",
+      "mv": 240472.98,
+      "shares": 66246
+    },
+    {
+      "t": "WRN",
+      "n": "WESTERN COPPER AND GOLD CORP",
+      "weight": 0.0399880035989203,
+      "sector": "Materials",
+      "mv": 27425.14,
+      "shares": 16091
+    }
+  ]
+}

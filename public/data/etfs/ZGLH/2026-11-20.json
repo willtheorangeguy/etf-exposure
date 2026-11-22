@@ -1,0 +1,28 @@
+{
+  "id": 8,
+  "as_of_date": "2026-11-20",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZGLH_20261120.xlsx",
+  "created_at": "2026-11-22T23:47:37.699Z",
+  "partial": false,
+  "content_hash": "aadc8fa072c4ba628a36321e992c2205280686bdb917c43ab235935d0f07ee6b",
+  "holdings": [
+    {
+      "t": "CA05611P2035",
+      "n": "BMO Gold Bullion ETF",
+      "weight": 103.2,
+      "isin": "CA05611P2035",
+      "sector": "-",
+      "mv": 123883859.48,
+      "shares": 2252356
+    },
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -3.2,
+      "sector": "-",
+      "mv": -3846977.1,
+      "shares": 1
+    }
+  ]
+}

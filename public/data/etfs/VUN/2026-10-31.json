@@ -1,0 +1,70 @@
+{
+  "id": 3,
+  "as_of_date": "2026-10-31",
+  "source": "url",
+  "source_url": "https://www.vanguard.ca/en/product/etf/equity/9557/vanguard-morningstar-us-total-market-index-etf",
+  "created_at": "2026-11-22T23:47:37.699Z",
+  "partial": false,
+  "content_hash": "1e2e8a366798e69f9cd8d9c549638a19ce091b4da6168503fd548a663ef0fb6c",
+  "holdings": [
+    {
+      "t": "CAD",
+      "n": "Canadian Dollar",
+      "weight": 0.02083,
+      "region": "CA"
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20261216",
+      "weight": 0.00688
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20261216",
+      "weight": -0.00695
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20261102",
+      "weight": -0.01404
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20261102",
+      "weight": -0.01404
+    },
+    {
+      "t": "CAD",
+      "n": "CAD/USD FWD 20261102",
+      "weight": -0.04211
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20261102",
+      "weight": 0.04211
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20261102",
+      "weight": 0.01404
+    },
+    {
+      "t": "USD",
+      "n": "USD/CAD FWD 20261102",
+      "weight": 0.01404
+    },
+    {
+      "t": "USD",
+      "n": "US Dollar",
+      "weight": 0.00836,
+      "region": "US"
+    },
+    {
+      "t": "VTI",
+      "n": "Vanguard Morningstar Total Stock Market ETF",
+      "weight": 99.97088,
+      "isin": "US9229087690",
+      "region": "US"
+    }
+  ]
+}

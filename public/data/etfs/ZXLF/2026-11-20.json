@@ -1,0 +1,28 @@
+{
+  "id": 8,
+  "as_of_date": "2026-11-20",
+  "source": "url",
+  "source_url": "https://df.bmogam.com/assets/static/reports/etf-funds-holdings/Holdings_Extract_en_US_ZXLF_20261120.xlsx",
+  "created_at": "2026-11-22T23:47:37.699Z",
+  "partial": false,
+  "content_hash": "0cd29c9a1a9429b5738020b643e47fbbdf1f2cdfe4a83c1dcad2720cccb61182",
+  "holdings": [
+    {
+      "t": "CASH.CAD",
+      "n": "Cash",
+      "weight": -0.59,
+      "sector": "-",
+      "mv": -163591.49,
+      "shares": 1
+    },
+    {
+      "t": "US81369Y6059",
+      "n": "STATE STREET FINANCIAL SELECT SECTOR SPDR ETF",
+      "weight": 100.59,
+      "isin": "US81369Y6059",
+      "sector": "-",
+      "mv": 27864818.88,
+      "shares": 355824
+    }
+  ]
+}
